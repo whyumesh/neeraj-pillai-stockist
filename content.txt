@@ -1,1 +1,7 @@
-triggerOutputs()?['body/from']['emailAddress']['address']
+concat(
+   outputs('Compose_CustomerNo'),
+   '_',
+   formatDateTime(utcNow(),'yyyyMMdd'),
+   '_',
+   items('Apply_to_each')?['Name']
+)
