@@ -1,1 +1,7 @@
-body('List_rows_present_in_a_table')?['value']
+concat(
+   first(body('Filter_array'))?['Customer No.'],
+   '_',
+   formatDateTime(utcNow(),'yyyyMMdd'),
+   '_',
+   items('Apply_to_each')?['Name']
+)
