@@ -1,7 +1,1 @@
-concat(
-   outputs('Compose_CustomerNo'),
-   '_',
-   formatDateTime(utcNow(),'yyyyMMdd'),
-   '_',
-   items('Apply_to_each')?['Name']
-)
+Action 'Filter_array' failed: The execution of template action 'Filter_array' failed: The evaluation of 'query' action 'where' expression '@equals(items('For_each')?['Email ID'],triggerOutputs()?['body/from']['emailAddress']['address'])' failed: 'The template language expression 'equals(items('For_each')?['Email ID'],triggerOutputs()?['body/from']['emailAddress']['address'])' cannot be evaluated because property 'emailAddress' cannot be selected. Property selection is not supported on values of type 'String'. Please see https://aka.ms/logicexpressions for usage details.'.
