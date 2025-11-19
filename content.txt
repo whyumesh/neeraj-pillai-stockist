@@ -1,1 +1,1 @@
-Email_x0020_ID eq '@{triggerOutputs()?['body/from']['emailAddress']['address']}'
+triggerOutputs()?['body/from']['emailAddress']['address']
