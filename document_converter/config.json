@@ -1,0 +1,83 @@
+{
+  "ocr": {
+    "primary": "paddleocr",
+    "fallback": "tesseract",
+    "dpi": 300,
+    "preprocessing": {
+      "deskew": true,
+      "binarize": true,
+      "noise_removal": true,
+      "confidence_threshold": 0.6
+    }
+  },
+  "classification": {
+    "po_keywords": [
+      "purchase order",
+      "po number",
+      "po no",
+      "order number",
+      "order no",
+      "po_",
+      "orderpurchase",
+      "po1650",
+      "po1693",
+      "po1578",
+      "po1579",
+      "purchaseorder"
+    ],
+    "stock_sales_keywords": [
+      "stock statement",
+      "stock and sales",
+      "stockandsales",
+      "opening qty",
+      "receipt qty",
+      "issue qty",
+      "closing qty",
+      "st-",
+      "stok",
+      "stock",
+      "statement",
+      "report",
+      "abbott",
+      "smart stock",
+      "stock mailer"
+    ],
+    "filename_patterns": {
+      "po": [
+        "purchase order",
+        "po_",
+        "order",
+        "orderpurchase"
+      ],
+      "stock_sales": [
+        "st-",
+        "stock",
+        "stok",
+        "stockandsales",
+        "stockandsale",
+        "ss"
+      ]
+    },
+    "ml_confidence_threshold": 0.5,
+    "combined_confidence_threshold": 0.3
+  },
+  "paths": {
+    "input_folder": "EmailAttachments",
+    "output_folder": "Output",
+    "po_output": "Output/PurchaseOrders",
+    "stock_output": "Output/StockSalesReports",
+    "log_file": "Output/ProcessingLog.json"
+  },
+  "excel": {
+    "summary_sheet_name": "Summary",
+    "metadata_sheet_name": "Metadata",
+    "auto_adjust_width": true,
+    "header_style": {
+      "bold": true,
+      "bg_color": "366092",
+      "font_color": "FFFFFF"
+    }
+  }
+}
+
+
