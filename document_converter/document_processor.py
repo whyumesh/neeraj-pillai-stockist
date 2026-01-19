@@ -76,7 +76,9 @@ class DocumentProcessor:
             if not text:
                 error = "Could not extract text from file"
                 self.processing_logger.log_processing(
-                    filename, file_type, 'unknown', 0.0, 'error', error
+                    filename, file_type, 'unknown', 0.0, 'error', error,
+                    items_count=0,
+                    sections_count=0
                 )
                 return {"status": "error", "error": error}
             
@@ -86,6 +88,15 @@ class DocumentProcessor:
             # Extract data based on classification
             extracted_data = self._extract_data(file_path, file_type, text, classification)
             
+            # Extract counts from data for logging
+            items_count = None
+            sections_count = None
+            if extracted_data:
+                items = extracted_data.get("items", [])
+                items_count = len(items) if items else 0
+                sections = extracted_data.get("sections", [])
+                sections_count = len(sections) if sections else 0
+            
             # Convert to Excel
             output_path = self._get_output_path(file_path, classification)
             success = self._convert_to_excel(extracted_data, output_path, filename, classification)
@@ -93,18 +104,24 @@ class DocumentProcessor:
             if success:
                 self.processing_logger.log_processing(
                     filename, file_type, classification, confidence, 'success',
-                    output_file=str(output_path)
+                    output_file=str(output_path),
+                    items_count=items_count,
+                    sections_count=sections_count
                 )
                 return {
                     "status": "success",
                     "classification": classification,
                     "confidence": confidence,
-                    "output_file": str(output_path)
+                    "output_file": str(output_path),
+                    "items_count": items_count,
+                    "sections_count": sections_count
                 }
             else:
                 error = "Failed to create Excel file"
                 self.processing_logger.log_processing(
-                    filename, file_type, classification, confidence, 'error', error
+                    filename, file_type, classification, confidence, 'error', error,
+                    items_count=items_count,
+                    sections_count=sections_count
                 )
                 return {"status": "error", "error": error}
         
@@ -112,7 +129,9 @@ class DocumentProcessor:
             error = str(e)
             logger.error(f"Error processing {filename}: {e}")
             self.processing_logger.log_processing(
-                filename, file_type, 'unknown', 0.0, 'error', error
+                filename, file_type, 'unknown', 0.0, 'error', error,
+                items_count=0,
+                sections_count=0
             )
             return {"status": "error", "error": error}
     
