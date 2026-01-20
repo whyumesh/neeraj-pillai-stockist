@@ -134,9 +134,9 @@ class StockSalesExtractor:
                             diagnostics["rotation_degrees"] = rotation
                         
                         # Extract text
-                    page_text = page.extract_text()
-                    if page_text:
-                        text += page_text + "\n"
+                        page_text = page.extract_text()
+                        if page_text:
+                            text += page_text + "\n"
                         else:
                             # No text extracted - might be image-based or scanned
                             logger.debug(f"Page {page_num + 1} extracted no text - may be image-based")
@@ -209,7 +209,7 @@ class StockSalesExtractor:
                             "strategy": strategy_name,
                             "reason": "No tables detected"
                         })
-                    except Exception as e:
+                except Exception as e:
                     diagnostics["strategies_failed"].append({
                         "strategy": strategy_name,
                         "error": str(e)
@@ -222,11 +222,11 @@ class StockSalesExtractor:
                 try:
                     all_tables_strategy2 = []
                     for page in pdf.pages:
-                            page_tables = page.extract_tables(table_settings={
-                                "vertical_strategy": "text",
-                                "horizontal_strategy": "text"
-                            })
-                            if page_tables:
+                        page_tables = page.extract_tables(table_settings={
+                            "vertical_strategy": "text",
+                            "horizontal_strategy": "text"
+                        })
+                        if page_tables:
                             all_tables_strategy2.extend(page_tables)
                     
                     if all_tables_strategy2:
@@ -252,7 +252,7 @@ class StockSalesExtractor:
                             "strategy": strategy_name,
                             "reason": "No tables detected"
                         })
-                        except Exception as e:
+                except Exception as e:
                     diagnostics["strategies_failed"].append({
                         "strategy": strategy_name,
                         "error": str(e)
@@ -265,8 +265,8 @@ class StockSalesExtractor:
                 try:
                     all_tables_strategy3 = []
                     for page in pdf.pages:
-                            page_tables = page.extract_tables()
-                            if page_tables:
+                        page_tables = page.extract_tables()
+                        if page_tables:
                             all_tables_strategy3.extend(page_tables)
                     
                     if all_tables_strategy3:
@@ -292,7 +292,7 @@ class StockSalesExtractor:
                             "strategy": strategy_name,
                             "reason": "No tables detected"
                         })
-                        except Exception as e:
+                except Exception as e:
                     diagnostics["strategies_failed"].append({
                         "strategy": strategy_name,
                         "error": str(e)
@@ -410,7 +410,7 @@ class StockSalesExtractor:
                         })
                         diagnostics["strategies_succeeded"].append(strategy_name)
                         logger.info(f"Strategy 7 ({strategy_name}): Extracted {len(items)} items using manual detection")
-                else:
+                    else:
                         diagnostics["strategies_failed"].append({
                             "strategy": strategy_name,
                             "reason": "No table boundaries detected"
@@ -670,7 +670,7 @@ class StockSalesExtractor:
                     elif format_type == "comma":
                         item = self._parse_comma_separated_line(line_stripped)
                     else:
-                item = self._parse_item_line_improved(line_stripped, lines[header_line_idx] if header_line_idx else None)
+                        item = self._parse_item_line_improved(line_stripped, lines[header_line_idx] if header_line_idx else None)
                     
                 if item and (item.get("Item Description") or item.get("item_description")):
                     desc = item.get("Item Description") or item.get("item_description", "")
