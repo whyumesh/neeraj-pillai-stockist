@@ -1,0 +1,52 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   NEUROSCIENCE       A
+---------------------------------------------------------------------------
+COLOSPA TAB               |10's  |    1|    0|    0|    1|    0|    1|    0
+COLOSPA-135 TAB           |15's  |   16|    0|    0|   16|    0|   16|    0
+COLOSPA-RETARD TAB        |10's  |    8|    0|    0|    8|    0|    8|    0
+COLOSPA-X TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+DIGENE-FAST MELT(O)       |2gm   |    0|    0|    0|    0|    0|    0|    0
+DIGENE-FIZZ LEMON SACHET  |1's   |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL                |100ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (MF)           |170ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (MINT)         |200ml |   44|   40|    0|   84|   46|   38|    0
+DIGENE-GEL (O)            |170ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (ORANGE)       |200ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL(MIX FRUIT)     |200ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL(ORANGE)        |400ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-TAB(MINI DANGLER)  |15's  |   15|   60|    0|   75|   54|   21|    0
+DIGENE-ULTRA FIZZ         |8's   |    0|    0|    0|    0|    0|    0|    0
+DIGERAFT-XT SUSP          |150ml |    0|    0|    0|    0|    0|    0|    0
+DOXSTEM TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC BEARS 1.668GM    |1's   |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |100ml |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |200ml |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |150ml |   57|  350|    0|  407|  261|  146|    0
+DUPHALAC SYP              |250ml |   35|   40|    0|   75|   28|   47|    0
+DUPHALAC SYP              |450ml |    8|   21|    0|   29|    9|   20|    0
+MELALITE-XL OINT          |15gm  |    0|    0|    0|    0|    0|    0|    0
+NAUSIDOME SUSP            |30's  |    0|    0|    0|    0|    0|    0|    0
+NUGON-150 INJ             |1's   |    0|    0|    0|    0|    0|    0|    0
+NUGON-75 INJ              |1's   |    0|    0|    0|    0|    0|    0|    0
+PEP-IBS TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+PRO-9 100 CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+PRO-9 200 CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-150 TAB            |15's  |    9|   20|    0|   29|   14|   15|    0
+UDILIV-300 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-300 TAB            |15's  |   27|   15|    0|   42|   28|   14|    0
+UDILIV-450 TAB            |10's  |   22|    0|    0|   22|    3|   19|    0
+UDILIV-600 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-75 DT TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+UDISYP SYP                |200ml |    0|    0|    0|    0|    0|    0|    0
+ZILSA-OINT                |5gm   |    0|    0|    0|    0|    0|    0|    0
+ZOLFRESH-ODT 10 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+ZOLFRESH-ODT 5 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   69905    PR.STK   97272    RT.COM       0    CL.STK   82944
+SL.AMT   84233
+---------------------------------------------------------------------------

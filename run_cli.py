@@ -28,8 +28,8 @@ def main():
     parser.add_argument(
         '--input', '-i',
         type=str,
-        default='EmailAttachments',
-        help='Input folder path (default: EmailAttachments)'
+        default='attachments',
+        help='Input folder path (default: attachments)'
     )
     
     args = parser.parse_args()
@@ -55,8 +55,8 @@ def main():
     logger.info(f"Successful: {stats['successful']}")
     logger.info(f"Errors: {stats['errors']}")
     logger.info(f"Skipped: {stats['skipped']}")
-    logger.info(f"Purchase Orders: {stats['purchase_orders']}")
     logger.info(f"Stock & Sales Reports: {stats['stock_sales_reports']}")
+    logger.info(f"Other Documents: {stats['other_documents']}")
     logger.info(f"Success rate: {stats['success_rate']:.1f}%")
     logger.info("="*50)
 

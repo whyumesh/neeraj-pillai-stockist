@@ -1,0 +1,44 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT-WOMEN'S HEALTH DIVISION
+STOCK & SALES STATEMENT AS ON 31/12/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                     0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+ARACHITOL O            30'S          0     -      -      -        -      -    -        0     -  NoOrder  168.57     -     -        -    -    -    -
+CLOME 100MG            1*10'S        0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+CLOME 25MG             10'S          0     -      -      -        -      -    -        0     -  NoOrder   52.62     -     -        -    -    -    -
+CLOME 50MG             5'S           0     -      -      -        -      -    -        0     -  NoOrder   34.38     -     -        -    -    -    -
+**COLOSPA RETARD       10'S         13     -      -      -        -      -    -       13     -  NoOrder  401.24   5216    -        -    -    -    -
+COLOSPA TABLET 135MG   10'S         13     30     11     32       11     -    -       32     -  NoOrder  300.49   9616  3305       -    -    -    -
+**COLOSPA X TAB        15'S          5     -      -      -        -      -    -        5     -  NoOrder  290.00   1450    -        -    -    -    -
+CREON 25000 CAP        10'S          5     -      -      -         2     -    -        3     -  NoOrder  856.26   2569  1713       -    -    -    -
+CREON CAP 10000        15'S         12     -       2      1        2     -    -       10     -  NoOrder  626.06   6261  1252       -    -    -    -
+DUPHALAC BULK          160ML         7     10      5      5        5     -    -       12     -  NoOrder  334.92   4019  1675       -    -    -    -
+DUPHALAC LIQ           450ML        11     -       3      2        3     -    -        8     -  NoOrder  450.00   3600  1350       -    -    -    -
+DUPHALAC LIQ           150ML        38     -      27     14       26     -    -       12     -       22  150.00   1800  3900       1    7    7    7
+DUPHALAC LIQ           250ML        37     -       9      3       10     -    -       25     -  NoOrder  250.00   6250  2500       -    -    -    -
+DUPHAPRO 2MG FC TAB    10'S          0     -      -      -        -      -    -        0     -  NoOrder  175.00     -     -        -    -    -    -
+DUPHASTON PRO 10MG     4'S           0     -      -      -        -      -    -        0     -  NoOrder  195.94     -     -        -    -    -    -
+DUPHASTON TAB          10'S         10     20     14      2       15     -    -       15     -        1  687.10  10307 10307       -    -    -    1
+ESTRABET 1MG TAB       28'S          0     -      -      -        -      -    -        0     -  NoOrder  145.00     -     -        -    -    -    -
+ESTRABET 2MG TAB       28'S          0     -      -      -        -      -    -        0     -  NoOrder  243.21     -     -        -    -    -    -
+FLORACHAMP SACHETS     5G           70     70    105    112       84     -    -       56     -       95   44.75   2506  3759       -    -   39   56
+RILIGOL INJ 1ML        5*1ML         0     -      -      -        -      -    -        0     -  NoOrder 1782.14     -     -        -    -    -    -
+ROWASA 1GM             1'S          28     -      -      -        -      -    -        0     -  NoOrder   51.20     -     -        -    -    -    -
+ROWASA SACHETS                      25     -      -      -        -      -    -        0     -  NoOrder   25.26     -     -        -    -    -    -
+SOLFE TAB              15'S          0     -      -      -        -      -    -        0     -  NoOrder  160.71     -     -        -    -    -    -
+UDILIV 450MG           10'S          0     -      -      -        -      -    -        0     -  NoOrder  281.90     -     -        -    -    -    -
+UDILIV TAB 150MG       15'S          7     10      1     -         4     -    -       13     -  NoOrder  401.55   5220  1606       -    -    -    -
+UDILIV TAB 300MG       15'S         11     30      7     12       17     -    -       24     -  NoOrder  703.96  16895 11967       -    -    -    -
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   63352.23    PURCHASE..... VALUE :       0.00
+           SALES VALUE :   44728.35    CLOSING STOCK VALUE :   71508.25
+LAST MONTH SALES VALUE :   31143.98
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

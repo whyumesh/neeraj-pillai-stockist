@@ -1,0 +1,106 @@
+
+M.R.PHARMACEUTICALS
+
+STOCK REGISTER - SUMMARY
+PERIOD : 01-12-2025 TO 31-12-2025                                               
+--------------------------------------------------------------------------------
+ITEM NAME           UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B. Pur. Rate
+                            QNTY     QNTY     QNTY     QNTY     QNTY     QNTY
+--------------------------------------------------------------------------------
+Mfg.: ABBOT HEALTH (DIABETS)        
+----------------------------
+AMISANT 200MG TAB  10TAB      10         0                10                0   162.86
+EMPEXEL 10         10TAB      50         0                 0               50    96.43
+EMPEXEL 25         10TAB      50         0                 0               50   115.71
+EMPEXEL M SR 10/10 15TAB      20         0                 0               20   163.93
+TRIBET 1           10         34         0                 5               29   215.71
+TRIBET 2 (DPC)     15,S       37         0                30                7   257.82
+                          ------------------------------------------------------
+                             201         0        0       45       0      156
+                O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+             32387.68        0.00       0.00   11602.05       0.00    21945.93
+                          ------------------------------------------------------
+Mfg.: ABBOT HEALTHCARE LTD          
+--------------------------
+ACITROM 1          30's       45       140               135               50   226.52
+ACITROM 1.5        10TAB      10         0                 1                9   264.21
+ACITROM 2          30s        63       230               209               84   354.79
+ACITROM 2.5        10TAB      19        30                19               30   348.62
+ACITROM 3          30s        80       130               151               59   453.32
+ACITROM 4          30s        53       130               128               55   483.64
+ACITROM 5 TAB      10'S       10         0                 0               10    54.19
+CAAT 10(DPC)       10'S        4         0                 0                4    53.35
+CALAPTIN 120 SR    15's       20        60                80                0    59.76
+CALAPTIN 40        30's       74        80               154                0    18.79
+CALAPTIN 80        10         40         0                20               20    34.93
+CLARIBID 500       10         21         0                17                4   291.81
+CYTOGARD OD 60 CAP 15's        9        10                19                0   364.21
+EPILEX CHR 500     15's       20        20                34                6   101.95
+EPILEX CR 200      15's       11        10                21                0    99.05
+EPILEX CR 300      15's       20        10                30                0    67.02
+ESGIPYRIN TAB      10          6         0                 0                6    91.10
+FEBUSTAT 40 TAB    10'S       18        20                38                0   231.48
+FEBUSTAT 80 TAB    10'S       10        20                12               18   361.28
+GARDENAL 60 MG BUL 100'S       5         0                 5                0   138.24
+GARDENAL SYP       100ML      67         0                32               35    35.89
+GAROIN TAB         100S        8         5                13                0   138.24
+GTN SORBITRATE 2.6 30's        0        15                13                2   215.16
+HYDENT K           100gm       4        12                 8                8   135.73
+IVABID 5 TAB       14tab       8        10                 8               10   296.06
+KENACORT 0.1 % APP 1 PIC      75         0                61               14   116.80
+KENACORT 40 INJ.   vail       32        36                54               14   145.41
+LEVESAM 250 TAB    10'S       48         0                38               10    69.22
+LEVESAM 500        10'S       77         0                77                0   142.62
+LEVESAM SOLUTION   100ML      95         0                32               63   290.74
+LIBRIUM 10 TAB     15's       22        35                57                0   110.42
+LIBRIUM 25 TAB     15's       27        60                87                0   168.13
+LIMCEE CHEWABLE 50 15'S      542       600               955              187    16.92
+NEO MARCAZOLE 10 T 120's      84         0                11               73   405.28
+NEO MARCAZOLE 20 T 100s       12         0                 3                9  1320.69
+NEO MERCAZOLE  5 T 120's      14         0                14                0   208.21
+NICODUCE  5        20'S        9        10                19                0   344.08
+NICODUCE OD 10     10'S        8        10                 8               10   270.66
+PHENARGAN  10 MG   10tab     144         0               144                0    14.81
+PHENARGAN 25(DPCO) 10tab      97       100               197                0    39.20
+PHENARGAN SYP(DPCO 100ml      18         0                16                2    35.68
+ROCALTROL CAP      10's        0        10                 0               10   243.02
+SORBITRATE 10(DPCO 50tab      19         0                 6               13    29.52
+SORBITRATE 5 MG    50TAB      30         0                30                0    29.88
+STATOR 10 (DPCO)   15's       31         0                16               15    54.60
+STATOR F TAB       15's        0        10                 3                7   232.39
+STEMETIL MD 5      15's       68        40                35               73   122.13
+SUPERMET XL 25     15's       -5         0                 0               -5    42.87
+TELPRES 20         15's       10         0                 4                6    42.62
+TELPRES 40         15'S       14         0                 8                6    74.27
+TELPRES 80         10'S       10         0                 3                7   114.26
+TELPRES 80 AM      10s         1         0                 0                1   251.71
+TELPRES AM 40      15TAB       8         0                 8                0   248.47
+TELPRES CT 80      10TAB      11         0                 0               11   101.09
+TELPRES H 40       10         11         0                 0               11   261.56
+TELPRES MT 25      10'S        1         0                 0                1   200.51
+TELPRESS CT 40/12. 10TAB      10         0                 0               10   108.96
+TYZA CREAM         15gm       10         0                 2                8    57.78
+TYZA TAB           10's        6        10                 6               10   193.05
+VALANCE OD 250     10          3         0                 3                0   145.51
+VALANCE OD 500     10         10         0                 6                4   262.15
+VALANCE SOLUTION   100ml      29         0                11               18   196.37
+                          ------------------------------------------------------
+                            2206      1853        0     3061       0      998
+                O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+            304720.62   329057.30       0.00  458849.68       0.00   221388.69
+                          ------------------------------------------------------
+Mfg.: ABBOT HEALTH (MAXIMUS)        
+----------------------------
+NERVUP OD          15's       86         0                16               67   281.88
+PPG 0.3 TAB        30'S       36         0                 2               34   282.50
+PPG MET 0.3        10        111         0                33               78   145.43
+TRIBETROL 2 MG     15;s       40         0                 7               33   239.85
+                          ------------------------------------------------------
+                             273         0        0       58       0      212
+                O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+             60148.41        0.00       0.00   12836.59       0.00    47749.55
+                          ------------------------------------------------------
+--------------------------------------------------------------------------------
+TOTAL                       2680      1853       0      3164       0     1366
+            397256.71   329057.30       0.00  483288.32       0.00   291084.17
+--------------------------------------------------------------------------------

@@ -1,0 +1,38 @@
+C$M
+                  AMAR AGENCIES
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LIMITED 
+----------------------------------------------
+ACUVERT TAB                  15`s         0       0        0       0       0         0.00  617 
+BRIVETION 50 MG              10`s         0       0        0       0       0         0.00 1741 
+BRIVETION-100 MG             10`s         0       0        0       0       0         0.00 1741 
+EBASIL 10 MG                 10;S         0       0        0       0       0         0.00 4270 
+EBASIL 20 MG                 10;S         0       0        0       0       0         0.00 4270 
+EPISHIELD CAPS               10`s         0       0        0       0       0         0.00 2349 
+EPTOIN 100MG TAB             100`S      110       0      110      29      81     13152.13   79 
+EPTOIN INJ 2 ML              2ML          0       0        0       0       0         0.00  144 
+INDERAL  10MG                15`S        18      80       98      52      46       693.59    9 
+INDERAL -40 MG TAB           15`s        34       0       34       0      34      1262.00   82 
+INDERAL F 10MG               10`s         0       0        0       0       0         0.00 1751 
+INDERAL F 5MG                10`s         0       0        0       0       0         0.00 1751 
+INDERAL LA 20 MG             10`S         0       0        0       0       0         0.00 2387 
+INDERAL LA 40 MG             10`S         0       0        0       0       0         0.00 2387 
+LACOXA 100 MG                10`S         0       0        0       0       0         0.00 1835 
+PROTHIDEN M TAB              10;S         0       0        0       0       0         0.00 3168 
+SNAPIT TAB                   2`s          0       0        0       0       0         0.00 1619 
+SURBEX STAR                  10;S         0       0        0       0       0         0.00 4270 
+VERTIN  -8MG TAB             15`S        12      20       32      22      10      1586.55    3 
+VERTIN -16MG   TAB           15`S        26      40       66      44      22      6403.55    5 
+VERTIN -24 MG                15`S         9       0        9       5       4      1526.41   37 
+VERTIN MDS 24                10`S         0       0        0       0       0         0.00 1619 
+VERTIN OD 24 TAB             15`S         9       0        9       0       9      3359.10  646 
+VERTIN OD 32 MG              7;S          0       0        0       0       0         0.00 4270 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :    24248.80 
+Purchase Value :    15305.20 Closing Value :    27983.32 
+------------------------------------------------------------------------------------------------
+P

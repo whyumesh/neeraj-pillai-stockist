@@ -1,0 +1,51 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Acute Care (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+ASCAPIL A 12 TAB     1'S        0     0     0     0     0     0     0     0     0.00    
+AQUAVIRON CAP        10'S       0     0     0     0     0     0     0     0     0.00    
+AO7 CAPS             10'S       0     0     0     0     0     0     0     0     0.00    
+AQUAVIRON AMPS       1ML       30     0     0    16     6     0     0    30  4447.50    
+ASCABIOL EMULSION    100ML      0     0     0     0     0     0     0     0     0.00    
+ASCAPIL MONO         2'S        0     0     0     0     0     0     0     0     0.00    
+BECOZYM C FORTE      15'S      23    42     0    39    41    59     0     6   122.31    
+BETONIN AST 100ML    100ML      0     0     0     0     0     0     0     0     0.00    
+BETONIN AST          225ML     46     0     0    20    23    11     0    35  5975.24    
+DELETUS BX SYP       100ML      0     0     0     0     0     0     0     0     0.00    
+DELETUS D PLUS       100ML     81     0     0    39    43    30     0    51  4753.58    
+DELETUS LS SYP       100ML      0     0     0     0     0     0     0     0     0.00    
+DELETUS P SYP        100ML     80     0     0    56    26    17     0    63  6573.08    
+DELETUS PEARLS       10'S      17    15     0     8    28    12     0    20  1365.20    
+GENTICYN 20MG INJ    2ML        0     0     0     0     0     0     0     0     0.00    
+GENTICYN E/D         10ML       0     0     0     0     0     0     0     0     0.00    
+HAEMACCEL I.V.       500ML      0     0     0     0     0     0     0     0     0.00    
+LOBATE DUSTING POWDE 100GM      0     0     0     0     0     0     0     0     0.00    
+LYSUPRA SYRUP        200ML      0     0     0     0     0     0     0     0     0.00    
+LYSUPRA TABS         10'S       0     0     0     0     0     0     0     0     0.00    
+MALIDENS 650 TAB     10'S       0     0     0     0     0     0     0     0     0.00    
+MALIDENS DS SYP      60ML       0     0     0     0     0     0     0     0     0.00    
+MALIDENS TAB         10'S       0     0     0     0     0     0     0     0     0.00    
+MALIDENS SYRUP       60 ML      0     0     0     0     0     0     0     0     0.00    
+OZEWID 5G            5G         0     0     0     0     0     0     0     0     0.00    
+PANTAGON IT          6'S        0     0     0     0     0     0     0     0     0.00    
+PARAXIN SYRUP        100ML      0     0     0     0     0     0     0     0     0.00    
+PARAXIN 250MG CAP    10'S       0     0     0     0     0     0     0     0     0.00    
+PARAXIN 500MG CAPS   10'S       0     0     0     0     0     0     0     0     0.00    
+SURBEX FE 30         15'S       0    10     0     0     2     0     0    10  2672.60    
+SURBEX NANO          5ML        0     0     0     0     0     0     0     0     0.00    
+SURBEX NANO SPRAY    15ML       0     0     0     0     0     0     0     0     0.00    
+SURBEX STAR          10'S       0     0     0     0     0     0     0     0     0.00    
+SURBEX-XT            15'S     123     0     0    12    42    21     0   102 12679.91    
+ZIMNIC 0 200 TAB     10'S       0     0     0     0     0     0     0     0     0.00    
+ZIMNIC DRY SYP       30ML       0     0     0     0     0     0     0     0     0.00    
+ZIMNIC 100 TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+ZIMNIC 200 TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+ZIMNIC 50            10'S       0     0     0     0     0     0     0     0     0.00    
+----------------------------------------------------------------------------------------
+                            45415  4979     0 21464 22178 12740     0 38589.41
+----------------------------------------------------------------------------------------

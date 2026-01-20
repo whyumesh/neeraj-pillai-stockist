@@ -1,0 +1,27 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   ORTHO
+---------------------------------------------------------------------------
+DURAPAIN TAB              |10's  |   20|   20|    0|   40|   18|   22|    0
+FEBUSTAT-40 TAB           |10's  |   69|   20|    0|   89|   66|   23|    0
+FEBUSTAT-80 TAB           |10's  |    4|    0|    0|    4|    0|    4|    0
+REJOINT TAB               |15's  |   18|    0|    0|   18|    3|   15|    0
+REJOINT-T TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+REJOINT-UC TAB            |10's  |   11|    0|    0|   11|    5|    6|    0
+ROCALTROL-0.25 CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+SAFEDICLO CAPS            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-4 CAP            |10's  |   14|   10|    0|   24|    9|   15|    0
+THIOSPAS-8 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-A 4 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-A 8 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   45987    PR.STK   12560    RT.COM       0    CL.STK   29431
+SL.AMT   29116
+---------------------------------------------------------------------------

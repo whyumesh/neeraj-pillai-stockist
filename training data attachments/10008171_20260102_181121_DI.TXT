@@ -1,0 +1,37 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : ABBOTT INDIA  LTD                                              Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+DI19   CLOME 100MG TAB          10'S          2          0        2        0        2     242.84
+DI36   CLOME 25 MG TAB          10'S          0          0        0        0        0       0.00
+DI6    CLOME 50MG TAB           5'S           0          0        0        0        0       0.00
+DI10   COLOSPA (R) TAB          10'S         11          0       11        0       11    5128.62
+DI9    COLOSPA TABS             15'S          9         10       19        5       14    4642.12
+DI28   COLOSPA X TAB            15'S          7          0        7        0        7    2344.58
+DI20   CREON 25000 CAP          10'S          8          0        8        0        8    7672.08
+DI21   CREON 40000 CAP          10'S          0          0        0        0        0       0.00
+DI22   CREON CAPS 10000         10'S          5          0        5        0        5    1853.46
+DI39   DIGERAFT XT SYP          BOTTLE        9          0        9        0        9    2217.60
+DI32   DUPHALAC BIG             450ML        41         60      101       65       36   17010.00
+DI37   DUPHALAC FIBER           200ML         0          0        0        0        0       0.00
+DI12   DUPHALAC SMALL           150ML       158        250      408      190      218   34335.00
+DI31   DUPHALAC SYP             250ML        34         40       74       34       40   10500.00
+DI1    DUPHASTON TABS           10'S         15          0       15       15        0       0.00
+DI13   FEMILON TAB              1*21         36          0       36       33        3     866.40
+DI41   FEMOSTON CONTI TAB 1/5MG 28'S          0          0        0        0        0       0.00
+DI40   FEMOSTON MINI TAB 0.5/2. 28'S          0          0        0        0        0       0.00
+DI38   FEMOSTON TAB 1/10 MG     28'S          0          0        0        0        0       0.00
+DI2    FLORACHAMP SACHETS       5G            0          0        0        0        0       0.00
+RR5    NOVELON TAB              21'S         40          0       40        5       35    8848.00
+DI34   SOLFE TAB                10'S          0          0        0        0        0       0.00
+DI5    UDILIV TAB               15'S         23         10       33        4       29   12227.27
+DI23   UDILIV TAB 300MG         15'S         34         15       49        6       43   31783.88
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.     1,41,597.13   Sales Value   Rs.       98,707.78
+ Receipt Value Rs.       96,782.50   Closing Value Rs.     1,39,671.85
+------------------------------------------------------------------------------------------------

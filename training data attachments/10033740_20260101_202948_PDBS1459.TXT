@@ -1,0 +1,599 @@
+@CHMW1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+ABVIDA-SR 100 TAB         |15's  |    0|    0|    0|    0|    0|    0|    0
+BASITONE-FORTE TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+BETONIN KID GUMMIES       |1's   |    0|    0|    0|    0|    0|    0|    0
+BETONIN-XT CAP            |15's  |    0|    0|    0|    0|    0|    0|    0
+BILAZEST-KID TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+CANDY-COP TOOTH PASTE     |70gm  |   12|    0|    0|   12|    6|    6|    0
+CLARIBID-250 DRY SYP      |1's   |    0|    0|    0|    0|    0|    0|    0
+CREMADIET + POWDER        |100gm |    0|    0|    0|    0|    0|    0|    0
+CREMADIET POWDER          |300gm |    0|    0|    0|    0|    0|    0|    0
+CYTOGARD-20 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+DABLEXA-110 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC-BULK SOLUTION    |160ml |   38|    0|    0|   38|    0|   38|    0
+ESTRABET GEL              |80gm  |    0|    0|    0|    0|    0|    0|    0
+FEMOSTON TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+GAROIN TAB(BOTTLE)        |100's |   31|    0|    0|   31|   10|   21|    0
+GENTICYN-60 INJ           |1.5   |    0|    0|    0|    0|    0|    0|    0
+GLIMER-M 0.5 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-M1 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-M2 FORTE TAB       |15's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-MV 1 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-MV 2 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+HYDENT-360 MOUTHWASH      |100ml |   17|    0|    0|   17|    0|   17|    0
+KENACORT PASTE            |7.5g  |   64|   25|    0|   89|   63|   26|    0
+KENACORT SKIN CREAM       |15gm  |    0|    0|    0|    0|    0|    0|    0
+KENACORT-10 INJ           |1's   |   18|    0|    0|   18|    3|   15|    0
+KENACORT-4 TAB            |10's  |   30|   90|    0|  120|   54|   66|    0
+KENACORT-40 INJ           |1's   |  128|    0|    0|  128|   96|   32|    0
+KENACORT-8 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+KETOF-DT TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+KETOMASTER SHAMPOO        |100ml |    0|    0|    0|    0|    0|    0|    0
+LIMCEE TAB                |15's  |  639| 1200|    0| 1839| 1831|    8|    0
+MODCEF-D TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+ORAHEX-PLUS MOUTHWASH     |150ml |    0|    0|    0|    0|    0|    0|    0
+ORAHEX-PRO MOUTHWASH      |150ml |    0|    0|    0|    0|    0|    0|    0
+PANBIO ANTIGEN            |1's   |    0|    0|    0|    0|    0|    0|    0
+SETGI CAP                 |10's  |    0|    0|    0|    0|    0|    0|    0
+SEZI CAP                  |15's  |    0|    0|    0|    0|    0|    0|    0
+SIAGLIDE-M 500 TAB        |15's  |   20|    0|    0|   20|    0|   20|    0
+SIAGLIDE-TRIO 500 TAB     |10's  |   10|    0|    0|   10|    0|   10|    0
+SUPERQUIN TAB             |5's   |    0|    0|    0|    0|    0|    0|    0
+SURBEX-CV TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-TRIO TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRESS-BETA 2.5 TAB     |10's  |   17|    0|    0|   17|    0|   17|    0
+TELPRESS-BETA 5 TAB       |10's  |   19|    0|    0|   19|    2|   17|    0
+TERZETTO TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+TOOTHMIN                  |70gm  |    0|    0|    0|    0|    0|    0|    0
+TOOTHMIN-AF MOUTHWASH     |150ml |   17|    0|    0|   17|    0|   17|    0
+TOSSEX SYP                |100ml |    0|    0|    0|    0|    0|    0|    0
+TOSSEX-DMR SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+TOSSEX-DMR SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+TOSSEX-XP SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+TRESMOX-LB D CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+TRESSMOX CV TAB           |6's   |    0|    0|    0|    0|    0|    0|    0
+VALANCE-500 SOLUTION      |200ml |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+VERTIN-MD 24 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIL-O TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFCHAM-100 DT TAB        |6's   |    0|    0|    0|    0|    0|    0|    0
+CEFCHAMP-325 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+COSYMOXYL-375 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+COSYMOXYL-625 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX CREAM            |20gm  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX LOTION           |60's  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX-HC CREAM         |1's   |    0|    0|    0|    0|    0|    0|    0
+FAMTAC-40 TAB             |14's  |    0|    0|    0|    0|    0|    0|    0
+HANSEPRAN-100 CAP         |10's  |    0|    0|    0|    0|    0|    0|    0
+HANSEPRAN-50 CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+MONTI-FX TAB              |10's  |    2|   10|    0|   12|    2|   10|    0
+PHENSEDYL-CR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+PHENSEDYL-LR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+PHOSFOMIN IRON TONIC      |150ml |    0|    0|    0|    0|    0|    0|    0
+PHOSFOMIN TONIC           |200ml |    0|    0|    0|    0|    0|    0|    0
+UVOX-100 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+UVOX-50 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+D3-SHOT SACHETS           |1gm   |    0|    0|    0|    0|    0|    0|    0
+D3-SHOT SOFTGELS          |4's   |    0|    0|    0|    0|    0|    0|    0
+EUGLUCON TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FOOTPAL CREAM             |100gm |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-500 TABS        |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G 0.5 TAB       |15's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G1 FORTE TAB    |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G1 TAB          |15's  |   25|    0|    0|   25|    8|   17|    0
+GLUFORMIN-G2 FORTE TAB    |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G2 TAB          |15's  |   17|    0|    0|   17|    8|    9|    0
+GLUFORMIN-I 0.5 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 1000 TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 1000 TAB     |15's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 500 TAB      |15's  |   57|    0|    0|   57|   20|   37|    0
+JANUMET-50/1000 TAB       |15's  |   12|    0|    0|   12|    4|    8|    0
+JANUMET-50/500 TAB        |15's  |   24|    0|    0|   24|    0|   24|    0
+JANUVIA-100 TAB           |7's   |   17|    0|    0|   17|    0|   17|    0
+JANUVIA-50 TAB            |7's   |   18|    0|    0|   18|    0|   18|    0
+NEO-MERCAZOLE 10 TAB      |100's |   30|   10|    0|   40|   23|   17|    0
+NEO-MERCAZOLE 20 TAB      |130's |    9|    0|    0|    9|    2|    7|    0
+NEO-MERCAZOLE 5 TAB       |100's |   17|   10|    0|   27|   17|   10|    0
+NERVUP-OD CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+NERVUP-PG CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-0.2 TAB               |30's  |    7|    0|    0|    7|    0|    7|    0
+PPG-0.3 TAB               |30's  |    6|    0|    0|    6|    0|    6|    0
+PPG-MD 0.2 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MD 0.3 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MET 0.2 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MET 0.3 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBET-1 TAB              |15's  |   11|    0|    0|   11|    2|    9|    0
+TRIBET-2 TAB              |10's  |   10|    0|    0|   10|    4|    6|    0
+TRIBETROL-1 FORTE TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-1 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-2 FORTE TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-2 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+AMLUCK CREAM              |30gm  |    0|    0|    0|    0|    0|    0|    0
+AMLUCK CREAM              |10gm  |    0|    0|    0|    0|    0|    0|    0
+ELOCON LOTION             |5ml   |    0|    0|    0|    0|    0|    0|    0
+ELOCON OINT               |10gm  |    0|    0|    0|    0|    0|    0|    0
+ELOCON OINT               |100gm |    0|    0|    0|    0|    0|    0|    0
+FACE CARE TVAKSH          |60gm  |    0|    0|    0|    0|    0|    0|    0
+FACE GUARD TVAKSH         |30gm  |    0|    0|    0|    0|    0|    0|    0
+FACECLIN TUBE             |20gm  |    3|   10|    0|   13|    4|    9|    0
+FOLLIHAIR TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+FOLLIHAIR-NEW TAB         |15's  |    6|   24|    0|   30|   19|   11|    0
+I-TYZA 100-CAP            |7's   |    0|    0|    0|    0|    0|    0|    0
+I-TYZA 200-CAP            |7's   |    0|    0|    0|    0|    0|    0|    0
+MELAGARD 50ML             |1's   |    0|    0|    0|    0|    0|    0|    0
+MELAGLO CREAM             |15gm  |    8|    0|    0|    8|    3|    5|    0
+MELAGLO CREAM             |30gm  |    0|    0|    0|    0|    0|    0|    0
+MELAGLO-RICH CREAM        |20gm  |    0|    0|    0|    0|    0|    0|    0
+MELALITE-15 CREAM         |30gm  |   10|    0|    0|   10|    3|    7|    0
+MELALITE-FORTE CREAM      |30gm  |    8|    0|    0|    8|    3|    5|    0
+QUADRIDERM-RF CREAM       |5gm   |    0|    0|    0|    0|    0|    0|    0
+QUADRIDERM-RF CREAM       |10gm  |    3|    0|    0|    3|    3|    0|    0
+SELSUN SHAMP              |60ml  |    0|    0|    0|    0|    0|    0|    0
+SELSUN SHAMP              |120ml |   29|    0|    0|   29|   13|   16|    0
+TUFACNE-10 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+TUFACNE-20 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+TYZA CREAM                |15gm  |    0|    0|    0|    0|    0|    0|    0
+TYZA POWDER               |50gm  |    0|    0|    0|    0|    0|    0|    0
+TYZA TAB                  |10's  |    0|    0|    0|    0|    0|    0|    0
+TYZA-M CREAM              |10gm  |    0|    0|    0|    0|    0|    0|    0
+DURAPAIN TAB              |10's  |   20|   20|    0|   40|   18|   22|    0
+FEBUSTAT-40 TAB           |10's  |   69|   20|    0|   89|   66|   23|    0
+FEBUSTAT-80 TAB           |10's  |    4|    0|    0|    4|    0|    4|    0
+REJOINT TAB               |15's  |   18|    0|    0|   18|    3|   15|    0
+REJOINT-T TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+REJOINT-UC TAB            |10's  |   11|    0|    0|   11|    5|    6|    0
+ROCALTROL-0.25 CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+SAFEDICLO CAPS            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SOLAZE-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-4 CAP            |10's  |   14|   10|    0|   24|    9|   15|    0
+THIOSPAS-8 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-A 4 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+THIOSPAS-A 8 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+BIOSUGANRIL-10 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSUGANRIL-20 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSUGANRIL-5 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOZOBID TABS             |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOZOBID-PLUS 325 TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+CONTRAMAL-50 CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+CONTRAMAL-50 INJ          |1ml   |    0|    0|    0|    0|    0|    0|    0
+CURENEXT 50GM             |50gm  |    2|   10|    0|   12|    4|    8|    0
+DURAJOINT CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+DURAJOINT-GM TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN INSTAGEL        |30gms |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+ESGIPYRIN TABS            |15's  |   92|    0|    0|   92|   20|   72|    0
+ESGIPYRIN-A TAB           |15tab |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-DS INJ          |3ml   |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-SP 325 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-TH TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ETODY-120 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ETODY-60 TAB              |10's  |    2|    0|    0|    2|    2|    0|    0
+ETODY-90 TAB              |10's  |    1|    0|    0|    1|    0|    1|    0
+ETODY-TH TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FLAGYL GEL                |20gm  |   30|   20|    0|   50|   35|   15|    0
+FLAGYL-200 TAB            |15's  |   49|    0|    0|   49|   49|    0|    0
+FLAGYL-400 TAB            |20's  |   52|  120|    0|  172|  126|   46|    0
+FLAGYL-ER 600 TAB         |10's  |   51|   30|    0|   81|   48|   33|    0
+HYDENT-K 100 PASTE        |100gm |   28|   12|    0|   40|   20|   20|    0
+HYDENT-PRO TOOTH PASTE    |70gm  |   11|    0|    0|   11|    4|    7|    0
+PREGAMET-75 CAP           |10's  |    0|    0|    0|    0|    0|    0|    0
+PREGAMET-SR TAB.          |10's  |    0|    0|    0|    0|    0|    0|    0
+RAPISONE-D SR TAB         |5's   |    0|    0|    0|    0|    0|    0|    0
+RAPISONE-SR CAP           |5's   |    0|    0|    0|    0|    0|    0|    0
+ROCKBON TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+ROCKBON-D TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ROCKBON-KIT               |31's  |    0|    0|    0|    0|    0|    0|    0
+SURBEX-NANO SOLUTION      |5ml   |    0|    0|    0|    0|    0|    0|    0
+ZOBID-D 50 TABS           |10's  |    0|    0|    0|    0|    0|    0|    0
+BETONIN-AST JUNIOR SYP    |100ml |    0|    0|    0|    0|    0|    0|    0
+BETONIN-AST LIQ           |200ml |   49|  200|    0|  249|   21|  228|    0
+BETONIN-AST LIQ           |400ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS PEARLS            |10's  |    0|    0|    0|    0|    0|    0|    0
+DELETUS-BX SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS-D LIQ             |100ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS-P SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+DIPSALIC-F OINT           |20gm  |   15|   24|    0|   39|   21|   18|    0
+GENTICYN EYE DROP         |10ml  |    0|    0|    0|    0|    0|    0|    0
+LOBATE OINT               |30gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-G SKIN CREAM       |16gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM SKIN CREAM      |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GN CREAM           |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-M SKIN CREAM       |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-S OINT             |30 gm |    0|    0|    0|    0|    0|    0|    0
+LURATREND-40 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LURATREND-80 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LYSUPRA SYP               |200ml |    0|    0|    0|    0|    0|    0|    0
+PARAXIN-DRAGEE 250        |10's  |    0|    0|    0|    0|    0|    0|    0
+SURBEX-XT TAB             |15's  |   12|    0|    0|   12|    0|   12|    0
+ZIMNIC DRY SYP            |30ml  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV 100 DT TAB      |6's   |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV 200 TAB         |6's   |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV DRY SYP         |30ml  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-O 100 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-O 200 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+CYTOGARD-MR 35 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+FORTIUS-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-40 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+GTN SORBITRATE-CR 2.6 TAB |30's  |   33|   40|    0|   73|   49|   24|    0
+GTN SORBITRATE-CR 6.4 TAB |30's  |    2|   30|    0|   32|   13|   19|    0
+R2-10 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-20 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-5 TAB                  |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-ASP 150 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-F10 TAB                |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-F5 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+SORBITRATE-10 TAB         |50's  |   44|   60|    0|  104|   44|   60|    0
+SORBITRATE-5 TAB          |50's  |   84|  300|    0|  384|  249|  135|    0
+SORBITRATE-INSTA TAB      |30's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-MT 25 TAB         |15's  |   10|    0|    0|   10|    7|    3|    0
+TELPRES-MT 50 TAB         |15's  |   15|    0|    0|   15|    3|   12|    0
+TG-GOAL 145 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+ACITROM-0.5 TAB           |10's  |    6|   10|    0|   16|    6|   10|    0
+ACITROM-1 TAB             |30's  |   10|   30|    0|   40|   21|   19|    0
+ACITROM-2 TAB             |30's  |   18|   10|    0|   28|   12|   16|    0
+ACITROM-3 TAB             |30's  |   31|   10|    0|   41|   21|   20|    0
+ACITROM-4 TAB             |30's  |   11|   23|    0|   34|   15|   19|    0
+BIOSAFE-2.5 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSAFE-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LVEFFECT-10 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+NICODUCE-10 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+NICODUCE-5 TAB            |10's  |    5|   10|    0|   15|    3|   12|    0
+NICODUCE-OD 10 TAB        |10's  |   13|    0|    0|   13|    5|    8|    0
+SORBITRATE-HF TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+CYTOGARD-OD 60 TAB        |10's  |    6|   10|    0|   16|    6|   10|    0
+IVABID-5 TAB              |14's  |    0|    0|    0|    0|    0|    0|    0
+IVABID-OD 10 TAB          |10's  |   12|    0|    0|   12|    0|   12|    0
+METGLAR-2 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+STATOR-10 TAB             |15's  |   50|    0|    0|   50|    0|   50|    0
+STATOR-20 TAB             |15's  |   40|    0|    0|   40|    2|   38|    0
+STATOR-40 TAB             |10's  |   24|    0|    0|   24|    0|   24|    0
+STATOR-80 TAB             |10's  |   12|    0|    0|   12|    0|   12|    0
+STATOR-ASP 150 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+STATOR-ASP 75 TAB         |10's  |   42|   20|    0|   62|   37|   25|    0
+STATOR-CV TAB             |15's  |    6|    0|    0|    6|    0|    6|    0
+STATOR-F TAB              |15's  |   15|    0|    0|   15|    1|   14|    0
+STATOR-GOLD 10 TAB        |15tab |   17|    2|    0|   19|    4|   15|    0
+STATOR-GOLD 20 TAB        |15tab |   30|   30|    0|   60|   27|   33|    0
+TELPRES-CT 40/12.5 TAB    |15's  |   38|   10|    0|   48|   36|   12|    0
+TELPRES-CT 40/6.25 TAB    |15's  |   51|   20|    0|   71|   43|   28|    0
+TELPRES-CT 80 TAB         |10's  |   12|    0|    0|   12|    5|    7|    0
+TELPRES-H 80 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+BRIVAJOY-100 TAB          |14's  |    0|    0|    0|    0|    0|    0|    0
+BRIVAJOY-50 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+BRIVAJOY-75 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+CLOZAM-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CLOZAM-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+DELOK-30 CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+DEPSONIL-25 TABS          |10's  |   17|    0|    0|   17|    8|    9|    0
+DEPSONIL-PM 75 CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX SYP                |100ml |    0|    0|    0|    0|    0|    0|    0
+EPILEX SYP                |200ml |   11|   20|    0|   31|   20|   11|    0
+EPILEX TAB                |15's  |   10|    0|    0|   10|    1|    9|    0
+EPILEX-200 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX-500 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX-CHRONO 200 TAB     |10's  |    9|    0|    0|    9|    0|    9|    0
+EPILEX-CHRONO 300 TAB     |10's  |    8|    0|    0|    8|    0|    8|    0
+EPILEX-CHRONO 500 TAB     |10's  |   13|    0|    0|   13|    2|   11|    0
+EPILEX-ER 300 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+GAROIN TAB                |10's  |    0|    0|    0|    0|    0|    0|    0
+LIBRIUM-10 TAB            |15's  |   28|   35|    0|   63|   30|   33|    0
+LIBRIUM-25 TAB            |15's  |   38|   20|    0|   58|   34|   24|    0
+MAZETOL-100 TAB           |10's  |   44|    0|    0|   44|   29|   15|    0
+MAZETOL-200 TAB           |10's  |  201|  280|    0|  481|  350|  131|    0
+MAZETOL-400 TAB           |10's  |   27|    0|    0|   27|    0|   27|    0
+MAZETOL-SR 200 TAB        |15's  |   24|   30|    0|   54|   35|   19|    0
+MAZETOL-SR 300 TAB        |15's  |   21|   20|    0|   41|   19|   22|    0
+MAZETOL-SR 400 TAB        |15's  |   16|    0|    0|   16|    0|   16|    0
+OX-MAZETOL 150 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+OX-MAZETOL 300 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+OX-MAZETOL 600 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+RIVOTRIL-0.25 TAB         |10's  |   11|    0|    0|   11|    0|   11|    0
+RIVOTRIL-0.5 TABS         |10's  |    0|    0|    0|    0|    0|    0|    0
+RIVOTRIL-2 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-10 TAB            |15's  |    3|   10|    0|   13|    2|   11|    0
+SZETALO-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-LS TAB            |10's  |    7|   10|    0|   17|   15|    2|    0
+SZETALO-PLUS 5 TAB        |10's  |   10|    0|    0|   10|    0|   10|    0
+SZETALO-PLUS MD TAB       |10's  |   10|    0|    0|   10|    0|   10|    0
+SZETALO-PLUS TAB          |15's  |    4|   10|    0|   14|    3|   11|    0
+VALANCE-250 SOLUTION      |100ml |    0|    0|    0|    0|    0|    0|    0
+VALANCE-500 SOLUTION      |100ml |    0|    0|    0|    0|    0|    0|    0
+VALANCE-500 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+VALANCE-OD 1000 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+VALANCE-OD 250 TAB        |15's  |    6|    0|    0|    6|    0|    6|    0
+VALANCE-OD 500 TAB        |15's  |    7|    0|    0|    7|    1|    6|    0
+VALANCE-OD 750 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+DELOK-20 CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+LIPIGOAL-10 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+AMICOLON CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+AMICOLON-SB SACHETS       |1gm   |    0|    0|    0|    0|    0|    0|    0
+B-STIL 16 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+B-STIL 24 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+B-STIL 8 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+BILAZEST-20 TAB           |10's  |    6|    0|    0|    6|    0|    6|    0
+BILAZEST-M TAB            |10's  |    7|    0|    0|    7|    2|    5|    0
+CLARIBID-125 DRY SYP      |1's   |   24|   20|    0|   44|   24|   20|    0
+CLARIBID-250 TAB          |10's  |   43|  100|    0|  143|   17|  126|    0
+CLARIBID-500 TAB          |10's  |   14|   10|    0|   24|   24|    0|    0
+ENLIVA                    |10's  |    0|    0|    0|    0|    0|    0|    0
+ESOGA-RD CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+ESSENTIALE-L 1GM          |1gm   |    6|    0|    0|    6|    0|    6|    0
+ESSENTIALE-L CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+FLAGYL SUSP               |60ml  |  120|    0|    0|  120|    5|  115|    0
+KIDPRED SYP               |60ml  |    0|    0|    0|    0|    0|    0|    0
+NIVAQUINE-P AMP           |2ml   |    0|    0|    0|    0|    0|    0|    0
+PHENERGAN SYP             |100ml |   32|   10|    0|   42|   20|   22|    0
+PHENERGAN-10 TAB          |10's  |   45|    0|    0|   45|    7|   38|    0
+PHENERGAN-25 TAB          |10's  |   29|    0|    0|   29|    2|   27|    0
+PHENERGAN-INJ             |2ml   |   85|    0|    0|   85|   10|   75|    0
+PHENSEDYL-T SYP           |100ml |    0|    0|    0|    0|    0|    0|    0
+PHENSYDYL-BR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+STEMETIL-AMP              |1ml   |   20|   50|    0|   70|   20|   50|    0
+STEMETIL-MD TAB           |15's  |  181|  400|    0|  581|  198|  383|    0
+SUPRA-PLUS TAB            |15's  |  261|    0|    0|  261|  145|  116|    0
+TIXYLIX-D SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+TIXYLIX-LS JR SYP         |60ml  |   52|  140|    0|  192|   64|  128|    0
+TIXYLIX-LS SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+TIXYLIX-NEW SYP           |60ml  |    9|   20|    0|   29|   20|    9|    0
+TIXYLIX-P SYP             |60ml  |    0|    0|    0|    0|    0|    0|    0
+XEVOR TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN DROPS           |10ml  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN INJ             |2ml   |    7|    0|    0|    7|    0|    7|    0
+ANAFORTAN SYP             |60ml  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN-MF TAB          |10's  |   11|    0|    0|   11|    0|   11|    0
+ANAFORTAN-N TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+ANASPAS INJ               |2ml   |    0|    0|    0|    0|    0|    0|    0
+ANASPAS TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-200 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-50 DRY SYP           |1's   |    0|    0|    0|    0|    0|    0|    0
+CEFI-DT 100 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-DT 50 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-O 200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-OZ TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-XL D-RF 200 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+CEROM DRY SYP             |30ml  |    0|    0|    0|    0|    0|    0|    0
+CEROM-250 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CEROM-500 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-20 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-40 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-D TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-L TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX DRY SYP           |30ml  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-375 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-625 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-KID TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+GUTNEXT SACHET            |1gm   |    0|    0|    0|    0|    0|    0|    0
+PROTUSSA SYP              |60ml  |    0|    0|    0|    0|    0|    0|    0
+REZFURAN-100 TAB          |14's  |   14|    0|    0|   14|    2|   12|    0
+TENOCLOR-25 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-250 CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-250 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-500 CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+MELIDENS-500 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+MELIDENS-DS SUSP          |60ml  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-100 SR TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-100 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-25 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-50 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-SR 200 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-SR 300 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM INJ               |1's   |    0|    0|    0|    0|    0|    0|    0
+LEVESAM ORAL SOLN         |100ml |    4|    5|    0|    9|    3|    6|    0
+LEVESAM-1 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-250 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-500 TAB           |15's  |   67|   20|    0|   87|   47|   40|    0
+LEVESAM-750 TAB           |10's  |    5|    0|    0|    5|    2|    3|    0
+LEVESAM-XR 1000 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-XR 500 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+MDD-XR 100 TAB            |10's  |    6|    0|    0|    6|    0|    6|    0
+MDD-XR 50 TAB             |10's  |   10|    0|    0|   10|    0|   10|    0
+SELF TEST-1T ANTIGEN      |1's   |    0|    0|    0|    0|    0|    0|    0
+SELF TEST-4T ANTIGEN      |10's  |    0|    0|    0|    0|    0|    0|    0
+REFSAV-100 TAB            |14's  |    0|    0|    0|    0|    0|    0|    0
+REFSAV-50 TAB             |14's  |    0|    0|    0|    0|    0|    0|    0
+SUPERMET-AM TAB           |10's  |   60|    0|    0|   60|   18|   42|    0
+SUPERMET-H TAB            |10's  |   24|    0|    0|   24|    0|   24|    0
+SUPERMET-XL 25 TAB        |10's  |  104|  100|    0|  204|  155|   49|    0
+SUPERMET-XL 50 TAB        |15's  |  126|    0|    0|  126|   45|   81|    0
+TELPRES-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-40 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-80 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-AM 80 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-AM TAB            |15's  |    8|    0|    0|    8|    2|    6|    0
+TELPRES-AMH TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-H 40 TAB          |10's  |   10|    0|    0|   10|    6|    4|    0
+CAAT-10 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CAAT-20 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CAAT-40 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CALAPTIN-40 TAB           |30's  |   30|   40|    0|   70|   50|   20|    0
+CALAPTIN-80 TAB           |30tab |   14|    0|    0|   14|    0|   14|    0
+CALAPTIN-SR 120 TAB       |10's  |    0|   20|    0|   20|    3|   17|    0
+CALAPTIN-SR 240 TAB       |15's  |    0|    0|    0|    0|    0|    0|    0
+CILADUO-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CILADUO-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+DIABETROL TABS            |10's  |    0|    0|    0|    0|    0|    0|    0
+DIABETROL-SR TABS         |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 10 TABS            |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 2.5 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-10 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-2.5 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-5 TAB            |30's  |    0|    0|    0|    0|    0|    0|    0
+GARDENAL SYP              |100ml |   17|    0|    0|   17|   10|    7|    0
+GARDENAL-30 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+GARDENAL-30(BOTTLE)       |100's |    0|    0|    0|    0|    0|    0|    0
+GARDENAL-60 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+GARDENAL-60(BOTTLE)       |100's |    0|    0|    0|    0|    0|    0|    0
+GLIMER-1 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-2 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-10 TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-20 TAB               |15's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-20 TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-RETARD 40 TAB        |7's   |    6|    0|    0|    6|    4|    2|    0
+MOXON-0.2 TAB             |6's   |    0|    0|    0|    0|    0|    0|    0
+MOXON-0.3 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-2.5 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-H TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-SM TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+PHENOBORBITONE INJ        |1ml   |    0|    0|    0|    0|    0|    0|    0
+RANOGARD-500 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-20 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-40 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-AM 20 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-AM 40 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 20/12.5 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 20/6.25 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 40/12.5 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 40/6.25 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-H 20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-H 40 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-MT 25 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-MT 50 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-TRIO 20 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+ACUVIN TABS               |15's  |   22|    0|    0|   22|    5|   17|    0
+AMBISTRIN-0.75 INJ        |1vai  |    0|   50|    0|   50|    0|   50|    0
+AMBISTRIN-1GM INJ         |1via  |   25|    0|    0|   25|    0|   25|    0
+ASCABIOL EMULSION         |60ml  |   17|    0|    0|   17|    2|   15|    0
+ASCABIOL SOLUTION         |120ml |    0|    0|    0|    0|    0|    0|    0
+AVOMINE TABS              |10's  |  170|    0|    0|  170|   20|  150|    0
+BACTRIM SYP               |50ml  |    0|    0|    0|    0|    0|    0|    0
+BACTRIM-DS TAB            |10's  |    1|  200|    0|  201|   62|  139|    0
+CONTRAMAL-100 INJ         |2ml   |  288|    0|    0|  288|  104|  184|    0
+CONTRAMAL-DT TABS         |10's  |    5|   20|    0|   25|   19|    6|    0
+CONTRAMAL-SR 100 TAB      |10's  |    3|   12|    0|   15|    1|   14|    0
+EBILITY-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FABOLITE POWDER           |100gm |    0|    5|    0|    5|    0|    5|    0
+FABOLITE POWDER           |300gm |    0|    1|    0|    1|    0|    1|    0
+FINECEF 50 SUSP           |30ml  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-100 DT TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-200 DT TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-50 DT TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-CV 200 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+GENTICYN-20 INJ           |2ml   |    9|    0|    0|    9|    0|    9|    0
+GENTICYN-80 INJ           |2ml   | 1015|    0|    0| 1015|  230|  785|    0
+HAEMACCEL INJ             |500ml |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM CREAM           |20gm  |    8|  480|    0|  488|  107|  381|    0
+LOBATE-GM LOTION          |25ml  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM NEO CREAM       |10gm  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-OD TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+LORSAID-P 325 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-P 8 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-P8 325 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-SD 4 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-SD 8 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+NEBASULF OINT             |10gm  |    0|    0|    0|    0|    0|    0|    0
+NEBASULF POWD             |10gm  |    0|  110|    0|  110|   50|   60|    0
+OXYTETRACYCLINE INJ       |20ml  |    2|   25|    0|   27|    6|   21|    0
+PANDIFF CAPS              |10's  |    0|    0|    0|    0|    0|    0|    0
+PANDIFF-IV CLEAR VIAL 40M |1's   |    0|    0|    0|    0|    0|    0|    0
+PARAXIN SUSP              |100ml |    0|    0|    0|    0|    0|    0|    0
+PARAXIN-250 CAP           |10's  |   52|    0|    0|   52|    0|   52|    0
+PARAXIN-500 CAP           |10's  |   40|    0|    0|   40|   13|   27|    0
+PENTID-400 TAB            |6's   |    0|    0|    0|    0|    0|    0|    0
+PENTID-800 TAB            |4's   |    0|    0|    0|    0|    0|    0|    0
+PENTIDS-200 TAB           |10's  |    5|    0|    0|    5|    4|    1|    0
+PENTIDS-400 TAB           |10's  |    0|  650|    0|  650|  239|  411|    0
+PENTIDS-800 TAB           |10's  |    4|  105|    0|  109|   62|   47|    0
+RESTECLIN-250 CAP         |10's  |   19|    0|    0|   19|    5|   14|    0
+RESTECLIN-500 CAP         |10's  |   21|   30|    0|   51|   13|   38|    0
+ROVAMYCIN-FORTE TABS      |10's  |    0|    0|    0|    0|    0|    0|    0
+SECNIL-FORTE 1 TAB        |2's   |    0|    0|    0|    0|    0|    0|    0
+SUGANRIL TAB.             |15's  |    3|   72|    0|   75|   19|   56|    0
+TENOCLOR-50 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+TENORMIN-25 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+TENORMIN-50 TAB           |14's  |   17|    0|    0|   17|   14|    3|    0
+VALIUM-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+VALIUM-2 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+VALIUM-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK  543863    PR.STK  432589    RT.COM       0    CL.STK  600226
+SL.AMT  376226
+---------------------------------------------------------------------------

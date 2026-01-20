@@ -1,0 +1,35 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   METABOLICS
+---------------------------------------------------------------------------
+ABOCAL-500 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+ANTOXIPAN-DS POWDER       |6gm   |  120|    0|    0|  120|    0|  120|    0
+DEZOFLAV TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+DIENONORM TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LINORMA-T3 5MCG           |100's |    0|    0|    0|    0|    0|    0|    0
+RILIGOL INJ               |1ml   |    0|    0|    0|    0|    0|    0|    0
+SURBEX-GOLD CAP           |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROCAL-D3 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-100 TAB         |100's |   45|   24|    0|   69|   46|   23|    0
+THYRONORM-112 TAB         |50's  |   18|    0|    0|   18|    7|   11|    0
+THYRONORM-12.5 TAB        |50's  |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-12.5 TAB        |120's |   34|    0|    0|   34|   13|   21|    0
+THYRONORM-125 TAB         |100's |   12|   12|    0|   24|   17|    7|    0
+THYRONORM-137 TAB         |120's |    4|    0|    0|    4|    1|    3|    0
+THYRONORM-150 TAB         |100's |   13|   12|    0|   25|   22|    3|    0
+THYRONORM-25 TAB          |120's |   20|   48|    0|   68|   31|   37|    0
+THYRONORM-37.5 TAB        |120's |   22|   12|    0|   34|   22|   12|    0
+THYRONORM-50 TAB          |120's |   54|   24|    0|   78|   64|   14|    0
+THYRONORM-62.5 TAB        |100's |   13|   24|    0|   37|   34|    3|    0
+THYRONORM-75 TAB          |120's |   37|   24|    0|   61|   37|   24|    0
+THYRONORM-88 TAB          |100's |    7|   24|    0|   31|   20|   11|    0
+THYROWEL CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROWEL-PLUS TAB         |15's  |    7|    0|    0|    7|    0|    7|    0
+---------------------------------------------------------------------------
+OP.STK   44153    PR.STK   28973    RT.COM       0    CL.STK   29817
+SL.AMT   43309
+---------------------------------------------------------------------------

@@ -1,0 +1,168 @@
+{
+  "model_path": "document_converter\\models\\classifier_model_ensemble.pkl",
+  "test_files": [
+    {
+      "filename": "10036001_20260112_123338_PO1650_7293_12012026120135.pdf",
+      "true_type": "po",
+      "predicted_classification": "other",
+      "confidence": 0.7049095526327024,
+      "true_label": "other",
+      "predicted_label": "other",
+      "correct": true
+    },
+    {
+      "filename": "10036005_20251213_212747_01-11-2025 - 30-11-2025.PDF",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.8541588155134665,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036009_20251205_175349_REPORT_7CA0XC8LD.PDF",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.99,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036022_20251204_203330_REPORT_7C917X92P.PDF",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.99,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036022_20251219_134042_REPORT_7CO0T7FXR.PDF",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.99,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036071_20251212_175158_SMARTStock AIL.pdf",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.9870513876928186,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036085_20251213_121657_ABB0TT.pdf",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.8557216973840012,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036085_20260102_112437_AHC.pdf",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.8585332146064122,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036085_20260102_112952_ABBOTT.pdf",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.9892159957716073,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    },
+    {
+      "filename": "10036089_20260102_200640_ABBOTT.pdf",
+      "true_type": "stock",
+      "predicted_classification": "stock_sales_report",
+      "confidence": 0.99,
+      "true_label": "stock",
+      "predicted_label": "stock",
+      "correct": true
+    }
+  ],
+  "predictions": [
+    "other",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock"
+  ],
+  "true_labels": [
+    "other",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock"
+  ],
+  "file_types": [
+    "po",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock",
+    "stock"
+  ],
+  "statistics": {
+    "overall_accuracy": 1.0,
+    "precision": {
+      "other": 1.0,
+      "stock": 1.0
+    },
+    "recall": {
+      "other": 1.0,
+      "stock": 1.0
+    },
+    "f1_score": {
+      "other": 1.0,
+      "stock": 1.0
+    },
+    "support": {
+      "other": 1,
+      "stock": 9
+    },
+    "confusion_matrix": {
+      "true_negative": 1,
+      "false_positive": 0,
+      "false_negative": 0,
+      "true_positive": 9
+    },
+    "po_detection": {
+      "total_po_files": 1,
+      "correctly_classified_as_other": 1,
+      "misclassified_as_stock": 0,
+      "precision": 1.0
+    },
+    "stock_detection": {
+      "total_stock_files": 9,
+      "correctly_classified_as_stock": 9,
+      "misclassified_as_other": 0,
+      "precision": 1.0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT -METABOLICS            
+STOCK & SALES STATEMENT AS ON 31/12/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+ABOCAL TAB             15,S          0     -      -      -        -      -    -        0     -  NoOrder  113.77     -     -        -    -    -    -
+CABERNORM TAB          4'S           0     -      -      -        -      -    -        0     -  NoOrder  283.57     -     -        -    -    -    -
+**COMBINORM CAP        15'S          2     -      -      -        -      -    -        2     -  NoOrder  521.70   1043    -        -    -    -    -
+COMBINORM PLUS CAP     10'S         55     -      -      12       25      7   -       23     -  NoOrder  522.03  12007 13051       -    -    -    -
+DIENONORM TAB          10'S          0     -      -      -        -      -    -        0     -  NoOrder  250.00     -     -        -    -    -    -
+HYTRIN 1MG             10'S          0     -      10     -        -      -    -        0     -        5  209.55     -     -        -    -    -    -
+HYTRIN 2MG             10'S         10     -      -      -         4     -    -        6     -  NoOrder  310.52   1863  1242       -    -    -    -
+**LINORMA T3 20MCG     100'S         1     -      -       1       -      -    -        1     -  NoOrder 1285.71   1286    -        -    -    -    -
+**LINORMA T3 5MG TAB   100'S         0     33     -      16       -      -    -       33     -  NoOrder 1000.00  33000    -        -    -    -    -
+SURBEX GOLD TAB        15,S          9    520     62     78      121     33   -      375     -  NoOrder  234.79  88046 28410       -    -    -    -
+THYROCAL D3 TAB        30'S          0     -      -      -        -      -    -        0     -  NoOrder  245.35     -     -        -    -    -    -
+THYRONORM 100MG TAB    120,S         0    216    218    288      180     12   -       24     -      325  128.63   3087 23153       -   37  144  144
+THYRONORM 112MG        120'S         6     34     -      23       20      2   -       18     -        5  162.08   2917  3242       -    -    -    5
+THYRONORM 12.5MCG      120,S        14    100     70    131       84      5   -       24     -      121  144.55   3469 12142       -    -   56   66
+THYRONORM 125 MCG      120,S         4     67     84     51       64      5   -        2     -      100  165.05    330 10563      24   26   26   26
+THYRONORM 137MCG       120'S         0     34     11     22       10      1   -       23     -  NoOrder  211.94   4875  2119       -    -    -    -
+THYRONORM 150 MCG      120,S        27     57     69     60       73      6   -        5     -       99  166.03    830 12120       9   30   30   30
+**THYRONORM 200MCG     100'S         7     -      -      -        -      -    -        7  02/26 NoOrder  174.24   1220    -        -    -    -    -
+THYRONORM 25MG TAB     120,S         0    285    178    259      220     11   -       54     -      280  141.26   7628 31077       -   21  130  130
+THYRONORM 37.5 MCG     100'S         0     80     22     30       57      4   -       19     -       38  143.12   2719  8158       -    8   15   15
+THYRONORM 50MG TAB     120,S         0    261    227    285      221     12   -       28     -      345  100.59   2817 22230       -   60  143  143
+THYRONORM 62.5MG       120'S         0     67     44     45       45      4   -       18     -       51  157.23   2830  7075       -    6   23   23
+THYRONORM 75MG TAB     120,S         0    194    160    163      127      7   -       60     -      169  140.17   8410 17802       -    6   82   82
+THYRONORM 88MCG        120'S         3     44     44     39       31      3   -       13     -       46  160.97   2093  4990       -    7   20   20
+THYROWEL CAP           10,S          0     -      -      -        -      -    -        0     -  NoOrder  120.09     -     -        -    -    -    -
+THYROWEL PLUS TAB      15'S         17     65      8      6       12      3   -       67     -  NoOrder  223.73  14990  2685       -    -    -    -
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   38354.76    PURCHASE..... VALUE :       0.00
+           SALES VALUE :  203073.74    CLOSING STOCK VALUE :  154357.54
+LAST MONTH SALES VALUE :  218551.05
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

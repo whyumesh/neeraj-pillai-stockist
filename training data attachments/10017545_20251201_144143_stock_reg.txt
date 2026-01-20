@@ -1,0 +1,30 @@
+
+MAA KALI PHARMACEUTICAL AGENCIES
+
+STOCK REGISTER - SUMMARY
+   PERIOD : 01-11-2025 TO 30-11-2025                                                        
+   --------------------------------------------------------------------------------------------
+   ITEM NAME                UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B.     Expir
+                                    QNTY     QNTY     QNTY     QNTY     QNTY     QNTY      Date
+   --------------------------------------------------------------------------------------------
+   Mfg.: ABBOTT INDIA LIMITED(NEURO) S 
+   -----------------------------------
+   EPTOIN 100 TAB          120'S      69         0.00             49               20     05-28
+   EPTOIN ER 300           30'S       27         0.00             16               11     03-27
+   EPTOIN SYP              200ML      49         0.00             16               33     09-26
+   INDERAL 10 TAB          15's       82        40.00             80               42     06-27
+   INDERAL 20MG TAB        15TAB      60        40.00             56               44     05-27
+   INDERAL 40MG TAB        15'T       90         0.00             15               75     05-28
+   INDERAL LA 20MG         15't       38        30.00             51               17     01-19
+   PROTHIADEN 25 TAB       15's       15        20.00             33                2     12-25
+   PROTHIADEN 50           15'S       15        10.00             20                5     02-27
+   PROTHIADEN 75           15'S       36         0.00             15               21     03-27
+   VERTIN 16MG TAB         15'S       78        50.00            100               28     12-26
+   VERTIN 24MG             15's       13        10.00             15                8     05-28
+   VERTIN 8MG TAB          15'S       20        10.00             22                8     03-28
+   VERTIN OD 48MG          15TAB       3         0.00              2                1     04-26
+                                  -------------------------------------------------------------
+                                     595       210.00                                                          0      490       0      315
+                   O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+                    0.00    26185.90       0.00   72342.09       0.00    31156.51
+                                  -------------------------------------------------------------

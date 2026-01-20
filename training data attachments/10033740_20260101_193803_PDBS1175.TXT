@@ -1,0 +1,24 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   CRIT CARDEO
+---------------------------------------------------------------------------
+ACITROM-0.5 TAB           |10's  |    6|   10|    0|   16|    6|   10|    0
+ACITROM-1 TAB             |30's  |   10|   30|    0|   40|   21|   19|    0
+ACITROM-2 TAB             |30's  |   18|   10|    0|   28|   12|   16|    0
+ACITROM-3 TAB             |30's  |   31|   10|    0|   41|   21|   20|    0
+ACITROM-4 TAB             |30's  |   11|   23|    0|   34|   15|   19|    0
+BIOSAFE-2.5 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSAFE-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LVEFFECT-10 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+NICODUCE-10 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+NICODUCE-5 TAB            |10's  |    5|   10|    0|   15|    3|   12|    0
+NICODUCE-OD 10 TAB        |10's  |   13|    0|    0|   13|    5|    8|    0
+SORBITRATE-HF TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   36840    PR.STK   33315    RT.COM       0    CL.STK   38648
+SL.AMT   31507
+---------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+
+MAA KALI PHARMACEUTICAL AGENCIES
+
+STOCK REGISTER - SUMMARY
+   PERIOD : 01-12-2025 TO 31-12-2025                                                        
+   --------------------------------------------------------------------------------------------
+   ITEM NAME                UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B.     Expir
+                                    QNTY     QNTY     QNTY     QNTY     QNTY     QNTY      Date
+   --------------------------------------------------------------------------------------------
+   Mfg.: ABBOTT INDIA LIMITED (MAXIMA) 
+   -----------------------------------
+   CREMADIET +             300GM       2         0.00              0                2     02-27
+   CREMADIET DUO           150gm      13         0.00              1               12     01-26
+   CREMADIET+              100GM       8         0.00              3                5     07-27
+   CREMAFFIN PLUS SYP      225ML      68        60.00             77               51     12-27
+   CREMAGEL 2%             30GM        7        10.00              1               16     02-28
+   CREMALAX 10MG           3*6S       12         0.00              4                8     06-28
+   DIGERAFT PLUS SUSP      200ML      74        60.00             61               73     06-26
+   DIGERAFT SUSP           200ML      36        60.00             35               61     10-26
+   LIBRAX TAB              20S        18        60.00             37               41     04-27
+   PANKREOFLAT TAB         15'S       25        60.00             45               40     11-26
+                                  -------------------------------------------------------------
+                                     263       310.00                                                          0      264       0      309
+                   O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+                    0.00    61486.80       0.00   59255.85       0.00    64682.41
+                                  -------------------------------------------------------------

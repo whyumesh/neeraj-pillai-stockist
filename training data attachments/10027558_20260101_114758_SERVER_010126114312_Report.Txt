@@ -1,0 +1,35 @@
+CHM
+              STAR PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing    Ostk     Purc     Sale     SRet     PRet      Qoh     QohValue
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA NEURO L 
+========================================
+ACUVERT TAB                  9S            0        0        0        0        0        0         0.00 
+EPTION-300 ER                30s           9        0        5        0        0        4       605.98 
+EPTOIN 100MG TAB             100`S         0        0        0        0        0        0         0.00 
+EPTOIN 50MG TAB              100`S         0        0        0        0        0        0         0.00 
+INDERAL-10MG TAB             15s          30        0       26        0        0        4        60.31 
+INDERAL-40MG TAB             15S          40        0        3        0        0       37      1373.35 
+INDERAL-F10 TAB              10S           0        0        0        0        0        0         0.00 
+INDERAL-F5 TAB               10S           0        0        0        0        0        0         0.00 
+INDERAL-LA20 TAB             15S          10        0        0        0        0       10       368.55 
+INDERAL-LA40 TAB             15S           7        0        7        0        0        0         0.00 
+PROTHIADEN M 50 MG TAB       15;s          6        0        7        1        0        0         0.00 
+PROTHIDIEN*50*TAB            15s           4        0        4        0        0        0         0.00 
+PROTHIDIEN-25MG TAB          15s           8        0        6        0        0        2       290.66 
+PROTHIDIEN-75MG TAB          15s          19        0        0        0        0       19      4756.48 
+PROTHIDIN M 75               15;          10        0       10        0        0        0         0.00 
+SNAPIT TAB                   2s            9        0        0        0        9        0         0.00 
+VERTIN 16MG TAB              15`S         19        0       19        0        0        0         0.00 
+VERTIN 24 MG                 15;S         10        0        2        0        0        8      3052.73 
+VERTIN 8MG TAB               15;S         18        0        1        0        0       17      2451.95 
+VERTIN OD 24 MG              15s           9        0        1        0        0        8      3284.40 
+VERTIN OD 48 MG              15s           4        0        0        0        0        4      2769.23 
+================================================================================================
+Opening Value  :    34891.45 Sale Value      :    16108.80 SRet Value    :      205.83 
+Purchase Value :        0.00 PurReturn Value :      808.92 Closing Value :    19013.63 
+------------------------------------------------------------------------------------------------
+P

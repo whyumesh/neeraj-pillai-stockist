@@ -1,0 +1,268 @@
+  Sale Report For Month :-- 12, 2025,  FOR- NICHOLAS           ( 31/12/2025  )  18:17:56
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ ABTIKA 90 MG TAB           10           0           6         4
+ ABVIDA 50 MG TAB            7           0           2         5
+ ABVIDA-D 10 MG TAB         16           0           3        13
+ ABVIDA-M 50/1000 TAB       10           0           4         6
+ ABVIDA-M 50/500 TAB         9          30          16        23
+ ABVIDA-SR 100 MG TAB       17           0           5        12
+ ABVIDA-TRIO 1000 TAB       10           0           0         4
+ ABVIDA-TRIO 500 TAB        22           0           9        13
+ ACITROM 0.5 MG TAB         10          20          10        10
+ ACITROM 1 MG TAB           27          30          33        24
+ ACITROM 1.5 MG TAB          9           0           0         9
+ ACITROM 2 MG TAB            5          60          30        35
+ ACITROM 2.5 MG TAB         18           0           0        18
+ ACITROM 3 MG TAB           13          20          13        20
+ ACITROM 3.5 MG TAB          9           0           0         9
+ ACITROM 4 MG TAB           11          20           8        23
+ AMISANT-100 MG TAB         12           0           0        12
+ AMISANT-200 MG TAB         32           0          22        10
+ AQUAVIRON 1 ML INJ.        25          18          30        13
+ BETONIN-AST TONIC(LA       14           0          13         1
+ BETONIN-AST TONIC(SM       58           0           9        49
+ BILAZEST 20 MG TAB          5           0           0         5
+ BILAZEST-M TAB             14           0           0        14
+ BIOSUGANRIL 10 MG TA       12           0          17         0
+ BISOSAFE 2.5 MG TAB         8           0           0         8
+ BISOSAFE 5 MG TAB          15           0           0        15
+ BISOSAFE-AM 2.5 MG T       30           0           0        30
+ BISOSAFE-AM 5 MG TAB       30           0           0        30
+ BISOSAFE-T 2.5 MG TA       20           0           0        20
+ BISOSAFE-T 5 MG TAB        20           0           0        20
+ BRIVAJOY 50 MG TAB         10           0           7         3
+ CANDYCOP TOOTHPASTE         4          10           7         7
+ CLARIBID 250 MG TAB        11           0           3         8
+ CLARIBID 500 MG TAB        14          30          21        23
+ CLARIBID ORAL SUSP          1          10           3         8
+ COSYMOXYL 625 MG TAB       31           0          36        19
+ CROTORAX LOTION            11           0           2         9
+ CROTORAX-HC CREAM           6           0           2         4
+ CURENEXT CREAM              1           0           0         1
+ CYTOGARD-MR 35 MG TA       10           0           3         7
+ CYTOGARD-OD 60 MG TA       24           0          11        13
+ CYTOGARD-OD 80 MG TA       23           0           7        16
+ DABLEXA 110 MG TAB          4          10           8         6
+ DELETUS-D PLUS SY          40          55          46        49
+ DELOK 20 MG CAP            10           0           0        10
+ DEPSONIL 25 MG TAB         78           0          24        54
+ DIPSALIC-F OINT.           29           0           9        20
+ DURAJOINT-GM TAB            3           0           0         3
+ ELOCON 30 GM CREAM          7           0           2         5
+ ELOCON CREAM               13          24           9        28
+ ELOCON LOTION               1           0           1         0
+ ELOCON OINT.               13           0           8         5
+ EMOLENE CREAM              21          24          31        14
+ EMPEXEL 10 MG TAB           0          20           5        15
+ EMPEXEL 25 MG TAB          12          10          12        10
+ EMPEXEL-L 5/25 TAB         12           0           8         4
+ EMPEXEL-M 12.5/1000        40           0           0        40
+ EMPEXEL-M 12.5/500         17           0           0        17
+ EMPEXEL-M SR 10/1000       40           0           0        40
+ ENLIVA TAB                 22           0           0        22
+ EPILEX CHRONO 200 MG        3           0           0         3
+ EPILEX CHRONO 300 MG       12          20           8        24
+ EPILEX CHRONO 500 MG       20           0           0        20
+ EPILEX ORAL SUSPENSN       17          30           9        38
+ EPILEX TAB                 15           0          11         4
+ ESGIPYRIN TAB              23           0           8        15
+ ESGIPYRIN-DS 3 ML         102           0         100         2
+ ESOGA-RD CAP                2          20           7        15
+ ESSENTIALE-L 1 GM CA       10           0          10         0
+ FACELIN GEL                19           0           8        11
+ FACELIN-AT CREAM           20           0           5        15
+ FAMTAC 40 MG TAB           69           0           6        63
+ FEBUSTAT 20 MG TAB         17           0          13         4
+ FEBUSTAT 40 MG TAB          8          60          32        36
+ FEBUSTAT 80 MG TAB         12           0           6         6
+ FLAGYL 200 MG TAB         231           0          72       159
+ FLAGYL 400 MG TAB         196         210         131       275
+ FLAGYL 60 ML SY            28         120         105        41
+ FLAGYL-ER 600 MG TAB       21           0           6        15
+ FLEXJAK-ER 11 MG TAB        3           9           6         6
+ FOLLIDERM-MOM TAB          20           0           0        20
+ FOLLIHAIR 30`S TAB          2           0           0         2
+ FOLLIHAIR-A TAB            10           0           2         8
+ FOLLIHAIR-AMPM TAB          8           0           3         5
+ FOLLIHAIR-NEW TAB          12           0           4         5
+ FOLLIHAIR-RCP SERUM         1           0           0         1
+ FORTIUS 10 MG TAB          46          70          52        64
+ FORTIUS 20 MG TAB          12          10          10        12
+ FORTIUS 5 MG TAB           16          30          21        25
+ FORTIUS-F 10 MG TAB        12           0           0        12
+ FORTIUS-F 20 MG TAB        30           0           0        30
+ FORTIUS-GOLD 10 MG T       20           0           0        20
+ FORTIUS-GOLD 20 MG T       20           0           0        20
+ GLUFORMIN-G1 FORTE T       16           0           4        12
+ GLUFORMIN-G1 TAB            6           0           2         4
+ GLUFORMIN-G2 TAB           16           0           0        16
+ GLUFORMIN-XL 1000 MG       23           0           5        18
+ GLUFORMIN-XL 500 MG        40           0          10        30
+ GLUJECT-TRIO 1000 TA       11           0           5         6
+ GLUJECT-TRIO 500 TAB       11           0           3         8
+ GTN SORBITRATE-CR2.6       17          25          12        30
+ GTN SORBITRATE-CR6.4       22           0           0        22
+ GUMLOC 10 ML                5           0           0         5
+ HANSEPRAN 100 MG CAP      201           0          50       151
+ HANSEPRAN 50 MG CAP       470           0         280       190
+ HFTRIL 100 MG TAB          26          20          17        29
+ HFTRIL 200 MG TAB           0          10           0        10
+ HFTRIL 50 MG TAB           60          50          72        38
+ HYDENT-K 100 GM TUBE       12          24           7        29
+ HYDENT-PRO TOOTHPAST       14           0           2        12
+ I TYZA 200 MG TAB           0          12           0        12
+ I TYZA TAB                 15           0           0         0
+ IVABID 5 MG TAB            11           0           0        11
+ JANUMET 50/1000 TAB        22           0           7        15
+ JANUMET 50/500 TAB          6          10           4        11
+ JANUMET-XR CP               6           0           0         6
+ JANUVIA 100 MG TAB         21           0           6        15
+ JANUVIA 25 MG TAB          20           0           0        20
+ JANUVIA 50 MG TAB          19           0           0        19
+ KENACORT 0.1%              29         100          46        75
+ KENACORT 10 MG INJ         19          50          32        37
+ KENACORT 4 MG TAB          48           0           6        42
+ KENACORT 40 MG INJ         27          36          23        40
+ LEVESAM 1 GM TAB           10           0           2         8
+ LEVESAM 250 MG TAB         23           0           0        23
+ LEVESAM 500 MG TAB         10           0           0        10
+ LEVESAM ORAL SOLUTIN        2          10           0        12
+ LIBRIUM 10 MG TAB          10          36          12        34
+ LIBRIUM 25 MG TAB          20           0           5        15
+ LIMCEE CHEW TAB          1094         600        1357       332
+ LVEFFECT 10 MG TAB          2           0           0         2
+ MADOPAR 250 MG TAB         14           0           0        14
+ MAZETOL 100 MG TAB         40           0           8        32
+ MAZETOL 200 MG TAB        108          60         104        64
+ MAZETOL-SR 200 MG TA       23           0           0        23
+ MAZETOL-SR 300 MG TA       21           0           5        16
+ MAZETOL-SR 400 MG TA        4          20           4        20
+ MDD-XR 100 MG TAB           8           0           0         8
+ MDD-XR 25 MG TAB           20           0          10        10
+ MDD-XR 50 MG TAB           20           0           8        12
+ MELAGARD-METTE SPF30        5           0           0         5
+ MELAGLOW NEW               13           0           3        10
+ MELAGLOW RICH CREAM         3           0           1         2
+ MELALITE-15 30 GM          20           0           4        16
+ MELALITE-FORTE CREAM        9           0           9         0
+ METHIMERCAZOLE 10 MG        8           0           2         6
+ MONTI-FX TAB               23           0           8        15
+ MYSOLINE 250 MG TAB        24           0           3        21
+ NEOMERCAZOLE 10 MG T       19           0          15         4
+ NEOMERCAZOLE 5 MG T        18           0           0        18
+ NERVUP-FORTE CAP            2           0           2         0
+ NERVUP-OD CAP              17           0           7        10
+ NERVUP-PG CAP              13           0           0        13
+ NEW BASITON FORTE TA       41           0          11        30
+ NEW SUPRAPLUS TAB           7          30          12        25
+ NICODUCE 10 MG TAB         21           0           2        19
+ NICODUCE 5 MG TAB          23           0           5        18
+ NICODUCE-OD TAB            10           0           6         4
+ OXMAZETOL 150 MG TAB       17           0           0        17
+ OZEWID 5 GM OINT.          12           0           8         4
+ OZEWID LOTION               7           0           0         7
+ PHENERGAN 10 MG TAB        45          50          35        60
+ PHENERGAN 100 ML SY        22         100           9       113
+ PHENERGAN 2 ML INJ.       130           0          10       120
+ PHENERGAN 25 MG TAB        35           0          17        18
+ POLIEXAR 2 MG CAPS         16           0           0        16
+ POLIEXAR-P TAB              5           0           3         2
+ PPG 0.2 MG TAB             21           0           0        21
+ PPG 0.3 MG TAB              6           0           1         5
+ PPG-MET 0.2 MG TAB          0          20           0        20
+ PPG-MET 0.3 MG TAB         10           0           0        10
+ PPG-R 0.5 MG TAB            7           0           4         3
+ QUADRIDERM-RF 10 GM        82           0          16        66
+ QUADRIDERM-RF 5 GM        169           0          12       157
+ RASHFREE CREAM             24           0           5        19
+ REFSAV 50 MG TAB            3          10           4         9
+ REJOINT TABLETS            11          24          19        16
+ REJOINT-UC PLUS TABS        7           0           0         8
+ REJOINT-UC TABLETS          3           0           0         3
+ RIVAXA 10 MG TAB            5           0           0         5
+ RIVAXA 2.5 MG TAB          10           0           3         7
+ RIVAXA 20 MG TAB           10           0           3         7
+ ROCALTROL CAPS             20          20          11        29
+ SELSUN 120 ML              25          40          21        44
+ SIAGLIDE-D 10 MG TAB        6          20           3        23
+ SIAGLIDE-M 500 MG TA       12          20          20        12
+ SIAGLIDE-M OD TAB          12          20          14        18
+ SIAGLIDE-TRIO 1000         17          20          16        21
+ SIAGLIDE-TRIO 500          20          20          20        20
+ SOLSPRE SPRAY               0           9           3         6
+ SOLSPRE-F MIST SPRAY        5           0           2         3
+ SORBITRATE 10 MG TAB       11           0           3         8
+ SORBITRATE 5 MG            43          30          43        30
+ STATOR 10 MG TAB           51           0          14        37
+ STATOR 20 MG TAB           34           0           2        32
+ STATOR 40 MG TAB           10           0           0        10
+ STATOR-ASP 75 MG TAB        3           0           0         3
+ STATOR-CV 20 MG TAB         2           0           0         2
+ STATOR-CV TAB               3           0           2         1
+ STATOR-F TAB                6           0           0         6
+ STATOR-GOLD 10 MG CA       10           0           3         7
+ STATOR-GOLD 20 MG CA        9           0           0         9
+ STEMETIL 1 ML INJ.         12           0           4         8
+ STEMETIL-MD TAB            52          80          75        51
+ SUPERMET-AM TAB             4           0           0         4
+ SUPERMET-XL 25 MG TA       16           0           9         7
+ SUPERMET-XL 50 MG TA       20           0          15         5
+ SURBEX-FE TAB               6          10           6        10
+ SURBEX-XT TAB              27           0           2        25
+ SZETALO 10 MG TAB          10           0           6         4
+ SZETALO PLUS TAB           16           0           0        16
+ SZETALO-LS TAB              7           0           4         3
+ TACITINIX OINT             12           0           0        12
+ TACITINIX-XR 11 MG          6           0           0         6
+ TELPRES 20 TAB             12           0           0        12
+ TELPRES 40 TAB              7          20           8        19
+ TELPRES-AM TAB              5           0           0         5
+ TELPRES-BETA 2.5 TAB        7           0           2         5
+ TELPRES-BETA 5 TAB          5           0           0         5
+ TELPRES-CT 40/12.5         17           0           3        14
+ TELPRES-CT 40/6.25         12          30          28        14
+ TELPRES-CT 80 TAB           1           0           0         1
+ TELPRES-H 40 TAB            3           0           2         1
+ TELPRES-LN 40 TAB          11           0           7         4
+ TELPRES-MT 25 MG TAB       12           0           0        12
+ TELPRES-MT 50 MG TAB        6           0           2         4
+ TELPRES-TRIO 12.5 MG       15           0           0        15
+ TELPRES-TRIO TAB            0          10           0        10
+ TIXYLIX SY                 12         120          37        95
+ TIXYLIX-LS JUNIOR         120           0          57        63
+ TIXYLIX-LS SY               0          40           2        38
+ TOOTHMIN PASTE              5           0           1         4
+ TOSSEX-DMR SY              55         200         135       120
+ TRESMOX-CV TAB             10           0           0        10
+ TRESMOX-LB D CAP            1           0           0         1
+ TRIBET 1 MG TAB             2           0           0         2
+ TRIBET 2 MG TAB             4          20           7        17
+ TRIBETROL 1 MG TAB         10           0           3         7
+ TRIBETROL 2 MG TAB          3          20           8        15
+ TRIBETROL-1 FORTE TA        3           0           0         3
+ TRIBETROL-PLUS 2 TAB        2           0           0         2
+ TYZA 10 GM CREAM           11           0           0        11
+ TYZA TAB                   10           0           0        10
+ TYZA-M CREAM                9           0           6         3
+ UVOX 100 MG TAB            13           0           0        13
+ UVOX 50 MG TAB             29          20          15        34
+ UVOX-CR 100 MG TAB          2          10           3        10
+ UVOX-CR 150 MG TAB         24           0           2        22
+ VALENCE 500 MG SOLUT        2          20           2        20
+ VALENCE SOLUTION           21           0           1        20
+ VALENCE-OD 1000 MG T        6           0           0         6
+ VALENCE-OD 250 MG T         2           0           0         2
+ VALENCE-OD 500 MG T        25           0           8        17
+ VALENCE-OD 750 MG T         8           0           2         6
+ XAPILIS 2.5 MG TAB         12          20          12        20
+ XAPILIS 5 MG TAB           14          20          14        20
+ ZIL-O TAB                  10           0           0        10
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 367916.38 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 356745.93 Only
+
+---------------------------------------------------------------------
+

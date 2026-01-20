@@ -1,0 +1,32 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA LTD NOVA
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+FIASP FLEX TOUCH         ;    3ML;          4;          5;          3;          6;10-2027;          5;
+FIASP PENFILL            ;    3ML;         23;         30;         21;         32; 6-2027;         24;
+LEVEMIR FLEXPEN          ;    1'S;          4;           ;           ;          4; 7-2026;           ;
+NOVOMIX 30 FLEXPEN       ;    3ML;         10;           ;         10;           ; 7-2026;           ;
+NOVOMIX 30 PENFIL        ;    1,S;         38;        150;        119;         69; 5-2027;        109;
+NOVOMIX 50 FLEXPENS      ;    3ML;          3;           ;           ;          3;12-2026;           ;
+NOVOMIX 50 PENFILL       ;    3ML;         10;           ;          5;          5;12-2026;          6;
+NOVONORM 0.5MG TAB       ;   30'S;           ;         10;          1;          9;12-2028;          8;
+NOVONORM 1MG TAB         ;   30'S;           ;           ;           ;           ;12-2028;           ;
+NOVORAPID 100IU          ;   10ML;          6;           ;          4;          2; 3-2027;          4;
+NOVORAPID FLEXPEN        ;    3ML;          6;           ;          3;          3;10-2027;          2;
+NOVORAPID PENFIL         ;    1'S;         27;         40;         66;          1; 9-2027;         37;
+OZEMPIC O.25 MG          ; 0.25ML;           ;          2;           ;          2; 7-2028;           ;
+RYBELSUS 14MG TAB        ;    1'S;          1;          5;           ;          6; 5-2027;          3;
+RYBELSUS 3MG TAB         ;    1'S;          2;           ;          2;           ; 5-2027;           ;
+RYBELSUS 7MG TAB         ;    1'S;          4;         13;         17;           ; 5-2027;          7;
+RYZODEG FLEX TOUCH       ;    3ML;         13;         30;         27;         16; 1-2028;         42;
+RYZODEG PENFIL           ;    3ML;         34;        170;        169;         35; 8-2027;        171;
+TRESIBA FLEX TOUCH       ;    3ML;          1;          5;          2;          4; 4-2027;          5;
+TRESIBA PENFIL           ;    3ML;          7;         20;         27;           ; 4-2027;         15;
+VICTOZA  INJ(LIRAGLUTIDE);    1'S;           ;           ;           ;           ; 4-2027;           ;
+WEGOVY FLEX TOUCH 2.4MG  ;    3ML;          1;           ;           ;          1; 9-2027;           ;
+WEGOVY FLXT 0.5MG        ;  1.5ML;           ;          1;           ;          1; 9-2027;           ;
+WEGOVY FLXT 1MG          ;    3ML;           ;          1;           ;          1;11-2027;           ;
+
+Total :                  ;       ;           ;           ;  461455.06;  224705.38;       ;  416270.49;

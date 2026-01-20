@@ -1,0 +1,27 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   WOMEN HGI
+---------------------------------------------------------------------------
+ARACHITOL-O TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+CLOME-100 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CLOME-50 TAB              |5's   |    0|    0|    0|    0|    0|    0|    0
+COMBINORM CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+CREMA-ANO GEL             |20gm  |   11|   10|    0|   21|    6|   15|    0
+DUPHAPRO-FC 1 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHAPRO-FC 2 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHASTON TAB             |10's  |   19|    0|    0|   19|    1|   18|    0
+DUPHASTON-10MG TAB(ART CE |10's  |   15|    0|    0|   15|    8|    7|    0
+EMOLENE CREAM             |100gm |    0|    0|    0|    0|    0|    0|    0
+ESTRABET-2 TAB            |28's  |    0|    0|    0|    0|    0|    0|    0
+FEMILON TAB               |21's  |    4|   10|    0|   14|    4|   10|    0
+NOVELON TAB               |21's  |    5|    0|    0|    5|    3|    2|    0
+PRO-9 INJ                 |2ml   |    0|    0|    0|    0|    0|    0|    0
+SOLFE TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   25805    PR.STK    4211    RT.COM       0    CL.STK   21816
+SL.AMT    8200
+---------------------------------------------------------------------------

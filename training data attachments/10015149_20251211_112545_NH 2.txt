@@ -1,0 +1,57 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Critical Care (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+AMLUCK CREAM         10GM       0     0     0     0     0     0     0     0     0.00    
+AMLUCK CREAM         30GM       0     0     0     0     0     0     0     0     0.00    
+ABVIDA-D 10          10'S      10    10     0     0     5     7     0    13  1921.27    
+CAAT-20              10'S       0     0     0     0     0     0     0     0     0.00    
+CAAT F TAB           10'S       0     0     0     0     0     0     0     0     0.00    
+CAAT-10              15'S       0     0     0     0     0     0     0     0     0.00    
+CAAT 40 TAB          10'S       0     0     0     0     0     0     0     0     0.00    
+EXERGE CAP           15'S       0     0     0     0     0     0     0     0     0.00    
+FACECLIN AT          15GM       0     0     0     0     0     0     0     0     0.00    
+FACECLIN-A CREAM     15G        0     0     0     0     0     0     0     0     0.00    
+TVAKSH FACE CARE     60G        0     0     0     0     0     0     0     0     0.00    
+FACECLIN TUBE        20GM       3     0     0     0     4     1     0     2   275.30    
+FOLLIHAIR A          10'S       0     0     0     0     0     0     0     0     0.00    
+FOLLIDERM TAB        10'S       0     0     0     0     0     0     0     0     0.00    
+FOLLIHAIR            15'S       8    12     0     2     8    10     0    10  2733.50    
+FRAULINE 35 TAB      28'S       0     0     0     0     0     0     0     0     0.00    
+KERTYOL S SHAMPOO    60ML       0     0     0     0     0     0     0     0     0.00    
+LOBATE AL GEL        20GM       0     0     0     0     0     0     0     0     0.00    
+LOBATE G CREAM       15GM       0     0     0     0     0     0     0     0     0.00    
+LUNABET LOTION       15ML       0     0     0     0     0     0     0     0     0.00    
+LOBATE CREAM         30GM      10     0     0     5    12     2     0     8  1379.52    
+LOFATIN CREAM        10GM       0     0     0     0     0     0     0     0     0.00    
+LOBATE GN CREAM      15GM      11     0     0     2     0     0     0    11   616.66    
+LOBATE M OIN         15GM       0     0     0     0     0     0     0     0     0.00    
+LUNABET CREAM        10GM       0     0     0     0     0     0     0     0     0.00    
+LOBATE S OIN         30GM       2     0     0     0     0     0     0     2   300.84    
+MELAGLOW OIT         15G        0     0     0     0     0     0     0     0     0.00    
+MEFIPIL 200MG TAB    1'S        0     0     0     0     0     0     0     0     0.00    
+MELAGARD 50+         60ML       0     0     0     0     0     0     0     0     0.00    
+MELAGLOW             30GM       0     0     0     0     0     0     0     0     0.00    
+MELAGARD LOTION      100ML      0     0     0     0     0     0     0     0     0.00    
+MELALITE FORTE CR    30GM       0     0     0     0     0     0     0     0     0.00    
+MELALITE PLUS CREAM  15GM       0     0     0     0     0     0     0     0     0.00    
+MELAGARD LOTION      50ML       0     0     0     0     0     0     0     0     0.00    
+MELALITE 15 CREAM    30GMS     10     0     0     1     2     3     0     7  1006.04    
+MOXON 0.2MG          10'S       0     0     0     0     0     0     0     0     0.00    
+MELALITE XL          15G        0     0     0     0     0     0     0     0     0.00    
+TUFACNE 10           10'S       0     0     0     0     0     0     0     0     0.00    
+TUFACNE 20G          10'S       0     0     0     0     0     0     0     0     0.00    
+TYZA CREAM           10GM       2     0     0     1     2     1     0     1    56.80    
+TYZA M CREAM         10G       10     0     0     3     1     2     0     8   673.36    
+TYZA DP GEL          15GM       0     0     0     0     0     0     0     0     0.00    
+TYZA TAB             7'S       10     0     0     0     0     0     0    10  1595.50    
+XEVOR 10             10'S       0     0     0     0     0     0     0     0     0.00    
+XEVOR 5MG TAB        15'S      20     0     0     7    13     7     0    13   483.73    
+----------------------------------------------------------------------------------------
+                            11493  4758     0  2576  7407  5957     0 11042.52
+----------------------------------------------------------------------------------------

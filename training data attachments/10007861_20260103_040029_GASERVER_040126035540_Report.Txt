@@ -1,0 +1,33 @@
+CHM
+                GULAB ASSOCIATES
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT-INDAI LTD [SO 
+----------------------------------
+COLOSPA-135 TABS             15S          5       0        5       5       0         0.00    6 
+COLOSPA-RETARD TABS          10S          0       0        0       0       0         0.00   18 
+COLOSPA-X TABS               15S          0       0        0       0       0         0.00   11 
+DIENONORM TABS               10S          0       0        0       0       0         0.00  764 
+DUPHALAC 150ML SYP           150ML      172     400      572     422     150     21262.50   24 
+DUPHALAC 250ML SYP           250ML       32     120      152     112      40      9450.00   24 
+DUPHALAC 450ML SYP           450ML       24     240      264     220      44     18711.00    5 
+DUPHASTON TABS               10S         47       0       47       0      47     25221.30   16 
+FEMILON TABS                 21S          8       0        8       8       0         0.00    9 
+NOVELON TABS                 21S          0       0        0       0       0         0.00    9 
+SOLFE TABS                   10S          0       0        0       0       0         0.00  983 
+UDILIV-150 TABS              15S          0       0        0       0       0         0.00    8 
+UDILIV-300 TABS              15S          0       0        0       0       0         0.00    6 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :   176008.86 
+Purchase Value :   178200.00 Closing Value :    74644.80 
+------------------------------------------------------------------------------------------------
+UnAdjusted Pur.Ret/Debit Notes
+Number     Date        Balance
+------------------------------
+                    ----------
+           Total :        0.00
+                    ----------
+P

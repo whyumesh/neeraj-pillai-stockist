@@ -1,0 +1,1006 @@
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE CARDIAC - JAISON-7598466734
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   CYTOGARD OD 80 MG CAP     10`S        8        20         5    24         5     23   5080.93     -     -   -   3 
+2   IVABID 5 MG TAB           14`S       33        10        42    32        22     21   6163.44     -     -   -   2 
+3   IVABID OD 10 MG TAB       10`S       25         -         6     0         4     21   6917.40     -     -   -  23 
+4   STATOR 10 MG TAB          15`S       44         -        54    56        30     14    764.40     -     -   -   2 
+5   STATOR 20 MG TAB          15`S       43         -        28    22        13     30   4131.12     -     -   -   3 
+6   STATOR 40 MG TAB          15`S       14        20         8    27         8     18   3805.48     -     -   *   6 
+7   STATOR ASP 75 MG TAB      15`S       18         -         2    12         2     15    848.34     -     -   -   5 
+8   STATOR CV 10 CAP          15`S        0        20         2    10         -     20   2833.80     -     -   -  33 
+9   STATOR CV 20MG TAB 15`S   15`s       28         -        26    10         6     22   3569.06     -     -   -  22 
+10  STATOR F TAB              15`S       26        50        44    19        49     27   6277.11     -     -   -   5 
+11  STATOR GOLD 10 MG CAP     15`S       19        20         7     6        18     21   1293.42     -     -   -  15 
+12  STATOR GOLD 20 MG CAP     15`S       38         -        27    12         2     36   2999.52     -     -   *  10 
+13  SURBEX CV                 15`S       13         -         7    11         6      7    571.76     -     -   -  15 
+14  TELPRES CT 40/12.5 TAB    15`S       35        20        56    23        29     26   2793.36     -     -   -   3 
+15  TELPRES CT 40/6.25 MG TAB 15`S       31         -        17    11        16     15   1217.61     -     -   -   2 
+16  TELPRES CT 80 TAB         10`S       17        10        17     6        17     10   1010.90     -     -   -   3 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               392       170       348   281       227    326         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    56017.12 Purc.Value: :    30521.41 Sales Value::    36698.22
+Cl.Stk Val:     50277.65 Pur.RetVal ::     1718.81 SalRet Val: :        0.00
+Nov Sal:        42843.00 Oct Sal:    :    53507.00 NetSal(GVal):    36698.22
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE CARDIAC
+STATOR 40 MG TAB          15`S       MDK0033    2         01/2026                       STATOR GOLD 20 MG CAP     15`S       PCK0878    1         04/2026  
+STATOR GOLD 20 MG CAP     15`S       PCL0047    1         06/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE CARDIAC TASK FORCE - M.SARAVANA KUMAR - 9600871472 - ASM
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   CYTOGARD 20MG             10`S        6        12         0     0         6     12   1354.80     -     -   -  20 
+2   CYTOGARD MR 35 MG TAB     10`S       34         -         0    31        12     22   2687.08     -     -   -   3 
+3   CYTOGARD OD 60 MG CAP     15`S       63         -        16    63         8     51  18599.01     -     -   -   1 
+4   FORTIUS 10 MG TAB         10`S       66       110        75    72       148     28    718.76     -     -   -   2 
+5   FORTIUS 20 MG TAB         10`S       15         -         0     0         7      8   1032.96     -     -   -  10 
+6   FORTIUS 40MG TAB          10`S      281       130       240   208       361     50  11784.50     -     -   -   1 
+7   FORTIUS 5 MG TAB          10`S       32       250        39    21       233     49    870.94     -     -   -   1 
+8   FORTIUS GOLD 10 MG TAB 10 10`S       19         -         0     3         3     16   1793.76     -     -   -   8 
+9   FORTIUS GOLD 20 MG TAB 10 10`S       10         -         3     8         3      7   1206.03     -     -   -  14 
+10  GTN SORBITRATE CR 2.6     30`S       24        50        30    37        44     30   6431.34     -     -   -   2 
+11  GTN SORBITRATE CR 6.4     30`S       25         -         0     0         -     25   7067.50     -     -   Y 183 
+12  SORBITRATE 10 MG TAB      50`S       39       120        45    37       118     41   1210.32     -     -   -   1 
+13  SORBITRATE 5 MG TAB       50`S       64        30        75    59        65     29    866.52     -     -   -   1 
+14  TELPRES LN 40 MG TAB      10`S       76        80       126   116        61     95   6488.50     -     -   -   5 
+15  TELPRES MT 25 MG TAB      15`S        7         -         6     5         5      2    575.30     -     -   -   2 
+16  TELPRES TRIO TABS         10`S       20         -         0     0         -     10   1195.10     -     -   X 177 
+17  TG GOAL 145 TAB           10`S        8         -         1     8         2      6   1182.20     -     -   -  24 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               789       782       656   668      1076    481         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   128129.48 Purc.Value: :    59971.50 Sales Value::   131294.80
+Cl.Stk Val:     65064.62 Pur.RetVal ::     2290.44 SalRet Val: :        0.00
+Nov Sal:       110511.00 Oct Sal:    :    92687.00 NetSal(GVal):   131294.80
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE CARDIAC TASK FORCE
+FORTIUS 20 MG TAB         10`S       MDK0111    1         06/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE CARDIAC TASK FORCE
+GTN SORBITRATE CR 6.4     30`S       TRL0030    25        183                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE CCD CORDIS - THANGAVEL - 9843530817
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ACITROM 0.5 TAB           10`S        7         -         3     0         6      1     49.26     -     -   -   1 
+2   ACITROM 1 MG TAB          30`S       28        90        17    22        42     76  17215.52     -     -   -   1 
+3   ACITROM 1.5 MG TAB        30`S       23        20         1     0        13     30   7926.30     -     -   *   5 
+4   ACITROM 2 MG TAB          30`S       14        20        23     8        10     24   8514.96     -     -   -   3 
+5   ACITROM 2.5 MG TAB        30`S       46        10         0     0         -     10   3486.20     -     -   X 111 
+6   ACITROM 3 MG TAB          30`S       16        20         9    20         6     30  13599.60     -     -   -   2 
+7   ACITROM 3.5 TAB 30`S      30`S       17         -         0     0         -     17   6922.23     -     -   * 108 
+8   ACITROM 4 MG TAB          30`S       20        80        12    25        23     77  37240.28     -     -   -   1 
+9   BISOSAFE 2.5 MG TAB       10`S        6         -         0     0         -      6    256.62     -     -   X 171 
+10  BISOSAFE 5 MG TAB         10`S        7         -         0     0         -      7    461.09     -     -   X 104 
+11  BISOSAFE AM 2.5 MG TABS 1 10`S       50         -         0     0         -     50   2240.50     -     -   Y 309 
+12  BISOSAFE AM 5 MG TABS 10` 10`S       60         -         0     0         -     60   3598.80     -     -   Y 309 
+13  DABLEXA 110               10`S       60         -         0     0        23     37   6034.33     -     -   -  12 
+14  HFTRIL 100MG TAB 14`S     14`s       70         -         3     0         5     65  18146.70     -     -   -   1 
+15  HFTRIL 50MG TAB 14`S      14`s      151         -        28    52        65     86  18355.84     -     -   -   1 
+16  TENECTELEX 30 MG INJ KIT  VIAL        8         -         2     0         1      7 117900.00     -     -   -  14 
+17  TENECTELEX 40 MG INJ KIT  KIT        11         -         2     2         3      8 158400.00     -     -   -  24 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               594       240       100   129       197    591         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   479514.99 Purc.Value: :    84010.60 Sales Value::   148250.68
+Cl.Stk Val:    420348.23 Pur.RetVal ::    16036.52 SalRet Val: :        0.00
+Nov Sal:        99154.00 Oct Sal:    :   124449.00 NetSal(GVal):   148250.68
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE CCD CORDIS
+ACITROM 1.5 MG TAB        30`S       MPK0068    11        04/2026                       ACITROM 2.5 MG TAB        30`S       MPK0109    10        06/2026  
+ACITROM 3.5 TAB 30`S      30`S       MPK0070    17        04/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE CCD CORDIS
+ACITROM 2.5 MG TAB        30`S       MPK0109    10        111                           
+ACITROM 3.5 TAB 30`S      30`S       MPK0070    17        108                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE CCD THROMBIS - MANIRAJ - 9894056726
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ABTIKA 90MG TAB 10`S      10`S       10        20         0    10        10     20   4101.40     -     -   -  23 
+2   AGGRIBLOC INFUSION        100 ML     22         -         1     0         -     22  21285.00     -     -   *  86 
+3   DOBUTREX 250MG INJ        1 VIAL     10         -         0     0         -     10   1710.00     -     -   Y 429 
+4   ICIKINASE INJ 15,00,00 IU VIAL        2         -         0     2         -      2   1350.00     -     -   -  42 
+5   LMWX-40 INJ               0.4ML    1474         -        52    40        91   1383 149400.00     -     -   -   1 
+6   LMWX-60 INJ               0.6 ML    217         -        45    72         -    217  33201.00     -     -   -  37 
+7   LOFH 25000                5 ML      279         -        75    43        55    224  29344.00     -     -   -   3 
+8   LOFH 5000 IU 5ML          5ML        50       100         0    50        99     51   3877.68     -     -   -   9 
+9   NICODUCE 5                20`S        0        50        43    21        20     30   7225.80     -     -   -   3 
+10  NICODUCE OD 10 MG TAB     10`S        9        10         4     0         8     11   2903.43     -     -   *  23 
+11  NICODUCE-10               20`S        5         -         0     0         2      3   1409.64     -     -   -  20 
+12  RIVAXA 10 MG TABS 15`S    15`S       17        70        54    41        57     30   5335.80     -     -   -   5 
+13  RIVAXA 15 MG TABS 15`S    15`S       27        50        21    20        31     46  11121.42     -     -   -   1 
+14  RIVAXA 2.5 MG TABS 15`S   15`S       46        40        25    17        51     35   3754.70     -     -   -   2 
+15  RIVAXA 20 MG TAB 15`S     15`S        8        20         7     3        14     14   5252.68     -     -   -   3 
+16  XAPILIS 2.5 MG TAB 10`S   10`S        1        20         4    10         -     21   2450.28     -     -   -  41 
+17  XAPILIS 5 MG TAB 10`S     10`S        8        20         0     6         4     24   3546.96     -     -   -  21 
+----------------------------------------------------------------------------------------------------------------------
+    Total                              2185       400       331   335       442   2143         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   284888.83 Purc.Value: :    74789.51 Sales Value::    90642.45
+Cl.Stk Val:    287269.79 Pur.RetVal ::        0.00 SalRet Val: :        0.00
+Nov Sal:        95215.00 Oct Sal:    :    94948.00 NetSal(GVal):    90642.45
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE CCD THROMBIS
+AGGRIBLOC INFUSION        100 ML     LFK0008    11        05/2026                       AGGRIBLOC INFUSION        100 ML     LFK0023    11        05/2026  
+NICODUCE OD 10 MG TAB     10`S       SEK0271    3         04/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE CCD THROMBIS
+AGGRIBLOC INFUSION        100 ML     LFK0008    11        86                            
+AGGRIBLOC INFUSION        100 ML     LFK0023    11        86                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE CNS TASKFORCE - VENKATESH
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   LEVESAM 500 MG TAB        15`S       19         -         0    10         -     18   2547.64     -     -   -  54 
+2   LEVESAM 750MG TAB 15`S    15`S       10        10         0     0         -     10   2125.00     -     -   Y 443 
+3   LEVESAM ORAL SOLN 100ML   100ML      10        10        13     6        12      8   2325.92     -     -   -   3 
+4   UVOX 100 MG TAB           10`S       10        20         0     0        10     10   3526.40     -     -   -  16 
+5   UVOX 50 MG TAB            10`S       17         -         3    11         7     10   2023.30     -     -   -  22 
+6   UVOX CR 100 MG TAB        10`S        9        10         0     0         -     10   3206.20     -     -   Y 492 
+7   VALANCE OD 250 TAB        15`S       13        10         6     7        13     10   1438.97     -     -   -   5 
+8   VALANCE SOLUTION          100 ML     32         -         4    14         3     29   5694.73     -     -   -   2 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               120        60        26    48        45    105         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    25112.00 Purc.Value: :    16746.50 Sales Value::    11477.19
+Cl.Stk Val:     22888.16 Pur.RetVal ::     8058.01 SalRet Val: :        0.00
+Nov Sal:         9684.00 Oct Sal:    :     6331.00 NetSal(GVal):    11477.19
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE CNS TASKFORCE
+LEVESAM 750MG TAB 15`S    15`S       TPL0076    10        443                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE DERMA - ARJUN-9952437840(OLD REP)-achuthanss@gmail.com
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ELOCON LOTION 10 ML       10 ML       3        12         2     0         3     12   2499.48     -     -   -  10 
+2   EMOLENE CREAM 100 GM      100 GM      4         -         2     3         3      1    244.29     -     -   -   1 
+3   FACECLIN FACE WASH 100GM  100GM       4         -         2     0         2      2    738.30     -     -   -   5 
+4   FACECLIN TUBE 20 GM       20 GM      13         -        15     0         8      5    757.05     -     -   -   5 
+5   FOLLIHAIR 30`S JAR        30          4        10         5     4         3     11   5899.74     -     -   -  17 
+6   FOLLIHAIR A 30`S          30`S        3         -         0     0         1      2    975.04     -     -   -   2 
+7   FOLLIHAIR A TAB 15`S      15`S       10        24         7     4        12     20   5467.00     -     -   -  20 
+8   FOLLIHAIR AMPM 20`S       20`S        3         -         0     0         -      3    968.34     -     -   X 171 
+9   FOLLIHAIR TAB 15`S        15`S       26         -        19    22        12     16   4324.80     -     -   -   2 
+10  LOBATE CREAM              30GM        7        20         8     0        11     16   2759.04     -     -   -  20 
+11  LOBATE GN SKIN CREAM      15 GM       7        10         4    -1         5     11    660.42     -     -   *   3 
+12  LOBATE S OINT 30GM        30 GM      19         -         1    12         1     18   2978.10     -     -   -  31 
+13  MELAGLOW NEW 15 G         15 G        8         -         5     5         2      6   1618.20     -     -   -  30 
+14  MELAGLOW NEW 30 GM        30 GM      11         -         6     0         1     10   5552.50     -     -   -  28 
+15  MELAGLOW RICH 20 GM       20 GM      10         -        13     1         -     10   3526.80     -     -   -  42 
+16  MELALITE FORTE CREAM      30 GM       6        10         0     2         6     10   1228.48     -     -   -   2 
+17  MELALITE XL 15 G CREAM    15 G       12         -         6     0         5      5   1191.00     -     -   -   8 
+18  MELALITE-15 CREAM 30GM    30GM        6         -         6     3         2      4    573.27     -     -   -  16 
+19  SELSUN 120 ML             120 ML     10        20        18    17        10     20   5953.86     -     -   -   9 
+20  SELSUN DAILY 120ML        120ML      17         -         0     2         -     17   4802.67     -     -   -  41 
+21  SELSUN DAILY 200ML        200ML       6         -         0     0         -      6   2335.74     -     -   * 107 
+22  SELSUN S SHAMPOO 120ML    120ML       0         -         3     0         -      0         -     -     -   -  79 
+23  SELSUN SHAMPOO 200ML      200ML      31         -         0     0         3     28  11520.04     -     -   *  22 
+24  TACITINIX 5MG TAB         10`S       30         -         0     0         -     30   4821.30     -     -   * 338 
+25  TACITINIX ER 11MG TAB     10`S       30         -         0     0         3     27   6942.78     -     -   *   9 
+26  TACITINIX OINTMENT 15 GM  15 GM      17         -         0     0         -     17   8742.93     -     -   X 100 
+27  TYZA CREAM 15 GM          15 GM       6         -         0     0         1      5    284.00     -     -   -  31 
+28  TYZA CREAM 30 GM          30 GM      10         -         0     0         -     10   1134.00     -     -   Y 357 
+29  TYZA M CREAM 10GM         10GM        7         -         0     0         2      5    429.45     -     -   -  12 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               320       106       122    74        96    327         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    86526.37 Purc.Value: :    25695.26 Sales Value::    24270.32
+Cl.Stk Val:     88928.62 Pur.RetVal ::      492.89 SalRet Val: :        0.00
+Nov Sal:        21028.00 Oct Sal:    :    34435.00 NetSal(GVal):    24270.32
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE DERMA
+LOBATE GN SKIN CREAM      15 GM      GE003      1         05/2026                       SELSUN DAILY 200ML        200ML      AUK0073    6         04/2026  
+SELSUN SHAMPOO 200ML      200ML      EKK0027    28        05/2026                       TACITINIX 5MG TAB         10`S       PLK0214    30        04/2026  
+TACITINIX ER 11MG TAB     10`S       AKK0231    27        04/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE DERMA
+FOLLIHAIR AMPM 20`S       20`S       TLL0043    3         171                           
+SELSUN DAILY 200ML        200ML      AUK0073    6         107                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE DIABETES - SUJIN - 9488505339
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   GLUFORMIN 500 MG TAB      10`S       38        60        40    24        37     61    826.32     -     -   *  23 
+2   GLUFORMIN G 0.5 MG TAB    15`S       33        20        22     2        26     27   1710.61     -     -   -   3 
+3   GLUFORMIN G 1 TAB         15`S       44         -        16    23        35      9   1116.76     -     -   *   1 
+4   GLUFORMIN G 2 TAB         15`S      223       100        81   113        91    232  45659.92     -     -   -   5 
+5   GLUFORMIN G1 FORTE NEW    15`S       53       100         7    40        73     80  11589.60     -     -   -  28 
+6   GLUFORMIN G2 FORTE NEW 15 15`S       20        20         3     9         8     26   5184.00     -     -   -  19 
+7   GLUFORMIN XL 1000 MG TAB  15`S       21        40         0     3        20     41   1822.51     -     -   -  10 
+8   GLUFORMIN XL 500 MG TAB   15`S       36        80        29    16        38     78   1775.32     -     -   -   6 
+9   GLUJECT 10 TAB            15`S       17        20         4    10        14     21   3675.42     -     -   -  24 
+10  GLUJECT 5MG               15`s       16         -         3     3         3     10   1166.80     -     -   -  31 
+11  GLUJECT M 500 TAB 15`S    15`S       26         -         8     6         6     20   2422.60     -     -   -  10 
+12  JANUMET 50/1000 MG TAB    15`S       16        20        16    28         5     31   7572.68     -     -   -   2 
+13  JANUMET 50/500 MG TAB     15`S      134        40       146   113       107     67  16142.66     -     -   -   1 
+14  JANUMET XR CP 7`S         7`S        10         -         0     0         -     10   1992.90     -     -   -  47 
+15  JANUVIA 100 MG TAB        7`S        20        20        20    20        13     27   5120.28     -     -   -   3 
+16  JANUVIA 50 MG TAB         7`S        43        40        25    25        37     46   8575.78     -     -   -  10 
+17  METHIMERCAZOLE 10         30`S        5         -         0     0         -      0         -     -     -   Y 741 
+18  METHIMERCAZOLE 5          30`S       12         -         0     0         -     12   1688.36     -     -   * 253 
+19  NEO MERCAZOLE 10 MG 130`S 130`S      26        10         6    10         6     24   9726.72     -     -   -   5 
+20  NEO MERCOZOLE 5MG 130`S   130`S      23        20         8    15        17     26   5409.30     -     -   -   3 
+21  TRIBET 1 MG TAB           15`S       15        30        16     9        18     27   5824.17     -     -   -   5 
+22  TRIBET 2 MG TAB           15`S       29        10         2    12        14     25   6422.07     -     -   -  19 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               860       630       452   481       568    900         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   151556.64 Purc.Value: :    90532.25 Sales Value::    97153.50
+Cl.Stk Val:    145424.78 Pur.RetVal ::     5715.07 SalRet Val: :        0.00
+Nov Sal:        94715.00 Oct Sal:    :    84356.00 NetSal(GVal):    97153.50
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE DIABETES
+GLUFORMIN 500 MG TAB      10`S       SEK0115    1         04/2026                       GLUFORMIN G 1 TAB         15`S       AYK0156    1         05/2026  
+JANUMET XR CP 7`S         7`S        8791089A   10        06/2026                       METHIMERCAZOLE 5          30`S       SSK0081    2         04/2026  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE DIABETES
+METHIMERCAZOLE 5          30`S       SSK0081    2         253                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE ENDURA - VENKATESH - 9659212137
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ELOCON CREAM 10GM         10GM        4         -         0     1         4      0         -     -     -   -   5 
+2   ELOCON CREAM 30GM         30GM       10         -         0     0         1      9   3378.87     -     -   -   2 
+3   ELOCON OINTMENT           10G         4         -         4     0         3      1    205.71     -     -   *   6 
+4   ELOCON OINTMENT 30 GM     30 G        9         -         0     0         -      9   3454.11     -     -   * 240 
+5   QUADRIDERM RF 10 GM CREAM 10GM      502         -        54    72        87    394  32792.62     -     -   -   5 
+6   QUADRIDERM RF 5 GM CREAM  5GM       716       180        26    14         4    176   8391.68     -     -   -   6 
+----------------------------------------------------------------------------------------------------------------------
+    Total                              1245       180        84    87        99    589         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    81777.63 Purc.Value: :     8582.66 Sales Value::     9932.95
+Cl.Stk Val:     48222.99 Pur.RetVal ::    32482.49 SalRet Val: :        0.00
+Nov Sal:         8058.00 Oct Sal:    :     7057.00 NetSal(GVal):     9932.95
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE ENDURA
+ELOCON OINTMENT           10G        C030624    1         05/2026                       ELOCON OINTMENT 30 GM     30 G       C020524    9         04/2026  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE ENDURA
+ELOCON OINTMENT 30 GM     30 G       C020524    9         240                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE GENERAL MEDICINE - ANANDH-8248929968
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   BILAZEST 20 MG TAB        10`S       23        30        12    14        20     33   4612.08     -     -   -  24 
+2   BILAZEST M TAB            10`S       34        30        21    17        26     33   4907.10     -     -   -  22 
+3   CLARIBID 250 DS           30 ML     196        60        20    82       128    128  21481.99     -     -   -   6 
+4   CLARIBID 250 MG TAB       10`S      126       111        25    58       114    117  20551.02     -     -   -  10 
+5   CLARIBID 500 MG TAB       10`S      111         -        58   109        42     69  20134.89     -     -   -   1 
+6   CLARIBID GRANULES 30 ML   30 ML     323        60        87   215       179    204  19605.84     -     -   *   6 
+7   CLARIBID OD 1G 7`S        7`S        10         -         0     0         -     10   3614.10     -     -   -  42 
+8   CLARIBID OD 500 MG 7`S    7`S        40         -         2    18         -     40   8998.40     -     -   -  43 
+9   ESSENTIALE L 1G           10`S       75        25         3     0         3     25   6687.39     -     -   *  20 
+10  KIDPRED SUSP              60ML      797         -       457   700       433    364   7836.92     -     -   -   1 
+11  PHENERGAN 10 MG TAB       10`S       65         -         0   -20         -     65    875.55     -     -   X 114 
+12  PHENERGAN 25 MG TAB       10`S       70         -         9    59        16     54   2096.00     -     -   -   5 
+13  PHENERGAN INJ AMP         2ML       625      1400       470   130       495   1530  16761.10     -     -   -   6 
+14  PHENERGAN SYR             100 ML     78       100       112    92        80     98   3845.52     -     -   -   3 
+15  SOLSPRE F MIST 6G NASAL S 6 G        65        50        23    42        53     62  20465.90     -     -   *  10 
+16  SOLSPRE NASAL SPRAY       100 ML     19         -        10     8        10      9   3226.23     -     -   -   3 
+17  SP.CLARIBID 250 DS 30ML   30ML        3         -       125    -3         -      3    530.31     -     -   -  64 
+18  SP.CLARIBID 250 MG TAB    10`S        2         -         0     0         -      0         -     -     -   X 136 
+19  SP.CLARIBID 500 MG TAB    10`S       81         -         0     1        12     38   9979.94     -     -   -  10 
+20  SP.CLARIBID GRANULES 30ML 30ML        0         -        30     0         -      0         -     -     -   -  86 
+21  STEMETIL INJ              10X1ML     51        80        23    37        67     64  12262.80     -     -   -   1 
+22  STEMETIL MD               15`S      487       120       323   262       238    369  45058.65     -     -   -   1 
+23  STEMETIL VM TAB           15`S       42         -         0    23         3     39   5640.96     -     -   -  26 
+24  SUPRA PLUS TAB            15`S      481       720       207   225       384    815  33924.31     -     -   *   1 
+25  TIXYLIX G SYRUP           60 ML     117         -        10    20        15    102   6229.14     -     -   -  19 
+26  TIXYLIX LS JUNIOR SYRUP   60 ML     247         -       399   170       106    141   8957.73     -     -   -   1 
+27  TIXYLIX LS SYP            100 ML    239         -        69   199        67    171  15070.72     -     -   *   9 
+28  TIXYLIX NEW SYRUP         60 ML     679         -        90   326       174    501  39292.59     -     -   *   1 
+----------------------------------------------------------------------------------------------------------------------
+    Total                              5086      2786      2585  2784      2665   5084         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   421878.54 Purc.Value: :   148531.24 Sales Value::   218457.94
+Cl.Stk Val:    342647.18 Pur.RetVal ::    29679.11 SalRet Val: :        0.00
+Nov Sal:       245639.00 Oct Sal:    :   199634.00 NetSal(GVal):   218457.94
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE GENERAL MEDICINE
+CLARIBID GRANULES 30 ML   30 ML      MBK0050    1         03/2026                       ESSENTIALE L 1G           10`S       GEK0035    3         03/2026  
+ESSENTIALE L 1G           10`S       GEK0064    2         05/2026                       SOLSPRE F MIST 6G NASAL S 6 G        MND0276A   10        05/2026  
+SOLSPRE F MIST 6G NASAL S 6 G        MND0277A   2         05/2026                       SUPRA PLUS TAB            15`S       WBK0044    4         04/2026  
+TIXYLIX G SYRUP           60 ML      NXL0002    2         06/2026                       TIXYLIX G SYRUP           60 ML      NXL0004    2         06/2026  
+TIXYLIX LS SYP            100 ML     SLK0012    26        01/2026                       TIXYLIX NEW SYRUP         60 ML      TLB24007   1         01/2026  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE GENERAL MEDICINE
+PHENERGAN 10 MG TAB       10`S       PCK0036    20        114                           
+PHENERGAN 10 MG TAB       10`S       PCK0288    45        114                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE INSIGNIA - UMAR FAROOK - 9952425274
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   REFSAV 100 MG TAB         14`S       23        20         0    10        17     23   9768.33     -     -   -  13 
+2   REFSAV 50 MG TAB          14`S       10        10         0     0         -     10   3049.20     -     -   Y 107 
+3   SIAGLIDE - D TABS         10`S       37         -        26     0         2     35   5717.25     -     -   -   8 
+4   SIAGLIDE 100MG TAB        15`S       19         -         0     8         1     18   3818.98     -     -   -  31 
+5   SIAGLIDE 50MG TAB         15`S        6         -         0     0         -      6    924.12     -     -   * 136 
+6   SIAGLIDE M 1000 MG TAB 15 15`S       15        20         3     2         -     20   4363.80     -     -   -  44 
+7   SIAGLIDE M 500 MG TAB 15` 15`S       13        20         0     1         -     21   3891.18     -     -   *  26 
+8   SUPERMET AM TAB           10`S        9         -         0     0         3      6    783.48     -     -   -   1 
+9   SUPERMET XL 100 MG TAB    10`S        7         -         0     0         -      7    755.44     -     -   X  98 
+10  SUPERMET XL 25 MG TAB     15`S      111        80        59   109        93     98   4274.76     -     -   -   9 
+11  SUPERMET XL 50 MG TAB     15`S       56         -        11    43         6     49   3130.95     -     -   -   6 
+12  TELPRES 20 MG TAB         15`S       20         -        15     4         1     19    809.78     -     -   -  19 
+13  TELPRES 40 MG TAB 15`S    15`S       25        20        18    12        27     18   1325.94     -     -   *   6 
+14  TELPRES AM 40 MG TAB      15`S       10         -         7     3         5      5   1219.77     -     -   -   2 
+15  TELPRES BETA 2.5 MG TAB   10`S       27         -         0     3         6     21   1459.08     -     -   -  21 
+16  TELPRES BETA 5 MG TAB     10`S       19         -         0     1         -     19   1533.49     -     -   -  47 
+17  TELPRES TRIO 12.5 TAB 15` 15`S      100         -         0     0         -    100  15750.00     -     -   Y 458 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               507       170       139   196       161    475         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    63205.61 Purc.Value: :    24604.20 Sales Value::    17359.63
+Cl.Stk Val:     62575.55 Pur.RetVal ::     8998.56 SalRet Val: :        0.00
+Nov Sal:        17249.00 Oct Sal:    :    12323.00 NetSal(GVal):    17359.63
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE INSIGNIA
+SIAGLIDE 50MG TAB         15`S       HBUB4004   6         04/2026                       SIAGLIDE M 500 MG TAB 15` 15`S       AKK0170    1         02/2026  
+TELPRES 40 MG TAB 15`S    15`S       TEB24003   4         05/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE INSIGNIA
+SIAGLIDE 50MG TAB         15`S       HBUB4004   6         136                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE METALIFE - ASIRVATHAM - 9750440767
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ABVIDA 50 MG TAB          15`S        9         -         4     0         3      6    846.90     -     -   -   3 
+2   ABVIDA D 10MG TAB 10`S    10`s       14         -         6     2         3     11   1612.26     -     -   -   3 
+3   ABVIDA M 50/500 MG TAB    15`S       23         -         0     1        10     13   2422.03     -     -   -  23 
+4   ABVIDA SR 100 MG TAB      15`S       29        40        30    21        35     34   5672.22     -     -   -   2 
+5   ABVIDA TRIO 500 MG TABS   10`S       11        10         8     5        10     11   1411.64     -     -   -  17 
+6   EMPEXEL 10 MG TAB         15`S       27         -         1     1         2     25   2410.75     -     -   -  16 
+7   EMPEXEL 25 MG TAB         15`S       24        20         7    10        14     30   3471.30     -     -   -  16 
+8   EMPEXEL L 25/5 MG TAB     10`S       44         -        10     2         6     38   4396.98     -     -   -  14 
+9   EMPEXEL M 12.5/500 MG TAB 10`S       43        20        13     0        35     28   2878.68     -     -   -  10 
+10  EMPEXEL M SR 10/1000 MG T 15`S       40         -         0     0         -     40   6557.20     -     -   Y 216 
+11  EMPEXEL M SR 25/1000 MG T 15`S       40         -         0     0         -     40   7328.40     -     -   Y 216 
+12  NERVUP FORTE 15`S TAB NEW 15`S      171         -        41    38        21    150  23650.50     -     -   -   1 
+13  NERVUP INJ 1ML            1AMP       25       100       121   113        66     59   5439.21     -     -   -   2 
+14  NERVUP OD CAPS 15`S       15`S       60        70        45    38        71     59  16625.28     -     -   -   2 
+15  NERVUP PG CAP             10`S       41         -        20     9         -     41   9511.59     -     -   -  34 
+16  NERVUP PN TAB             10`S       16         -         3     2         3     13   1671.41     -     -   *   3 
+17  PPG 0.2 MG TAB            30`S        4        30        15     6        15     19   3527.92     -     -   -   2 
+18  PPG 0.3 MG TAB            30`S       12        20        15    17        24      7   1971.85     -     -   -   1 
+19  PPG MET 0.2 MG TAB        10`S       12         -         2     0         2     10   1036.22     -     -   -  22 
+20  PPG MET 0.3 MG TAB        10`S       10         -         0     0         -     10   1322.10     -     -   X 140 
+21  PPG R 0.5 TAB 15`S        15`s        8         -         0     3         -      8   1107.36     -     -   *  47 
+22  TRIBETROL 1 FORTE TAB 15` 15`S       12         -        10    10        10      2    515.36     -     -   -   3 
+23  TRIBETROL 1MG TAB 15`S    15`S       10         -         0     0         1      9   1603.26     -     -   -  22 
+24  TRIBETROL 2 FORTE TAB     15`S        0         -         3     2         -      0         -     -     -   -  56 
+25  TRIBETROL 2 MG TAB        15`S       10        14         0     2        11     11   2398.55     -     -   -  29 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               695       324       354   282       342    674         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   115101.95 Purc.Value: :    55657.96 Sales Value::    63954.55
+Cl.Stk Val:    109388.97 Pur.RetVal ::      692.92 SalRet Val: :        0.00
+Nov Sal:        47912.00 Oct Sal:    :    60168.00 NetSal(GVal):    63954.55
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE METALIFE
+ABVIDA TRIO 500 MG TABS   10`S       EVL0008    1         06/2026                       NERVUP PN TAB             10`S       AKK0214    13        04/2026  
+PPG R 0.5 TAB 15`S        15`s       AKK0096    1         05/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE METALIFE
+PPG MET 0.3 MG TAB        10`S       SEK0068    10        140                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE MULTI THERAPY - ABM - NAGARAJAN - 7094840835
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   DURAJOINT GM NEW TABS     10`S       11        30        -2     2        14     27   7541.72     -     -   -   1 
+2   ESOGA RD CAPS             10`S       27         -         1     1         -     27   2909.22     -     -   -  54 
+3   KENACORT 0.1% PASTE 7.5 G 7.5 GM     37       100         8    26       104     33   3849.74     -     -   -   2 
+4   KENACORT 10 MG/ML INJ     VIAL       42        50        22    43        72     20   1223.60     -     -   -   1 
+5   KENACORT 40 MG/ML INJ     1 ML       73       216        62    88       178    111  16140.51     -     -   -   6 
+6   KENACORT 4MG TAB 15`S     15`S       22        10         2     0        13     19   2270.57     -     -   -  12 
+7   LIMCEE 500 MG             15`S      674         -       548   445       384    290   4906.80     -     -   -   2 
+8   MODCEF D TAB              10`S       34         -         4     3         5      6   1635.06     -     -   *   2 
+9   MONTI FX TAB              10`S       16         -         0     8         5     11   2067.34     -     -   -  28 
+10  POLIEXAR CAPS 2MG 10`S    10`s       19         -        10     1         1     17   1884.96     -     -   -   2 
+11  POLIEXAR-P TAB            10`S       46         -         5    10         2     44   4754.64     -     -   -  14 
+12  TOSSEX DMR SYP            100ML      84         -        12    46        76      8    790.56     -     -   -   1 
+13  TOSSEX SYP                100ML       1         -         4     0         -      1    138.04     -     -   *  79 
+14  TOSSEX SYP 120ML          120ML     100       200        91    48        75    225  37269.00     -     -   -   2 
+----------------------------------------------------------------------------------------------------------------------
+    Total                              1186       606       767   721       929    839         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    81660.98 Purc.Value: :    87165.74 Sales Value::    82633.39
+Cl.Stk Val:     87381.76 Pur.RetVal ::     6370.59 SalRet Val: :        0.00
+Nov Sal:        45947.00 Oct Sal:    :    43084.00 NetSal(GVal):    82633.39
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE MULTI THERAPY
+ESOGA RD CAPS             10`S       ICK0171    6         06/2026                       MODCEF D TAB              10`S       MRK0414    1         01/2026  
+MODCEF D TAB              10`S       MRK0510    5         02/2026                       TOSSEX SYP                100ML      TWB24030   1         12/2025  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE MULTI THERAPY
+TOSSEX SYP                100ML      TWB24030   1         79                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE NEURO PSYCHIATRY - KARTHEESAN-9944322380
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   EPILEX 200 MG TAB         15`S       20         -        16     0        10     10    394.20     -     -   -  17 
+2   EPILEX CHRONO 200 MG TAB  15`S        5        10         0     3         6      9    891.45     -     -   -  21 
+3   EPILEX CHRONO 300 MG TAB  15`S       21        20        16     4        18     23   1541.46     -     -   -  16 
+4   EPILEX CHRONO 500 MG TAB  15`S       12         -        11    11        11      1    101.95     -     -   -   6 
+5   EPILEX ORAL SOLN 200ML    200ML      63         -        54    49        22     41   3896.64     -     -   -   3 
+6   LIBRIUM 10 MG TAB         15`S       62       140       147    61       120     82   9054.44     -     -   -   8 
+7   LIBRIUM 25 MG TAB         15`S       62        60        36    75        74     47   7842.38     -     -   -   5 
+8   MADOPAR TAB 250MG 10`S    10`S       14        10        10     8        10     14   3633.33     -     -   -   9 
+9   MAZETOL 100 MG TAB 10`s   10`S       16        60        10     0        46     30    233.70     -     -   -   2 
+10  MAZETOL 200 MG TAB        10`S       81        80       121   151        99     62    712.15     -     -   -   3 
+11  MAZETOL SR 200 MG TAB 15` 15`S       20         -         6    16         2     18    474.30     -     -   -  29 
+12  MAZETOL SR 300 TAB 15`S   15`S        6         -         0     2         -      6    270.06     -     -   -  47 
+13  MYSOLINE 250 MG TAB       10`S       38         -        12    41        11     27   2784.24     -     -   -   3 
+14  SZETALO 10MG TAB 15`S     15`S       10         -        10     2         2      8    791.12     -     -   -  14 
+15  SZETALO PLUS              15`S       15         -         3     9         -     15   3901.35     -     -   -  44 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               445       380       452   432       431    393         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    41314.85 Purc.Value: :    31876.30 Sales Value::    38619.95
+Cl.Stk Val:     36522.77 Pur.RetVal ::      152.85 SalRet Val: :        0.00
+Nov Sal:        39079.00 Oct Sal:    :    39710.00 NetSal(GVal):    38619.95
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE NOVA NXT - SUBRAMANIAN.S - 9788928023
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   AQUAVIRON INJ             1ML        54        96        42    42        54     96  15974.40     -     -   -  10 
+2   BETONIN AST SYRUP         400 ML     18         -         0     2         -     18   4790.70     -     -   -  42 
+3   BETONIN AST SYRUP 225 ML  225 ML      0        40         0     0         5     35   5955.60     -     -   -   9 
+4   BETONIN AST SYRUP 420 ML  420 ML      0        16         0     0         1     15   3403.20     -     -   -   9 
+5   BETONIN SYRUP 210 ML      210 ML     11         -         8    12         9      1    144.38     -     -   *  27 
+6   BETONIN SYRUP 420 ML      420 ML      1         -         6     0         -      1    226.88     -     -   -  70 
+7   DELETUS D PLUS SYP        100 ml     61         -         3    14         3     58   6214.88     -     -   -  19 
+8   DELETUS P LIQ             100ML      75       110        85   115        70    115  14024.25     -     -   -  12 
+9   DELETUS PEARLS            10`S       10        30        13     8        21     19   1296.94     -     -   -  17 
+10  DIPSALIC F OINT 20GM      20GM       11         -         9    10         3      8   1023.44     -     -   *  10 
+11  FLAGYL 200 MG TAB 20`S    20`s       21        60        21    49        30     51    609.45     -     -   -  10 
+12  FLAGYL 400 MG TAB 15`S    15`S        1         -         0     0         1      0         -     -     -   -   2 
+13  FLAGYL 400 MG TAB 20`S    20`S       72       150       116   122       133     89   2070.83     -     -   -   3 
+14  FLAGYL SUSP               60ML       59         -        42    33        27     32    723.22     -     -   -   2 
+15  OZEWID CREAM 5 G          5 G        15        25         0    10        17     23   1626.56     -     -   -  24 
+16  OZEWID LOTION 15 ML       15 ML      20         -         0     5         5     15   3500.40     -     -   -   3 
+17  RASHFREE CREAM 30GM       30GM       34         -        10    60        15     18   3207.52     -     -   *   8 
+18  SURBEX XT TAB             15`S       20        90        12     1        45     65   8011.90     -     -   -  19 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               483       617       367   483       439    659         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    50685.69 Purc.Value: :    57661.38 Sales Value::    38807.47
+Cl.Stk Val:     72804.55 Pur.RetVal ::      307.20 SalRet Val: :        0.00
+Nov Sal:        45283.00 Oct Sal:    :    29494.00 NetSal(GVal):    38807.47
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE NOVA NXT
+BETONIN SYRUP 210 ML      210 ML     BID24052   1         04/2026                       DIPSALIC F OINT 20GM      20GM       Y060524    8         04/2026  
+RASHFREE CREAM 30GM       30GM       VE043      1         01/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE NOVA NXT
+BETONIN SYRUP 420 ML      420 ML     BIE25021   1         70                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE OROCARE - -
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   CANDYCOP TOOTH PASTE 70GM 70GM       13         -         2     0         -     13   1396.07     -     -   -  76 
+2   FLAGYL ER 600 MG TAB      10`S        0        20         0     7        10     10    471.00     -     -   -  19 
+3   FLAGYL GEL 20GM           20GM        6         -         0     4         2      4    237.60     -     -   -  31 
+4   GUMLOC 10ML GEL           10ML       16         -        12     1         5     11    828.19     -     -   -  29 
+5   HYDENT K                  100 GM     14        12        12    16        13     13   1764.49     -     -   -   1 
+6   HYDENT PRO TOOTHPASTE     70 GM      15        10         9    11         9     16   3645.54     -     -   -   6 
+7   KETOF DT 10MG             10`S       27         -         5    10        11     15   1011.74     -     -   -  16 
+8   TOOTHMIN PASTE 70 GM      70 GM      13         -         4     1         -     13   2554.11     -     -   -  57 
+9   TRESMOX CV TAB            10`S       19         -         1     0         -     10   1340.40     -     -   -  78 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               123        42        45    50        50    105         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    15151.01 Purc.Value: :     4865.06 Sales Value::     5734.75
+Cl.Stk Val:     13249.14 Pur.RetVal ::     1241.65 SalRet Val: :        0.00
+Nov Sal:         6541.00 Oct Sal:    :     6290.00 NetSal(GVal):     5734.75
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE OROCARE
+KETOF DT 10MG             10`S       ICK0186    0         06/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE OROCARE
+CANDYCOP TOOTH PASTE 70GM 70GM       GPL0003    3         76                            
+CANDYCOP TOOTH PASTE 70GM 70GM       GPL0016    10        76                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE ORTHO - A.SUBRAMANIAN-9944239785
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   DURAPAIN TAB              10`S       18         -        10     0         6     12   2342.05     -     -   -   9 
+2   FEBUSTAT 40 MG TAB        15`S      179       220       341   315       166    233  53934.84     -     -   -   8 
+3   FLEXJAK 5MG TAB           10`S       12         -        12     3         -     12   2121.45     -     -   -  57 
+4   REJOINT NEW 15`S          15`S       19        98        12    24        41     76  35796.48     -     -   -   2 
+5   REJOINT T NEW CAP         15`S        7         -         0     4         1      6   2200.26     -     -   *  12 
+6   REJOINT UC CAP            10`S        2         6         4     3         1      7   5245.03     -     -   -  13 
+7   REJOINT UC PLUS TABS 10`S 10`S        6         9         3     2         3     12   8566.80     -     -   -  17 
+8   ROCALTROL 0.25 MCG CAP    10`S       39         -        39     4        32      4    972.08     -     -   -   6 
+9   ROCALTROL 0.5 MCG CAP     10`S       22         -         0     0         -     22   8485.62     -     -   Y 212 
+10  ROCKBON D 400 IU NEW TABS 15`S        8         -         0     2         -      8   1164.48     -     -   -  35 
+11  SURBEX FE 30 MG TAB       15`S       19         -         0     1         2     17   4543.42     -     -   -  26 
+12  THIOSPAS 4MG CAPS 15`S    15`S       32        10         0     0         -     10   2727.20     -     -   X 148 
+13  THIOSPAS A4 TAB 15`S      15`S       20         -         3     8         1     19   6006.09     -     -   -  24 
+14  ZOLEPHOS IV               100 ML      0         -         2     0         -      0         -     -     -   -  85 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               383       343       426   366       253    438         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   102688.23 Purc.Value: :   110715.55 Sales Value::    74539.12
+Cl.Stk Val:    134105.80 Pur.RetVal ::     8536.31 SalRet Val: :        0.00
+Nov Sal:        97485.00 Oct Sal:    :   113014.00 NetSal(GVal):    74539.12
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE ORTHO
+REJOINT T NEW CAP         15`S       SUK0017    6         04/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE ORTHO
+ROCALTROL 0.5 MCG CAP     10`S       RCB25001   22        212                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE PAIN MANAGEMENT - 
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ESGIPYRIN TAB             15`S       29        54         6    21        29     52   5183.59     -     -   -   1 
+----------------------------------------------------------------------------------------------------------------------
+    Total                                29        54         6    21        29     52         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:     2625.34 Purc.Value: :     5411.34 Sales Value::     2850.87
+Cl.Stk Val:      5183.59 Pur.RetVal ::      165.64 SalRet Val: :        0.00
+Nov Sal:         1982.00 Oct Sal:    :      581.00 NetSal(GVal):     2850.87
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE RESPICARE - JEEVARATNAM
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ASERT D TAB               10`S       32         -        11    23        10     22   5996.32     -     -   -   5 
+2   BASITON FORTE WITH BIOTIN 15`S       58         -        27    13         5     53   2069.65     -     -   -   2 
+3   CEFCHAMP 325 TAB          10`S       79        50        95    72        66     63  18656.33     -     -   -   2 
+4   CROTORAX HC CREAM 10GM    10GM        9         -         0     1         -      9    532.89     -     -   -  33 
+5   CROTORAX LOTION 60ML      60ml        7         -         0     2         -      7    860.16     -     -   -  61 
+6   EBASIL 10 MG TAB          10`S        9         -         0     1         -      9    752.85     -     -   -  33 
+7   EBASIL 20 MG TAB          10`S        0         -         7     0         -      0         -     -     -   -  70 
+8   ENLIVA                    10`S        9         -         0     0         3      6    976.80     -     -   *  10 
+9   FAMTAC 40 MG TAB          14`S      108         -        76    51        48     60   1638.02     -     -   -   6 
+10  HANSEPRAN 100MG           10`S       20         -         0     0         -     20    573.20     -     -   Y 316 
+11  HANSEPRAN 50MG            10`S       15         -         5     9         5     10    151.90     -     -   -  23 
+12  PHENSEDYL CR SYP          100 ML      0         -        11     2         -      0         -     -     -   -  49 
+13  PHENSEDYL LR SYRUP        100ML       9         -         0     0         2      0         -     -     -   -  27 
+14  SETGI CAP                 10`S       41         -         7    18         7     34   3715.86     -     -   -   6 
+15  ZIL O TAB                 10`S       29        30         3    36        28     31   4104.09     -     -   -   6 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               425        80       242   228       174    324         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:    50856.26 Purc.Value: :    16898.13 Sales Value::    30525.56
+Cl.Stk Val:     40028.07 Pur.RetVal ::      626.72 SalRet Val: :        0.00
+Nov Sal:        37994.00 Oct Sal:    :    38678.00 NetSal(GVal):    30525.56
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE RESPICARE
+ENLIVA                    10`S       ADK0061    6         05/2026                       
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE RESPICARE
+CROTORAX LOTION 60ML      60ml       DF001      7         61                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/12/2025 To 31/12/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE RESTORA - RAHURAM - 9791480289
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Oct   Nov      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   ALINFEC 250 INJ           2 ML      543         -       325   300       320    223   3784.04     -     -   -   9 
+2   ALINFEC 500 INJ           2 ML      363         -         0     0         -    363  10428.99     -     -   * 106 
+3   ANAFORTAN INJ 2ML         2ML        60         -         0     0         -     60   1383.00     -     -   X 129 
+4   ANAFORTAN NEW TAB 15`S    15`S       41        36        22    34        32     45   2884.86     -     -   *   8 
+5   ANAFORTAN SYRUP 60ML      60ML        1         -         0     0         -      1     71.94     -     -   * 239 
+6   ANAFORTAN- MF 10`S        10`S       24         -         0     3         -     24   1911.60     -     -   -  41 
+7   CEFI 200 MG TAB 10`S      10`S      310         -        17    40        14    296  15207.55     -     -   -   8 
+8   CEFI 50 D/S 30ML          30ML      121       252        86   127        98    275   7018.00     -     -   -   5 
+9   CEFI XL PLUS TAB          10`S       73         -         1     0         -     73  10010.30     -     -   -  80 
+10  CEROM 500 MG TAB 10`S     10`S       12         -         0     0         -     12   4073.40     -     -   Y 310 
+11  DOXSTEM ER TAB            15`S       22        30         0     0         -     30   6364.50     -     -   X 118 
+12  ESOKEM 20MG TAB 15`S      15`S       20        20         0     0         -     20    975.40     -     -   Y 518 
+13  ESOKEM- D CAP 15`S        15`S       36         -         4     2         2     34   4247.28     -     -   *  28 
+14  FIGHTOX 375 MG TAB        10`S      186         -         0    42        28    158  21967.38     -     -   *   8 
+15  FIGHTOX FORTE DRY SYP     30ML        0       600         0     0        28    572  55363.88     -     -   -   8 
+16  FIGHTOX SUSPENSION 30 ML  30 ML     388       500       370   300       370    518  16548.74     -     -   *   3 
+17  FIGHTOX- 625 TAB 10`S     10`S      282         -         0    42        70    202  19339.48     -     -   -   1 
+18  FINECEF T 1.125GM INJ     INJ       614         -       120    10        60    554  34248.28     -     -   *  28 
+19  FINECEF T 562.5MG INJ     INJ       228         -        80    40         -    228  11276.88     -     -   *  56 
+20  FINECEF- 1G INJ           VIAL     3438         -       515   770       490   2948  55510.84     -     -   *   1 
+21  PROTUSSA SYRUP 60ML       60ml      209       448       305   412       356    301  18473.30     -     -   *   9 
+22  REZFURAN 100MG TAB 14`S   14`S       41        36        12     0        61     16   1505.76     -     -   -   1 
+23  WYMOX 125 MG SUSPENSION   60 ML      12         -         0     3         -     12    484.20     -     -   -  37 
+24  WYMOX 500MG CAP 15`S      15`S       56         -         0     0         -      0         -     -     -   Y 353 
+----------------------------------------------------------------------------------------------------------------------
+    Total                              7080      1922      1857  2125      1929   6965         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   268923.68 Purc.Value: :   120994.13 Sales Value::    88177.74
+Cl.Stk Val:    303079.60 Pur.RetVal ::    10393.74 SalRet Val: :        0.00
+Nov Sal:        84714.00 Oct Sal:    :    71796.00 NetSal(GVal):    88177.74
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE RESTORA
+ALINFEC 500 INJ           2 ML       AHK0086    363       03/2026                       ANAFORTAN NEW TAB 15`S    15`S       PLK0194    2         03/2026  
+ANAFORTAN SYRUP 60ML      60ML       AFA24011   1         11/2025                       CEFI XL PLUS TAB          10`S       MRL0033    2         06/2026  
+CEFI XL PLUS TAB          10`S       MRL0034    9         06/2026                       CEROM 500 MG TAB 10`S     10`S       HMK0102    12        06/2026  
+ESOKEM- D CAP 15`S        15`S       PCK0314    34        04/2026                       FIGHTOX 375 MG TAB        10`S       MRK0340    40        05/2026  
+FIGHTOX SUSPENSION 30 ML  30 ML      MRK0756    0         05/2026                       FINECEF T 1.125GM INJ     INJ        ZEK0071    293       03/2026  
+FINECEF T 1.125GM INJ     INJ        ZEK0081    261       04/2026                       FINECEF T 562.5MG INJ     INJ        ZEK0063    228       03/2026  
+FINECEF- 1G INJ           VIAL       NPK0053    2948      03/2026                       PROTUSSA SYRUP 60ML       60ml       TPK0062    1         05/2026  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE RESTORA
+ALINFEC 500 INJ           2 ML       AHK0086    363       106                           
+ANAFORTAN INJ 2ML         2ML        APL0016    60        129                           
+ANAFORTAN SYRUP 60ML      60ML       AFA24011   1         239                           
+CEFI XL PLUS TAB          10`S       MRL0033    2         80                            
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+

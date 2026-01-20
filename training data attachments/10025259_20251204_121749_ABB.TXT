@@ -1,0 +1,23 @@
+CHM
+    LUCKY VACCINES & SURGICAL PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/11/2025 To 30/11/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LIMITED 
+-----------------------------
+ELAXIM-40MG INJ              1V           0       0        0       0       0         0.00 1453 
+ENTEROSHIELD PFS             1v          25       0       25       0      25     18965.20   80 
+HAV-SHIELD 0.5ML             0.5ml       45       0       45       0      45     52239.84   76 
+INFLUVAC AD INJ              1v           0       0        0       0       0         0.00 2265 
+INFLUVAC PD JUN INJ          1v           0       0        0       0       0         0.00 1980 
+INFLUVAC TETRA               0.5ML      144     240      384     132     252    219579.07   12 
+JE-SHIELD 0.5ML PFS          0.5ml       11       0       11       0      11      5425.15 1756 
+ROTASURE                     1v           0       0        0       0       0         0.00 1035 
+TENECTELEX-30MG INJ          1v           0       0        0       0       0         0.00  722 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :   155760.00 
+Purchase Value :   442368.00 Closing Value :   296209.26 
+------------------------------------------------------------------------------------------------
+P

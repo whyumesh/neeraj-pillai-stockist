@@ -1,0 +1,255 @@
+
+                             DAAS MEDICAL AGENCY                                
+                         COMPANY STOCK STATEMENT ( SR )                         
+                          FROM 01/12/2025 TO 31/12/2025                         
+Company : NICOLAS PIRAMAL LTD                
+--------------------------------------------------------------------------------
+PRODUCT                   UNIT      OP_QNTY   PUR-QNTY  SALE-QNTY   BAL-QNTY
+--------------------------------------------------------------------------------
+ACITRAM 1MG TAB          |1*30  |         0|         0|         0|         0
+ACITRAM 2MG TAB          |1*30  |         0|         0|         0|         0
+ACITROM 4 MG             |1*20  |         0|         0|         0|         0
+ALINFEC 100              |2ML   |       400|         0|         0|       400
+ALINFEC 250 MG           |2ML   |         0|         0|         0|         0
+ALINFEC 500 MG           |2ML   |         0|         0|         0|         0
+AMBISTRYN 0.75G          |1 VAIL|         0|         0|         0|         0
+ANAFORTAN 2ML            |2ML   |        90|         0|        80|        10
+ANAFORTAN DROPS          |10ML  |       108|         0|        65|        43
+ANAFORTAN MF TAB         |1*10  |        -8|         1|         0|        -7
+ANAFORTAN N TAB          |1*10  |       186|         2|        13|       175
+ANAFORTAN SYP            |30ML  |        83|         0|        15|        68
+ANAFORTAN TAB            |15T   |       245|       240|       208|       277
+ANAFORTAN-VOIL           |20ML  |        -1|         0|         0|        -1
+ANASPAS AMP 2ML          |2ML   |       210|         0|       140|        70
+ANASPAS TABS             |1*10  |         1|         0|         0|         1
+AQUAVIRON INJ            |1ML   |        -6|         0|         0|        -6
+ASCABIOL 50ML            |1 Pc. |       -10|       140|         7|       123
+ASCABIOL LOTION 100ML    |1 Pc. |       -21|         0|         0|       -21
+AVOMINE 25 TAB           |1*10  |         0|         0|         0|         0
+AZRO 200 SYP             |30ML  |         0|         0|         0|         0
+AZRO 250 TAB             |1*6   |         0|         0|         0|         0
+AZRO 500 TAB             |1*5   |         3|         0|         0|         3
+BACTRIM -DS              |1*10  |        80|       200|       124|       156
+BASITON FORTE NEW        |1*15  |        20|         0|         0|        20
+BECOMAX C FORTE          |1*15  |         0|         0|         0|         0
+BETOGAIN SYP 200ML       |200ML |         0|         0|         0|         0
+BETONIN SYP 450ML        |1 Pc. |        92|         1|        30|        63
+BETONIN SYRUP 225ML      |1 Pc. |       138|         0|        56|        82
+CANDYCOP TOOTHPASTE      |70GM  |         0|         0|         0|         0
+CEFI 200 TAB             |10TAB |       423|         0|        48|       375
+CEFI O 200MG TAB         |10T   |       340|         0|        32|       308
+CEFI XL 200MG            |1*10  |         0|         0|         0|         0
+CEFI XL D RF 200         |1*10  |         0|         0|         0|         0
+CEROM 250 TAB            |1*10  |         0|         0|         0|         0
+CEROM 500                |1*10  |       155|         0|       136|        19
+CEROM CV 500 TAB         |1*6   |       192|         0|         0|       192
+CEROM DYP SYP            |30ML  |       181|         0|        48|       133
+CLARIBID 250 TAB         |1*10  |        -1|        51|        11|        39
+CLARIBID 500 TAB         |1*10  |        -1|         0|         0|        -1
+CLARIBID OD 500 TAB      |1*7   |         0|         0|         0|         0
+CLARIBID SYP             |30ML  |        -4|         0|         0|        -4
+CREMADIET POWDER         |1PACK |        -2|         0|         0|        -2
+CURENEXT 50GM            |50GM  |         0|         0|         0|         0
+CYTOGARD MR              |1*10  |         0|         0|         0|         0
+DELETUS D SYP            |100ML |         0|         0|         0|         0
+
+                             DAAS MEDICAL AGENCY                                
+                         COMPANY STOCK STATEMENT ( SR )                         
+                          FROM 01/12/2025 TO 31/12/2025                         
+Company : NICOLAS PIRAMAL LTD                
+--------------------------------------------------------------------------------
+PRODUCT                   UNIT      OP_QNTY   PUR-QNTY  SALE-QNTY   BAL-QNTY
+--------------------------------------------------------------------------------
+DELETUS LS SYP           |100ML |         0|         0|         0|         0
+DELETUS P SYP            |100ML |         0|         0|         0|         0
+DIPSALIC F OINT          |20GM  |         0|         0|         0|         0
+DOXSTEM ER TAB           |1*15  |        10|         0|         0|        10
+DURAJOINT GM NEW         |1 STRI|       -14|         0|         0|       -14
+DURAPAIN TAB             |1*10  |         0|         0|         0|         0
+DUVADILAN RETARD CAPS    |1*10  |        32|         0|         0|        32
+EBILITY TABS             |1*10  |         0|         0|         0|         0
+EPILEX 500 TAB           |10T   |         0|         0|         0|         0
+EPILEX CHRONO 200 TAB    |1*10  |        -2|         0|         0|        -2
+EPILEX CHRONO 300 TAB    |1*10  |         0|         0|         0|         0
+EPILEX CHRONO 500 TAB    |1*10  |         0|         0|         0|         0
+EPILEX SYP               |100ML |         0|         0|         0|         0
+ESGIPYRIN INJ            |1AMP  |         0|         0|         0|         0
+ESGIPYRIN TAB ETHCAL     |1*10  |        49|         0|         0|        49
+ESOGA RD CAP             |1*10  |        -7|         0|         0|        -7
+ESOKEM 20 TAB            |10C   |         0|         0|         0|         0
+ESOKEM 40 TAB            |1*10  |        79|         0|         0|        79
+ESOKEM D CAP             |1*10  |        13|         0|        16|        -3
+ESOKEM IT CAP            |1*10  |         0|         0|         0|         0
+ESSENTIAL L 1gm          |1*10  |         0|         0|         0|         0
+FABOLITE POWDER          |100GM |        -2|         0|         0|        -2
+FABOLITE POWDER 300GM    |300GM |         1|         0|         0|         1
+FAMTAC 40MG              |1*14  |         0|         0|         0|         0
+FEBUSTAT 40              |1*150 |         0|         0|         0|         0
+FEBUSTAT 80 TAB          |1*10  |         0|         0|         0|         0
+FIGHTOX 625 TAB          |1*10  |       328|         0|        24|       304
+FIGHTOX ES SYP           |50ML  |         0|         0|         0|         0
+FINCEF T 1.125MG         |1VAIL |         7|         0|         0|         7
+FINCEF T 562.5 MG        |1VAIL |       416|       408|       416|       408
+FINCEF-100DT             |10T   |         0|         0|         0|         0
+FINECEF 100MG SYP        |1PC   |         0|         0|         0|         0
+FINECEF 1GM              |1 VAIL|      2714|         0|       820|      1894
+FINECEF 250 MG INJ       |1VAIL |       432|         0|         0|       432
+FINECEF 500MG INJ        |1 VAIL|        -1|       408|         0|       407
+FINECEF 50MG SYP         |30ML  |         0|         0|         0|         0
+FINECEF O 200 TAB        |10T   |         0|         0|         0|         0
+FINECEF S 1.5GM          |1VIAL |       386|         0|         0|       386
+FINECEF T 281.25 ING     |1VAIL |       326|         0|         0|       326
+FINECEF-200DT            |10T   |         0|         0|         0|         0
+FINECEF-CV SYP           |30ML  |         0|         0|         0|         0
+FLAGYL 200               |1*10  |         0|         0|         0|         0
+FLAGYL SYP               |60ML  |        -1|       600|       120|       479
+FLAGYL-400 TAB           |15T   |        58|       330|       113|       275
+FLOXIP I V               |100ML |         0|         0|         0|         0
+FYBOGEL POW              |100GM |         0|         0|         0|         0
+
+                             DAAS MEDICAL AGENCY                                
+                         COMPANY STOCK STATEMENT ( SR )                         
+                          FROM 01/12/2025 TO 31/12/2025                         
+Company : NICOLAS PIRAMAL LTD                
+--------------------------------------------------------------------------------
+PRODUCT                   UNIT      OP_QNTY   PUR-QNTY  SALE-QNTY   BAL-QNTY
+--------------------------------------------------------------------------------
+G-3                      |1*20  |         0|         0|         0|         0
+G-6                      |1*20  |         0|         0|         0|         0
+GANATONE 50 TAB          |1*10  |         0|         0|         0|         0
+GARDINAL SYP             |60ML  |         0|         0|         0|         0
+GENTICIN 20MG ING        |1VAIL |         0|         0|         0|         0
+GENTICYN 80MG INJ        |1*2ML |      3270|         0|       540|      2730
+GLIMER 1 TAB             |1*15  |         0|         0|         0|         0
+GLIMER 2 MG              |1*15  |         0|         0|         0|         0
+GLUFORMIN G1 FORTE TAB   |1*15  |         0|         0|         0|         0
+GLUFORMIN G2 TAB         |1*15  |         0|         0|         0|         0
+GLUFORMIN XL 500TAB      |1*10  |         0|         0|         0|         0
+GTN SORBITRATE 2.6 TAB   |1PC   |         0|         0|         0|         0
+GUMLOC GEL               |10ML  |         0|         0|         0|         0
+GUTNEXT SACHET           |1*1GM0|         0|         0|         0|         0
+HAEMACEL IV              |500ML |        78|         0|         0|        78
+HANSAPRAN 100MG          |1*10  |         0|         0|         0|         0
+HANSEPRAN 50MG           |1*10  |         0|         0|         0|         0
+HYDENT K 100             |100GM |         2|         0|         0|         2
+HYDENT-PRO TOOTHPASTE 70G|70GM  |        16|         0|         0|        16
+ISMO 10 TAB              |1*20  |         0|         0|         0|         0
+ISMO 20 TAB              |1*10  |         0|         0|         0|         0
+IVABID OD 10 TAB         |1*10  |        16|         0|         0|        16
+KENACORT 0.1% WITH APPLIC|1PC   |         5|        25|         1|        29
+KENACORT 4MG TAB         |1*10  |         0|         0|         0|         0
+KENACORT 8 MG TAB        |1*10  |         0|         0|         0|         0
+KENACORT HEXA INJ        |20MG/M|         0|         0|         0|         0
+KENACORT ORAL PASTE      |5GM   |         0|         0|         0|         0
+KENACORT PFS 40MG/ML     |1PC   |         0|         0|         0|         0
+KENAKORT 40MG            |1VAIL |        55|        46|        70|        31
+KETOF DT TAB             |1*10  |         0|         0|         0|         0
+LIBRIUM 10 MG            |1*10  |         0|         5|         7|        -2
+LIMCEE ACTIVE TAB        |1*15  |         0|         0|         0|         0
+LIMCEE PLUS              |1*15  |         0|         0|         0|         0
+LIMCEE TAB               |1*10  |         1|       200|       200|         1
+LOBATE GM NEO CREAM      |15 GM |        25|         0|        24|         1
+LOBATE GM NEO LOTION     |25GM  |         0|         0|         0|         0
+LULIBET 20GM CREAM       |20GM  |         0|         0|         0|         0
+LUNABET CREAM            |1 Pc  |         0|         0|         0|         0
+LUNABET LOTION           |15ML  |         0|         0|         0|         0
+MALIDENS TAB             |1*10  |         0|         0|         0|         0
+MELALITE CREAM           |1 TUBE|         0|         0|         0|         0
+MELALITE FORTE CREAM     |1PC   |         0|         0|         0|         0
+MODCEF-D TAB             |1*10  |         0|         0|         0|         0
+MONTI FX TAB             |1*10  |         0|         0|         0|         0
+MULTIDERM-5GM            |5GM   |         0|         0|         0|         0
+NEBASELF OINT            |20GM  |         0|         0|         0|         0
+
+                             DAAS MEDICAL AGENCY                                
+                         COMPANY STOCK STATEMENT ( SR )                         
+                          FROM 01/12/2025 TO 31/12/2025                         
+Company : NICOLAS PIRAMAL LTD                
+--------------------------------------------------------------------------------
+PRODUCT                   UNIT      OP_QNTY   PUR-QNTY  SALE-QNTY   BAL-QNTY
+--------------------------------------------------------------------------------
+NEBASULF POWDER          |10GM  |        17|         0|        17|         0
+ORAHEX PRO BGARGEL       |100ML |         0|         0|         0|         0
+OZEWID 5GM               |5GM   |         0|         0|         0|         0
+PANDIFF CAPS             |10CAP |         0|         0|         0|         0
+PANDIFF IV VAIL          |1VAIL |         0|         0|         0|         0
+PARAXIN 250 CAPS         |1*10  |         0|         0|         0|         0
+PARAXIN 500CAP           |1*10  |        20|         0|         0|        20
+PARAXIN SYP              |100ML |         0|         0|         0|         0
+PENTIDS 200              |1*6   |       380|         0|       320|        60
+PENTIDS 400              |1*6   |       320|         0|       320|         0
+PENTIDS 800 TAB          |1*4   |         0|         0|         0|         0
+PHENERGAN 25             |1*10  |         0|         0|         0|         0
+PHENERGAN 60ML           |1 Pc. |         0|         0|         0|         0
+PHENERGAN AMP            |1AMP  |       245|       200|       150|       295
+PHENERGAN SYP 100ML      |1 Pc. |       -10|         0|         0|       -10
+PHENERGAN-10             |1*10  |         1|         0|         0|         1
+POLIEXAR 2MG CAP         |1*10  |         0|         0|         0|         0
+PROTHIADEN 25            |1*10  |         4|         0|         0|         4
+PROTHIADEN 50 MG         |1*10  |         0|         0|         0|         0
+PROTHIADEN 75 TAB        |10T   |         0|         0|         0|         0
+PROTHIADEN M TAB         |10T   |         0|         0|         0|         0
+PROTUSSA SYP             |60ML  |        21|        64|        39|        46
+QUADRIDERM cream         |5GM   |        -2|         0|         0|        -2
+RASHFREE CREAM           |1 Pc. |         0|         0|         0|         0
+REBOOT M CAP             |1*10  |         0|         0|         0|         0
+REJOINT MAX TAB          |10T   |        12|         0|         0|        12
+REJOINT TAB              |1*10  |         0|         0|         0|         0
+RESTECLIN 250MG          |1*10  |       408|         0|        12|       396
+RESTECLIN 500MG CAP      |1*10  |         2|         0|         0|         2
+REZFURAN 100             |1*10  |       139|         0|        12|       127
+ROCKBON KIT              |1KIT  |         0|         0|         0|         0
+ROCKBON TAB              |1*15  |         2|         0|         0|         2
+SAFEDICLO CAP            |1*10  |         0|         0|         0|         0
+SELSUN SHAMPOO           |1PC   |         0|         0|         0|         0
+SORBITRATE 10MG          |1*50  |         1|         0|         0|         1
+SORBITRATE 5             |1*10  |         9|         0|         7|         2
+STEMETIL AMP             |12AMP |       300|         0|       190|       110
+STEMETIL MD TAB          |21TAB |         4|         0|         0|         4
+SUPRACTIVE CAP           |1*10  |         0|         0|         0|         0
+SURBEX FE TAB            |1*15  |        15|         0|         0|        15
+SURBEX-XT TAB            |15TAB |        30|         0|         0|        30
+TELPRES CT 40            |1*10  |         5|         0|         0|         5
+TELPRES H 40 TAB         |1*10  |         0|         0|         0|         0
+TENORMIN 25 TAB          |1*14  |         0|         0|         0|         0
+TENORMIN 50MG TAB        |1*14  |         0|         0|         0|         0
+THIOSPAS 4 TAB           |10T   |         0|         0|         0|         0
+
+                             DAAS MEDICAL AGENCY                                
+                         COMPANY STOCK STATEMENT ( SR )                         
+                          FROM 01/12/2025 TO 31/12/2025                         
+Company : NICOLAS PIRAMAL LTD                
+--------------------------------------------------------------------------------
+PRODUCT                   UNIT      OP_QNTY   PUR-QNTY  SALE-QNTY   BAL-QNTY
+--------------------------------------------------------------------------------
+THIOSPAS 8 MG            |1*10  |         0|         0|         0|         0
+THIOSPAS A 4 MG          |1*10  |        20|         0|         0|        20
+TIXYLIX DX SYP           |1PC   |         0|         0|         0|         0
+TIXYLIX G SYP            |60ML  |        52|         0|         1|        51
+TIXYLIX LS Jr SYP        |60ML  |        -1|         0|         0|        -1
+TIXYLIX LS SYP           |100ML |       -21|         0|         0|       -21
+TIXYLIX SYP              |60ML  |         3|       260|        30|       233
+TOOTHMIAN PEST           |1*70G |         3|         0|         0|         3
+TOOTHMIN 70GM            |70GM  |         0|         0|         0|         0
+TOSSEX 12 SYP            |100ML |         0|         0|         0|         0
+TOSSEX DMR               |100ML |         0|         0|         0|         0
+TOSSEX SYP               |100ML |       157|         0|       346|      -189
+TOSSEX XP SYP            |100ML |         0|         0|         0|         0
+TRESMOX LB TAB           |1*10  |        29|         0|         0|        29
+VALIUM 2MG TAB           |1*10  |         0|         0|         0|         0
+VALIUM 5MG TAB           |1*10  |         0|         0|         0|         0
+VILIUM 10 TAB            |1*10  |         0|         0|         0|         0
+VILIUM-2 MG              |1*10  |         0|         0|         0|         0
+VILIUM-5MG               |1*10  |         5|         0|         0|         5
+WYMOX 250 CAP            |1*10  |       181|         0|       157|        24
+WYMOX 250 DISTAB         |1*10  |         0|         0|         0|         0
+WYMOX 500 CAP            |1*10  |        89|         0|        35|        54
+WYMOX DT 250 MG          |1*15  |         0|         0|         0|         0
+WYMOX KID125             |1*10  |         0|         0|         0|         0
+WYMOX SYP 30ML           |30ML  |         0|         0|         0|         0
+WYMOX SYP 60ML           |60 ML |         0|         0|         0|         0
+ZIL O TAB                |1*10  |         0|         0|         0|         0
+--------------------------------------------------------------------------------
+GRAND TOTAL  OPENING     622994.31  PURCHASE     136054.72
+             SALES       253205.05  CLOSING      505843.98
+--------------------------------------------------------------------------------

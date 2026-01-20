@@ -1,0 +1,36 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT GENNEXT DIVISION       
+STOCK & SALES STATEMENT AS ON 31/12/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                     0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+ARACHITOL INJ 6L       6X1ML         4     -       1     -         1     -    -        3     -  NoOrder  352.37   1057   352       -    -    -    -
+ARACHITOL KIDS 400IU . 15ML         12     -      -      -         1     -    -       11     -  NoOrder  151.84   1670   152       -    -    -    -
+ARACHITOL NANO DAILY 2               0     -      -      -        -      -    -        0     -  NoOrder  258.52     -     -        -    -    -    -
+ARACHITOL NANO SF(60K  4*5ML        13     -       7      1        7     -    -        6     -        2  329.51   1977  2307       -    1    1    1
+BRUFEN 200MG           15'S         48     -       4      6        5     -    -       43     -  NoOrder    8.47    364    42       -    -    -    -
+BRUFEN 400MG           15'S         45     -      25     45       14     -    -       31     -       11   19.50    605   273       -    -    -   11
+BRUFEN 600MG           15'S         30     -       5      3        6     -    -       24     -  NoOrder   27.52    660   165       -    -    -    -
+BRUFEN POWER SPRAY     20GM          0     -      -      -        -      -    -        0     -  NoOrder   60.72     -     -        -    -    -    -
+**BRUGEL ACTFAST GEL   30GM          5     -       2     -         2     -    -        3     -  NoOrder  150.43    451   301       -    -    -    -
+DIGECAINE              200 ML       18     -       1     -        -      -    -        0     -        1  153.51     -     -        -    -    -    -
+DOXSTEM TAB            30'S          0     -      -      -        -      -    -        0     -  NoOrder  111.43     -     -        -    -    -    -
+DUPHALAC BEARS         1.668G        0     -      -      -        -      -    -        0     -  NoOrder  185.42     -     -        -    -    -    -
+**DUVADILAN RETARD     10'S         30     -      -      -        -      -    -       30     -  NoOrder  217.36   6521    -        -    -    -    -
+DUVADILAN TAB          50'S         11     -       1      5        5     -    -        6     -  NoOrder  174.45   1047   872       -    -    -    -
+**DUVADILAN-INJ        6X2ML         4     -      -      -        -      -    -        4     -  NoOrder  155.23    621    -        -    -    -    -
+NEFOSAR 30MG TAB       10'S          0     -      -      -        -      -    -        0     -  NoOrder   71.30     -     -        -    -    -    -
+ZOLFRESH 10MG          15'S         32     50     31     20       43     -    -       39     -        8  103.89   4052  4467       -    -    -    8
+ZOLFRESH 5MG           15'S         17     80     44     50       59     -    -       38     -       39   75.80   2880  4472       -    -   14   25
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   25344.42    PURCHASE..... VALUE :       0.00
+           SALES VALUE :   13735.22    CLOSING STOCK VALUE :   20705.81
+LAST MONTH SALES VALUE :    8271.93
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

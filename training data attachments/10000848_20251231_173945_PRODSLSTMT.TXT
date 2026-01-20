@@ -1,0 +1,613 @@
+
+                               KUMAR DRUG AGENCY
+                         GANDHI CHOWK(BALUA),WARD NO.12
+                                MADHUBANI-847211
+                                   BIHAR-[10]
+                                   MADHUBANI
+                         From :01/12/2025 To 31/12/2025
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.1
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ ARACHITOL INJECTION 6L 6X1 ML
+ KD/6602         19/12/25 VIVEK MEDICIN CENTER           PCL0569            1                      387              387
+ KD/6799         29/12/25 NICE MEDICAL HALL              PCL0569            1                      387              387
+                          Total : 2                                         2                                       775
+ ARACHITOL NANO SUGAR FREE
+ KD/6422         11/12/25 NEELAM DRUG AGENCY             RPL0003            5                      329             1647
+ KD/6422         11/12/25 NEELAM DRUG AGENCY             RPL0001            1                      329              329
+ KD/6475         13/12/25 MAA AMBIKA PHARMA              RPL0003            2                      329              659
+ KD/6527         16/12/25 SAKSHI MEDICAL                 RPL0003            1                      329              329
+ KD/6824         30/12/25 AMAN DRUG AGENCY               RPL0003            1                      329              329
+ S.No.46         31/12/25 URMILA MEDICAL HALL            RPL0001            1                      329              329
+                          Total : 6                                         11                                     3624
+ BRUFEN 200 MG 15S
+ KD/6152         02/12/25 NEETA DRUGS                    822779D7           3                        8               25
+                          Total : 1                                         3                                        25
+ BRUFEN 400 TAB
+ KD/6570         18/12/25 KUMAR MEDICAL STORES.          812818D7           6                       19              117
+ KD/6654         22/12/25 MUKESH PHARMA                  802802D7           5                       19               97
+ KD/6801         29/12/25 SHRI LAKHAN DRUG AGENCY        812818D7           45                      19              877
+                          Total : 3                                         56                                     1092
+ BRUFEN 600 MG TAB
+ KD/6149         02/12/25 SEWAK MEDICAL HALL             792858D7           3                       30               90
+ KD/6167         02/12/25 NAYAK DRUG AGENCY(MAIBI)       822853D7           30                      30              908
+ KD/6317         08/12/25 CHAUDHREE MEDICAL HALL         822853D7           12                      30              363
+ KD/6421         11/12/25 KRISHNA DRUG AGENCY            822853D7           12                      30              363
+ KD/6570         18/12/25 KUMAR MEDICAL STORES.          822853D7           6                       30              181
+ KD/6629         20/12/25 OM MEDICAL HALL                822855D7           10                      30              302
+ KD/6654         22/12/25 MUKESH PHARMA                  822855D7           5                       30              151
+ KD/6801         29/12/25 SHRI LAKHAN DRUG AGENCY        822855D7           30                      30              908
+                          Total : 8                                        108                                     3269
+ COLOSPA-RETARD
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          CRA25001           1                      441              441
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          CRB25003           1                      441              441
+ KD/6124         01/12/25 SHAKTI MEDICAL STORES          CRB25003           3                      441             1324
+ KD/6726         24/12/25 PODDAR PHARMA                  CRB25003           4                      441             1765
+                          Total : 4                                         9                                      3972
+ COLOSPA-TAB 135MG TAB
+ KD/6217         04/12/25 PRADHAN MEDICAL HALL           PAMA5019           3                      309              929
+ KD/6224         04/12/25 BHAGWAN PRASAD AGRAWAL         PAMA5024           10                     309             3098
+ KD/6224         04/12/25 BHAGWAN PRASAD AGRAWAL         PAMA5019           5                      309             1549
+ KD/6789         29/12/25 SRI GANESH DRUG AGENCY         PAMA5025           2                      309              619
+                          Total : 4                                         20                                     6197
+ COLOSPA-X TAB
+ KD/6148         02/12/25 MAHA LAXAMI MEDICAL STORES     MPL0063            2                      318              637
+ KD/6217         04/12/25 PRADHAN MEDICAL HALL           MPL0063            2                      318              637
+ KD/6772         27/12/25 SHANTI MEDICAL HALL.           MPL0063            1                      318              318
+ KD/6772         27/12/25 SHANTI MEDICAL HALL.           MPL0086            1                      318              318
+ KD/6799         29/12/25 NICE MEDICAL HALL              MPL0063            2                      318              637
+ S.No.39         31/12/25 BABLOO DRUG AGENCY             MPL0063            1                      318              318
+                          Total : 6                                         9                                      2870
+ CREMAFFIN MINT 225ML
+ KD/6127         01/12/25 GUPTA DRUG AGENCY              782502D7           15                     220             3310
+ KD/6167         02/12/25 NAYAK DRUG AGENCY(MAIBI)       782502D7           3                      220              662
+ KD/6353         09/12/25 NEW JANTA MEDICAL HALL         782502D7           2                      220              441
+ KD/6355         10/12/25 BISWANATH MEDICAL HALL         782502D7           5                      220             1103
+ KD/6795         29/12/25 MAA DURGA MEDICAL HALL         772617D7           2                      220              441
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.2
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6843         30/12/25 MAA DURGA DRUG  AGENCY.        772617D7           10                     220             2206
+                          Total : 6                                         37                                     8164
+ CREMAFFIN PLUS SYP 225ML
+ KD/6100         01/12/25 ARYA DRUG AGENCY               812580D7           5                      257             1286
+ KD/6120         01/12/25 OM MEDICAL HALL                812580D7           2                      257              514
+ KD/6153         02/12/25 NIRAJ MEDICAL HALL(BENI)       812580D7           1                      257              257
+ KD/6155         02/12/25 SAKSHI MEDICAL                 812580D7           3                      257              772
+ KD/6224         04/12/25 BHAGWAN PRASAD AGRAWAL         812580D7           5                      257             1286
+ KD/6247         05/12/25 GURUNANAK DRUG AGENCY          812580D7           2                      257              514
+ KD/6248         05/12/25 SHIV SHAKTI DRUG AGENCY(RAJNAG 812580D7           2                      257              514
+ KD/6284         08/12/25 AMAN PHARMA                    812580D7           5                      257             1286
+ KD/6289         08/12/25 HEART HOSPITAL MEDICO          812580D7           15                     257             3860
+ KD/6311         08/12/25 SHAKTI MEDICAL STORES          812580D7           5                      257             1286
+ KD/6360         10/12/25 SHRI RAM MEDICAL HALL          812580D7           3                      257              772
+ KD/6355         10/12/25 BISWANATH MEDICAL HALL         812580D7           5                      257             1286
+ KD/6486         15/12/25 OM MEDICAL HALL                812580D7           2                      257              514
+ KD/6555         17/12/25 GAUTAM MEDICAL HALL            812580D7           5                      257             1286
+ KD/6568         18/12/25 MAX MEDICA MEDICAL HALL        812580D7           10                     257             2573
+ KD/6601         19/12/25 MILAN MEDICAL                  812580D7           3                      257              772
+ KD/6645         22/12/25 GUPTA DRUG HOUSE               812592D7           15                     257             3860
+ KD/6641         22/12/25 MAA GIRJA DRUG AGENCY          812580D7           3                      257              772
+ KD/6650         22/12/25 NIRAJ MEDICAL HALL(BENI)       812580D7           2                      257              514
+ KD/6686         23/12/25 REKHA MEDICAL                  812580D7           3                      257              772
+ KD/6783         27/12/25 M/S NEW RAJA PHARMA            812551D7           3                      257              772
+ KD/6799         29/12/25 NICE MEDICAL HALL              812580D7           2                      257              514
+ KD/6843         30/12/25 MAA DURGA DRUG  AGENCY.        812580D7           6                      257             1544
+ KD/6845         30/12/25 PRASAD MEDICAL HALL            812592D7           2                      257              514
+                          Total : 24                                       109                                    28053
+ CREMALAX TABS 15S
+ KD/6155         02/12/25 SAKSHI MEDICAL                 793241D7           2                      191              382
+ KD/6336         09/12/25 SAKSHI MEDICAL                 793241D7           1                      191              191
+ KD/6336         09/12/25 SAKSHI MEDICAL                 753241D7           1                      174              174
+ KD/6553         17/12/25 PRADHAN MEDICAL HALL           793241D7           1                      191              191
+                          Total : 4                                         5                                       939
+ CREON-10000-CAP
+ KD/6187         03/12/25 A.S.PHARMA                     CNA25004           1                      626              626
+ KD/6598         18/12/25 NEW RITESH MEDICO              CNA25011           3                      626             1878
+ KD/6671         22/12/25 GUPTA DRUG AGENCY              CNA25011           2                      626             1252
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          CNA25011           1                      626              626
+                          Total : 4                                         7                                      4382
+ CREON-25000 MG TAB
+ KD/6673         22/12/25 MAA DURGA DRUG  AGENCY.        CNB25013           1                      941              941
+ KD/6817         29/12/25 GUPTA DRUG AGENCY              CNB25013           4                      941             3767
+                          Total : 2                                         5                                      4709
+ DIGECAINE FRUITPUNCH 200ML PAC
+ KD/6240         05/12/25 WEDANG ENTERPRISES             ZBMA5003           1                      168              168
+ KD/6503         15/12/25 SRI GANESH DRUG AGENCY         ZBMA5003           1                      168              168
+ KD/6661         22/12/25 SRI GANESH DRUG AGENCY         ZBMA5003           1                      168              168
+ KD/6759         26/12/25 VIVEK MEDICIN CENTER           ZBMA5003           3                      168              506
+                          Total : 4                                         6                                      1013
+ DIGENE GEL200ML
+ KD/6200         04/12/25 MAHAVIR MEDICAL                DGH25010           2                      137              275
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            DGH25010           10    9+1              137             1377
+ KD/6502         15/12/25 SANJAY MEDICAL HALL.           DGH25010           10    9+1              137             1377
+ KD/6714         24/12/25 NARAYAN PHARMA                 DGH25010           6     9+1              137              826
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          DGH25010           5     9+1              137              688
+ KD/6813         29/12/25 MAA MEDICAL HALL               DGH25010           2                      137              275
+ S.No.10         31/12/25 SEWAK MEDICAL HALL             DGH25010           2                      137              275
+                          Total : 7                                         37                                     5095
+ DIGENE TAB
+ KD/6102         01/12/25 JANTA MEDICAL HALL             792105D7           30    9+1               20              625
+ KD/6191         03/12/25 KAMAL MEDICAL HALL             792105D7           10    9+1               20              208
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.3
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6309         08/12/25 RAJESH MEDICAL HALL(MAMAL)     792105D7           3                       20               62
+ KD/6337         09/12/25 RAJ DRUG AGENCY-1(BHOW)        792105D7           30    9+1               20              625
+ KD/6338         09/12/25 VISHNU MEDICAL HALL            792105D7           30    9+1               20              625
+ KD/6643         22/12/25 MAA LAXMI AUSHDHALAYA          792105D7           30    9+1               20              625
+ KD/6705         23/12/25 NEW JANTA MEDICAL HALL(LAUFA)  792105D7           30    9+1               20              625
+                          Total : 7                                        163                                     3398
+ DIGENE-GEL 450ML
+ KD/6641         22/12/25 MAA GIRJA DRUG AGENCY          DGD25009           5                      207             1036
+ KD/6714         24/12/25 NARAYAN PHARMA                 DGD25009           5     7+1              207             1036
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          DGD25009           3                      207              621
+                          Total : 3                                         13                                     2694
+ DUPHALAC FIBER 200ML
+ KD/6119         01/12/25 URMILA MEDICAL HALL            TPL0073            2                      200              400
+ KD/6856         31/12/25 KAMAL MEDICAL HALL             TPL0073            2                      200              400
+                          Total : 2                                         4                                       800
+ DUPHALAC SYP 150 ML
+ KD/6091         01/12/25 NARAYAN PHARMA                 823146D7           3                      150              450
+ KD/6120         01/12/25 OM MEDICAL HALL                823150D7           2                      150              300
+ KD/6149         02/12/25 SEWAK MEDICAL HALL             813149D7           1                      150              150
+ KD/6138         02/12/25 KUMAR MEDICAL STORES           823150D7           1                      150              150
+ KD/6142         02/12/25 PUJA MEDICAL HALL              823146D7           1                      150              150
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          823150D7           3                      150              450
+ KD/6308         08/12/25 MEDICINE CENTRE  (STATION ROAD 823146D7           1                      150              150
+ KD/6282         08/12/25 GUPTA DRUG HOUSE               823150D7           10                     150             1500
+ KD/6289         08/12/25 HEART HOSPITAL MEDICO          823150D7           15                     150             2250
+ KD/6333         09/12/25 R.K.H.PHARMA                   823150D7           25                     150             3750
+ KD/6336         09/12/25 SAKSHI MEDICAL                 823150D7           2                      150              300
+ KD/6325         09/12/25 PUJA MEDICAL HALL              823150D7           2                      150              300
+ KD/6411         11/12/25 LIVE LONG MEDICAL              823146D7           2                      150              300
+ KD/6453         13/12/25 SHANTI MEDICAL HALL.           823150D7           3                      150              450
+ KD/6482         15/12/25 NIRAJ MEDICAL HALL(BENI)       823150D7           1                      150              150
+ KD/6499         15/12/25 CHAUDHREE MEDICAL HALL         823150D7           2                      150              300
+ KD/6522         16/12/25 A.S.PHARMA                     823150D7           5                      150              750
+ KD/6597         18/12/25 BHOLA NATH DRUG                823150D7           5                      150              750
+ KD/6607         19/12/25 SAKRI DRUGS                    823150D7           3                      150              450
+ KD/6719         24/12/25 NEW RITESH MEDICO              823150D7           4                      150              600
+ KD/6813         29/12/25 MAA MEDICAL HALL               823150D7           2                      150              300
+ KD/6857         31/12/25 KUMAR MEDICAL STORES           823150D7           1                      150              150
+ S.No.15         31/12/25 KRISHNA DRUG AGENCY            823150D7           3                      150              450
+                          Total : 23                                        97                                    14550
+ DUPHALAC SYRUP 450ML LEMONFLAV
+ KD/6235         05/12/25 NEW HINDUSTAN PHARMA           793150D7           2                      450              900
+ KD/6322         09/12/25 VIVEK MEDICIN CENTER           793150D7           2                      450              900
+ KD/6360         10/12/25 SHRI RAM MEDICAL HALL          793150D7           3                      450             1350
+ KD/6550         17/12/25 NATIONAL MEDICAL STORE         793150D7           1                      450              450
+ KD/6585         18/12/25 LIVE LONG MEDICAL              793150D7           2                      450              900
+ KD/6637         20/12/25 MAA AMBIKA PHARMA              813179D7           1                      450              450
+ KD/6712         24/12/25 NATIONAL MEDICAL STORE         813179D7           1                      450              450
+ KD/6826         30/12/25 THE BROTHER'S MEDICAL STORE    813179D7           1                      450              450
+                          Total : 8                                         13                                     5850
+ DUPHALAC-250ML SYP
+ KD/6142         02/12/25 PUJA MEDICAL HALL              803157D7           1                      250              250
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          803157D7           2                      250              500
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          783172D7           1                      250              250
+ KD/6222         04/12/25 SHIVAM MEDICAL STORES-1        813162D7           2                      250              500
+ KD/6327         09/12/25 POPULAR MEDICAL .(M.D.H.)      813162D7           2                      250              500
+ KD/6356         10/12/25 PRASAD MEDICAL HALL            813162D7           2                      250              500
+ KD/6411         11/12/25 LIVE LONG MEDICAL              813162D7           2                      250              500
+ KD/6499         15/12/25 CHAUDHREE MEDICAL HALL         813162D7           2                      250              500
+ KD/6545         16/12/25 D K PHARMA                     813162D7           5                      250             1250
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         813162D7           3                      250              750
+ KD/6813         29/12/25 MAA MEDICAL HALL               813162D7           2                      250              500
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.4
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6826         30/12/25 THE BROTHER'S MEDICAL STORE    813162D7           2                      250              500
+ KD/6856         31/12/25 KAMAL MEDICAL HALL             813162D7           2                      250              500
+                          Total : 13                                        28                                     7000
+ DUPHASTON TABLETS 10MG 10S (F.
+ KD/6114         01/12/25 DR ABHILASHA NARAYAN MULTISPEC SAVA5035           10                     687             6871
+ KD/6453         13/12/25 SHANTI MEDICAL HALL.           SAVA5035           2                      687             1374
+ KD/6488         15/12/25 DR ABHILASHA NARAYAN MULTISPEC SAVA5035           10                     687             6871
+ S.No.102        22/12/25 SELF  USE                      SAVA5035           6                      732             4397
+ KD/6859         31/12/25 DR ABHILASHA NARAYAN MULTISPEC SAVA5038           10                     687             6871
+                          Total : 5                                         38                                    26384
+ DUVADILAN-RETARD TAB
+ KD/6153         02/12/25 NIRAJ MEDICAL HALL(BENI)       MAZB5027           1                      217              217
+ KD/6464         13/12/25 MAA DURGA MEDICAL HALL         MAZB5027           3                      217              652
+ KD/6728         25/12/25 VIVEK MEDICIN CENTER           MAZB5027           1                      217              217
+ KD/6728         25/12/25 VIVEK MEDICIN CENTER           MAZB5040           4                      223              893
+                          Total : 4                                         9                                      1980
+ DUVADILAN-TAB
+ KD/6316         08/12/25 MAA GIRJA DRUG AGENCY          MAZA5015           10                     174             1744
+ KD/6359         10/12/25 VIVEK MEDICIN CENTER           MAZA5008           2                      174              348
+ KD/6857         31/12/25 KUMAR MEDICAL STORES           MAZA5008           1                      174              174
+                          Total : 3                                         13                                     2267
+ FEMILON TAB
+ BS/322          13/12/25 NICE MEDICAL HALL              B119246            1                      288              288
+ BS/335          27/12/25 DR ABHILASHA NARAYAN MULTISPEC B119246            5                      288             1444
+ BS/337          30/12/25 MAA DURGA DRUG  AGENCY.        B119246            3                      288              866
+                          Total : 3                                         9                                      2599
+ GANATON TOTAL TAB
+ KD/6700         23/12/25 MAA KAMAKHAYA MEDICAL          IAL0009            1                      365              365
+                          Total : 1                                         1                                       365
+ HEPTRAL 10S
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          AKL0166            3                     1110             3331
+ KD/6474         13/12/25 BHOLA NATH DRUG                AKL0166            2                     1110             2220
+                          Total : 2                                         5                                      5552
+ HYTRIN-2MG
+ KD/6521         16/12/25 SHRI RAM MEDICAL HALL          AML0226            5                      310             1552
+                          Total : 1                                         5                                      1552
+ INDERAL 20 TAB 15S NEW SALES
+ KD/6673         22/12/25 MAA DURGA DRUG  AGENCY.        INZ25017           6                       39              234
+ KD/6649         22/12/25 SHRI RAM MEDICAL HALL          INZ25015           4                       39              156
+ KD/6865         31/12/25 A.S.PHARMA                     INZ25017           6                       39              234
+                          Total : 3                                         16                                      624
+ INDERAL F 10
+ KD/6180         03/12/25 KUMAR MEDICAL STORES           PCL0676            2                      102              204
+ KD/6304         08/12/25 MEDICAL BAZAR                  PCL0676            6                      102              612
+ KD/6535         16/12/25 PUJA MEDICAL HALL              PCL0676            2                      102              204
+ KD/6721         24/12/25 GUPTA DRUG AGENCY(M.D.N.)      PCL0676            3                      102              306
+ KD/6816         29/12/25 MEDICAL BAZAR                  PCL0676            5                      102              510
+                          Total : 5                                         18                                     1836
+ INDERAL-10 MG TAB
+ KD/6106         01/12/25 NEW KISAN MEDICAL HALL         INA25005           40                      15              638
+ KD/6152         02/12/25 NEETA DRUGS                    INA25005           10                      15              159
+ KD/6174         03/12/25 NEW NAVEEN MEDICAL STORES      INA25005           10                      15              159
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          INA25005           10                      15              159
+ KD/6245         05/12/25 NEW RISHIKESH DRUG HALL        INA25005           6                       15               95
+ KD/6463         13/12/25 URMILA MEDICAL HALL            INA25005           6                       15               95
+ KD/6460         13/12/25 PAN GLOBAL HOSPITAL            INA25005           20                      15              319
+ KD/6496         15/12/25 KHUSHI MEDICAL HALL            INA25005           10                      15              159
+ KD/6565         17/12/25 JITENDRA MEDICAL STROES        INA25005           4                       15               63
+ KD/6576         18/12/25 BHAGWATI DRUG AGENCY           INA25005           6                       15               95
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         INA25005           10                      15              159
+ KD/6650         22/12/25 NIRAJ MEDICAL HALL(BENI)       INA25005           2                       15               31
+ KD/6733         25/12/25 KUMAR MEDICAL STORES.          INA25005           2                       15               31
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.5
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+                          Total : 13                                       136                                     2169
+ INDERAL-40
+ KD/6430         12/12/25 POONAM MEDICAL HALL            INB25007           6                       39              235
+ KD/6459         13/12/25 NICE MEDICAL HALL              INB25007           2                       39               78
+ KD/6561         17/12/25 MAHA LAXAMI MEDICAL STORES     INB25007           6                       39              235
+ KD/6613         19/12/25 OM MEDICAL HALL                INB25007           1                       39               39
+ KD/6655         22/12/25 THE BROTHER'S MEDICAL STORE    INB25009           4                       39              157
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         INB25007           4                       39              157
+                          Total : 6                                         23                                      903
+ INDERAL-LA40 MG
+ KD/6561         17/12/25 MAHA LAXAMI MEDICAL STORES     PCL0568            4                       39              157
+ KD/6811         29/12/25 SHAKTI MEDICAL STORES          PCL0568            5                       39              196
+                          Total : 2                                         9                                       353
+ LIBRAX TAB 20T SALES
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          LXC25021           20                     159             3182
+ KD/6102         01/12/25 JANTA MEDICAL HALL             LXC25022           1                      159              159
+ KD/6138         02/12/25 KUMAR MEDICAL STORES           LXC25022           2                      159              318
+ KD/6143         02/12/25 WEDANG ENTERPRISES             LXC25022           2                      159              318
+ KD/6157         02/12/25 NEW JANTA MEDICAL HALL         LXC25022           3                      159              477
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          LXC25022           2                      159              318
+ KD/6231         05/12/25 VIVEK MEDICIN CENTER           LXC25022           2                      159              318
+ KD/6231         05/12/25 VIVEK MEDICIN CENTER           LXC25021           5                      159              795
+ KD/6270         06/12/25 GUPTA DRUG AGENCY(M.D.N.)      LXC25021           5                      159              795
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            LXC25021           7                      159             1113
+                          Total : 10                                        49                                     7796
+ NOVELON-TAB
+ BS/309          02/12/25 MAHA LAXAMI MEDICAL STORES     C124325            2                      252              505
+ BS/320          12/12/25 NEW RITESH MEDICO              C124325            3                      252              758
+                          Total : 2                                         5                                      1264
+ PANKREOFLAT TABLETS 15S
+ KD/6127         01/12/25 GUPTA DRUG AGENCY              HBAA5024           10                     234             2341
+ KD/6167         02/12/25 NAYAK DRUG AGENCY(MAIBI)       HBAA5024           10                     234             2341
+ KD/6214         04/12/25 NIRAJ MEDICAL HALL(BENI)       HBAA5024           6                      234             1404
+ KD/6317         08/12/25 CHAUDHREE MEDICAL HALL         HBAA5024           5                      234             1170
+ KD/6354         09/12/25 NEW NAVEEN MEDICAL STORES      HBAA5024           2                      234              468
+ KD/6360         10/12/25 SHRI RAM MEDICAL HALL          HBAA5024           6                      234             1404
+ KD/6382         11/12/25 D K PHARMA                     HBAA5031           10                     234             2341
+ KD/6489         15/12/25 SHAKTI MEDICAL STORES          HBAA5031           10                     234             2341
+ KD/6701         23/12/25 NEW JANTA MEDICAL HALL         HBAA5031           5                      234             1170
+ KD/6736         25/12/25 NIRAJ MEDICAL HALL(BENI)       HBAA5031           3                      234              702
+ KD/6811         29/12/25 SHAKTI MEDICAL STORES          HBAA5031           10                     234             2341
+ KD/6844         30/12/25 LALIT MEDICO                   HBAA5031           5                      234             1170
+ KD/6858         31/12/25 GANESH MEDICAL HALL            HBAA5031           2                      234              468
+ KD/6855         31/12/25 VIVEK MEDICIN CENTER           HBAA5031           3                      234              702
+                          Total : 14                                        87                                    20367
+ PROTHIADEN-50
+ KD/6187         03/12/25 A.S.PHARMA                     813391D7           3                      302              908
+ KD/6251         05/12/25 CHANDAN DRUG AGENCY            813391D7           1                      302              302
+ KD/6298         08/12/25 BHARAT MEDICAL STORES          813391D7           3                      302              908
+ KD/6641         22/12/25 MAA GIRJA DRUG AGENCY          813391D7           3                      302              908
+ KD/6797         29/12/25 CHAUDHREE MEDICAL HALL         ADL0068            8                      275             2202
+                          Total : 5                                         18                                     5231
+ PROTHIADEN-75 MG TAB
+ KD/6148         02/12/25 MAHA LAXAMI MEDICAL STORES     ADL0092            2                      320              641
+ KD/6222         04/12/25 SHIVAM MEDICAL STORES-1        ADL0092            2                      320              641
+ KD/6306         08/12/25 GAURI SHANKAR AUSHDHALAYA      ADL0092            10                     320             3205
+                          Total : 3                                         14                                     4487
+ PROTHIADIN-25 MG TAB
+ KD/6148         02/12/25 MAHA LAXAMI MEDICAL STORES     ADL0091            2                      153              307
+ KD/6302         08/12/25 LIVE LONG MEDICAL              ADL0091            3                      153              461
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            ADL0091            5                      153              768
+ KD/6667         22/12/25 SHAKTI MEDICAL STORES          ADL0091            4                      153              615
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.6
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6682         23/12/25 VIVEK MEDICIN CENTER           ADL0091            5                      153              768
+                          Total : 5                                         19                                     2921
+ SURBEX-GOLD TAB
+ S.No.41         30/12/25 SELF  USE                      SFL0019            2                      234              469
+                          Total : 1                                         2                                       469
+ THYRONORM 100 SALE PILL DOSE P
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          TMH25187           1                      128              128
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          TMH25197           1                      128              128
+ KD/6247         05/12/25 GURUNANAK DRUG AGENCY          TMH25197           1                      128              128
+ KD/6250         05/12/25 GANESH MEDICAL HALL            TMH25197           2                      128              257
+ KD/6535         16/12/25 PUJA MEDICAL HALL              TMH25232           2                      128              257
+ KD/6700         23/12/25 MAA KAMAKHAYA MEDICAL          TMH25232           4                      128              514
+ KD/6797         29/12/25 CHAUDHREE MEDICAL HALL         TMH25232           2                      128              257
+                          Total : 7                                         13                                     1672
+ THYRONORM 12.5 MCG NEW PACK 12
+ KD/6138         02/12/25 KUMAR MEDICAL STORES           AEL0359            1                      144              144
+ KD/6169         02/12/25 D K PHARMA                     AEL0478            2                      144              289
+ KD/6257         06/12/25 SHANTI MEDICAL HALL.           AEL0478            3                      144              433
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            AEL0359            9                      144             1300
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            AEL0374            1                      144              144
+ KD/6409         11/12/25 SHRI RAM MEDICAL HALL          AEL0374            2                      144              289
+ KD/6395         11/12/25 SHREE JAGDAMBA MEDICAL STORES  AEL0478            1                      144              144
+ KD/6395         11/12/25 SHREE JAGDAMBA MEDICAL STORES  AEL0374            1                      144              144
+ KD/6475         13/12/25 MAA AMBIKA PHARMA              AEL0374            1                      144              144
+ KD/6520         16/12/25 KUMAR MEDICAL STORES           AEL0478            1                      144              144
+ KD/6736         25/12/25 NIRAJ MEDICAL HALL(BENI)       AEL0486            2                      144              289
+ KD/6795         29/12/25 MAA DURGA MEDICAL HALL         AEL0486            2                      144              289
+                          Total : 12                                        26                                     3758
+ THYRONORM 150 SALE PILL DOSE P
+ KD/6857         31/12/25 KUMAR MEDICAL STORES           TML25024           1                      166              166
+                          Total : 1                                         1                                       166
+ THYRONORM 25 SALE PILL DOSE PA
+ KD/6091         01/12/25 NARAYAN PHARMA                 TMB25254           2                      141              282
+ KD/6370         10/12/25 JANTA MEDICAL HALL             TMB25254           3                      141              423
+ KD/6361         10/12/25 RISHAV DRUG AGENCY             TMB25279           3                      141              423
+ KD/6358         10/12/25 BISHNU MEDICAL STORES          TMB25279           2                      141              282
+ KD/6358         10/12/25 BISHNU MEDICAL STORES          TMB25254           3                      141              423
+ KD/6371         10/12/25 OM MEDICAL HALL                TMB25279           1                      141              141
+ KD/6455         13/12/25 KUMAR MEDICAL STORES           TMB25279           2                      141              282
+ KD/6464         13/12/25 MAA DURGA MEDICAL HALL         TMB25279           2                      141              282
+ KD/6553         17/12/25 PRADHAN MEDICAL HALL           TMB25279           3                      141              423
+ KD/6553         17/12/25 PRADHAN MEDICAL HALL           TMB25279           2                      141              282
+ KD/6700         23/12/25 MAA KAMAKHAYA MEDICAL          TMB25279           5                      141              706
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          TMB25279           3                      141              423
+ S.No.39         31/12/25 BABLOO DRUG AGENCY             TMB25279           2                      141              282
+                          Total : 13                                        33                                     4661
+ THYRONORM 37.5 SALE PILL DOSE
+ KD/6154         02/12/25 SHIV SHAKTI DRUG AGENCY(RAJNAG TMC25062           2                      143              286
+ KD/6360         10/12/25 SHRI RAM MEDICAL HALL          TMC25062           1                      143              143
+                          Total : 2                                         3                                       429
+ THYRONORM 50 MCG NEW PACK 120S
+ KD/6154         02/12/25 SHIV SHAKTI DRUG AGENCY(RAJNAG TMD25326           2                      100              201
+ KD/6228         04/12/25 R.RAZA MEDICAL                 TMD25326           1                      100              100
+ KD/6247         05/12/25 GURUNANAK DRUG AGENCY          TMD25326           1                      100              100
+ KD/6273         06/12/25 MAHA LAXAMI MEDICAL STORES     TMD25326           3                      100              301
+ KD/6313         08/12/25 BHOLA NATH DRUG                TMD25326           3                      100              301
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            TMD25362           10                     100             1005
+ KD/6361         10/12/25 RISHAV DRUG AGENCY             TMD25362           3                      100              301
+ KD/6360         10/12/25 SHRI RAM MEDICAL HALL          TMD25326           3                      100              301
+ KD/6433         12/12/25 OM MEDICAL HALL                TMD25362           1                      100              100
+ KD/6475         13/12/25 MAA AMBIKA PHARMA              TMD25362           2                      100              201
+ KD/6722         24/12/25 SHIVAM MEDICAL STORES-1        TMD25385           2                      100              201
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.7
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6817         29/12/25 GUPTA DRUG AGENCY              TMD25385           3                      100              301
+                          Total : 12                                        34                                     3420
+ THYRONORM 62.5
+ KD/6357         10/12/25 JYOTI MEDICAL HALL.            EBRF5054           2                      157              314
+ KD/6408         11/12/25 MAA DURGA DRUG  AGENCY.        EBRF5054           2                      157              314
+ KD/6590         18/12/25 S.K.PHARMA                     EBRF5054           5                      157              786
+                          Total : 3                                         9                                      1415
+ THYRONORM 75 SALE PILL DOSE PA
+ KD/6144         02/12/25 OM MEDICAL HALL                TMF25215           1                      140              140
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          TMF25215           2                      140              280
+ KD/6286         08/12/25 KUMAR MEDICAL STORES           TMF25215           1                      140              140
+ KD/6302         08/12/25 LIVE LONG MEDICAL              TMF25215           3                      140              420
+ KD/6323         09/12/25 BAJRANG DRUG AGENCY            TMF25215           4                      140              560
+ KD/6349         09/12/25 NEW RITESH MEDICO              TMF25215           3                      140              420
+ KD/6361         10/12/25 RISHAV DRUG AGENCY             TMF25215           3                      140              420
+ KD/6521         16/12/25 SHRI RAM MEDICAL HALL          TMF25215           2                      140              280
+ KD/6569         18/12/25 SHREE JAGDAMBA MEDICAL STORES  TMF25215           2                      140              280
+ KD/6734         25/12/25 SHREE JAGDAMBA MEDICAL STORES  TMF25180           1                      140              140
+ KD/6843         30/12/25 MAA DURGA DRUG  AGENCY.        TMF25215           1                      140              140
+ KD/6857         31/12/25 KUMAR MEDICAL STORES           TMF25215           1                      140              140
+                          Total : 12                                        24                                     3364
+ THYRONORM 88 MG
+ KD/6095         01/12/25 A.S.PHARMA                     EBRG5027           1                      160              160
+ KD/6734         25/12/25 SHREE JAGDAMBA MEDICAL STORES  EBRG5027           1                      160              160
+ KD/6788         29/12/25 VIVEK MEDICIN CENTER           EBRG5027           3                      160              482
+                          Total : 3                                         5                                       804
+ UDILIV 150 SALE NEW PACK 15 TA
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          823024D7           2                      401              803
+ KD/6298         08/12/25 BHARAT MEDICAL STORES          823024D7           3                      401             1204
+                          Total : 2                                         5                                      2007
+ UDILIV 450MG TAB
+ KD/6191         03/12/25 KAMAL MEDICAL HALL             UDD25009           1                      549              549
+ KD/6191         03/12/25 KAMAL MEDICAL HALL             UDD25003           1                      499              499
+ KD/6191         03/12/25 KAMAL MEDICAL HALL             UDD25009           2                      549             1098
+ KD/6856         31/12/25 KAMAL MEDICAL HALL             UDD25011           2                      549             1098
+                          Total : 4                                         6                                      3244
+ UDILIV 600
+ S.No.6          31/12/25 NEW HINDUSTAN PHARMA           803071D7           1                      704              704
+                          Total : 1                                         1                                       704
+ UDILIV-300MG TAB
+ KD/6119         01/12/25 URMILA MEDICAL HALL            812933D7           2                      703             1407
+ KD/6118         01/12/25 MAA GIRJA DRUG AGENCY          752943D7           3                      703             2111
+ KD/6125         01/12/25 KHUSHI MEDICAL HALL            812933D7           4                      703             2815
+ KD/6142         02/12/25 PUJA MEDICAL HALL              812933D7           1                      703              703
+ KD/6148         02/12/25 MAHA LAXAMI MEDICAL STORES     812933D7           3                      703             2111
+ KD/6214         04/12/25 NIRAJ MEDICAL HALL(BENI)       812933D7           1                      703              703
+ KD/6256         05/12/25 BISHNU MEDICAL STORES          812933D7           3                      703             2111
+ KD/6300         08/12/25 NIRAJ MEDICAL HALL(BENI)       812933D7           1                      703              703
+ KD/6319         08/12/25 KHUSHI MEDICAL HALL            812933D7           3                      703             2111
+ S.No.133        11/12/25 SELF  USE                      812933D7           1                      703              703
+ KD/6463         13/12/25 URMILA MEDICAL HALL            812933D7           3                      703             2111
+ KD/6477         15/12/25 HEART HOSPITAL MEDICO          812933D7           9                      703             6335
+ KD/6521         16/12/25 SHRI RAM MEDICAL HALL          812933D7           6                      703             4223
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         812933D7           1                      703              703
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         822943D7           1                      703              703
+ KD/6667         22/12/25 SHAKTI MEDICAL STORES          822943D7           6                      703             4223
+ KD/6764         26/12/25 LIV LONG MEDICAL(UNREGISTRAD)  822943D7           4                      703             2815
+ KD/6766         26/12/25 NIRAJ MEDICAL HALL(BENI)       822943D7           1                      703              703
+ KD/6780         27/12/25 OM MEDICAL HALL                822943D7           1                      703              703
+ KD/6795         29/12/25 MAA DURGA MEDICAL HALL         822943D7           3                      703             2111
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          822943D7           6                      703             4223
+ KD/6813         29/12/25 MAA MEDICAL HALL               822943D7           1                      703              703
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+                            Sale Item Sale Bill Wise
+                         Company :ABBOTT INDIA LTD(DIG)
+                                                                 Page No.8
+ Bill No         Date     Product/Party                  Batch           QNTY     Free            Rate           Amount
+_______________________________________________________________________________________________________________________
+ KD/6845         30/12/25 PRASAD MEDICAL HALL            822943D7           3                      703             2111
+ KD/6849         30/12/25 PUJA MEDICAL HALL              822943D7           1                      703              703
+ KD/6855         31/12/25 VIVEK MEDICIN CENTER           822943D7           3                      703             2111
+                          Total : 25                                        71                                    49981
+ VERTIN TABLETS 16 MG 15 TABLET
+ KD/6094         01/12/25 AMAN PHARMA                    VEB25018           10                     281             2811
+ KD/6107         01/12/25 NIRAJ MEDICAL HALL(BENI)       VEB25018           3                      281              843
+ KD/6168         02/12/25 BISWANATH MEDICAL HALL         VEB25018           5                      281             1405
+ KD/6174         03/12/25 NEW NAVEEN MEDICAL STORES      VEB25018           2                      281              562
+ KD/6188         03/12/25 SHRI RAM MEDICAL HALL          VEB25019           4                      281             1124
+ KD/6224         04/12/25 BHAGWAN PRASAD AGRAWAL         VEB25019           3                      281              843
+ KD/6280         08/12/25 SHRI RAM MEDICAL HALL          VEB25019           4                      281             1124
+ KD/6295         08/12/25 SHREE JAY MAA KALI MEDICAL HAL VEB25019           4                      281             1124
+ KD/6300         08/12/25 NIRAJ MEDICAL HALL(BENI)       VEB25019           4                      281             1124
+ KD/6408         11/12/25 MAA DURGA DRUG  AGENCY.        VEB25019           10                     281             2811
+ KD/6382         11/12/25 D K PHARMA                     VEB25019           7                      281             1968
+ KD/6409         11/12/25 SHRI RAM MEDICAL HALL          VEB25019           4                      281             1124
+ KD/6463         13/12/25 URMILA MEDICAL HALL            VEB25018           4                      281             1124
+ KD/6477         15/12/25 HEART HOSPITAL MEDICO          VEB25019           6                      281             1687
+ KD/6602         19/12/25 VIVEK MEDICIN CENTER           SSL0179            3                      309              927
+ KD/6663         22/12/25 KHUSHI MEDICAL HALL            SSL0179            4                      309             1237
+ KD/6664         22/12/25 CHAUDHREE MEDICAL HALL         SSL0179            3                      309              927
+ KD/6721         24/12/25 GUPTA DRUG AGENCY(M.D.N.)      SSL0179            10                     309             3092
+ KD/6834         30/12/25 GURUNANAK DRUG AGENCY          SSL0179            2                      309              618
+                          Total : 19                                        92                                    26486
+ VERTIN TABLETS 24 MG 15 TABLET
+ KD/6796         29/12/25 SHRI RAM MEDICAL HALL          VEC25004           2                      403              807
+ KD/6858         31/12/25 GANESH MEDICAL HALL            VEC25004           4                      403             1615
+                          Total : 2                                         6                                      2422
+ VERTIN TABLETS 8 MG 15 TABLETS
+ KD/6148         02/12/25 MAHA LAXAMI MEDICAL STORES     VEA25003           3                      152              457
+ KD/6206         04/12/25 ROHIT MEDICINE CENTER          VEA25003           10                     152             1526
+ KD/6224         04/12/25 BHAGWAN PRASAD AGRAWAL         VEA25003           3                      152              457
+ KD/6308         08/12/25 MEDICINE CENTRE  (STATION ROAD VEA25003           1                      152              152
+ KD/6352         09/12/25 NEW JANTA MEDICAL HALL(LAUFA)  VEA25003           5                      152              763
+ KD/6470         13/12/25 CHANDAN MEDICAL HALL.          VEA25003           2                      152              305
+                          Total : 6                                         24                                     3662
+ ZOLFRESH 10MG 15S
+ KD/6195         03/12/25 REKHA MEDICAL                  ZLA25022           3                      103              311
+ KD/6178         03/12/25 RAJA DRUG AGENCY               ZLA25022           10                     103             1038
+ KD/6178         03/12/25 RAJA DRUG AGENCY               ADL0088            40                     103             4155
+ KD/6199         04/12/25 BIJAY MEDICAL HALL             ZLA25022           2                      103              207
+ KD/6663         22/12/25 KHUSHI MEDICAL HALL            ZLA25029           4                      103              415
+ KD/6720         24/12/25 BHOLA NATH DRUG                ZLA25029           5                      103              519
+ KD/6724         24/12/25 PRADHAN MEDICAL HALL           ZLA25029           3                      103              311
+                          Total : 7                                         67                                     6960
+ ZOLFRESH-5 MG TAB
+ KD/6230         05/12/25 UMA MEDICAL HALL               ZLT25008           6                       75              454
+ KD/6286         08/12/25 KUMAR MEDICAL STORES           ZLT25008           3                       75              227
+                          Total : 2                                         9                                       682
+_______________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+

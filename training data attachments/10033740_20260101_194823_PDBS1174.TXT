@@ -1,0 +1,31 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   CVZEST(SANTOSH)
+---------------------------------------------------------------------------
+CYTOGARD-MR 35 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-40 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FORTIUS-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+GTN SORBITRATE-CR 2.6 TAB |30's  |   33|   40|    0|   73|   49|   24|    0
+GTN SORBITRATE-CR 6.4 TAB |30's  |    2|   30|    0|   32|   13|   19|    0
+R2-10 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-20 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-5 TAB                  |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-ASP 150 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-F10 TAB                |10's  |    0|    0|    0|    0|    0|    0|    0
+R2-F5 TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+SORBITRATE-10 TAB         |50's  |   44|   60|    0|  104|   44|   60|    0
+SORBITRATE-5 TAB          |50's  |   84|  300|    0|  384|  249|  135|    0
+SORBITRATE-INSTA TAB      |30's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-MT 25 TAB         |15's  |   10|    0|    0|   10|    7|    3|    0
+TELPRES-MT 50 TAB         |15's  |   15|    0|    0|   15|    3|   12|    0
+TG-GOAL 145 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   21387    PR.STK   31921    RT.COM       0    CL.STK   24169
+SL.AMT   29139
+---------------------------------------------------------------------------

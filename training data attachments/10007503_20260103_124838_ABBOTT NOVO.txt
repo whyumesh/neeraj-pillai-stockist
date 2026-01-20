@@ -1,0 +1,72 @@
+@
+         BISHOP  PHARMACEUTICALS  2025-26          
+            MANGALDAI - DARRANG (ASSAM)
+
+Page No.1   Sales & Stock Statement(From 01/12/2025 Upto 31/12/2025) Jan  1,2026
+
+ABBOTT INDIA NORDISK
+-------------------------------------------------------------------------------
+PRODUCT NAME         PACKING     Op.Bal.  Receipt    Total    Issue  Closing      MSR 
+                                    Qty.     Qty.     Qty.     Qty.  Balance    Price 
+-------------------------------------------------------------------------------
+ACTRAPID FLEXPEN     3 ml              0        0        0        0        0     0.00 
+ACTRAPID HM PENFIL   3ML               0        0        0        0        0     0.00 
+FIASP 1000MG VIAL    10 ML             0        0        0        0        0     0.00 
+FIASP FLEXTOUCH      3 ML              5        0        5        1        4     0.00 
+FIASP PENFIL 100U/ML 3 ML             31        0       31       10       21     0.00 
+GUT RENEW CAP        10'S              0        0        0        0        0     0.00 
+HUM ACTRAPID 40      10ML            135      180      315      218       97     0.00 
+HUMAN INSULATARD 40I 10ML             20        0       20        0       20     0.00 
+HUMAN MIXTARD 40IU   10ML            275      240      515      275      240     0.00 
+HUMAN MIXTARD 50 40I 10ML             27        0       27        3       24     0.00 
+INSULATARD FLEXPEN   3ML               2        0        2        0        2     0.00 
+INSULATARD HM        3ML               0        0        0        0        0     0.00 
+INSULATARD NOVOLET   3ML               0        0        0        0        0     0.00 
+LEVEMIR FLEXPEN      3ML               0        0        0        0        0     0.00 
+MIXTARD 30 FLEXPEN   30ML              0        0        0        0        0     0.00 
+MIXTARD 30HM PENFL   3ML               0        0        0        0        0     0.00 
+MIXTARD 50HM PENFL   3ML              50        0       50       20       30     0.00 
+MIXTRAD 30 NOVOLET   3ML               0        0        0        0        0     0.00 
+MIXTRAD 50 NOVOLET   3ML               0        0        0        0        0     0.00 
+NOVOFINE NDLS 31G    1'S             226      500      726      326      400     0.00 
+NOVOMIX 30 FLEXPEN   3ML              14       30       44       25       19     0.00 
+NOVOMIX 30 PENFILL   3ML              91       30      121       62       59     0.00 
+NOVOMIX 50 FLEXPEN   3ML               7        0        7        0        7     0.00 
+NOVOMIX 50 PENFILL   3ML               5       10       15       10        5     0.00 
+NOVONORM 0.5MG TAB   15'S              0        0        0        0        0     0.00 
+NOVONORM 1MG TAB     15'S              0        0        0        0        0     0.00 
+NOVONORM 2MG TAB     15'S              0        0        0        0        0     0.00 
+NOVOPEN 3 GREY       1'S               0        0        0        0        0     0.00 
+NOVOPEN 4 GREY       1'S               7        3       10        3        7     0.00 
+NOVORAPID 10ML INJ   10ML              0        0        0        0        0     0.00 
+NOVORAPID FLEXPENS   3ML              17        0       17        3       14     0.00 
+NOVORAPID PENFILL    3ML              56       20       76       45       31     0.00 
+RYZODEG FLEXTOUCH    1AMP              2        5        7        2        5     0.00 
+RYZODEG PENFILL      3ML              58      100      158      119       39     0.00 
+TRESIBA 3ML FLEXTOUC 3ML               4        0        4        0        4     0.00 
+TRESIBA PENFILL 3ML  3 ML             27       20       47       24       23     0.00 
+VICTOZA LIRAGLUTID   3ML               0        0        0        0        0     0.00 
+XULTOPHY 100IU INJ   3 ml              0        0        0        0        0     0.00 
+-------------------------------------------------------------------------------
+TOTAL                             357532   251695   609226   348640   276260          
+-------------------------------------------------------------------------------
+ 
+GRAND TOTAL                       357532   251695   609226   348640   276260          
+Powered By SwilERP for Retail, Distribution & Chain Stores                  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

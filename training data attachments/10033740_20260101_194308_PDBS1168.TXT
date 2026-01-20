@@ -1,0 +1,29 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   MULTISPELITY
+---------------------------------------------------------------------------
+CEFCHAM-100 DT TAB        |6's   |    0|    0|    0|    0|    0|    0|    0
+CEFCHAMP-325 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+COSYMOXYL-375 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+COSYMOXYL-625 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX CREAM            |20gm  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX LOTION           |60's  |    0|    0|    0|    0|    0|    0|    0
+CROTORAX-HC CREAM         |1's   |    0|    0|    0|    0|    0|    0|    0
+FAMTAC-40 TAB             |14's  |    0|    0|    0|    0|    0|    0|    0
+HANSEPRAN-100 CAP         |10's  |    0|    0|    0|    0|    0|    0|    0
+HANSEPRAN-50 CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+MONTI-FX TAB              |10's  |    2|   10|    0|   12|    2|   10|    0
+PHENSEDYL-CR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+PHENSEDYL-LR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+PHOSFOMIN IRON TONIC      |150ml |    0|    0|    0|    0|    0|    0|    0
+PHOSFOMIN TONIC           |200ml |    0|    0|    0|    0|    0|    0|    0
+UVOX-100 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+UVOX-50 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK     418    PR.STK    2088    RT.COM       0    CL.STK    2088
+SL.AMT     418
+---------------------------------------------------------------------------

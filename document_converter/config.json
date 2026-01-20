@@ -11,20 +11,6 @@
     }
   },
   "classification": {
-    "po_keywords": [
-      "purchase order",
-      "po number",
-      "po no",
-      "order number",
-      "order no",
-      "po_",
-      "orderpurchase",
-      "po1650",
-      "po1693",
-      "po1578",
-      "po1579",
-      "purchaseorder"
-    ],
     "stock_sales_keywords": [
       "stock statement",
       "stock and sales",
@@ -40,31 +26,60 @@
       "report",
       "abbott",
       "smart stock",
-      "stock mailer"
+      "stock mailer",
+      "opening balance",
+      "closing balance",
+      "item description"
+    ],
+    "po_keywords": [
+      "purchase order",
+      "po number",
+      "po no",
+      "po #",
+      "order number",
+      "order no",
+      "order #",
+      "po_",
+      "po-",
+      "p.o.",
+      "p/o",
+      "po id",
+      "po ref",
+      "po reference",
+      "purchase order number",
+      "purchase order no"
     ],
     "filename_patterns": {
-      "po": [
-        "purchase order",
-        "po_",
-        "order",
-        "orderpurchase"
-      ],
       "stock_sales": [
         "st-",
         "stock",
         "stok",
         "stockandsales",
         "stockandsale",
-        "ss"
+        "ss",
+        "statement",
+        "report"
+      ],
+      "po": [
+        "po\\d+",
+        "po\\s+\\d+",
+        "purchase.*order",
+        "^po",
+        "^po\\s",
+        "po_",
+        "po-",
+        "p\\.o\\.\\s*\\d+",
+        "p/o\\s*\\d+",
+        "order\\s+number",
+        "order\\s+no"
       ]
     },
     "ml_confidence_threshold": 0.5,
     "combined_confidence_threshold": 0.3
   },
   "paths": {
-    "input_folder": "EmailAttachments",
+    "input_folder": "attachments",
     "output_folder": "Output",
-    "po_output": "Output/PurchaseOrders",
     "stock_output": "Output/StockSalesReports",
     "log_file": "Output/ProcessingLog.json"
   },

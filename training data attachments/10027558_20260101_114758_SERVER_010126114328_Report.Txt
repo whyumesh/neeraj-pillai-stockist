@@ -1,0 +1,33 @@
+CHM
+              STAR PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing    Ostk     Purc     Sale     SRet     PRet      Qoh     QohValue
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA THYR    
+==========================
+CABERNORM TAB                4S            0        0        0        0        0        0         0.00 
+COMBINORM                    15;S          8        0        4        0        0        4      1434.22 
+COMBINORM PLUS CAP           10s          10        0        0        0        0       10      4698.30 
+SURBEX GOLD TAB              15;S         78        0        1        0       77        0         0.00 
+THYRONORAM 137 TAB           120S         23       12       13        0        0       22      4187.61 
+THYRONORM 100MG TAB          120`S       211      192      192        0        0      211     23489.75 
+THYRONORM 112 TAB            120;s        27       48       21        0        0       54      7518.18 
+THYRONORM 12.5               10;s         60       72       53        2        0       81     10057.32 
+THYRONORM 125MG              120`S        34        0       31        0        0        3       425.35 
+THYRONORM 150 TAB            120`S        72       48       68        0        0       52      7415.92 
+THYRONORM- 200 MG TAB        100 S        64        0        7        0        0       57      9291.18 
+THYRONORM 25MG TAB           120`S       195      192      195        0        0      192     23297.15 
+THYRONORM 37.5 MG TAB        120;s        72       72       60        0        0       84     10323.54 
+THYRONORM 50MG TAB           120`S       193      192      190        0        0      195     16849.25 
+THYRONORM 62.5 MG TAB        120;s        58       72       50        0        0       80     10805.14 
+THYRONORM 75MG               120`S       189      192      170        0        0      211     25405.20 
+THYRONORM 88MG TAB           120;s        11       48        4        0        0       55      7686.60 
+THYROWEL CAP                 10 S          0        0        0        0        0        0         0.00 
+THYROWEL PLUS TAB            15;S          0        0        0        0        0        0         0.00 
+================================================================================================
+Opening Value  :   164722.41 Sale Value      :   145852.54 SRet Value    :      271.22 
+Purchase Value :   140483.64 PurReturn Value :    14792.47 Closing Value :   162884.69 
+------------------------------------------------------------------------------------------------
+P

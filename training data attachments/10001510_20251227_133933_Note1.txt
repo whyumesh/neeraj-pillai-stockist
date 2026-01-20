@@ -1,0 +1,253 @@
+M
+ 
+ 
+ 
+ 
+                                                
+between 12/1/2025 and 12/27/2025                                                   Page - 1
+------------------------------------------------------------------------------------------------
+Product Name               Packing       OP <---Receipts--->  <----Sales---->  <---Closing---->
+                                        Qty    Qty     Value    Qty     Value    Qty      Value
+------------------------------------------------------------------------------------------------
+ASERT D 10-TABLETS         10             9      0      0.00      0      0.00      9    2453.04
+CYTOGARD OD 60 15-CAPSULE  15            10      0      0.00      9   3277.89      1     364.21
+DELOK 20 10-CAPSULES       10             1      0      0.00      0      0.00      1     102.36
+ELOCON CREAM 30GM          30GM          16      0      0.00      0      0.00     16    6006.88
+EMPEXEL 10 15-TABLETS      15            40      0      0.00      0      0.00     40    3857.20
+EMPEXEL 25 10-TABLETS      10            30      0      0.00      0      0.00     30    3471.30
+EMPEXEL L 25/5 10-TABLETS  10            58      0      0.00      0      0.00     58    6711.18
+EMPEXEL M 12.5/1000 10-TA  10            40      0      0.00      0      0.00     40    5140.80
+EMPEXEL M 12.5/500 10-TAB  10            31      0      0.00      3    308.43     28    2878.68
+EMPEXEL M SR 10/1000 TABL  15            30      0      0.00      0      0.00     30    4917.90
+EMPEXEL M SR 25/1000 TABL  10            40      0      0.00      0      0.00     40    7328.40
+FACE GUARD SPF 50 + GEL 3  30GM           2      0      0.00      1    474.10      1     474.10
+FACECLIN AT GEL 20GM       20 GM          5      0      0.00      0      0.00      5    1360.45
+FEBUSTAT 80 15-TABLETS     15             1      0      0.00      1    361.28      0       0.00
+FOLLIHAIR A 15-TABLETS     15            32      0      0.00      0      0.00     32    8747.20
+FOLLIHAIR NEW 30-TABLETS   30S           15      0      0.00     15   8045.10      0       0.00
+FOLLISERUM HAIR GROWTH 60  60ML           7      0      0.00      0      0.00      7    6462.92
+FORTIUS 10 10-TABLETS      10            20      0      0.00     20    513.40      0       0.00
+FORTIUS GOLD 20 10-CAPSUL  10             3      0      0.00      3    516.87      0       0.00
+GTN SORBITRATE CR 2.6 30-  30s           75      0      0.00      0      0.00     75   16137.00
+I TYZA 200 10-CAPSULES     10            12      0      0.00     10   1592.60      2     318.52
+LEVESAM 1GM 15-TABLETS     15             7      0      0.00      0      0.00      7    3462.06
+LIBRIUM 15 -15TABLETS      15            35      0      0.00      0      0.00     35    4620.00
+LIBRIUM 20 15-TABLETS      15            35      0      0.00      0      0.00     35    5280.10
+LOBATE CREAM 30GM          30gm           1      0      0.00      1    172.43      0       0.00
+MAZETOL 100 10-TABLETS     10             1      0      0.00      1      7.79      0       0.00
+MAZETOL SR 200 15-TABLETS  15             4      0      0.00      4    105.40      0       0.00
+MELAGLOW NEW CREAM 30GM    30GM          13      0      0.00      0      0.00     13    6567.86
+MELAGLOW PRIME CREAM 20GM  20GM           2      0      0.00      2    658.98      0       0.00
+MELALITE FORTE CREAM 30GM  30GM          20      0      0.00      6    737.10     14    1719.90
+MINICHEK F SPRAY 60ML      60ML          23      0      0.00      1    809.47     22   17808.34
+MINICHEK F ULTRA 5% SOLUT  60ML           0      0      0.00     -1   -886.05      1     886.05
+MYSOLINE 250 10-TABLETS    10             4      0      0.00      0      0.00      4     412.52
+NICODUCE 10 20-TABLETS     20             8      0      0.00      0      0.00      8    3759.04
+PHENSEDYL CR SYRUP 100ML   100ML          0      0      0.00      0      0.00      0       0.00
+QUADRIDERM RF CREAM 10GM   10GM         214      0      0.00     63   6722.73    151   16113.21
+QUADRIDERM RF CREAM 5GM    5GM         1231      0      0.00     65   3718.65   1166   66706.86
+REFSAV 100 TABLETS         14`S          70      0      0.00      0      0.00     70   29729.70
+REJOINT 15-TABLETS         15             0      0      0.00      0      0.00      0       0.00
+SORBITRATE 10 50-TABLETS   50            60      0      0.00     31    915.12     29     856.08
+SORBITRATE 5 50-TABLETS    50            60      0      0.00     18    537.84     42    1254.96
+SURBEX CV 15-TABLETS       15            11      0      0.00      0      0.00     11     898.48
+TELPRES MT 50 15-TABLETS   15             8      0      0.00      8   2605.76      0       0.00
+TGGOAL 145 10-TABLETS      10             9      0      0.00      0      0.00      9    1773.36
+TYZA 10-TABLETS            10             8      0      0.00      0      0.00      8    1404.00
+TYZA CREAM 15GM            15GM           1      0      0.00      1     56.80      0       0.00
+TYZA M CREAM 10GM          10GM           4      0      0.00      2    171.78      2     171.78
+VALANCE 125 15-TABLETS     15             8      0      0.00      8    486.80      0       0.00
+XAPILIS 2.5 10-TABLETS     10             2      0      0.00      2    233.36      0       0.00
+XAPILIS 5 10-TABLETS       10             1      0      0.00      0      0.00      1     147.79
+BILAZEST M TABLETS         10S            0     10   1487.00      1    148.70      9    1338.30
+ACITROM 0.5 10-TABLETS     10            30     40   2167.60     24   1300.56     46    2492.74
+ACITROM 1 30-TABLETS       30           107     50  11326.00     33   7475.16    124   28088.48
+ACITROM 1.5 30-TABLETS     30            11     10   2642.10      1    264.21     20    5284.20
+-------------------------------------------------------------------------- Follow page ... 2
+                                                
+between 12/1/2025 and 12/27/2025                                                   Page - 2
+------------------------------------------------------------------------------------------------
+Product Name               Packing       OP <---Receipts--->  <----Sales---->  <---Closing---->
+                                        Qty    Qty     Value    Qty     Value    Qty      Value
+------------------------------------------------------------------------------------------------
+ACITROM 2 30-TABLETS       30           127    100  35479.00     75  26609.25    152   53928.08
+ACITROM 2.5 30-TABLETS     30            21      0      0.00      2    697.24     19    6685.48
+ACITROM 3 30-TABLETS       30            55     60  27199.20     26  11786.32     89   40345.48
+ACITROM 3.5 30-TABLETS     30            24      0      0.00      2    814.38     22    9880.78
+ACITROM 4 30-TABLETS       30            40     40  19345.60     33  15960.12     47   22731.08
+BISOSAFE 2.5 10-TABLETS    10            10     10    470.50      3    141.15     17     799.85
+BISOSAFE 5 10-TABLETS      10            18      0      0.00      2    144.90     16    1159.20
+BISOSAFE T 5 10-TABLETS    10             8      0      0.00      0      0.00      8     645.68
+HFTRIL 100 TABLETS         14             7      0      0.00      2    772.20      5    1930.50
+HFTRIL 50 14-TABLETS       14            26     10   3049.20     10   3049.20     26    7927.92
+GLUFORMIN G 0.5 15-TABLET  15             9      0      0.00      8    507.60      1      63.45
+GLUFORMIN G 1 FORTE 10-TA  10            20      0      0.00      9   1303.83     11    1593.57
+GLUFORMIN G 2 15-TABLETS   15 S           0     20   3936.20      0      0.00     20    3936.20
+GLUFORMIN G 2 FORTE 15-TA  15             8      0      0.00      7   1305.36      1     186.48
+GLUFORMIN XL 1000 15-TABL  15 S          19      0      0.00     12    533.64      7     311.29
+GLUFORMIN XL 500 15-TABLE  15 S          21     20    455.80     24    546.96     17     387.43
+GLUJECT M 1000 15-TABLETS  15             7      0      0.00      3    421.80      4     562.40
+GLUJECT M 500 15-TABLETS   15             6      0      0.00      4    484.52      2     242.26
+GLUJECT S 100/10 10-TABLE  10             3     10   1633.50      6    980.10      7    1143.45
+GLUJECT TRIO 10/100/1000   10            10     20   3251.80     18   2926.62     12    1951.08
+GLUJECT TRIO 10/100/500 1  10            20      0      0.00     16   2737.44      4     684.36
+JANUMET 50/1000 TABLETS 2  2X15         135      0      0.00    101  49345.57     34   16611.38
+JANUMET 50/500 TABLETS 2X  2X15 S        26    250  120537.5    145  69911.75    131   63161.65
+JANUMET XR CP 100/1000 14  14            18     50   9964.50     31   6177.99     37    7373.73
+JANUVIA 100 7-TABLETS      7             75      0      0.00     75  14223.00      0       0.00
+JANUVIA 25 7-TABLETS       7            104      0      0.00      0      0.00    104   18385.12
+JANUVIA 50 7-TABLETS       7             68      0      0.00     40   7457.20     28    5220.04
+NEOMERCAZOLE 10 120-TABLE  120            0     10   4052.80      3   1215.84      7    2836.96
+NEOMERCAZOLE 5 120-TABLET  120           22     20   4164.20     36   7495.56      6    1249.26
+TRIBET 1 15-TABLETS        15             8      0      0.00      7   1509.97      1     215.71
+TRIBET 2 15-TABLETS        15             0     20   5156.40      3    773.46     17    4382.94
+CREMADIET DUO POWDER 150G  150GM         17     10   4384.50     21   9127.73      6    2630.70
+CREMADIET PLUS POWDER 100  100GM         10     10   1742.10     12   2090.52      8    1393.68
+ROCKBON 10-TABLETS         10             0     10   3093.72      0      0.00     10    3093.72
+THIOSPAS 4 10-TABLETS      10             0     10   2727.20      1    272.72      9    2454.48
+THIOSPAS A 4 15-TABLETS    15             0     10   2873.70      0      0.00     10    2873.70
+CLARIBID 250 10-TABLETS    10           100      0      0.00     19   3348.56     81   14275.44
+CLARIBID 500 10-TABLETS    10 S          64    100  29181.00     48  14006.88    116   33849.96
+CLARIBID SUSPENSION 30ML   30ML*         34    130  13280.80     93   9500.88     71    7253.36
+ESSENTIALE L 1G 10-CAPSUL  10            15      0      0.00      3    801.78     12    3207.12
+PHENERGAN 10 10-TABLETS    10             2     50    740.50      5     71.37     47     696.07
+PHENERGAN 25 10-TABLETS    10            50     50   1960.00     58   2273.60     42    1646.40
+PHENERGAN INJECTION 2ML    2ML           30      0      0.00     30    344.10      0       0.00
+PHENERGAN SYRUP 100ML      100ML         15     15    588.60     30   1177.20      0       0.00
+SOLSPRE NASAL SPRAY 100ML  100ML         10      0      0.00     10   3584.70      0       0.00
+STEMETIL INJECTION 1ML     1ML            0     70   1313.90     70   1313.90      0       0.00
+STEMETIL MD TABLETS 2X15   2X15         100      0      0.00      0      0.00    100   24426.00
+TIXYLIX NEW LINCTUS 60ML   60ML          68      0      0.00      7    556.99     61    4853.77
+IVABID 5 14-TABLETS        14`S          30      0      0.00     10   2960.60     20    5921.20
+IVABID OD 10 10-TABLETS    10 S          39      0      0.00      1    329.40     38   12517.20
+IVABID OD 15 10-TABLETS    10            64      0      0.00      0      0.00     64   27106.56
+STATOR 10 15-TABLETS       15 S         200      0      0.00      7    382.20    193   10537.80
+STATOR 20 15-TABLETS       10 S          24      0      0.00      4    551.92     20    2759.60
+STATOR 40 15-TABLETS       15            34      0      0.00     10   2120.20     24    5088.48
+STATOR ASP 75 15-TABLETS   15            31      0      0.00      2    113.72     29    1648.94
+STATOR CV 15-CAPSULES      15 S          30      0      0.00      0      0.00     30    4250.70
+STATOR CV 20 10-CAPSULES   10            24      0      0.00     10   1622.30     14    2271.22
+STATOR GOLD 10 15-TABLETS  15           100      0      0.00      0      0.00    100    6165.00
+STATOR GOLD 20 10-CAPSULE  15 S          60      0      0.00      0      0.00     60    4999.20
+-------------------------------------------------------------------------- Follow page ... 3
+                                                
+between 12/1/2025 and 12/27/2025                                                   Page - 3
+------------------------------------------------------------------------------------------------
+Product Name               Packing       OP <---Receipts--->  <----Sales---->  <---Closing---->
+                                        Qty    Qty     Value    Qty     Value    Qty      Value
+------------------------------------------------------------------------------------------------
+TELPRES BETA 2.5 10-TABLE  10            30      0      0.00      0      0.00     30    2084.44
+TELPRES BETA 5 10-TABLETS  10            30     10    807.10     30   2421.30     10     807.10
+TELPRES CT 40/12.5 10-TAB  10 S          50      0      0.00     42   4576.32      8     871.68
+TELPRES CT 40/6.25 10-TAB  10 S         110      0      0.00     30   2445.00     80    6520.00
+CREON 40000 10-CAPSULES    10             7      0      0.00      0      0.00      7    6348.58
+ABVIDA 50 15-TABLETS       15            33      0      0.00      8   1129.20     25    3528.75
+ABVIDA M 50/1000 15-TABLE  15             0     10   2173.60      0      0.00     10    2173.60
+NERVUP INJECTION 1ML       1ML            3     10    921.90      5    460.95      8     737.52
+NERVUP OD 15-CAPSULES      15             9      0      0.00      2    563.76      7    1973.16
+NERVUP PG 10-TABLETS       10             0     20   4639.80     14   3247.86      6    1391.94
+PPG 0.2 30-TABLETS         30             9      0      0.00      4    742.72      5     928.40
+PPG 0.3 30-TABLETS         30            13      0      0.00      6   1695.00      7    1977.50
+PPG MET 0.2 10-TABLETS     10            15     20   2110.80     18   1899.72     17    1794.18
+PPG MET 0.3 10-TABLETS     10            20      0      0.00      5    727.15     15    2181.45
+TRIBETROL 1 15-TABLETS     15             0     20   3919.00      4    783.80     16    3135.20
+DURAJOINT GM 10-TABLETS    10             9      0      0.00      9   2515.77      0       0.00
+KENACORT 10 INJECTION 1ML  1ML            9      0      0.00      2    122.36      7     428.26
+KENACORT 4 15-TABLETS      15            28     20   2497.60     48   5994.24      0       0.00
+KENACORT 40 INJECTION 1ML  1VAIL*       297      0      0.00     62   9015.42    235   34171.35
+KENACORT PASTE 7.5GM       7.5GM         16     50   5840.50     54   6307.74     12    1401.72
+LIMCEE 15-TABLETS          15          3802   1200  20304.00   5002  84633.84      0       0.00
+MONTI FX 10-TABLETS        10 S          11      0      0.00      1    187.94     10    1879.40
+POLIEXAR 2 10-CAPSULES     10             6     10   1244.60     11   1369.06      5     622.30
+POLIEXAR P TABLETS         10           139      0      0.00      0      0.00    139   15191.31
+TOSSEX COUGH SYRUP 120ML   100ML       1063    200  34872.00   1262  220042.3      1     174.36
+TOSSEX DMR SYRUP           100ML         75      0      0.00      2    197.64     73    7213.86
+EPTOIN 100 120-TABLETS     120           49    216  33402.24    199  30773.85     66   10206.24
+EPTOIN 300 ER 30-TABLETS   30             0     20   2885.60      7   1009.96     13    1875.64
+EPTOIN 50 150-TABLETS      150            1     10    918.00      3    274.32      8     734.40
+EPTOIN INJECTION 5X2ML     5X2ML          9     20    871.00     10    435.50     19     827.45
+EPTOIN SUSPENSION 200ML    200ML         21      0      0.00      4    205.08     17     871.59
+AQUAVIRON 10-CAPSUELS      10             9      0      0.00      1    165.65      8    1325.20
+AQUAVIRON INJECTION 1ML A  1ML            3     12   1996.80      3    453.84     12    1996.80
+BETONIN AST TONIC 210ML    250ML          0     40   6806.40     38   6466.08      2     340.32
+DELETUS D + SYRUP 100ML    100ML         26     55   5949.35     45   4828.33     36    3894.12
+DELETUS P EXPECTORANT 100  100ML         65     55   6707.25     66   8048.70     54    6585.30
+DELETUS PEARLS 10-CAPSULE  10             0     45   3071.70     36   2457.36      9     614.34
+DIPSALIC F OINTMENT 20GM   20GM*          4      0      0.00      4    560.56      0       0.00
+FLAGYL 200 15-TABLETS      15             7     90   1075.50     76    908.20     21     250.95
+FLAGYL 400 20-TABLETS      15 S          51     30    668.10     47    771.27     34     733.74
+FLAGYL GEL 20GM            1              8      0      0.00      2    130.68      6     392.04
+FLAGYL SUSPENSION 60ML     60ML          38      0      0.00     38    861.08      0       0.00
+OZEWID CREAM 10GM          10GM          17     25   3889.25     18   2559.88     24    3733.68
+RASHFREE CREAM 30GM        30GM          44     75  13432.50     94  16835.40     25    4477.50
+CURENEXT OINTMENT 50GM     50GM           8      0      0.00      2    245.56      6     736.68
+EMOLENE CREAM 100GM        100GM          0    108  26383.32     90  21986.10     18    4397.22
+HYDENT 360 MOUTH WASH 100  100ML         35      0      0.00      3    362.43     32    3865.92
+HYDENT K TOOTH PASTE 100G  100GM        132      0      0.00     11   1493.03    121   16423.33
+TOOTHMIN CREAM 70GM        70GM           5      0      0.00      3    648.00      2     432.00
+REFSAV 50 TABLETS14S       14            57      0      0.00      9   2744.28     48   14636.16
+SIAGLIDE 100 15-TABLETS    15            49      0      0.00      0      0.00     49   10502.36
+SIAGLIDE 50 15-TABLETS     15            42      0      0.00      0      0.00     42    7269.54
+SIAGLIDE D 100/10 10-TABL  10           292      0      0.00      0      0.00    292   47698.20
+SIAGLIDE M 50/1000 15-TAB  15           122      0      0.00      1    198.35    121   25389.62
+SIAGLIDE M 50/500 15-TABL  15           427      0      0.00     21   3908.05    406   75556.60
+SIAGLIDE M OD 100/1000 15  15           215      0      0.00      0      0.00    215   52003.95
+SIAGLIDE M OD 100/500 15-  15           123      0      0.00      5    929.60    118   21938.56
+SIAGLIDE TRIO 10+100+1000  10           167      0      0.00      0      0.00    167   27152.53
+SIAGLIDE TRIO 10+100+500   10           272      0      0.00      0      0.00    272   43348.73
+-------------------------------------------------------------------------- Follow page ... 4
+                                                
+between 12/1/2025 and 12/27/2025                                                   Page - 4
+------------------------------------------------------------------------------------------------
+Product Name               Packing       OP <---Receipts--->  <----Sales---->  <---Closing---->
+                                        Qty    Qty     Value    Qty     Value    Qty      Value
+------------------------------------------------------------------------------------------------
+SUPERMET AM 10-TABLETS     10 S         136      0      0.00      0      0.00    136   19535.04
+SUPERMET H 10-TABLETS      10             9      0      0.00      4    367.88      5     459.85
+SUPERMET XL 100 10-TABLET  10            21      0      0.00      0      0.00     21    2303.92
+SUPERMET XL 25 15-TABLETS  15           395      0      0.00     27   1177.74    368   16052.16
+SUPERMET XL 50 15-TABLETS  15           557      0      0.00     22   1406.90    535   34209.25
+TELPRES 20 10-TABLETS      10           646      0      0.00     10    426.20    636   27106.32
+TELPRES 40 15-TABLETS      15           459    530  39363.10    642  47681.34    347   25771.69
+TELPRES 80 10-TABLETS      10           152    200  22852.00    112  12773.84    240   27150.80
+TELPRES AM 40 15-TABLETS   15           350    400  99388.00    554  137652.3    196   48700.12
+TELPRES AM 80 10-TABLETS   10            20    200  50342.00    100  25171.00    120   30205.20
+TELPRES AMH 10-TABLETS     10            23    100  15800.00      2    316.00    121   19118.00
+TELPRES H 40 15-TABLETS    15           275      0      0.00     63  16478.28    212   55450.72
+TELPRES H 80 10-TABLETS    10            57      0      0.00      2    496.04     55   13641.10
+TELPRES TRIO 12.5 15-TABL  10            66      0      0.00      0      0.00     66   10395.00
+TELPRES TRIO 6.25 10-TABL  10           185      0      0.00     13   1553.63    172   20555.72
+ANAFORTAN N 10-TABLETS     10            17      0      0.00      1     65.46     16    1047.36
+ANAFORTAN SYRUP 100ML      60ML*          2      0      0.00      2    263.76      0       0.00
+CEFI XL + 10-TABLETS       10            10      0      0.00      0      0.00     10    1589.00
+ESOKEM 20 10-TABLETS       10            13      0      0.00     13    634.01      0       0.00
+ESOKEM 40 15-TABLETS       15            20      0      0.00     20   2069.20      0       0.00
+REZFURAN 100 14-TABLETS    14             3      0      0.00      0      0.00      3     338.82
+BRIVAJOY 100 14-TABLETS    14            10     10   4310.70     10   4310.70     10    4310.70
+BRIVAJOY 50 14-TABLETS     14            14      0      0.00      6   1501.20      8    2001.60
+EPILEX 15-TABLETS          15            37      0      0.00     22    867.02     15     591.15
+EPILEX CHRONO 200 15-TABL  15            10      0      0.00      0      0.00     10     990.50
+EPILEX CHRONO 300 15-TABL  15             9      0      0.00      1     67.02      8     536.16
+EPILEX CHRONO 500 15-TABL  15            10      0      0.00      0      0.00     10    1019.50
+EPILEX ORAL SOLUTION 200M  200ML         11     30   2851.20     12   1140.48     29    2756.16
+GAROIN NEW 100-TABLETS     100            8      0      0.00      7    967.68      1     138.24
+LIBRIUM 10 10-TABLETS      10           226      0      0.00     75   8281.50    151   16673.42
+LIBRIUM 25 15-TABLETS      15            68      0      0.00      9   1513.17     59    9919.67
+LIBRIUM 5 15-TABLETS       15           210      0      0.00     11   1050.06    199   18996.54
+RIVMD SMART 0.25 TABLETS   30            15      0      0.00      0      0.00     15     662.40
+RIVMD SMART 0.5 TABLETS    30            23      0      0.00      1     75.81     22    1667.82
+SZETALO 10 15-TABLETS      15            10      0      0.00      3    296.67      7     692.23
+SZETALO 20 15-TABLETS      10            10      0      0.00      0      0.00     10    1577.80
+SZETALO 5 15-TABLETS       15             8      0      0.00      0      0.00      8     433.68
+SZETALO LS 15-TABLETS      15            11      0      0.00      7   1399.16      4     810.04
+SZETALO PLUS 15-TABLETS    15            40      0      0.00     30   7566.30     10    2600.90
+SZETALO PLUS 5 15-TABLETS  15            83      0      0.00      8    532.80     75    4995.00
+CEFI 200 10-TABLETS        10             8      0      0.00      1     71.61      7     501.27
+PROTUSSA COUGH SYRUP 60ML  60ML           1      0      0.00      1     62.23      0       0.00
+------------------------------------------------------------------------------------------------
+                                 1980006.67        740499.83       1067293.82        1653212.68
+------------------------------------------------------------------------------------------------
+Powered by MetaLinks                                                                                     End.
+P
+
+

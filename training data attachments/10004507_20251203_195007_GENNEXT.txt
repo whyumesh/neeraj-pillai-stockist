@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT GEN NEXT
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+ARACHITOL 3L INJ               6`S      2     10          3    10  2618.28     721.40      
+ARACHITOL 6L INJ             6x1ML     18     20     2   24    14  5127.95    8988.44      
+ARACHITOL KIDS SOLUTION       15ML     11            2    2     9  1291.34     288.50      
+ARACHITOL NANO SF 60K        4*5ML     67     80    72   66    81 25222.43   20650.39      
+ARACHITOL NANO SOLUTION        5ML                                                         
+BENEGUT 12                    12'S                                                         
+BRUFEN 200 TAB                15'S    200           99   78   122   992.78     660.04      
+BRUFEN 400 TAB                15'S     87    210   176  226    71  1308.35    4261.53      
+BRUFEN 600 TAB                15`S     14     30    17    9    35  1001.07     260.62      
+BRUFEN JUNIOR SYP             60ML                                                         
+BRUFEN MR TAB                 10'S                                                         
+BRUFEN P SUSP                100ML      5           85          5   185.27                 
+BRUFEN P TAB                  20`S                                                         
+BRUFEN POWER GEL              15GM                                                         
+BRUGEL ACTIFAST GEL           30GM    120           29   17   103 17895.58    2687.23      
+CITROSODA SACH                 1`S                  21                                     
+CITROSODA UTI SACH            5 GM                                                         
+DIGECAINE FRUITPUNCH SYP     200ML                                                         
+DOXSTEM TAB                   30'S                                                         
+DUPHALAC BEARS CHEW 1.668     30'S                                                         
+DUVADILAN INJ                6X2ML      9     40    10   14    35  5647.37    2248.65      
+DUVADILON RETARD TAB          10'S     30           10   12    18  3697.22    2497.47      
+DUVADILON TAB                 50'S     42           10   11    31  5110.35    1840.45      
+MEGAMOX CV 625MG               6'S                                                         
+NEFOSAR 30MG TAB              10'S     27     30    33   25    32  2608.70    2054.95      
+NEFOSAR INJ                  5x1ML                                                         
+PRESERVGEST 200               15'S                                                         
+PRESERVGEST SR 200MG          15'S                                                         
+PRESERVGEST SR 300MG          15'S                                                         
+ZOLFRESH 10MG  TAB            15'S     60    120   111  121    59  5792.33   12017.03      
+ZOLFRESH 5MG                  15`S     50    110   110  103    57  4082.97    7526.94      
+ZOLFRESH ER 12.5 MG TAB       15`S                                                         
+ZOLFRESH ER 6.25 MG TAB       15`S                                                         
+-------------------------------------------------------------------------------------------
+                                                              682 82581.99   66703.64      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:75669.64      Sales Val - Prv.Mth: 65699.62   Cur.Mth.Sal:  70038.82   Stk.Val:75163.66      Pur.Val:68143.02     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  70038.82       Stock Value:82581.99                                       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

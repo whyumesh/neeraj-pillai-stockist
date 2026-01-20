@@ -1,0 +1,27 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA (GASTROCARE)
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+BRUFEN POWER SPRAY       ;   20GM;           ;           ;           ;           ; 5-2026;           ;
+BRUFEN POWER SPRAY       ;   40GM;           ;           ;           ;           ; 5-2026;           ;
+CITROSODA                ;    1'S;         43;           ;         43;           ; 5-2026;           ;
+CLOME 25MG TAB           ;   10'S;           ;           ;           ;           ; 5-2026;           ;
+CREMA GEL                ;   30GM;         30;           ;          3;         27; 7-2028;         10;
+CREMA GEL H              ;   20GM;           ;           ;           ;           ; 7-2028;           ;
+CREMAFFIN "PLUS"SYP      ;  225ML;        110;        120;        135;         95; 8-2028;        116;
+CREMAFFIN CHOTA PACK     ;   10ML;           ;           ;           ;           ; 8-2028;           ;
+CREMAFFIN MINT SYP       ;  225ML;         37;         60;         47;         50;10-2028;         48;
+CREMAFFIN PLUS SYP       ;  100ML;           ;           ;           ;           ;10-2028;           ;
+CREMAFIN SYRUP(M.F)PINK  ;  225ML;         43;           ;         29;         14; 5-2028;         22;
+CREMALAX 10MG TAB(20)    ;   18'S;          5;           ;          5;           ; 5-2028;          9;
+LIBRAX TAB(20)           ;   15'S;           ;           ;           ;           ; 5-2028;           ;
+NEO MERCAZOLE 10MG TAB   ;  100'S;          8;         40;          5;         43; 7-2027;         20;
+NEO MERCAZOLE 20MG TAB   ;  100'S;           ;           ;           ;           ; 7-2027;           ;
+NEO MERCAZOLE 5MG TAB    ;  100'S;         13;         25;         16;         22; 8-2027;         17;
+PANKREOFLAT TAB          ;   15'S;         20;         10;         14;         16; 8-2027;          7;
+RASHFREE CREAM           ;   30GM;         32;         92;         60;           ; 8-2027;           ;
+RASHFREE NATURAL WIPES   ;   72'S;           ;           ;           ;           ; 8-2027;           ;
+
+Total :                  ;       ;           ;           ;   54693.25;   71008.87;       ;   63759.09;

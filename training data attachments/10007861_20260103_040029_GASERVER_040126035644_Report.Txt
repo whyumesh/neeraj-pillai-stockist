@@ -1,0 +1,28 @@
+CHM
+                GULAB ASSOCIATES
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LTD [GA 
+----------------------------------
+CREMAFFIN MIXED FRUIT        225ML       79     420      499     399     100     20853.00    9 
+CREMAFFIN PLAIN SYP          225ML        0       0        0       0       0         0.00   36 
+CREMAFFIN PLUS               225ML      120     600      720     575     145     35265.67    9 
+CREMALAX TABS                3X6S         0       0        0       0       0         0.00    9 
+GANATON 50 TABS              10S         10       0       10      10       0         0.00    2 
+GANATON OD CAPS              10S          7       0        7       5       2       681.24    2 
+GANATON TOTAL TABS           10S          7       0        7       7       0         0.00    2 
+PANKREOFLAT TABS             15S          0       0        0       0       0         0.00    8 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :   218591.57 
+Purchase Value :   222390.00 Closing Value :    56799.91 
+------------------------------------------------------------------------------------------------
+UnAdjusted Pur.Ret/Debit Notes
+Number     Date        Balance
+------------------------------
+                    ----------
+           Total :        0.00
+                    ----------
+P

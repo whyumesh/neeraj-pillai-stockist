@@ -1,0 +1,39 @@
+C$M
+                  AMAR AGENCIES
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 26/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT  INDIA LTD .T 
+------------------------------------
+COMBINORM                    10`S         0       0        0       0       0         0.00 2311 
+DIENORNORM  TAB              1X10`S       0       0        0       0       0         0.00  756 
+FEBUSTAT 40 MG               10`S         0       0        0       0       0         0.00   65 
+LINORMA T3 20                100`s        0       0        0       0       0         0.00  536 
+NEOMERCAZOLE 10 MG           120`S        6       0        6       3       3      1212.15  117 
+NEOMERCAZOLE 20 MG           100`s        0       0        0       0       0         0.00 2229 
+NEOMERCAZOLE 5 MG            120`S       11       0       11       7       4       830.30   29 
+OBIMET -SR 500MG             15`S         0       0        0       0       0         0.00 1485 
+OBIMET TAB                   15`S         0       0        0       0       0         0.00 2866 
+SURBEX GOLD 10`S             10`S         0       0        0       0       0         0.00  847 
+THYROCAB 10MG                100`S        0       0        0       0       0         0.00 3473 
+THYRONORM 100 MCG            120`s       47     108      155     131      24      2917.15    2 
+THYRONORM 112 MCG            50`s        29      12       41      37       4       603.46    2 
+THYRONORM 12.5 MG TAB        120`s       27     108      135      98      37      5051.69    2 
+THYRONORM 125 MG             120`s       34      12       46      29      17      2651.62    2 
+THYRONORM 150 MG TAB         120`s       15      24       39      34       5       784.46    2 
+THYRONORM 200 MG             100`S        0       0        0       0       0         0.00  639 
+THYRONORM 37.5 MG TAB        120`S        7      36       43      41       2       270.52    2 
+THYRONORM 50 MCG TAB         120`s       53     240      293     268      25      2376.41    2 
+THYRONORM 62.5 MG TAB        120`S       18      60       78      65      13      1931.63    2 
+THYRONORM 88 MG TAB          120`S       25      48       73      53      20      3042.27    2 
+THYRONORM-137 MG             120`s       12       0       12      12       0         0.00   35 
+THYRONORM-25 MG              120`s       75     192      267     238      29      3871.13    2 
+THYRONORM-75MG               120`s       78     144      222     209      13      1721.95    2 
+THYROWEL CAPS                10`s         0       0        0       0       0         0.00 1551 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :   167450.36 
+Purchase Value :   118054.20 Closing Value :    27264.74 
+------------------------------------------------------------------------------------------------
+P

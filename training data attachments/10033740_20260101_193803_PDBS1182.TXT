@@ -1,0 +1,30 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   CNSTASKFORCE
+---------------------------------------------------------------------------
+ADEQUET-100 SR TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-100 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-25 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-50 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-SR 200 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+ADEQUET-SR 300 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM INJ               |1's   |    0|    0|    0|    0|    0|    0|    0
+LEVESAM ORAL SOLN         |100ml |    4|    5|    0|    9|    3|    6|    0
+LEVESAM-1 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-250 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-500 TAB           |15's  |   67|   20|    0|   87|   47|   40|    0
+LEVESAM-750 TAB           |10's  |    5|    0|    0|    5|    2|    3|    0
+LEVESAM-XR 1000 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+LEVESAM-XR 500 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+MDD-XR 100 TAB            |10's  |    6|    0|    0|    6|    0|    6|    0
+MDD-XR 50 TAB             |10's  |   10|    0|    0|   10|    0|   10|    0
+SELF TEST-1T ANTIGEN      |1's   |    0|    0|    0|    0|    0|    0|    0
+SELF TEST-4T ANTIGEN      |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   17923    PR.STK    4784    RT.COM       0    CL.STK   13826
+SL.AMT    8881
+---------------------------------------------------------------------------

@@ -1,0 +1,44 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   GASTRO ENTEROLOGY
+---------------------------------------------------------------------------
+CREMAFFIN MIX FRUIT       |170ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-FRESH TAB       |10's  |   49|  200|    0|  249|  151|   98|    0
+CREMAFFIN-FRESH TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-MINT FLAVOR     |225ml |   17|   60|    0|   77|   30|   47|    0
+CREMAFFIN-MINT STICKPACK  |15ml  |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-MIXED FRUIT SYP |225ml |   54|    0|    0|   54|   34|   20|    0
+CREMAFFIN-MIXED FRUIT SYP |450ml |   15|    0|    0|   15|    3|   12|    0
+CREMAFFIN-MIXED FRUIT SYP |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-PLAIN SYP       |170ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-PLAIN SYP       |225ml |   73|    0|    0|   73|   48|   25|    0
+CREMAFFIN-PLUS SYP        |225ml |  148|  180|    0|  328|  221|  107|    0
+CREMAFFIN-PLUS SYP        |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMAGEL-2% GEL           |30gm  |    8|    0|    0|    8|    7|    1|    0
+CREMAGEL-H GEL            |20gm  |    0|    0|    0|    0|    0|    0|    0
+CREMAGEL-L                |30gm  |    1|    0|    0|    1|    0|    1|    0
+CREMALAX LIQ              |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMALAX-10 TAB           |18's  |   15|   20|    0|   35|   19|   16|    0
+DIGERAFT SUSP             |150ml |   58|    0|    0|   58|    1|   57|    0
+DIGERAFT TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+DIGERAFT-PLUS SUSP        |150ml |   21|    0|    0|   21|    8|   13|    0
+GANATON-50 TAB            |10's  |    8|    0|    0|    8|    2|    6|    0
+GANATON-OD CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+GANATON-TOTAL TAB         |10's  |    2|   10|    0|   12|    2|   10|    0
+LIBRAX TABS               |20's  |   44|    0|    0|   44|   17|   27|    0
+PANKREOFLAT LIQ           |100ml |    0|    0|    0|    0|    0|    0|    0
+PANKREOFLAT TAB           |15's  |   20|    0|    0|   20|   13|    7|    0
+PANKREOFLAT-HD TAB        |10's  |   10|    0|    0|   10|    2|    8|    0
+RASHFREE CREAM            |20gm  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-LN 40 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-10 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-20 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-5 TAB            |100's |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK  109834    PR.STK   69130    RT.COM       0    CL.STK   82385
+SL.AMT   96579
+---------------------------------------------------------------------------

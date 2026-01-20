@@ -1,0 +1,25 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   QUANTAS DHOLE
+---------------------------------------------------------------------------
+REFSAV-100 TAB            |14's  |    0|    0|    0|    0|    0|    0|    0
+REFSAV-50 TAB             |14's  |    0|    0|    0|    0|    0|    0|    0
+SUPERMET-AM TAB           |10's  |   60|    0|    0|   60|   18|   42|    0
+SUPERMET-H TAB            |10's  |   24|    0|    0|   24|    0|   24|    0
+SUPERMET-XL 25 TAB        |10's  |  104|  100|    0|  204|  155|   49|    0
+SUPERMET-XL 50 TAB        |15's  |  126|    0|    0|  126|   45|   81|    0
+TELPRES-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-40 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-80 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-AM 80 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-AM TAB            |15's  |    8|    0|    0|    8|    2|    6|    0
+TELPRES-AMH TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-H 40 TAB          |10's  |   10|    0|    0|   10|    6|    4|    0
+---------------------------------------------------------------------------
+OP.STK   31119    PR.STK    4846    RT.COM       0    CL.STK   20092
+SL.AMT   15872
+---------------------------------------------------------------------------

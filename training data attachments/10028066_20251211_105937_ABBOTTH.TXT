@@ -1,0 +1,268 @@
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD [M192]                           Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+CABERNORM TAB,4S                    0      0     0     0      0      0       0
+COMBINORM TAB,10S                   0      0     0     0      0      0       0
+CREMA ANO,20GM                      0      0     0     0      0      0       0
+CREMAFFIN PLUS,225ML              210    360     0   396      0    174    -174
+CREMAGEL,30GM                      11     20     0    16      0     15     -15
+CREMAGEL H,20GM                     0      0     0     0      0      0       0
+CREMALAX TAB,15S                    0      0     0     0      0      0       0
+CREMALAX TAB,6S                     0      0     0     0      0      0       0
+DIGERAFT PLUS SUSP,150ML            0      0     0     0      0      0       0
+DIGERAFT PLUS SYP,200ML            31      0     0     3      0     28     -28
+DIGERAFT SUSP,150ML                 0      0     0     0      0      0       0
+DIGERAFT SYP,200ML                 20      0     0    13      0      7      -7
+ELDICET TAB,10                      0      0     0     0      0      0       0
+GANATON 50MG,10T                  108     40     0    92      0     56     -56
+GANATON OD,10                       8     10     0    10      0      8      -8
+GANATON TOTAL,10                   30     40     0    42      0     28     -28
+LIBRAX TAB,20T                    120    200     0   236      0     84     -84
+PANKREOFLAT HD TAB,10TAB           21      0     0     5      0     16     -16
+PANKREOFLAT LIQUIED,100ML           0      0     0     0      0      0       0
+PANKREOFLAT TAB,15                 38     60     0    72      0     26     -26
+ROWASA,                             0      0     0     0      0      0       0
+ROWASA 1 GM,1GM                     0      0     0     0      0      0       0
+THYROWEL CAP,10S                    0      0     0     0      0      0       0
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  158609.40   0.00       191885.72   89854.55      -89854.55
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.187246.95  
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD 1 [M197]                         Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+CREON 10000 CAPS,15S               17     20     0    17      0     20     -20
+CREON 25000 CAPS,10S               16      0     0     6      0     10     -10
+INDERAL 10MG TAB,15S              398    280     0   446      0    232    -232
+INDERAL 20MG TAB,15S               64      0     4    58      0     10     -10
+INDERAL 40MG TAB,15S               83      0     0    38      0     45     -45
+INDERAL F 10,10S                    0      0     0     0      0      0       0
+INDERAL F 5 TAB,10S                15      0     0     0      0     15     -15
+INDERAL LA 20MG TAB,15S            92    170     0   161      0    101    -101
+INDERAL LA 40MG TAB,15S            46     80     0    89      0     37     -37
+PROTHIADEN 25 TAB,15S              81     40     0    93      0     28     -28
+PROTHIADEN 50 TAB,15S              38      0     0    12      0     26     -26
+PROTHIADEN 75 TAB,15S              44      0     0    18      0     26     -26
+PROTHIADEN M 50 TAB,15S             2      0     0     0      0      2      -2
+PROTHIADEN M TAB,15S                5      0     0     0      0      5      -5
+UDI SYP,200ML                       0      0     0     0      0      0       0
+VERTIN DT 16MG,15TAB                0      0     0     0      0      0       0
+VERTIN DT 24MG,15TAB                0      0     0     0      0      0       0
+VERTIN DT 8MG,15TAB                 0      0     0     0      0      0       0
+VERTIN MDS 24MG TAB,10S             0      0     0     0      0      0       0
+VERTIN OD 24 TAB,15S               14     10     0     8      0     16     -16
+VERTIN OD 24 TAB,7S                 0      0     0     0      0      0       0
+VERTIN OD 48 TAB,15S               12      0     0     3      0      9      -9
+VERTIN OD TAB,7S                    0      0     0     0      0      0       0
+VERTIN TAB 16MG,15S               203    140     0   213      0    130    -130
+VERTIN TAB 24MG,15S                32      0     0     6      0     26     -26
+VERTIN TAB 8MG,15S                 47     60     0    74      0     33     -33
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  84129.30    156.00     136255.03   113033.25    -113033.25
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.132524.50  
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD 2 XXXX [M198]                    Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+EPTOIN 100MG TAB,120S              70      0     0    52      0     18     -18
+EPTOIN 300 ER TAB,30S               1     20     0     0     -1     20     -20
+EPTOIN 50MG TAB,150S               11      0     0     2      0      9      -9
+EPTOIN INJ 2ML,2ML                  1      0     0     0      0      1      -1
+EPTOIN SUPS,200ML                  12      0     0     4      0      8      -8
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  3029.60     0.00       9129.13     6898.85        -6898.85
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.8864.40    
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD (DU) [M200]                      Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+COLOSPA RETARD CAP,15S             22     20     0    20      0     22     -22
+COLOSPA TAB 135MG,15S              10     10     0    17      0      3      -3
+COLOSPA X,                         23     40     0    28      0     35     -35
+DUPHALAC 150ML SYP,150ML          216    350     0   306      0    260    -260
+DUPHALAC 250ML SYP,250ML          222    200     0   199      0    223    -223
+DUPHALAC 450ML SYP,450ML          111     40     0    81     -1     69     -69
+DUPHALAC CHEWS,3.335 GM             0      0     0     0      0      0       0
+DUPHALAC-BULK SYP,160 ML            0      0     0     0      0      0       0
+UDILIV 150MG TAB,15S               96     40     0    67      0     69     -69
+UDILIV 300MG TAB,15S              152    150     0   178      0    124    -124
+UDILIV 450MG TAB,10S               20      0     0     6      0     14     -14
+UDILIV 600MG TAB,10S                9     10     0     8      0     11     -11
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  258827.10   0.00       306660.31   250194.06    -250194.06
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.299069.80  
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD (GEN NEXT) [M201]                Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+ARACHITOL GUMIES,30GM               0      0     0     0      0      0       0
+ARACHITOL INJ 3L,1ML                0      0     0     0      0      0       0
+ARACHITOL INJ 6L,1ML               47     90     0   106      0     31     -31
+ARACHITOL KIDS 400IU,15ML           0      0     0     0      0      0       0
+ARACHITOL NANO DAILY 2KIU,          0      0     0     0      0      0       0
+ARACHITOL NANO SF 60K,4X5ML        12     20     0    24      0      8      -8
+BENEGUT,12X1S                       0      0     0     0      0      0       0
+BRUFEN 200 MG,15T                  74      0     0    56      0     18     -18
+BRUFEN 400 MG,15                  189      0     0   131      0     58     -58
+BRUFEN 600 MG,15T                  22     30     0    13      0     39     -39
+BRUFEN MR,10T                       0      0     0     0      0      0       0
+BRUFEN P SUSP,100ML                 0      0     0     0      0      0       0
+BRUFEN POWER SPRAY,20GM             0      0     0     0      0      0       0
+BRUFEN POWER SPRAY,40GM             0      0     0     0      0      0       0
+BRUGEL ACTIFAST GEL,30GM            0      0     0     0      0      0       0
+DOXSTEM TAB,30S                     0      0     0     0      0      0       0
+DUVADILAN INJ,2ML                 119      0     0    12      0    107    -107
+DUVADILAN RETARD CAP,10C            0      0     0     0      0      0       0
+DUVADILAN RETARD CAP,15CAP         49    140     0    92      0     97     -97
+DUVADILAN TAB 10MG,50T             24     60     0    28      0     56     -56
+NEFOSAR TAB 30MG,10T                0      0     0     0      0      0       0
+ZOLFRESH 10MG,15                   33     90     0    68      0     55     -55
+ZOLFRESH 5MG,15                    25     20     0    23      0     22     -22
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  57633.10    0.00       45337.55    41998.84      -41998.84
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.44270.69   
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA (CON) [M205]                         Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+CREMAFFIN FRESH,10S                 0      0     0     0      0      0       0
+CREMAFFIN MIXED FRUIT,225 ML       56      0     0    26      0     30     -30
+CREMAFFIN MIXED FRUIT,450ML         0      0     0     0      0      0       0
+CREMAFFIN PLAIN,225ML              94     60     0    68      0     86     -86
+DIGECAINE GEL,200ML                 0      0     0     0      0      0       0
+DIGENE GEL(ORANGE),10ML             0      0     0     0      0      0       0
+DIGENE GEL(ORANGE),200ML          104    120     6    75      0    155    -155
+DIGENE GEL(ORANGE),450ML           23     32     0    19      0     36     -36
+DIGENE TAB(MINT),15S                0      0     0     0      0      0       0
+DIGENE TAB(ORANGE),15S           1228   1440     0  2120      0    548    -548
+DIGENE ULTRA FIZZ ORANGE,1S         0      0     0     0      0      0       0
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  57596.60    826.26     70878.70    59203.63      -59203.63
+-------------------------------------------------------------------------------
+REMARKS: 7003881862 ARIMDAM SAHA  8293100216 PINTU               
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.69292.92   
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD(METABOLIS) [M219]                Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+ABOCAL 500 TAB,15S                  0      0     0     0      0      0       0
+HYTRIN 1MG TAB,10S                  0      0     0     0      0      0       0
+HYTRIN 2MG TAB,10S                  0      0     0     0      0      0       0
+THYRONORM 100MCG,120TAB           140      0     0    81      0     59     -59
+THYRONORM 12.5MCG,120TAB           60    120     0    95      0     85     -85
+THYRONORM 125MCG,100TAB             0      0     0     0      0      0       0
+THYRONORM 125MCG,120S              34     12     0    29      0     17     -17
+THYRONORM 150MCG,100S               0      0     0     0      0      0       0
+THYRONORM 150MCG,120S              32      0     0    11      0     21     -21
+THYRONORM 200MCG,100TAB             0      0     0     0      0      0       0
+THYRONORM 25MCG,120TAB            164    136     0   186      5    119    -119
+THYRONORM 37.5MCG,100TAB            0      0     0     0      0      0       0
+THYRONORM 37.5MCG,120S            105     48     0    99      0     54     -54
+THYRONORM 50MCG,120TAB            149    228     0   245      0    132    -132
+THYRONORM 62.5 MCG,120S           118     48     0    96      0     70     -70
+THYRONORM 62.5 MCG,50S              0      0     0     0      0      0       0
+THYRONORM 75MCG,120TAB             97    192     0   145      1    145    -145
+THYRONORM 88MCG,120S               55     24     0    30      0     49     -49
+THYROWEL PLUS TAB,15TAB            16      0     0     5      0     11     -11
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  100798.16   0.00       133167.77   95095.88      -95095.88
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.129843.69  
+ÿ
+NARAYAN MEDICAL                                                      01/12/2025
+BHANDERHATI, HOOGHLY                                                 10:44:15
+                              
+** Daily Stock Summary (Company-wise) **          From 01/11/2025 to 30/11/2025
+Company:ABBOTT INDIA LTD (DNF) [M231]                     Ordering Factor: 0.00
+-------------------------------------------------------------------------------
+        Product & Pack        |  Op. | Pur. |Sales|Sales| Adj./| Cl.  | Order |
+                              | Stock| Qty. |Retu.| Qty.| Dmg. |Stock | Qty.  |
+------------------------------|------|------|-----|-----|------|------|-------|
+DUPHASTON TAB,10S                  37     30     0    46      0     21     -21
+FEMILON TAB,21T                    58     54     0    58      0     54     -54
+NOVELON TAB,21T                    91    135     0   135     -1     90     -90
+SOLFE TAB,15S                       0      0     0     0      0      0       0
+---------------------Purchase----Sl.Retu---- Sales -------Stock----Ordering----
+Valuation (Rs.) =>  64230.18    0.00       78097.38    47498.67      -47498.67
+-------------------------------------------------------------------------------
+REMARKS:                                                         
+N.B: Pur. Qty includes Pur. Repl., Sales Qty. includes Challan Qty.,
+     Cl. Stock qty includes Bonus Qty., Adj./Dmg. Qty includes Stock 
+     Adjustment and Goods Replacement Qty.
+Sales Valuation (as per PTS): Rs.75658.82   
+ÿ

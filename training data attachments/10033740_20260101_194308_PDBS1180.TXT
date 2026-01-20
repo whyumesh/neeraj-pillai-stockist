@@ -1,0 +1,46 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   RESTORA
+---------------------------------------------------------------------------
+ANAFORTAN DROPS           |10ml  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN INJ             |2ml   |    7|    0|    0|    7|    0|    7|    0
+ANAFORTAN SYP             |60ml  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ANAFORTAN-MF TAB          |10's  |   11|    0|    0|   11|    0|   11|    0
+ANAFORTAN-N TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+ANASPAS INJ               |2ml   |    0|    0|    0|    0|    0|    0|    0
+ANASPAS TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-200 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-50 DRY SYP           |1's   |    0|    0|    0|    0|    0|    0|    0
+CEFI-DT 100 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-DT 50 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-O 200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-OZ TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CEFI-XL D-RF 200 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+CEROM DRY SYP             |30ml  |    0|    0|    0|    0|    0|    0|    0
+CEROM-250 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CEROM-500 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-20 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-40 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-D TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+ESOKEM-L TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX DRY SYP           |30ml  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-375 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-625 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+FIGHTOX-KID TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+GUTNEXT SACHET            |1gm   |    0|    0|    0|    0|    0|    0|    0
+PROTUSSA SYP              |60ml  |    0|    0|    0|    0|    0|    0|    0
+REZFURAN-100 TAB          |14's  |   14|    0|    0|   14|    2|   12|    0
+TENOCLOR-25 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-250 CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-250 TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+WYMOX-500 CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK    2823    PR.STK       0    RT.COM       0    CL.STK    2572
+SL.AMT     251
+---------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   CARDIAC
+---------------------------------------------------------------------------
+CYTOGARD-OD 60 TAB        |10's  |    6|   10|    0|   16|    6|   10|    0
+IVABID-5 TAB              |14's  |    0|    0|    0|    0|    0|    0|    0
+IVABID-OD 10 TAB          |10's  |   12|    0|    0|   12|    0|   12|    0
+METGLAR-2 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+STATOR-10 TAB             |15's  |   50|    0|    0|   50|    0|   50|    0
+STATOR-20 TAB             |15's  |   40|    0|    0|   40|    2|   38|    0
+STATOR-40 TAB             |10's  |   24|    0|    0|   24|    0|   24|    0
+STATOR-80 TAB             |10's  |   12|    0|    0|   12|    0|   12|    0
+STATOR-ASP 150 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+STATOR-ASP 75 TAB         |10's  |   42|   20|    0|   62|   37|   25|    0
+STATOR-CV TAB             |15's  |    6|    0|    0|    6|    0|    6|    0
+STATOR-F TAB              |15's  |   15|    0|    0|   15|    1|   14|    0
+STATOR-GOLD 10 TAB        |15tab |   17|    2|    0|   19|    4|   15|    0
+STATOR-GOLD 20 TAB        |15tab |   30|   30|    0|   60|   27|   33|    0
+TELPRES-CT 40/12.5 TAB    |15's  |   38|   10|    0|   48|   36|   12|    0
+TELPRES-CT 40/6.25 TAB    |15's  |   51|   20|    0|   71|   43|   28|    0
+TELPRES-CT 80 TAB         |10's  |   12|    0|    0|   12|    5|    7|    0
+TELPRES-H 80 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   47437    PR.STK   11247    RT.COM       0    CL.STK   41765
+SL.AMT   16918
+---------------------------------------------------------------------------

@@ -1,0 +1,58 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   PSYCHIATRY
+---------------------------------------------------------------------------
+BRIVAJOY-100 TAB          |14's  |    0|    0|    0|    0|    0|    0|    0
+BRIVAJOY-50 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+BRIVAJOY-75 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+CLOZAM-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CLOZAM-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+DELOK-30 CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+DEPSONIL-25 TABS          |10's  |   17|    0|    0|   17|    8|    9|    0
+DEPSONIL-PM 75 CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX SYP                |100ml |    0|    0|    0|    0|    0|    0|    0
+EPILEX SYP                |200ml |   11|   20|    0|   31|   20|   11|    0
+EPILEX TAB                |15's  |   10|    0|    0|   10|    1|    9|    0
+EPILEX-200 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX-500 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+EPILEX-CHRONO 200 TAB     |10's  |    9|    0|    0|    9|    0|    9|    0
+EPILEX-CHRONO 300 TAB     |10's  |    8|    0|    0|    8|    0|    8|    0
+EPILEX-CHRONO 500 TAB     |10's  |   13|    0|    0|   13|    2|   11|    0
+EPILEX-ER 300 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+GAROIN TAB                |10's  |    0|    0|    0|    0|    0|    0|    0
+LIBRIUM-10 TAB            |15's  |   28|   35|    0|   63|   30|   33|    0
+LIBRIUM-25 TAB            |15's  |   38|   20|    0|   58|   34|   24|    0
+MAZETOL-100 TAB           |10's  |   44|    0|    0|   44|   29|   15|    0
+MAZETOL-200 TAB           |10's  |  201|  280|    0|  481|  350|  131|    0
+MAZETOL-400 TAB           |10's  |   27|    0|    0|   27|    0|   27|    0
+MAZETOL-SR 200 TAB        |15's  |   24|   30|    0|   54|   35|   19|    0
+MAZETOL-SR 300 TAB        |15's  |   21|   20|    0|   41|   19|   22|    0
+MAZETOL-SR 400 TAB        |15's  |   16|    0|    0|   16|    0|   16|    0
+OX-MAZETOL 150 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+OX-MAZETOL 300 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+OX-MAZETOL 600 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+RIVOTRIL-0.25 TAB         |10's  |   11|    0|    0|   11|    0|   11|    0
+RIVOTRIL-0.5 TABS         |10's  |    0|    0|    0|    0|    0|    0|    0
+RIVOTRIL-2 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-10 TAB            |15's  |    3|   10|    0|   13|    2|   11|    0
+SZETALO-20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+SZETALO-LS TAB            |10's  |    7|   10|    0|   17|   15|    2|    0
+SZETALO-PLUS 5 TAB        |10's  |   10|    0|    0|   10|    0|   10|    0
+SZETALO-PLUS MD TAB       |10's  |   10|    0|    0|   10|    0|   10|    0
+SZETALO-PLUS TAB          |15's  |    4|   10|    0|   14|    3|   11|    0
+VALANCE-250 SOLUTION      |100ml |    0|    0|    0|    0|    0|    0|    0
+VALANCE-500 SOLUTION      |100ml |    0|    0|    0|    0|    0|    0|    0
+VALANCE-500 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+VALANCE-OD 1000 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+VALANCE-OD 250 TAB        |15's  |    6|    0|    0|    6|    0|    6|    0
+VALANCE-OD 500 TAB        |15's  |    7|    0|    0|    7|    1|    6|    0
+VALANCE-OD 750 TAB        |15's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   29671    PR.STK   21936    RT.COM       0    CL.STK   27750
+SL.AMT   23857
+---------------------------------------------------------------------------

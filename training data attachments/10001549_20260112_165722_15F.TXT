@@ -1,0 +1,35 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA LTD(NEUROLITE)
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+ACUVERT TAB              ;    9'S;           ;           ;           ;           ;10-2026;           ;
+EBASIL 10MG TAB          ;   10'S;           ;           ;           ;           ;10-2026;           ;
+EBASIL 20MG TAB          ;   10'S;           ;           ;           ;           ;10-2026;           ;
+EPTOIN 300 ER            ;   30'S;           ;           ;           ;           ;10-2026;           ;
+EPTOIN 50MG TAB          ;  150'S;           ;         10;          2;          8; 3-2028;           ;
+EPTOIN INJ (25)          ;    2ML;         30;        100;           ;        130; 3-2028;           ;
+EPTOIN SYP               ;  200ML;         33;           ;           ;         33; 4-2027;           ;
+EPTOIN TAB               ;  120'S;           ;        144;         30;        114; 8-2028;          8;
+HEPTRAL TAB              ;   10'S;          1;           ;          1;           ; 8-2028;           ;
+INDERAL "40MG TAB(30)    ;   15'S;          6;           ;          6;           ; 8-2028;         28;
+INDERAL 10MG TAB(40)     ;   15'S;         25;         80;        105;           ; 8-2028;         51;
+INDERAL 20MG             ;   15'S;         31;           ;         20;         11; 6-2027;         37;
+INDERAL F 10MG TAB       ;   10'S;           ;           ;           ;           ; 6-2027;           ;
+INDERAL LA 20MG TAB      ;   15'S;         18;         20;         22;         16; 3-2028;          2;
+INDERAL LA 40MG TAB      ;   15'S;          6;         10;         10;          6; 8-2028;           ;
+LINGRETIN 5 MG TAB       ;   10'S;           ;           ;           ;           ; 8-2028;           ;
+LINGRETIN M 2.5/500MG TAB;   10'S;           ;           ;           ;           ; 8-2028;           ;
+PROTHIADEN "25MG"(30)    ;   15'S;         21;           ;         12;          9; 8-2028;          9;
+PROTHIADEN 50MG          ;   15'S;         19;           ;          4;         15; 2-2028;           ;
+PROTHIADEN 75 MG (30)    ;   15'S;         11;           ;          3;          8;11-2027;          3;
+PROTHIADEN M TAB         ;   15'S;           ;           ;           ;           ;11-2027;           ;
+SNAPIT TAB               ;    2'S;           ;           ;           ;           ;11-2027;           ;
+SURBEX STAR              ;   10'S;           ;           ;           ;           ;11-2027;           ;
+VERTIN 16MG TAB          ;   15'S;         53;        100;         62;         91;10-2028;         50;
+VERTIN 24MG TAB          ;   10'S;          8;         10;          4;         14; 7-2028;          9;
+VERTIN 8MG TAB           ;   15'S;         85;        100;         88;         97;11-2028;        101;
+VERTIN OD 48MG TAB       ;   15'S;          5;           ;           ;          5;11-2026;           ;
+
+Total :                  ;       ;           ;           ;   47370.72;   83802.39;       ;   40168.56;

@@ -1,0 +1,37 @@
+C<
+        VISHNU & COMPANY
+  E                  Order For SupplierF
+  C.Date : 08/01/26 10:04                     Page : 1
+  Supplier  :ABBOTT INDIA LTD.
+  -------------------------------------------------------
+  Product Name             Packing    Order
+  -------------------------------------------------------
+  COLOSPA TABS              15       10             
+  UDILIV 300 TABS           15       30             
+  INDERAL 10 TABS           15       40             
+  INDERAL 40 TABS           15       40             
+  INDERAL LA 20 TABS        15       30             
+  INDERAL LA 40 TABS        15       20             
+  PROTHIADEN 25 TABS        15       30             
+  PROTHIADEN 50 TABS        15       10             
+  VERTIN  8 TABS            15       100            
+  VERTIN 16 TABS            15       200            
+  VERTIN 24 TABS            15       40             
+  CREMADIET+  POWDER        100GM    60             
+  DIGENE MINT SYR           200ML    72+8           
+  DIGENE MINT TABS          15       216+24         
+  DUPHALAC 150ML SYR        150ML    100            
+  DUPHALAC 250ML SYR        250ML    40             
+  GANATON 50 TABS           10       20             
+  PANKREOFLAT TABS          15       10             
+  ARACHITOL NANO SYR        4X5ML    15             
+  ZOLFRESH 10 TABS          15       60             
+  THYRONORM-37.5 TAB (BOTTL 120      24             
+  THYRONORM-62.5 TABS(BOTTL 120      24             
+  THYRONORM-88 TABS(BOTTLE) 120      24             
+  CREMAFFIN PLUS(YELLOW) SY 225ML    120            
+  -----------------------------------------------------------
+  Note: 1) Please cancel all pending orders if any. 
+        2) Do not execute the order for upcoming schemes. 
+        3) Please supply the stocks before 3PM
+  

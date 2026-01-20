@@ -1,0 +1,175 @@
+
+------------------
+  Sale Report For Month :-- 12, 2025,  FOR- ABBOTT             ( 31/12/2025  )  18:16:37
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ ANTOXIPAN TAB              10          20           8        22
+ COMBINORN-PLUS CAPS         4           0           0         4
+ CREON 10000 CAPS           10          30          35         5
+ CREON 25000 CAPS            5           0           3         2
+ CREON 40000 CAPS            7           0           2         5
+ CREON-SD SPRAY              1           0           0         1
+ EPTOIN 100 MG TAB          72           0          15        57
+ EPTOIN 50 MG TAB           10           0           6         4
+ EPTOIN INJECTION           65           0           0        65
+ EPTOIN SUSPENSION          17          40          35        19
+ EPTOIN-ER 300 MG TAB       16          20          18        18
+ EVITOL CAPS                11          10           9        12
+ HEPTRAL TAB                 4           0           2         2
+ INDERAL 10 MG TAB         143         160         112       191
+ INDERAL 20 MG TAB          22          30           8        44
+ INDERAL 40 MG TAB          65           0          21        44
+ INDERAL-F 10 MG TAB        33           0           9        24
+ INDERAL-LA 20 MG TAB       53          30          48        35
+ INDERAL-LA 40 MG TAB       10          30           7        33
+ PROTHIADEN 25 MG TAB       87          60          61        56
+ PROTHIADEN 50 MG TAB       26           0           2        24
+ PROTHIADEN 75 MG TAB       18           0           7        11
+ PROTHIADEN-M 50 MG T       45           0           1        44
+ PROTHIADEN-M TAB           21           0           4        17
+ PROTHIADEN-NEU CAPS        13           0           0        13
+ ROWASA 1 GM POWDER         60         120          60       120
+ ROWASA 2 GM POWDER         20           0           0        20
+ THYROWEL-PLUS TAB          10           0           6         4
+ VERTIN 16 MG TAB           33          80          77        36
+ VERTIN 24 MG TAB           31           0          19        12
+ VERTIN 8 MG TAB            20           0           5        15
+ VERTIN-OD                   9           0           2         7
+ VERTIN-OD 24 MG TAB         8           0           2         6
+ VONEFI 10 MG TAB            5          20           5        20
+ VONEFI 20 MG TAB           31           0          10        21
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 102894.68 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 81236.82 Only
+
+---------------------------------------------------------------------
+
+
+  Sale Report For Month :-- 12, 2025,  FOR- ABBOTT-GC          ( 31/12/2025  )  18:16:38
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ ARACHITOL 3L INJ.           7           0           3         4
+ ARACHITOL 6L INJ.          12          20          14        18
+ ARACHITOL KIDS 400IU        5          10           5        10
+ ARACHITOL NANO 60K         14          44          23        35
+ ARACHITOL NANO DAILY       10           0           7         3
+ BRUFEN 200 MG TAB         121           0          55        66
+ BRUFEN 400 MG TAB         187           0          64       123
+ BRUFEN 600 MG TAB         151           0          32       119
+ BRUGEL ACTIFAST            11           0           3         8
+ CITRO SODA SACHETS(3       44           0          21        23
+ CREMAFFIN FRESH TAB        39           0           0        39
+ DIGECAINE GEL (FRUIT        0          40           6        34
+ DIGENE GEL (ORANGE)        52           0          34        18
+ DIGENE GEL-ORANG 450        8           0           6         2
+ DIGENE TAB (ORANGE)        41         150          48       143
+ DIRIFA 400 MG TAB           9           0           1         8
+ DIRIFA 550 MG TAB           6           0           0         6
+ DUVADILAN 10 MG TAB        23           0           4        19
+ DUVADILAN RETARD CAP        9           0           3         6
+ DUVADILIN INJ.             12           0          12         0
+ NEFOSAR 30 MG TAB           2           0           0         2
+ ZOLFRESH 10 MG TAB         11          20          10        21
+ ZOLFRESH 5 MG TAB          18          20          16        22
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 33587.40 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 34901.05 Only
+
+---------------------------------------------------------------------
+
+
+  Sale Report For Month :-- 12, 2025,  FOR- ABBOTT-META        ( 31/12/2025  )  18:16:39
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ HYTRIN 1 MG TAB            14           0           3        11
+ HYTRIN 2 MG TAB            10           0           0        10
+ LINORMA-T3 20 NCG T         2           0           0         2
+ SURBEX-GOLD CAP             9          10           8        11
+ THYRONORM 100 MCG TA       28          48          34        42
+ THYRONORM 112 MCG TA        5           0           2         3
+ THYRONORM 12.5 MCG T       12          24           5        31
+ THYRONORM 125 MCG TA       14          12           6        20
+ THYRONORM 150 MCG TA        4           0           3         1
+ THYRONORM 200 MCG TA        5           0           0         5
+ THYRONORM 25 MCG TA        27          24          36        15
+ THYRONORM 37.5 MCG T       13          24          13        24
+ THYRONORM 50 MCG TAB       41          48          44        45
+ THYRONORM 62.5 MCG T       13           0           6         7
+ THYRONORM 75 MCG TAB       15          24          18        21
+ THYRONORM 88 MCG TAB       18           0           9         9
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 25398.42 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 27394.44 Only
+
+---------------------------------------------------------------------
+
+
+  Sale Report For Month :-- 12, 2025,  FOR- ABBOTT-PC          ( 31/12/2025  )  18:16:40
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ CREMA-ANO CREAM             1          10           7         4
+ CREMAFFIN MIXED FRUT       72           0          39        33
+ CREMAFFIN PLUS LIQUI       79         120         102        97
+ CREMAGEL                   13           0           8         5
+ CREMAGEL-L CREAM           15          20          15        20
+ CREMALAX TAB               21           0           4        17
+ DIGERAFT SY                16          60          20        56
+ DIGERAFT-PLUS SY           23          60          19        64
+ ELDICET TAB                21          20          16        25
+ GANATON TAB                34          30          29        35
+ GANATON TOTAL CAPS         14           0           6         8
+ GANATON-OD CAPS            19           0           5        14
+ LIBRAX TAB                 70         100          56       114
+ PANKREOFLAT TAB            39          20          20        39
+ PANKREOFLAT-HD TAB         12           0           5         7
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 79346.38 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 91531.65 Only
+
+---------------------------------------------------------------------
+
+
+  Sale Report For Month :-- 12, 2025,  FOR- ABBOTT-SOLVAY1     ( 31/12/2025  )  18:16:41
+  D.K. DRUGS,A-8,MAHIMA PALACE,G.M ROAD,PATNA-4
+  DESCRIPTION             OPENING     PURCHASE     SALE    CLOSING
+===================================================================
+ ANTOXIPAN-DS SACHET        30           0           0        30
+ CLOME 100 MG TAB            1           0           0         1
+ COLOSPA 135 MG TAB         23          30          18        35
+ COLOSPA-RETARD CAPS        12          10          13         9
+ COLOSPA-X TAB              23          20          18        25
+ CREMAPEG SY                 4           0           4         0
+ DEZOFLAV TAB                5           0           1         4
+ DUPHALAC 150 ML SY         63         100          99        64
+ DUPHALAC 250 ML SY         45          40          40        45
+ DUPHALAC 450 ML SY          2          20           6        16
+ DUPHALAC ENEMA              0          18           1        17
+ DUPHASTON 10 MG TAB         5           0           0         5
+ ESTRABET 1 MG TAB           8           0           1         7
+ ESTRABET 2 MG TAB          10           0           1         9
+ FEMILON TAB                32           0          13        19
+ FIDONAL CREAM              13           0           4         9
+ FLORACHAMP SACHETS         35           0          14        21
+ NOVELON TAB                15           0          21        21
+ PRO-9 INJ.                  2           0           0         2
+ SNAPIT TAB                  5          20           5        20
+ SOLFE-EXTRA TAB             4           0           0         4
+ UDILIV 150 MG TAB          25           0           8        17
+ UDILIV 300 MG TAB          43          45          37        51
+ UDILIV 450 MG TAB           9          15           7        17
+ UDILIV 600 MG TAB          11           0           0        11
+ UDISTRONG SACHETS          50          50          50        50
+---------------------------------------------------------------------
+TOTAL SALE OF MONTH     :--  Rs. 95759.99 Only
+
+TOTAL PURCHASE OF MONTH :--  Rs. 101299.54 Only
+
+---------------------------------------------------------------------

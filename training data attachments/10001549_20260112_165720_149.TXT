@@ -1,0 +1,27 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA LTD
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+ACTRAPID "FLEXPEN"       ;    3ML;           ;           ;           ;           ; 1-2028;           ;
+ACTRAPID "HM" PENFIL     ;    3ML;           ;           ;           ;           ; 1-2028;           ;
+HUMAN "ACTRAPID FLEXPEN 5;    3ML;           ;           ;           ;           ; 1-2028;           ;
+HUMAN ACTRAPID 40U       ;   10ML;        240;        780;        814;        206;12-2027;        840;
+HUMAN INSULATARD 40U VIAL;   10ML;        127;        120;        181;         66; 1-2028;        196;
+HUMAN MIXTARD 100IU      ;   10ML;         21;         30;         40;         11;10-2027;         52;
+HUMAN MIXTARD 40U        ;   10ML;        584;       1620;       1884;        320;12-2027;       1755;
+HUMAN MIXTARD 50         ;   10ML;        223;        720;        565;        378;11-2027;        521;
+INSULATARD  FLEXPEN      ;    3ML;           ;           ;           ;           ;11-2027;           ;
+INSULATARD "HM PENFIL"   ;    3ML;           ;           ;           ;           ;11-2027;           ;
+MIXTARD "30 FLEXPEN"     ;    3ML;           ;           ;           ;           ;11-2027;           ;
+MIXTARD 30 HM PENFIL     ;    3ML;           ;           ;           ;           ;11-2027;           ;
+MIXTARD 50 HM PENFIL     ;    3ML;         33;        150;        135;         48;10-2026;        151;
+NOVOFINE 31G NEEDLE<100  ;    1'S;          1;           ;           ;          1;10-2029;           ;
+NOVOFINE 32G NEEDLE      ;    1'S;           ;       1000;        405;        595; 6-2029;        650;
+NOVOPEN 4                ;    1'S;           ;          5;          2;          3;12-2029;          5;
+OZEMPIC 0.5MG            ;  O.5ML;           ;          2;           ;          2; 7-2028;           ;
+OZEMPIC 1MG              ;    1ML;           ;          2;          1;          1; 6-2028;           ;
+WEGOVY FLXT 0.25MG       ;  1.5ML;           ;          3;          1;          2; 1-2028;           ;
+
+Total :                  ;       ;           ;           ;  633979.36;  247452.88;       ;  610236.20;

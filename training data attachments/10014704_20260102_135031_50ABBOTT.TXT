@@ -1,0 +1,45 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT ASPIRA                 
+STOCK & SALES STATEMENT AS ON 31/12/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+ACUVERT TAB            9'S*10        0     -      -      -        -      -    -        0     -  NoOrder   47.74     -     -        -    -    -    -
+EPTOIN 300ER           30,S          9     -       3      2        4     -    -        5     -  NoOrder  160.31    802   641       -    -    -    -
+EPTOIN INJ             2ML           0     -      -      -        -      -    -        0     -  NoOrder    8.04     -     -        -    -    -    -
+EPTOIN SUS             200ML         0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+EPTOIN TAB 100 mg      120'S       144     -      29     23       33     -    -      111     -  NoOrder  171.82  19072  5670       -    -    -    -
+EPTOIN TAB 50MG        50MG          0     -      -      -        -      -    -        0     -  NoOrder   87.59     -     -        -    -    -    -
+INDERAL 10MG TAB       15'S        108    120     87     91      134     -    -       92     -       64   15.96   1468  2139       -    -   19   46
+INDERAL 20MG           15'S         44     -       9     27       33     -    -       11     -       24   39.00    429  1287       -    -   10   14
+INDERAL 40MG TAB       15'S         49     -       9     22       27     -    -       22     -        7   39.28    864  1061       -    -    -    7
+**INDERAL F 10MG       10'S         10     -      -      -        -      -    -       10     -  NoOrder   92.75    928    -        -    -    -    -
+**INDERAL F 5MG        10'S          9     -      -      -        -      -    -        9     -  NoOrder   63.11    568    -        -    -    -    -
+INDERAL LA 20MG        15'S         30     10     11     23       26     -    -       14     -       16   39.00    546  1014       -    -    5   12
+INDERAL LA 40MG        15'S         10     10      3      7        6     -    -       14     -  NoOrder   39.28    550   236       -    -    -    -
+LACOXA 100MG           10'S          0     -      -      -        -      -    -        0     -  NoOrder   81.64     -     -        -    -    -    -
+LACOXA 50 MG           1*10          0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+PROTHIADEN 25MG TAB    15'S         41     90     45     16       48     -    -       83     -  NoOrder  153.78  12764  7381       -    -    -    -
+PROTHIADEN 50MC        10'S          8     -       2      2        3     -    -        5     -  NoOrder  275.33   1377   826       -    -    -    -
+PROTHIADEN 75MG TAB    15'S         40     -      12     31        6     -    -       34     -  NoOrder  320.53  10898  1923       -    -    -    -
+PROTHIADEN-M 50/1500   15'S         23     -       5      2        5     -    -       18     -  NoOrder  226.41   4075  1132       -    -    -    -
+PROTHIADEN-M 75/1500MC 15'S         20     -      -      -         2     -    -       18     -  NoOrder  335.12   6032   670       -    -    -    -
+SNAPIT TAB             2S            7     -      -      -        -      -    -        0     -  NoOrder   99.86     -     -        -    -    -    -
+VERTIN 8 TAB           15'S         41     90     37     33       40     -    -       89     -  NoOrder  167.89  14942  6716       -    -    -    -
+VERTIN MDS 24MG TAB    10'S          0     -      -      -        -      -    -        0     -  NoOrder  214.20     -     -        -    -    -    -
+VERTIN OD 24MG         7,S           9     -       2      1        1     -    -        8     -  NoOrder  471.88   3775   472       -    -    -    -
+VERTIN OD 32 TAB       7,S           0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+VERTIN OD 48MG         15'S         10     10      1      4        7     -    -       13     -  NoOrder  732.60   9524  5128       -    -    -    -
+VERTIN TAB 16MG        15'S         40     80     39     40       60     -    -       60     -       10  281.17  16870 16870       -    -    -   10
+VERTIN TAB 24MG        15'S         12     -      -      -         7     -    -        5     -  NoOrder  403.81   2019  2827       -    -    -    -
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   97375.43    PURCHASE..... VALUE :       0.00
+           SALES VALUE :   57780.81    CLOSING STOCK VALUE :  103587.74
+LAST MONTH SALES VALUE :   42792.86
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

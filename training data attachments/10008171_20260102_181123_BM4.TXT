@@ -1,0 +1,28 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : NOVONORDISK                                                    Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BP9    FIASP FLEXTOUCH 100U/ML  3ML           0          0        0        0        0       0.00
+BP5    FIASP PENFIL 100U/3ML    5*3ML         1         10       11        6        5   17110.20
+BP50   FIASP VIAL 100U/ML       1*10ML        0          0        0        0        0       0.00
+BM10   NOVOMIX 30 FLEX PEN      1'S           9         20       29       17       12   11672.28
+BM17   NOVOMIX 30 PENFIL        5*3ML         0         40       40       32        8   31484.08
+BM8    NOVOMIX 50 FLEXIPEN      1'S           0          0        0        0        0       0.00
+BM2    NOVOMIX 50 PENFIL        BOX           1          2        3        1        2    8161.70
+BM12   NOVORAPID FLEXPENS       1'S          14         20       34       19       15   14590.35
+BP32   NOVORAPID PENFIL         BOX           2         30       32       20       12   47226.12
+BM39   NOVORAPID VAIL           10ML          0          0        0        0        0       0.00
+BM30   RYZODEG FLEXITOUCH       3ML           0         37       37       25       12   16077.60
+BM     RYZODEG PENFIL           5*3ML         0         60       60       51        9   46819.08
+BM7    TRESIBA FLEXTOUCH        3ML           3          8       11        9        2    3262.56
+BM22   TRESIBA PENFILL          5*3ML         1          3        4        4        0       0.00
+BM26   VICTOZA-LIRAGLUTID       3ML           0          0        0        0        0       0.00
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.       48,687.62   Sales Value   Rs.     6,01,953.09
+ Receipt Value Rs.     7,49,669.44   Closing Value Rs.     1,96,403.97
+------------------------------------------------------------------------------------------------

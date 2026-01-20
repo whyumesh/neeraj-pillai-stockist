@@ -1,0 +1,37 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA (METABOLICS)
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+ABOCAL 500MG TAB         ;   15'S;           ;           ;           ;           ; 6-2028;           ;
+COMBINORM TAB            ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+FOLLIHAIR TAB            ;   15'S;          6;           ;          6;           ; 6-2028;          6;
+FOLLIHAIR TAB            ;   30'S;           ;           ;           ;           ; 6-2028;           ;
+HYTRIN "1MG"TAB          ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+HYTRIN 2MG TAB           ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+METHIMERCAZOLE 10MG TAB  ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+METHIMERCAZOLE 5MG TAB   ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+OBIMET "GX 1MG"          ;   15'S;           ;           ;           ;           ; 6-2028;           ;
+OBIMET "SR 1000"         ;   15'S;           ;           ;           ;           ; 6-2028;           ;
+OBIMET GX 2MG            ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+OBIMET SR 500MG TAB      ;   15'S;           ;           ;           ;           ; 6-2028;           ;
+OBIMET TAB               ;   15'S;           ;           ;           ;           ; 6-2028;           ;
+SURBEX  GOLD TAB         ;   10'S;           ;           ;           ;           ; 6-2028;           ;
+THYROCAB 10MG TAB        ;  100'S;           ;           ;           ;           ; 6-2028;           ;
+THYROCAB 5MG TAB         ;  100'S;           ;           ;           ;           ; 6-2028;           ;
+THYRONORM "125MG"TAB     ;  100'S;         56;        192;        127;        121; 5-2027;         39;
+THYRONORM "150MCG"TAB    ;  120'S;         56;        120;         80;         96; 8-2027;         32;
+THYRONORM "25MG" TAB     ;  120'S;        196;        376;        316;        256; 9-2027;        124;
+THYRONORM "50MG TAB"     ;  120'S;        186;        376;        300;        262; 9-2027;        134;
+THYRONORM "75MG"         ;  120'S;        109;        192;        178;        123;10-2027;        106;
+THYRONORM 100MG TAB      ;  120'S;        173;        376;        290;        259; 9-2027;        141;
+THYRONORM 112 MG TAB     ;  120'S;         17;           ;          2;         15; 5-2027;          7;
+THYRONORM 12.5MG         ;  120'S;         59;        216;        179;         96; 8-2027;         57;
+THYRONORM 37.5MG TAB     ;  120'S;         25;           ;         17;          8; 8-2027;         14;
+THYRONORM 62.5MG TAB     ;  100'S;         25;           ;         20;          5; 8-2027;         18;
+THYRONORM 88MG TAB       ;  120'S;         33;           ;         13;         20; 9-2027;         19;
+THYROWEL CAPS            ;   10'S;           ;           ;           ;           ; 9-2027;           ;
+THYROWEL PLUS TAB (2)    ;   15'S;         10;           ;          3;          7; 8-2026;          2;
+
+Total :                  ;       ;           ;           ;  192865.98;  152210.98;       ;   94996.71;

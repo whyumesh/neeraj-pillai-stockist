@@ -1,0 +1,78 @@
+C<
+        VISHNU & COMPANY
+  E                  Order For SupplierF
+  C.Date : 29/12/25 10:21                     Page : 1
+  Supplier  :ABBOTT INDIA LTD.
+  -------------------------------------------------------
+  Product Name             Packing    Order
+  -------------------------------------------------------
+  UDILIV 150 TABS           15       10             
+  INDERAL 10 TABS           15       40             
+  INDERAL 40 TABS           15       40             
+  INDERAL LA 20 TABS        15       10             
+  PROTHIADEN 25 TABS        15       20             
+  PROTHIADEN 50 TABS        15       10             
+  PROTHIADEN M 75 TABS      15       10             
+  VERTIN  8 TABS            15       80             
+  VERTIN 16 TABS            15       120            
+  VERTIN 24 TABS            15       30             
+  VERTIN OD 24 TABS         15       10             
+  DIGENE MINT SYR           200ML    72+8           
+  DIGENE MINT TABS          15       216+24         
+  DUPHALAC 150ML SYR        150ML    100            
+  DUPHALAC 250ML SYR        250ML    80             
+  DUPHALAC 450ML SYR        450ML    60             
+  DUPHALAC BULK SYR         160ML    25             
+  ARACHITOL 6L INJ          6x1ML    20             
+  ARACHITOL NANO SYR        4X5ML    20             
+  BRUFEN 400 TABS           15       45             
+  BRUGEL OINT               30GM     20             
+  ZOLFRESH  5 TABS          10       100            
+  ZOLFRESH 10 TABS          15       100            
+  CREON-10000 CAPS          15       10             
+  CREON-25000 CAPS          10       10             
+  CREON-40000 CAPS          10       5              
+  THYRONORM 100 TABS(BOTTLE 120      192            
+  THYRONORM 50 TABS(BOTTLE) 120      192            
+  THYRONORM 75 TABS(BOTTLE) 120      96             
+  THYRONORM-12.5 TABS(BOTTL 120      48             
+  THYRONORM-125 TABS(BOTTLE 120      36             
+  THYRONORM-150 TABS(BOTTLE 120      24             
+  THYRONORM-37.5 TAB (BOTTL 120      24             
+  THYRONORM-62.5 TABS(BOTTL 120      24             
+  THYRONORM-88 TABS(BOTTLE) 120      24             
+  CREMAFFIN M F BIG (PINK)  450ML    32             
+  CREMAFFIN M F SMALL(PINK) 225ML    60             
+  CREMAFFIN PLUS(YELLOW) SY 225ML    120            
+  HUMAN ACTRAPID VIAL       10ML     60             
+  OZEMPIC 0.25 INJ          1PC      5              
+  OZEMPIC 1.0 INJ           1 PC     5              
+  FIASP FLEXPEN (LOOSE)     3ML      10             
+  FIASP PENFIL (BOX)        5X3ML    10             
+  HUMAN INSULATARD VIAL     10ML     30             
+  HUMAN MIXTARD  40 VIAL    10ML     480            
+  HUMAN MIXTARD  50 VIAL    10ML     30             
+  HUMAN MIXTARD 100 VIAL    10ML     20             
+  NOVOFINE NIDDLES          100PC    10             
+  
+        VISHNU & COMPANY
+  C.Date : 29/12/25 10:21                     Page : 2
+  -------------------------------------------------------
+  Product Name             Packing    Order
+  -------------------------------------------------------
+  NOVOMIX 30 PENFILL        5X3ML    30             
+  NOVOMIX 50 PENFILL        5X3ML    5              
+  NOVOMIX-30 FLEXPEN (LOOSE 3ML      10             
+  NOVOPEN 4 PEN             1 PC     10             
+  NOVORAPID FLEXPEN (LOOSE) 3ML      15             
+  NOVORAPID PENFILL         5X3ML    20             
+  RYZODEG FLEXTOUCH         3ML      15             
+  RYZODEG PENFILL           5X3ML    20             
+  TRESIBA FLEXTOUCH         1X3ML    20             
+  TRESIBA PENFILL           5X3ML    8              
+  RYBELSUS 14 TABS          10       20             
+  -----------------------------------------------------------
+  Note: 1) Please cancel all pending orders if any. 
+        2) Do not execute the order for upcoming schemes. 
+        3) Please supply the stocks before 3PM
+  

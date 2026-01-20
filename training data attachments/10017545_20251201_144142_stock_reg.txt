@@ -1,0 +1,53 @@
+
+MAA KALI PHARMACEUTICAL AGENCIES
+
+STOCK REGISTER - SUMMARY
+   PERIOD : 01-11-2025 TO 30-11-2025                                                        
+   --------------------------------------------------------------------------------------------
+   ITEM NAME                UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B.     Expir
+                                    QNTY     QNTY     QNTY     QNTY     QNTY     QNTY      Date
+   --------------------------------------------------------------------------------------------
+   Mfg.: ABBOTT INDIA LIMITED        S 
+   -----------------------------------
+   COLOSPA RETARD.         15's       20         0.00              2               18     08-27
+   COLOSPA TAB 135         15'T       13         0.00              1               12     03-28
+   COLOSPA X               20'T       18        20.00             18               20     07-27
+   CREMAFFIN MIX FRUIT (PI 225ML      37         0.00             21               16     10-23
+   CREON 10000             15TAB      18         0.00             16                2     06-26
+   CREON 25000 CAP         10'S       12        10.00             22                0
+   DIGENE GEL MINT         10ML        0        30.00              0               30     06-26
+   DIGENE MINT             200ML      25       120.00             17              128     02-25
+   DIGENE MINT             450ML      14         0.00             12                2     03-27
+   DIGENE ORANGE           200ML      46         0.00                                                         5        14               37     04-27
+   DIGENE ORANGE           450ML       6         0.00              0                6     03-27
+   DIGENE TAB MINT         15TAB    1445         0.00            506              939     07-27
+   DUPHALAC BULK           160ml      24         0.00              9               15     05-27
+   DUPHALAC SYP            450ML      52         0.00             35               17     03-25
+   DUPHALAC SYP            250ML      26        40.00             59                7     11-26
+   DUPHALAC SYP 150ML      150ml     105        50.00            126               29     12-26
+   DUPHASTON 10MG TAB      10'T       30         0.00             31               -1     05-27
+   FEMILON TAB             21't       55        30.00             83                2     03-27
+   GANATON OD              10TAB      10         0.00              0               10     08-27
+   GANATON TOTAL           10TAB      24         0.00              4               20     01-27
+   NOVELON TAB             21't       39        30.00             55               14     08-27
+   THYRONORM 100MG TAB     120's      37        24.00             43               18     10-24
+   THYRONORM 112MG         120's       8        12.00             12                8     07-25
+   THYRONORM 12.5 MG       120'S      58         0.00             31               27     05-27
+   THYRONORM 125           120's      31         0.00             13               18     01-26
+   THYRONORM 137MG         120's       6         0.00              3       2        1     03-26
+   THYRONORM 150           120's      23         0.00             14                9     10-25
+   THYRONORM 25MG TAB      120'S      60        36.00             69               27     03-27
+   THYRONORM 37.5MG        120's      28         0.00             26                2     08-27
+   THYRONORM 50MG TAB      120's      30        24.00             51                3     09-25
+   THYRONORM 62.5MG        120's      14        12.00             17                9     09-27
+   THYRONORM 75MG TAB      120's      37        36.00             42               31     06-25
+   THYRONORM 88MG          120's      24         0.00             15                9     12-24
+   UDILIV 150(15:C)        15TAB      48         0.00             14               34     09-26
+   UDILIV 300MG TAB        15'T       75        30.00             84               21     08-28
+   UDILIV 450 TAB          10'S       20         0.00              0               20     04-27
+   VONEFI 20MG             10TAB      15        10.00             17                8     05-26
+                                  -------------------------------------------------------------
+                                    2533       514.00                                                          5     1482       2     1568
+                   O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+                    0.00    95518.12     688.55  283230.06    -374.98   147567.48
+                                  -------------------------------------------------------------

@@ -1,0 +1,61 @@
+
+<<<HEAD>>>                                AYYAPPA AGENCIES                                
+
+<<<HEAD>>>                               NAGERCOIL - 629001                               
+
+Stock & Sales Report From 01/11/2025 To 30/11/2025<<</HEAD>>>
+Company Name : ABBOTT HEALTHCARE DIABETES - SUJIN - 9488505339
+======================================================================================================================
+No   Product Name              Pack    Opstk       Pur       Sep   Oct      Sale CurStk    StkVal OrdQt OrdFr Exp Age 
+======================================================================================================================
+1   GLUFORMIN 500 MG TAB      10`S       62         -        62    40        24     38    514.44     -     -   *   7 
+2   GLUFORMIN G 0.5 MG TAB    15`S       35         -        57    22         2     33   2088.77     -     -   -   - 
+3   GLUFORMIN G 1 TAB         15`S       47        20        66    16        23     44   5501.50     -     -   *   - 
+4   GLUFORMIN G 2 TAB         15`S      116       220       110    81       113    223  43872.87     -     -   -   5 
+5   GLUFORMIN G1 FORTE NEW    15`S       33        60        51     7        40     53   7669.41     -     -   -   4 
+6   GLUFORMIN G2 FORTE NEW 15 15`S       29         -         4     3         9     20   3729.60     -     -   -   3 
+7   GLUFORMIN XL 1000 MG TAB  15`S       24         -         0     0         3     21    933.11     -     -   -  37 
+8   GLUFORMIN XL 500 MG TAB   15`S       52         -        85    29        16     36    813.08     -     -   -   4 
+9   GLUJECT 10 TAB            15`S       31         -        16     4        10     17   2975.34     -     -   -  12 
+10  GLUJECT 5MG               15`s       19         -        -2     3         3     16   1866.88     -     -   -   7 
+11  GLUJECT M 500 TAB 15`S    15`S       32         -        39     8         6     26   3149.38     -     -   -   9 
+12  JANUMET 50/1000 MG TAB    15`S       24        20        15    16        28     16   3908.48     -     -   -  10 
+13  JANUMET 50/500 MG TAB     15`S      167        80       109   146       113    134  32208.08     -     -   -   2 
+14  JANUMET XR CP 7`S         7`S         0        10         0     0         -     10   1992.90     -     -   -  23 
+15  JANUVIA 100 MG TAB        7`S        40         -         8    20        20     20   3792.80     -     -   -   7 
+16  JANUVIA 50 MG TAB         7`S        48        20        12    25        25     43   8016.49     -     -   -  13 
+17  METHIMERCAZOLE 10         30`S        5         -         0     0         -      5   1157.65     -     -   Y 717 
+18  METHIMERCAZOLE 5          30`S       12         -         0     0         -     12   1688.36     -     -   * 229 
+19  NEO MERCAZOLE 10 MG 130`S 130`S      11        25        12     6        10     26  10497.98     -     -   -   2 
+20  NEO MERCOZOLE 5MG 130`S   130`S      28        10        23     8        15     23   4784.67     -     -   -   4 
+21  TRIBET 1 MG TAB           15`S       24         -        14    16         9     15   2941.50     -     -   -   5 
+22  TRIBET 2 MG TAB           15`S       11        30        17     2        12     29   7453.35     -     -   -  21 
+----------------------------------------------------------------------------------------------------------------------
+    Total                               850       495       698   452       481    860         -     -     -   -   - 
+----------------------------------------------------------------------------------------------------------------------
+Opg.Stk Val:   138170.46 Purc.Value: :   104395.19 Sales Value::    96180.86
+Cl.Stk Val:    151556.64 Pur.RetVal ::        0.00 SalRet Val: :        0.00
+Oct Sal:        84356.00 Sep Sal:    :   107549.00 NetSal(GVal):    96180.86
+Oth.SalVal:         0.00 Tran.Stk.IN::        0.00 Tran.Stk.Out:        0.00
+ 
+ 
+ 
+ 
+Expiry items Report Expiry Days > 180
+Company Name : ABBOTT HEALTHCARE DIABETES
+GLUFORMIN 500 MG TAB      10`S       SEK0115    1         04/2026                       METHIMERCAZOLE 5          30`S       SSK0081    2         04/2026  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+Non Moving items Report Non Move Days > 60
+========================================================================================
+Prod.Name                 Packing    Batch      Qty       Days                          
+========================================================================================
+Company Name : ABBOTT HEALTHCARE DIABETES
+METHIMERCAZOLE 5          30`S       SSK0081    2         229                           
+----------------------------------------------------------------------------------------
+
+                                       *** END OF REPORT ***
+

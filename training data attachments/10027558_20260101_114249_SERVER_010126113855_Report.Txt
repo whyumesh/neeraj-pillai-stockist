@@ -1,0 +1,21 @@
+CHM
+              STAR PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing    Ostk     Purc     Sale     SRet     PRet      Qoh     QohValue
+------------------------------------------------------------------------------------------------
+Company :ABBOTT GI PREMA-UDIL 
+===============================
+COLOSPA RETARD TAB           10S           1        0        0        0        0        1       417.08 
+COLOSPA TAB                  10S           2        0        0        0        0        2       532.52 
+COLOSPA X TAB                15;S         10        0        0        0        0       10      3014.55 
+UDILIV*600MG TAB             10S           0        0        0        0        0        0         0.00 
+UDILIV-150 TAB               10`S          2       10        2        0        0       10      3794.60 
+UDILIV-300 TAB               15;S          6        0        0        0        0        6      3991.49 
+UDLIV 450 TAB                10;S          0        0        0        0        0        0         0.00 
+================================================================================================
+Opening Value  :     8645.57 Sale Value      :      730.08 SRet Value    :        0.00 
+Purchase Value :     3613.90 PurReturn Value :        0.00 Closing Value :    11750.24 
+------------------------------------------------------------------------------------------------
+P

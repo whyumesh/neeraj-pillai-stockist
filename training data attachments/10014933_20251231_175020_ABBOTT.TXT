@@ -1,0 +1,139 @@
+CHM
+             ROYAL MEDICAL HALL
+E                                Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                Page : 1
+----------------------------------------------------------------------------------------
+Product Name         Pack    O.Bal   Purc  Sr.Ret Total  Sales   Pr.Ret Total  Qoh
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN01(DIABETES)     
+-------------------------------------------
+GLUFORMIN G1 FORTE T 15 S       20      0      0     20      0     20     20     0 
+GLUFORMIN G1 TAB     15 S       20      0      0     20      0      0      0    20 
+GLUFORMIN G2  TAB.   15 S       18      0      0     18      4      0      4    14 
+GLUFORMIN G2 FORTE T 15 S        0      0      0      0      0      0      0     0 
+GLUFORMIN XL 500 MG  15 S       28      0      0     28      0      0      0    28 
+GLUFORMIN XL1000MG T 15 S       12      0      0     12      0      0      0    12 
+JANUMET 50/1000 MG T 15 S        0    100      0    100     24      0     24    76 
+JANUMET 50/500 MG TA 15 S       54    100      0    154     64      0     64    90 
+JANUMET XR CP TAB    7 S        10      0      0     10      0      0      0    10 
+JANUVIA 100MG TAB    7 S        35     50      0     85     59      0     59    26 
+JANUVIA 25MG TAB     7 S        10      0      0     10      0      0      0    10 
+JANUVIA 50MG TAB     7 S        20     40      0     60     10      0     10    50 
+NEO MERCAZOLE 10MG T 130         6      0      0      6      0      3      3     3 
+NEO MERCAZOLE 5MG TA 130S        3      0      0      3      1      0      1     2 
+NERVUP FORTE CAPS    15 S        0      0      0      0      0      0      0     0 
+NERVUP OD CAPS       15 S        9      0      0      9      3      0      3     6 
+NERVUP PG CAPS       10 S        0      0      0      0      0      0      0     0 
+TRIBET 1MG TABS      15 S       20      0      0     20      0     20     20     0 
+TRIBET 2MG TABS      15 S       17      0      0     17      0      0      0    17 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN02(DERMA MAGNA)  
+----------------------------------------------
+ELOCON CREAM         10 GM      12      0      0     12      0      0      0    12 
+ELOCON CREAM         30GM       10      0      0     10      0      0      0    10 
+ELOCON LOTION        10ML        4      0      0      4      0      0      0     4 
+ELOCON OINT          30 GM       9      0      0      9      0      0      0     9 
+ELOCON OINT          10 GM      19      0      0     19      0      0      0    19 
+FOLLIHAIR A TAB      15 s       20      0      0     20      0      0      0    20 
+FOLLIHAIR AMPM TABS. 20 S        3      0      0      3      2      0      2     1 
+FOLLIHAIR NEW TABS.  30 S       14      0      0     14      1      4      5     9 
+FOLLIHAIR NEW TABS.  15 s       22      0      0     22      2      0      2    20 
+LOBATE GN CREAM      15GM       17      0      0     17      6      0      6    11 
+LOBATE S OINT.       30GM       10      0      0     10      0      0      0    10 
+LOBATE SKIN CREAM    30GM       14      0      0     14      0      0      0    14 
+SELSUN LOTION        120ML       7      0      0      7      0      0      0     7 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN04(DERMA PRIME)  
+----------------------------------------------
+DIPSALIC F OINTMENT  30 GM      14      0      0     14      4      0      4    10 
+EMOLENE CREAM        100GM      28     60      0     88     33      0     33    55 
+FACE GUARD SPF 30 +T 30 GM      10      0      0     10      0     10     10     0 
+FACE GUARD SPF 30 TV 50 GM      10      0      0     10      0      0      0    10 
+FACE GUARD SPF 50    30 GM       7      0      0      7      1      0      1     6 
+FACECLIN TUBE        20GM        0      0      0      0      0      0      0     0 
+FOLLISERUM           60 ML       0      0      0      0      0      0      0     0 
+MELAGLOW CREAM NEW   15 GM      15      0      0     15      0      0      0    15 
+MELAGLOW RICH        20 GM      13      0      0     13      1      0      1    12 
+MELALITE FORTE CREAM 30GM        4      0      0      4      0      4      4     0 
+MELALITE XL  CREAM   15GM       15      0      0     15      0      0      0    15 
+MELALITE*15 30GM CR. 30GM        9      0      0      9      1      0      1     8 
+MELALITE*15 50GM CR. 50GM       10      0      0     10      1      0      1     9 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN06(CARDIAC)      
+------------------------------------------
+TELPRES CT 40/12.5 M 15 S       11      0      0     11      2      0      2     9 
+TELPRES CT40/6.25 MG 15 S       24      0      0     24     15      0     15     9 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN07(NEURO-PSYCHIA 
+-------------------------------------------------
+LIBRIUM 10mg TABS    15 S       38      0      0     38     34      4     38     0 
+LIBRIUM 25 MG. TAB.  15S        77      0      0     77     50      0     50    27 
+LIBRIUM 5mg TABS     15 S       36      0      0     36      0      0      0    36 
+MADOPAR 250MG TABS   10 S       30     20      0     50     30      0     30    20 
+MAZETOL 100MG TABS   10 S       20      0      0     20      0     20     20     0 
+MAZETOL 200MG TABS   10 S       20      0      0     20      7      0      7    13 
+MAZETOL 400MG TABS   10 S       20      0      0     20      0      0      0    20 
+MAZETOL SR 200MG TAB 15 S       10      0      0     10      0      0      0    10 
+MAZETOL SR 300MG TAB 15 S        6      0      0      6      0      1      1     5 
+MAZETOL SR 400MG TAB 15 S       10      0      0     10      0      0      0    10 
+MYSOLINE TABLETS     10 S       30      0      0     30      0      0      0    30 
+RIVMD SMART 0.25MG T 30 S       10      0      0     10      0      0      0    10 
+RIVMD SMART 0.5MG TA 30 S       10      0      0     10      0      0      0    10 
+RIVOTRIL 2mg TABS    15 S       15      0      0     15      0      0      0    15 
+SZETALO PLUS TABS    15 S        8      0      0      8      0      0      0     8 
+VALANCE SOL 250MG    100 ML      2      0      0      2      0      0      0     2 
+VALANCE SOL 500MG    200 ML      5      0      0      5      0      0      0     5 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN08(CVZEST)       
+-----------------------------------------
+SORBITRATE 05MG TABS 50 S       33      0      0     33     12      0     12    21 
+SORBITRATE 10mg TABS 50 S       15      0      0     15      6      9     15     0 
+SUPERMET XL 100MG TA 10 S       10      0      0     10      0      0      0    10 
+SUPERMET XL 25MG TAB 15 S       10      0      0     10      8      2     10     0 
+SUPERMET XL 50MG TAB 15 S        2      0      0      2      0      0      0     2 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN10(RESPICARE)    
+--------------------------------------------
+FAMTAC 40MG TABS     14 S       48      0      0     48      0      0      0    48 
+RASHFREE CREAM       30gm        0      0      0      0      0      0      0     0 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN11 (MULTY THER.) 
+-----------------------------------------------
+KENACORT 10MG INJ.   1ML        27      0      0     27      2      0      2    25 
+KENACORT 40MG INJ.   1ML         6     36      0     42      6      0      6    36 
+KENACORT 4MG TABS    15 S       10      0      0     10      0      0      0    10 
+KENACORT NEW 0.1% PA 7.5GM      11      0      0     11      1      0      1    10 
+LIMCEE CHEWABLE 500M 15 S      278    600      0    878    375      0    375   503 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN13(NOVA CARE)    
+--------------------------------------------
+AQUAVIRON INJ        6X1ML       2      0      0      2      0      0      0     2 
+DELETUS PEARLS CAP   10 S       18      0      0     18      5      0      5    13 
+SURBEX - XT TAB      15 S       19      0      0     19      2      0      2    17 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN14(OSVITA.)      
+------------------------------------------
+FEBUSTAT 40 MG       15 S       12      0      0     12      6      0      6     6 
+ROCALTROL CAPS       10 S       10      0      0     10      0      0      0    10 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN15(GENERAL MED)  
+----------------------------------------------
+CLARIBID 250MG TAB   10 S        4     10      0     14      4      0      4    10 
+CLARIBID 500MG TAB   10 s       19      0      0     19      5      0      5    14 
+ESOGA-RD CAPS        10 S        0      0      0      0      0      0      0     0 
+FLAGYL 200MG TABS    20 S        0     30      0     30      0      0      0    30 
+FLAGYL 200MG TABS    15 S       20      0      0     20     20      0     20     0 
+FLAGYL 400MG TABS    20 S       43      0      0     43      3      0      3    40 
+STEMETIL MD TAB.     15S        68      0      0     68     36      4     40    28 
+----------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE P.LN16(ENDURA)       
+-----------------------------------------
+CROTORAX HC CREAM    10GM       20      0      0     20      0      0      0    20 
+CROTORAX LOTION      60ML        9      0      0      9      0      0      0     9 
+QUADRIDERM RF 10GM C 10gm        5      0      0      5      0      0      0     5 
+QUADRIDERM RF 5GM CR 5gm         7      0      0      7      0      4      4     3 
+----------------------------------------------------------------------------------------
+
+
+
+

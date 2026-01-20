@@ -1,0 +1,47 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   PAINMANEG
+---------------------------------------------------------------------------
+BIOSUGANRIL-10 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSUGANRIL-20 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOSUGANRIL-5 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOZOBID TABS             |10's  |    0|    0|    0|    0|    0|    0|    0
+BIOZOBID-PLUS 325 TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+CONTRAMAL-50 CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+CONTRAMAL-50 INJ          |1ml   |    0|    0|    0|    0|    0|    0|    0
+CURENEXT 50GM             |50gm  |    2|   10|    0|   12|    4|    8|    0
+DURAJOINT CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+DURAJOINT-GM TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN INSTAGEL        |30gms |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN TABS            |15's  |   92|    0|    0|   92|   20|   72|    0
+ESGIPYRIN-A TAB           |15tab |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-DS INJ          |3ml   |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-SP 325 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+ESGIPYRIN-TH TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ETODY-120 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ETODY-60 TAB              |10's  |    2|    0|    0|    2|    2|    0|    0
+ETODY-90 TAB              |10's  |    1|    0|    0|    1|    0|    1|    0
+ETODY-TH TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FLAGYL GEL                |20gm  |   30|   20|    0|   50|   35|   15|    0
+FLAGYL-200 TAB            |15's  |   49|    0|    0|   49|   49|    0|    0
+FLAGYL-400 TAB            |20's  |   52|  120|    0|  172|  126|   46|    0
+FLAGYL-ER 600 TAB         |10's  |   51|   30|    0|   81|   48|   33|    0
+HYDENT-K 100 PASTE        |100gm |   28|   12|    0|   40|   20|   20|    0
+HYDENT-PRO TOOTH PASTE    |70gm  |   11|    0|    0|   11|    4|    7|    0
+PREGAMET-75 CAP           |10's  |    0|    0|    0|    0|    0|    0|    0
+PREGAMET-SR TAB.          |10's  |    0|    0|    0|    0|    0|    0|    0
+RAPISONE-D SR TAB         |5's   |    0|    0|    0|    0|    0|    0|    0
+RAPISONE-SR CAP           |5's   |    0|    0|    0|    0|    0|    0|    0
+ROCKBON TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+ROCKBON-D TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ROCKBON-KIT               |31's  |    0|    0|    0|    0|    0|    0|    0
+SURBEX-NANO SOLUTION      |5ml   |    0|    0|    0|    0|    0|    0|    0
+ZOBID-D 50 TABS           |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   23969    PR.STK    9165    RT.COM       0    CL.STK   17759
+SL.AMT   15375
+---------------------------------------------------------------------------

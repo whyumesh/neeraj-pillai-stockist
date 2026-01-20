@@ -1,0 +1,75 @@
+CH
+      SRI LAKSHMI SUVARCHALA MEDICAL AGENCIES
+E                                Stock & Sales Statement With ComGroupF
+From 01/12/2025 To 31/12/2025                                                            Page : 1
+Com Group :ABBOTT INDIA LTD(PED)
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LTD ( SIMILAC )        
+-------------------------------------
+   2 ISOMIL POEDWR                400GM       28      72      100      77      23     11804.52 
+   6 PEDIASURE 7 PLUS CH          400GM       14       6       20      15       5      2355.78 
+   6 PEDIASURE 7 PLUS VEN         400GM        3      13       16       8       8      3769.25 
+ 329 PEDIASURE AD VEN PAC         400GM        8       0        8       0       8      5571.72 
+ 105 PEDIASURE CH PACK            375GM       20       0       20       6      14      8205.39 
+ 110 PEDIASURE CH PACK            200GM       19       0       19      15       4      1278.73 
+  48 PEDIASURE CH PACK            950GM        2       0        2       2       0         0.00 
+  65 PEDIASURE CHOCOLATE SACHETS  22GM         0       0        0       0       0         0.00 
+   2 PEDIASURE COMP CH            200G        25      24       49      20      29      9922.76 
+   2 PEDIASURE COMP VEN           200GM       11      48       59      31      28      9580.59 
+   2 PEDIASURE COMPL CHO          375GM       17      24       41      16      25     15931.93 
+  48 PEDIASURE COMPL VANI         375GM       29       0       29      13      16     10196.43 
+  24 PEDIASURE V PACK             950 GM       2       2        4       2       2      2740.46 
+  73 PEDIASURE VAN PACK           375GM       23       0       23      10      13      7617.39 
+  69 PEDIASURE VEN PAC            200GM       29       0       29       8      21      6646.54 
+  69 PEDIASURE VENILLA SACHETS    22GM         4       0        4       4       0         0.00 
+  12 SIMILAC ADV 1 PACK           400GM        0      43       43      17      26     17903.63 
+  63 SIMILAC ADV 2 PACK           400GM        6       0        6       0       6      4175.51 
+   6 SIMILAC ADV 3 PACK           400GM        0       9        9       4       5      3479.60 
+  48 SIMILAC NEOSURE              400GM       20       0       20      10      10      5859.53 
+  23 SIMILAC PLUS 1               400GM        9      24       33      23      10      7570.29 
+  40 SIMILAC PLUS 2               400GM       22       0       22       8      14     10119.34 
+ 110 SIMILAC PLUS 3               400GM       10       0       10       4       6      4361.43 
+  55 SIMILAC TOTAL COMFOR         350GM       19       0       19       3      16     12317.76 
+  12 SIMILAC-1                    200GM       21      29       50      50       0         0.00 
+   2 SIMILAC-1 PACK               400GM       23      96      119      85      34     15996.12 
+  12 SIMILAC-2 PACK               400GM       38      32       70      54      16      7527.58 
+   7 SIMILAC-3 PACK               400GM       20      32       52      21      31     14584.69 
+  65 SIMILAC-4 PACK               400GM       26       0       26      13      13      6116.16 
+ 540 SIMMOM VANILLA IQ            200GM        0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :   231154.31 Sale Value    :   250236.73 
+Purchase Value :   224715.54 Closing Value :   205633.12 
+----------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LTD( ENSURE )          
+-----------------------------------
+  20 ENSURE CHOCOLATE             200GM        4       5        9       6       3      1035.75 
+  17 ENSURE CHOCOLATE PAC         375GM        0       6        6       3       3      1659.83 
+  97 ENSURE CHOCOLATE PACK        950GM        0       0        0       0       0         0.00 
+ 502 ENSURE DIABETIC CHOCOLATE    1000GM       0       0        0       0       0         0.00 
+   6 ENSURE DIABETIC CHOCOLATE    375GM        3       6        9       3       6      3708.68 
+  17 ENSURE DIABETIC CHOCOLATE    200GM        3      10       13       7       6      2489.76 
+   7 ENSURE DIABETIC VEN          950GM        9      10       19      12       7     12604.30 
+   7 ENSURE DIABETIC VEN          200GM       30      36       66      35      31     14186.93 
+  40 ENSURE DIABETIC VEN PAC      375GM       38       0       38      30       8      6295.72 
+   7 ENSURE DIABETIC VEN TIN      375GM       46      48       94      58      36     30178.40 
+   7 ENSURE FOS VANILA            375GM       29      72      101      63      38     24053.73 
+  40 ENSURE HP VANILA             400GM       16       0       16       5      11      7339.33 
+  41 ENSURE PLUS VANILA           400GM        3       0        3       2       1       753.87 
+  12 ENSURE VANILA PACK           950GM        7      10       17      10       7      9879.87 
+   7 ENSURE VANILA PACK           375GM       42      32       74      34      40     24293.24 
+   7 ENSURE VENILA                200GM       40      36       76      51      25      8340.15 
+ 643 NEPRO HP VANILLA             400GM        0       0        0       0       0         0.00 
+ 740 NEPRO LP VANILLA             400GM        0       0        0       0       0         0.00 
+ 684 PROSURE ORANGE               400GM        0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :   182906.81 Sale Value    :   214844.60 
+Purchase Value :   178757.37 Closing Value :   146819.58 
+----------------------------------------------------------------------------------------------------
+
+                                                                                         Page : 2
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+

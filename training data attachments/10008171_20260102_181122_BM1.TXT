@@ -1,0 +1,19 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : ABBOTT INDIA LTD (CUNSUMER CARE)                               Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BP12   DIGENE (M) TABS          15'S       1143          0     1143      600      543   11890.68
+BP13   DIGENE (MF) TABS         9'S           0          0        0        0        0       0.00
+BP11   DIGENE (O) TABS          15'S       1130          0     1130        5     1125   23895.00
+BP15   DIGENE GEL (O)           200 ML        0          0        0        0        0       0.00
+BP14   DIGENE GEL MINT          200 ML      209          0      209      120       89   12956.16
+AT30   RASHFREE                 15GM          0          0        0        0        0       0.00
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.       79,719.64   Sales Value   Rs.       30,977.80
+ Receipt Value Rs.            0.00   Closing Value Rs.       48,741.84
+------------------------------------------------------------------------------------------------

@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT GI PROSPERA
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+ANTOXIPAN DS SACHET            6GM                                                         
+ANTOXIPAN TAB                 15`S     67            3   23    43 15537.92    8305.08      
+CREON   10000                 15'S     55     55    30    5   105 62119.79    2948.74      
+CREON 25000 CAP               10`S     44     55    25   29    70 62305.22   24994.06      
+CREON 40000 CAP               10`S     10                      10  9522.87                 
+CREON SD CREAM               30 GM      5                       5 14824.01                 
+EVITOL CAP                    15'S            10     4         10  3869.04                 
+HEPTRAL TAB                   10'S     11     10     4    8    13 13642.36    8331.64      
+ROWASA 2GM SACH                1'S                                                         
+ROWASA OD 1200 MG TAB         10`S                                                         
+ROWASA SAC                     1`S     71           10         71  1863.97                 
+ROWASA-1GR SACHET              1'S     60           30         60  3512.25                 
+VIADEK TAB                    30`S     26            6    5    21  8866.31    2117.69      
+VONEFI 10 MG TAB              10`S     10            3                                     
+VONEFI 20 MG TAB              10`S      8     20     9   11    17  1813.20    1179.38      
+-------------------------------------------------------------------------------------------
+                                                              425 197876.9   47876.59      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:139440.55     Sales Val - Prv.Mth: 52951.65   Cur.Mth.Sal:  50270.42   Stk.Val:175298.17     Pur.Val:90580.66     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  50270.42       Stock Value:197876.92                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

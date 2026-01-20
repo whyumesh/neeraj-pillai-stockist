@@ -1,0 +1,52 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   PHARMA(GEN NEXT)
+---------------------------------------------------------------------------
+ANTOXIPAN TAB             |15's  |    7|    0|    0|    7|    2|    5|    0
+ARACHITOL KIDS            |15ml  |    0|    0|    0|    0|    0|    0|    0
+ARACHITOL NANO SOLUTION   |5ml   |  260|    0|    0|  260|  132|  128|    0
+ARACHITOL-3LAC            |6x1ml |    6|    0|    0|    6|    0|    6|    0
+ARACHITOL-6LAC            |6x1ml |    9|   20|    0|   29|   16|   13|    0
+ARACHITOL-NANO DAILY 2K   |150ml |    0|    0|    0|    0|    0|    0|    0
+BENEGUT SUSP              |12's  |    0|    0|    0|    0|    0|    0|    0
+BRUFEN-200 TAB            |15's  |   52|  140|    0|  192|  131|   61|    0
+BRUFEN-400 TAB            |20's  |  125|  135|    0|  260|  172|   88|    0
+BRUFEN-600 TAB            |15's  |   59|    0|    0|   59|    5|   54|    0
+BRUFEN-JUNIOR SYP         |60ml  |    0|    0|    0|    0|    0|    0|    0
+BRUFEN-P SYP              |100ml |   58|   40|    0|   98|   86|   12|    0
+BRUGEL GEL                |30gm  |    0|    0|    0|    0|    0|    0|    0
+CITROSODA SACHET          |1's   |   88|    0|    0|   88|   11|   77|    0
+CREMAPEG SYP              |200ml |   13|    0|    0|   13|   13|    0|    0
+CREON-SD POWDER           |30gm  |    0|    0|    0|    0|    0|    0|    0
+DIGECAINE GEL             |170ml |   34|    0|    0|   34|    7|   27|    0
+DIGENE-TOTAL              |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC-PAED SYP         |60ml  |    0|    0|    0|    0|    0|    0|    0
+DUPHASTON-PRO 10 TAB      |4tab  |    0|    0|    0|    0|    0|    0|    0
+DURAJOINT-PLUS CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+DUVADILAN INJ             |6x2ml |   10|    0|    0|   10|    5|    5|    0
+DUVADILAN RETARD TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+DUVADILAN TAB             |50's  |   20|   40|    0|   60|   31|   29|    0
+EVITOL CAPSULES           |15's  |    0|    0|    0|    0|    0|    0|    0
+INDERAL-LA 20 TAB         |10's  |    7|   40|    0|   47|   45|    2|    0
+INDERAL-LA 40 TAB         |15's  |   18|   10|    0|   28|   12|   16|    0
+MEFOSAR-30 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+NEFOSAR INJ               |1ml   |    0|    0|    0|    0|    0|    0|    0
+NEFOSAR TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+PUREGON-150 INJ           |1's   |    0|    0|    0|    0|    0|    0|    0
+PUREGON-75 INJ            |1's   |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-200 TAB         |100's |   11|    0|    0|   11|    0|   11|    0
+THYRONORM-62.5 TAB        |50's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 16 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 24 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 8 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+ZOLFRESH-10 TAB           |15's  |   31|   30|    0|   61|   37|   24|    0
+ZOLFRESH-5 TAB            |15's  |   58|   60|    0|  118|   64|   54|    0
+ZOLFRESH-ER 12.5 TAB      |15's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   62869    PR.STK   29754    RT.COM       0    CL.STK   45037
+SL.AMT   47585
+---------------------------------------------------------------------------

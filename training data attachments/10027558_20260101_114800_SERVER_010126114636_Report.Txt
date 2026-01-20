@@ -1,0 +1,46 @@
+CHM
+              STAR PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing    Ostk     Purc     Sale     SRet     PRet      Qoh     QohValue
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA LIMITED 
+=============================
+*NOVOFINE 32G 4MM NEED       1pec          0        0        0        0        0        0         0.00 
+ACTRAPID FLEXPEN             3ML           0        0        0        0        0        0         0.00 
+ACTRAPID HM PENFILL          5*3ML         0        0        0        0        0        0         0.00 
+FIASP 100IU 10 ML            10 ml         0       10       10        0        0        0         0.00 
+FIASP FLEXTOUCH              3ML           5        0        5        0        0        0         0.00 
+FIASP PENFIL                 5*3ML         4       11       13        0        0        2      6296.56 
+HUMAN  ACTRAPID 40 IU        10ML         68      150      177        0        0       41      5747.18 
+HUMAN INSULATARD 40 IU       10ML         30       60       57        0        0       33      4625.78 
+HUMAN MIXTARD 100 IU         10ML         32       90       88        0        0       34     14338.55 
+HUMAN MIXTARD 40IU 10ML      10 ML       118      780      737        0        0      161     22568.18 
+HUMAN MIXTRAD 50\50 40IU     10ml         34       30       47        0        0       17      3840.07 
+INSULATARD  FLEXPEN          1s            0        0        0        0        0        0         0.00 
+INSULATARD HM PENFIL         5*3ML         0        0        0        0        0        0         0.00 
+LEVEMIR FLEX PEN             1 PEN         5        0        5        0        0        0         0.00 
+MIXTARD 30 FLEX PEN          3ml           0        0        0        0        0        0         0.00 
+MIXTARD 30H PENFI 5*3        5*3ML         0        0        0        0        0        0         0.00 
+MIXTARD 50HM PENFI           3ML           1        5        5        0        0        1      1640.61 
+NOVOFINE 31G 6 MM            1S            0      300      300        0        0        0         0.00 
+NOVOFINE 32G 4MM             1`S         560      300      510        0        0      350      4906.13 
+NOVOMIX  30 PENFILL5*1       5*3ML         5       28       29        0        0        4     14482.65 
+NOVOMIX 30 FLEX PENS         3 ML         24        5       21        0        0        8      7159.07 
+NOVOMIX 50 FLEXPEN           3ml           7        5        4        0        0        8      7405.94 
+NOVOMIX 50PENFILL            5*3ml         3        0        3        0        0        0         0.00 
+NOVOPEN 4                    1 pac         6        0        2        0        0        4      4047.33 
+NOVORAPID 100IU              10ml          3        7        5        0        0        5      9865.17 
+NOVORAPID FLEX PEN           3 ML         10       25       23        0        0       12     10738.60 
+NOVORAPID PENFILL            3 ML          5        4        5        0        0        4     14483.07 
+RYZODEG FLEXTOUCH 1*3ML      3ML          15       31       41        0        0        5      6163.08 
+RYZODEG PENFILL 5*3 ML       3ml          11       43       46        0        0        8     38287.62 
+TRESIBA 3ML FLEXTOUCH        1*3ml         3        0        1        0        0        2      3001.55 
+TRESIBA 3ML PENFILLS         3ML           2        9        9        0        0        2     11128.32 
+XULTOPHY 100IU               3ML           1        0        0        0        0        1      3871.35 
+================================================================================================
+Opening Value  :   243959.85 Sale Value      :   810258.02 SRet Value    :        0.00 
+Purchase Value :   673126.84 PurReturn Value :        0.00 Closing Value :   194596.79 
+------------------------------------------------------------------------------------------------
+P

@@ -1,0 +1,47 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   DIABETICS
+---------------------------------------------------------------------------
+D3-SHOT SACHETS           |1gm   |    0|    0|    0|    0|    0|    0|    0
+D3-SHOT SOFTGELS          |4's   |    0|    0|    0|    0|    0|    0|    0
+EUGLUCON TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+FOOTPAL CREAM             |100gm |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-500 TABS        |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G 0.5 TAB       |15's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G1 FORTE TAB    |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G1 TAB          |15's  |   25|    0|    0|   25|    8|   17|    0
+GLUFORMIN-G2 FORTE TAB    |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-G2 TAB          |15's  |   17|    0|    0|   17|    8|    9|    0
+GLUFORMIN-I 0.5 TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 1000 TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 1000 TAB     |15's  |    0|    0|    0|    0|    0|    0|    0
+GLUFORMIN-XL 500 TAB      |15's  |   57|    0|    0|   57|   20|   37|    0
+JANUMET-50/1000 TAB       |15's  |   12|    0|    0|   12|    4|    8|    0
+JANUMET-50/500 TAB        |15's  |   24|    0|    0|   24|    0|   24|    0
+JANUVIA-100 TAB           |7's   |   17|    0|    0|   17|    0|   17|    0
+JANUVIA-50 TAB            |7's   |   18|    0|    0|   18|    0|   18|    0
+NEO-MERCAZOLE 10 TAB      |100's |   30|   10|    0|   40|   23|   17|    0
+NEO-MERCAZOLE 20 TAB      |130's |    9|    0|    0|    9|    2|    7|    0
+NEO-MERCAZOLE 5 TAB       |100's |   17|   10|    0|   27|   17|   10|    0
+NERVUP-OD CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+NERVUP-PG CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-0.2 TAB               |30's  |    7|    0|    0|    7|    0|    7|    0
+PPG-0.3 TAB               |30's  |    6|    0|    0|    6|    0|    6|    0
+PPG-MD 0.2 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MD 0.3 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MET 0.2 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+PPG-MET 0.3 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBET-1 TAB              |15's  |   11|    0|    0|   11|    2|    9|    0
+TRIBET-2 TAB              |10's  |   10|    0|    0|   10|    4|    6|    0
+TRIBETROL-1 FORTE TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-1 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-2 FORTE TAB     |10's  |    0|    0|    0|    0|    0|    0|    0
+TRIBETROL-2 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   64850    PR.STK    6817    RT.COM       0    CL.STK   48404
+SL.AMT   23263
+---------------------------------------------------------------------------

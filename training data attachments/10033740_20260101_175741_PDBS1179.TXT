@@ -1,0 +1,44 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   GENERAL
+---------------------------------------------------------------------------
+AMICOLON CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+AMICOLON-SB SACHETS       |1gm   |    0|    0|    0|    0|    0|    0|    0
+B-STIL 16 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+B-STIL 24 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+B-STIL 8 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+BILAZEST-20 TAB           |10's  |    6|    0|    0|    6|    0|    6|    0
+BILAZEST-M TAB            |10's  |    7|    0|    0|    7|    2|    5|    0
+CLARIBID-125 DRY SYP      |1's   |   24|   20|    0|   44|   24|   20|    0
+CLARIBID-250 TAB          |10's  |   43|  100|    0|  143|   17|  126|    0
+CLARIBID-500 TAB          |10's  |   14|   10|    0|   24|   24|    0|    0
+ENLIVA                    |10's  |    0|    0|    0|    0|    0|    0|    0
+ESOGA-RD CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+ESSENTIALE-L 1GM          |1gm   |    6|    0|    0|    6|    0|    6|    0
+ESSENTIALE-L CAP          |10's  |    0|    0|    0|    0|    0|    0|    0
+FLAGYL SUSP               |60ml  |  120|    0|    0|  120|    5|  115|    0
+KIDPRED SYP               |60ml  |    0|    0|    0|    0|    0|    0|    0
+NIVAQUINE-P AMP           |2ml   |    0|    0|    0|    0|    0|    0|    0
+PHENERGAN SYP             |100ml |   32|   10|    0|   42|   20|   22|    0
+PHENERGAN-10 TAB          |10's  |   45|    0|    0|   45|    7|   38|    0
+PHENERGAN-25 TAB          |10's  |   29|    0|    0|   29|    2|   27|    0
+PHENERGAN-INJ             |2ml   |   85|    0|    0|   85|   10|   75|    0
+PHENSEDYL-T SYP           |100ml |    0|    0|    0|    0|    0|    0|    0
+PHENSYDYL-BR SYP          |100ml |    0|    0|    0|    0|    0|    0|    0
+STEMETIL-AMP              |1ml   |   20|   50|    0|   70|   20|   50|    0
+STEMETIL-MD TAB           |15's  |  181|  400|    0|  581|  198|  383|    0
+SUPRA-PLUS TAB            |15's  |  261|    0|    0|  261|  145|  116|    0
+TIXYLIX-D SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+TIXYLIX-LS JR SYP         |60ml  |   52|  140|    0|  192|   64|  128|    0
+TIXYLIX-LS SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+TIXYLIX-NEW SYP           |60ml  |    9|   20|    0|   29|   20|    9|    0
+TIXYLIX-P SYP             |60ml  |    0|    0|    0|    0|    0|    0|    0
+XEVOR TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   68218    PR.STK   98037    RT.COM       0    CL.STK  110828
+SL.AMT   55427
+---------------------------------------------------------------------------

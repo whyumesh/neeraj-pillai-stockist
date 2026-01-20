@@ -1,0 +1,40 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   DERMA
+---------------------------------------------------------------------------
+AMLUCK CREAM              |30gm  |    0|    0|    0|    0|    0|    0|    0
+AMLUCK CREAM              |10gm  |    0|    0|    0|    0|    0|    0|    0
+ELOCON LOTION             |5ml   |    0|    0|    0|    0|    0|    0|    0
+ELOCON OINT               |10gm  |    0|    0|    0|    0|    0|    0|    0
+ELOCON OINT               |100gm |    0|    0|    0|    0|    0|    0|    0
+FACE CARE TVAKSH          |60gm  |    0|    0|    0|    0|    0|    0|    0
+FACE GUARD TVAKSH         |30gm  |    0|    0|    0|    0|    0|    0|    0
+FACECLIN TUBE             |20gm  |    3|   10|    0|   13|    4|    9|    0
+FOLLIHAIR TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+FOLLIHAIR-NEW TAB         |15's  |    6|   24|    0|   30|   19|   11|    0
+I-TYZA 100-CAP            |7's   |    0|    0|    0|    0|    0|    0|    0
+I-TYZA 200-CAP            |7's   |    0|    0|    0|    0|    0|    0|    0
+MELAGARD 50ML             |1's   |    0|    0|    0|    0|    0|    0|    0
+MELAGLO CREAM             |15gm  |    8|    0|    0|    8|    3|    5|    0
+MELAGLO CREAM             |30gm  |    0|    0|    0|    0|    0|    0|    0
+MELAGLO-RICH CREAM        |20gm  |    0|    0|    0|    0|    0|    0|    0
+MELALITE-15 CREAM         |30gm  |   10|    0|    0|   10|    3|    7|    0
+MELALITE-FORTE CREAM      |30gm  |    8|    0|    0|    8|    3|    5|    0
+QUADRIDERM-RF CREAM       |5gm   |    0|    0|    0|    0|    0|    0|    0
+QUADRIDERM-RF CREAM       |10gm  |    3|    0|    0|    3|    3|    0|    0
+SELSUN SHAMP              |60ml  |    0|    0|    0|    0|    0|    0|    0
+SELSUN SHAMP              |120ml |   29|    0|    0|   29|   13|   16|    0
+TUFACNE-10 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+TUFACNE-20 CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+TYZA CREAM                |15gm  |    0|    0|    0|    0|    0|    0|    0
+TYZA POWDER               |50gm  |    0|    0|    0|    0|    0|    0|    0
+TYZA TAB                  |10's  |    0|    0|    0|    0|    0|    0|    0
+TYZA-M CREAM              |10gm  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   17332    PR.STK    8972    RT.COM       0    CL.STK   13452
+SL.AMT   12851
+---------------------------------------------------------------------------

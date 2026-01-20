@@ -1,0 +1,231 @@
+@CHMW1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/11/25 To 30/11/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+ACUVERT TAB               |9's   |    0|    0|    0|    0|    0|    0|    0
+ANTOXIPAN TAB             |15's  |    7|    0|    0|    7|    0|    7|    0
+ARACHITOL KIDS            |15ml  |    0|    0|    0|    0|    0|    0|    0
+ARACHITOL NANO SOLUTION   |5ml   |    0|  368|    0|  368|  108|  260|    0
+ARACHITOL-3LAC            |6x1ml |    2|    5|    0|    7|    1|    6|    0
+ARACHITOL-6LAC            |6x1ml |    8|   25|    0|   33|   24|    9|    0
+ARACHITOL-NANO DAILY 2K   |150ml |    0|    0|    0|    0|    0|    0|    0
+BENEGUT SUSP              |12's  |    0|    0|    0|    0|    0|    0|    0
+BRUFEN-200 TAB            |15's  |   65|   80|    0|  145|   93|   52|    0
+BRUFEN-400 TAB            |20's  |  165|   90|    0|  255|  133|  122|    0
+BRUFEN-600 TAB            |15's  |   30|   60|    0|   90|   31|   59|    0
+BRUFEN-JUNIOR SYP         |60ml  |    0|    0|    0|    0|    0|    0|    0
+BRUFEN-P SYP              |100ml |    3|  120|    0|  123|   65|   58|    0
+BRUGEL GEL                |30gm  |    0|    0|    0|    0|    0|    0|    0
+CITROSODA SACHET          |1's   |   33|   75|    0|  108|   20|   88|    0
+CREMAPEG SYP              |200ml |    6|   20|    0|   26|   13|   13|    0
+CREON-SD POWDER           |30gm  |    0|    0|    0|    0|    0|    0|    0
+DIGECAINE GEL             |170ml |    8|   40|    0|   48|   14|   34|    0
+DIGENE-TOTAL              |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC-PAED SYP         |60ml  |    0|    0|    0|    0|    0|    0|    0
+DUPHASTON-PRO 10 TAB      |4tab  |    0|    0|    0|    0|    0|    0|    0
+DURAJOINT-PLUS CAP        |10's  |    0|    0|    0|    0|    0|    0|    0
+DUVADILAN INJ             |6x2ml |    4|   10|    0|   14|    4|   10|    0
+DUVADILAN RETARD TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+DUVADILAN TAB             |50's  |   37|   10|    0|   47|   27|   20|    0
+EVITOL CAPSULES           |15's  |    0|    0|    0|    0|    0|    0|    0
+INDERAL-LA 20 TAB         |10's  |    1|   40|    0|   41|   34|    7|    0
+INDERAL-LA 40 TAB         |15's  |    0|   30|    0|   30|   12|   18|    0
+MEFOSAR-30 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+NEFOSAR INJ               |1ml   |    0|    0|    0|    0|    0|    0|    0
+NEFOSAR TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+PUREGON-150 INJ           |1's   |    0|    0|    0|    0|    0|    0|    0
+PUREGON-75 INJ            |1's   |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-200 TAB         |100's |   12|    0|    0|   12|    1|   11|    0
+THYRONORM-62.5 TAB        |50's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 16 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 24 TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-DT 8 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+ZOLFRESH-10 TAB           |15's  |    5|   52|    0|   57|   26|   31|    0
+ZOLFRESH-5 TAB            |15's  |   62|  100|    0|  162|  104|   58|    0
+ZOLFRESH-ER 12.5 TAB      |15's  |    5|    0|    0|    5|    0|    5|    0
+COLOSPA TAB               |10's  |    2|    0|    0|    2|    1|    1|    0
+COLOSPA-135 TAB           |15's  |   20|    0|    0|   20|    4|   16|    0
+COLOSPA-RETARD TAB        |10's  |    8|    0|    0|    8|    0|    8|    0
+COLOSPA-X TAB             |15's  |    0|    0|    0|    0|    0|    0|    0
+DIGENE-FAST MELT(O)       |2gm   |    0|    0|    0|    0|    0|    0|    0
+DIGENE-FIZZ LEMON SACHET  |1's   |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL                |100ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (MF)           |170ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (MINT)         |200ml |   25|   40|    0|   65|   21|   44|    0
+DIGENE-GEL (O)            |170ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL (ORANGE)       |200ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL(MIX FRUIT)     |200ml |    0|    0|    0|    0|    0|    0|    0
+DIGENE-GEL(ORANGE)        |400ml |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/11/25 To 30/11/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+DIGENE-TAB(MINI DANGLER)  |15's  |   22|   30|    0|   52|   37|   15|    0
+DIGENE-ULTRA FIZZ         |8's   |    0|    0|    0|    0|    0|    0|    0
+DIGERAFT-XT SUSP          |150ml |    0|    0|    0|    0|    0|    0|    0
+DOXSTEM TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC BEARS 1.668GM    |1's   |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |100ml |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |200ml |    0|    0|    0|    0|    0|    0|    0
+DUPHALAC SYP              |150ml |   49|  200|    0|  249|  192|   57|    0
+DUPHALAC SYP              |250ml |   22|   40|    0|   62|   27|   35|    0
+DUPHALAC SYP              |450ml |   20|    0|    0|   20|   12|    8|    0
+MELALITE-XL OINT          |15gm  |    0|    0|    0|    0|    0|    0|    0
+NAUSIDOME SUSP            |30's  |    0|    0|    0|    0|    0|    0|    0
+NUGON-150 INJ             |1's   |    0|    0|    0|    0|    0|    0|    0
+NUGON-75 INJ              |1's   |    0|    0|    0|    0|    0|    0|    0
+PEP-IBS TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+PRO-9 100 CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+PRO-9 200 CAP             |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-150 TAB            |15's  |   22|   10|    0|   32|   23|    9|    0
+UDILIV-300 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-300 TAB            |15's  |   43|    0|    0|   43|   16|   27|    0
+UDILIV-450 TAB            |10's  |   15|   30|    0|   45|   23|   22|    0
+UDILIV-600 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+UDILIV-75 DT TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+UDISYP SYP                |200ml |    0|    0|    0|    0|    0|    0|    0
+ZILSA-OINT                |5gm   |    0|    0|    0|    0|    0|    0|    0
+ZOLFRESH-ODT 10 TAB       |10's  |   20|    0|    0|   20|    0|   20|    0
+ZOLFRESH-ODT 5 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+ABOCAL-500 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+ANTOXIPAN-DS POWDER       |6gm   |  120|    0|    0|  120|    0|  120|    0
+DEZOFLAV TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+DIENONORM TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+LINORMA-T3 5MCG           |100's |    0|    0|    0|    0|    0|    0|    0
+RILIGOL INJ               |1ml   |    0|    0|    0|    0|    0|    0|    0
+SURBEX-GOLD CAP           |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROCAL-D3 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-100 TAB         |100's |   34|   48|    0|   82|   38|   44|    0
+THYRONORM-112 TAB         |50's  |    8|   24|    0|   32|   14|   18|    0
+THYRONORM-12.5 TAB        |50's  |    0|    0|    0|    0|    0|    0|    0
+THYRONORM-12.5 TAB        |120's |   12|   52|    0|   64|   30|   34|    0
+THYRONORM-125 TAB         |100's |    8|   12|    0|   20|    8|   12|    0
+THYRONORM-137 TAB         |120's |    4|    0|    0|    4|    0|    4|    0
+THYRONORM-150 TAB         |100's |   12|   12|    0|   24|   11|   13|    0
+THYRONORM-25 TAB          |120's |   11|   48|    0|   59|   39|   20|    0
+THYRONORM-37.5 TAB        |120's |    7|   24|    0|   31|    9|   22|    0
+THYRONORM-50 TAB          |120's |   40|   72|    0|  112|   58|   54|    0
+THYRONORM-62.5 TAB        |100's |   12|   13|    0|   25|   12|   13|    0
+THYRONORM-75 TAB          |120's |   11|   60|    0|   71|   34|   37|    0
+THYRONORM-88 TAB          |100's |   28|    0|    0|   28|   16|   12|    0
+THYROWEL CAP              |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROWEL-PLUS TAB         |15's  |    9|    0|    0|    9|    2|    7|    0
+CREMAFFIN MIX FRUIT       |170ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-FRESH TAB       |10's  |   81|   60|    0|  141|   92|   49|    0
+CREMAFFIN-FRESH TAB       |10's  |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-MINT FLAVOR     |225ml |   15|   39|    0|   54|   37|   17|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/11/25 To 30/11/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+CREMAFFIN-MINT STICKPACK  |15ml  |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-MIXED FRUIT SYP |225ml |   16|   60|    0|   76|   22|   54|    0
+CREMAFFIN-MIXED FRUIT SYP |450ml |    4|   16|    0|   20|    5|   15|    0
+CREMAFFIN-MIXED FRUIT SYP |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-PLAIN SYP       |170ml |    0|    0|    0|    0|    0|    0|    0
+CREMAFFIN-PLAIN SYP       |225ml |    0|  120|    0|  120|   47|   73|    0
+CREMAFFIN-PLUS SYP        |225ml |   15|  352|    0|  367|  219|  148|    0
+CREMAFFIN-PLUS SYP        |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMAGEL-2% GEL           |30gm  |    9|    0|    0|    9|    1|    8|    0
+CREMAGEL-H GEL            |20gm  |    0|    0|    0|    0|    0|    0|    0
+CREMAGEL-L                |30gm  |   10|    0|    0|   10|    4|    6|    0
+CREMALAX LIQ              |100ml |    0|    0|    0|    0|    0|    0|    0
+CREMALAX-10 TAB           |18's  |   27|    0|    0|   27|   12|   15|    0
+DIGERAFT SUSP             |150ml |    0|   60|    0|   60|    2|   58|    0
+DIGERAFT TAB              |10's  |    9|    0|    0|    9|    0|    9|    0
+DIGERAFT-PLUS SUSP        |150ml |   37|    0|    0|   37|   16|   21|    0
+GANATON-50 TAB            |10's  |   11|   14|    0|   25|   17|    8|    0
+GANATON-OD CAP            |10's  |    0|    0|    0|    0|    0|    0|    0
+GANATON-TOTAL TAB         |10's  |    8|    0|    0|    8|    6|    2|    0
+LIBRAX TABS               |20's  |   18|   40|    0|   58|   14|   44|    0
+PANKREOFLAT LIQ           |100ml |    0|    0|    0|    0|    0|    0|    0
+PANKREOFLAT TAB           |15's  |   29|    0|    0|   29|    9|   20|    0
+PANKREOFLAT-HD TAB        |10's  |   11|    0|    0|   11|    1|   10|    0
+RASHFREE CREAM            |20gm  |    0|    0|    0|    0|    0|    0|    0
+TELPRES-LN 40 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-10 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-20 TAB           |100's |    0|    0|    0|    0|    0|    0|    0
+THYROCAB-5 TAB            |100's |    0|    0|    0|    0|    0|    0|    0
+DIGENE INSTA ONEBEGO MINT |5x10ml|    0|   10|    0|   10|    0|   10|    0
+ELDICET-50 TAB            |10's  |    7|    0|    0|    7|    0|    7|    0
+ENTAMIZOLE-O TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET TAB                |10's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET TAB                |15's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-GX1 FORTE TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-GX1 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-GX2 FORTE TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-GX2 TAB            |15's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-SR 1 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-SR 500 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+OBIMET-SR 500 TAB         |15's  |    0|    0|    0|    0|    0|    0|    0
+VITAMIN-A CHEW TAB        |10's  |  101|    0|    0|  101|   17|   84|    0
+EBASIL-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+EBASIL-20 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+EPTOIN INJ                |2ml   |   70|    0|    0|   70|   10|   60|    0
+EPTOIN SUSP               |200ml |    0|    0|    0|    0|    0|    0|    0
+EPTOIN-100 TAB            |120's |   72|  144|    0|  216|   98|  118|    0
+EPTOIN-300 ER TAB         |30's  |   17|    0|    0|   17|    8|    9|    0
+EPTOIN-50 TAB             |150's |    4|    0|    0|    4|    1|    3|    0
+INDERAL-10 TAB            |15's  |   10|  120|    0|  130|   54|   76|    0
+INDERAL-20 TAB            |15's  |   20|    0|    0|   20|    9|   11|    0
+INDERAL-40 TAB            |15's  |   80|    0|    0|   80|   44|   36|    0
+LACOXA-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+LACOXA-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-25 TAB         |15's  |    6|   10|    0|   16|    5|   11|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/11/25 To 30/11/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   
+---------------------------------------------------------------------------
+PROTHIADEN-50 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-75 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-75 TAB         |15's  |   29|    0|    0|   29|    0|   29|    0
+PROTHIADEN-M TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-16 TAB             |15's  |   69|  130|    0|  199|  122|   77|    0
+VERTIN-24 TAB             |15's  |   18|    0|    0|   18|    8|   10|    0
+VERTIN-8 TAB              |15's  |    2|  120|    0|  122|   78|   44|    0
+VERTIN-OD 24 TAB          |7's   |    0|    0|    0|    0|    0|    0|    0
+ARACHITOL-O TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+CLOME-100 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+CLOME-50 TAB              |5's   |    0|    0|    0|    0|    0|    0|    0
+COMBINORM CAP             |15's  |    0|    0|    0|    0|    0|    0|    0
+CREMA-ANO GEL             |20gm  |   13|   10|    0|   23|   12|   11|    0
+DUPHAPRO-FC 1 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHAPRO-FC 2 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+DUPHASTON TAB             |10's  |    2|   20|    0|   22|    3|   19|    0
+DUPHASTON-10MG TAB(ART CE |10's  |   15|    0|    0|   15|    0|   15|    0
+EMOLENE CREAM             |100gm |    0|    0|    0|    0|    0|    0|    0
+ESTRABET-2 TAB            |28's  |    0|    0|    0|    0|    0|    0|    0
+FEMILON TAB               |21's  |    5|   15|    0|   20|   16|    4|    0
+NOVELON TAB               |21's  |    4|    5|    0|    9|    4|    5|    0
+PRO-9 INJ                 |2ml   |    0|    0|    0|    0|    0|    0|    0
+SOLFE TAB                 |10's  |    0|    0|    0|    0|    0|    0|    0
+APNICAF INJ               |3ml   |    0|    0|    0|    0|    0|    0|    0
+CREON-10000 CAP           |15's  |    1|   20|    0|   21|   10|   11|    0
+CREON-25000 CAP           |10's  |    5|   20|    0|   25|   13|   12|    0
+CREON-40000 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+HEPTRAL TAB               |10's  |    3|   10|    0|   13|    2|   11|    0
+INSULATARD FLEXPEN        |3ml   |    0|    0|    0|    0|    0|    0|    0
+ROWASA-1GM SACHET         |1gm   |    0|    0|    0|    0|    0|    0|    0
+ROWASA-SACHET             |1's   |    0|    0|    0|    0|    0|    0|    0
+RYBELSUS-14 TAB           |10's  |    1|    5|    0|    6|    3|    3|    0
+SNAPIT TAB                |2's   |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK  276611    PR.STK  525512    RT.COM       0    CL.STK  428487
+SL.AMT  373636
+---------------------------------------------------------------------------

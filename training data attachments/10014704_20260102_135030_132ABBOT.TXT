@@ -1,0 +1,46 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT CONSUMER CARE          
+STOCK & SALES STATEMENT AS ON 31/12/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+CITRA SODA             4 GM          0     -      -      -        -      -    -        0     -  NoOrder   12.09     -     -        -    -    -    -
+CREMAFFIN MIXED FRUIT  100ML         0     -      -      -        -      -    -        0     -  NoOrder   60.71     -     -        -    -    -    -
+DIGENE ASSORTED        1*15'S        0     -      -      -        -      -    -        0     -  NoOrder   17.24     -     -        -    -    -    -
+DIGENE DANGLER         1*15'S        0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE FIZZ LEMON SACH 1.S           0     -      -      -        -      -    -        0     -  NoOrder    4.28     -     -        -    -    -    -
+DIGENE FIZZ ORANGE     40'S          0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE GEL MF          200 ML        0     -      -      -        -      -    -        0     -  NoOrder  113.82     -     -        -    -    -    -
+DIGENE GEL MINT        200ML         0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE GEL MINT(ROSE)  200 ML      116    200     73    124       95     10   -      210     -  NoOrder  137.71  28919 13082       -    -    -    -
+DIGENE GEL STRAWBERRY  170ML         0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE INSTA MINT      5*10ML        0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE INSTA ONTBEGO M 5*10ML        0     50     -      -        -      -    -       50     -  NoOrder    3.00    150    -        -    -    -    -
+DIGENE M GEL           450ML         0     -      -      -        -      -    -        0     -  NoOrder   90.82     -     -        -    -    -    -
+DIGENE MF GEL          100ML         0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+DIGENE MF GEL(YELLOW)  170ML         0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+**DIGENE MF TAB        15'S         30     -      10     20       -      -    -       30     -  NoOrder   20.85    626    -        -    -    -    -
+DIGENE O GEL           200ML        37     -      -      -         3     -    -       34     -  NoOrder  132.28   4498   397       -    -    -    -
+DIGENE O TAB           1*15'S       26     -       2     20        2     -    -       24     -  NoOrder   20.86    501    42       -    -    -    -
+DIGENE TAB M           15'S        172    300    145    328       74      8   -      390     -  NoOrder   20.86   8135  1544       -    -    -    -
+DIGENE ULTRA ORANGE TA 15'S          0     -      -      -        -      -    -        0     -  NoOrder    7.14     -     -        -    -    -    -
+**ELDICET              15'S          8     10     -       5       -      -    -       18     -  NoOrder  269.81   4857    -        -    -    -    -
+ENTAMIZOLE PLUS        10'S          0     -      -      -        -      -    -        0     -  NoOrder     -       -     -        -    -    -    -
+ENTAMIZOLE-O-TAB       10,S          0     -      -      -        -      -    -        0     -  NoOrder   61.58     -     -        -    -    -    -
+GANATON 50MG            10'S        61     30     36     53       27     -    -       64     -  NoOrder  159.12  10184  4296       -    -    -    -
+GANATON OD             10'S          8     -      -      -        -      -    -        0     -  NoOrder  321.69     -     -        -    -    -    -
+GANATON TOTAL          10'S         40     -      26     10        5     -    -       35     -  NoOrder  383.91  13437  1920       -    -    -    -
+GUT-RENEW CAP          10'S          0     -      -      -        -      -    -        0     -  NoOrder  191.22     -     -        -    -    -    -
+PANKREOFLAT LIQ        100ML         0     -      -      -        -      -    -        0     -  NoOrder   89.49     -     -        -    -    -    -
+UDISYP 200ML           200ML         0     -      -      -        -      -    -        0     -  NoOrder  114.29     -     -        -    -    -    -
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   53053.52    PURCHASE..... VALUE :       0.00
+           SALES VALUE :   22052.79    CLOSING STOCK VALUE :   69983.11
+LAST MONTH SALES VALUE :   37855.63
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

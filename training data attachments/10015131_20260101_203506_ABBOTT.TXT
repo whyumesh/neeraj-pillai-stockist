@@ -1,0 +1,446 @@
+CH
+          DHANALAKSHMI MEDICAL AGENCIES
+E                                      Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                            Page : 1
+Com Group :ABBOTT HEALTHCARE PVT LTD
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+Company :ABB-MSD                             
+----------------
+   4 EPTOIN 100MG  TAB            120s         0      60       60       0      60     10066.92 
+  49 JANUMET 50/1000              15`S        46       0       46       4      42     10772.96 
+  49 JANUMET 50/500               15`S        18       0       18      12       6      1518.74 
+  67 JANUMET XR CP                2X7s        16       0       16       0      16      3348.08 
+ 168 JANUVIA 100                  7`S          7       0        7       0       7      1393.86 
+ 168 JANUVIA 50                   7`S         12       0       12       1      11      2153.27 
+----------------------------------------------------------------------------------------------------
+Opening Value  :    23446.14 Sale Value    :     4259.24 
+Purchase Value :    10066.92 Closing Value :    29253.83 
+----------------------------------------------------------------------------------------------------
+Company :ABBOTT (ACUTE CARE)                 
+----------------------------
+4602 ASCABIOL EMULSION            100ML        0       0        0       0       0         0.00 
+ 982 ASCABIOL EMULSION            60ML         0       0        0       0       0         0.00 
+4602 ASCAPIL 12 A TAB             1'S          0       0        0       0       0         0.00 
+4602 ASCAPIL A TAB                1'S          0       0        0       0       0         0.00 
+4602 BETONIN AST                  400ML        0       0        0       0       0         0.00 
+4602 BETONIN AST                  200ML        0       0        0       0       0         0.00 
+4602 BETONIN AST JUNIOR           100ML        0       0        0       0       0         0.00 
+ 585 BETONIN KIDS GUMMIES         30`          0       0        0       0       0         0.00 
+4602 CEFIPOWER TAB                10'          0       0        0       0       0         0.00 
+4602 DELETUS 'LS'                 100ML        0       0        0       0       0         0.00 
+4602 DELETUS 'P'                  100ML        0       0        0       0       0         0.00 
+  18 DELETUS PEARLS               10'S        23      30       53      13      40      2866.92 
+4602 DELETUS TAB                  10'S         0       0        0       0       0         0.00 
+ 284 DELETUS-BX                   100ML        0       0        0       0       0         0.00 
+  69 DELETUS-D SYRUP              100ML       74       0       74      40      34      3861.69 
+4602 FINTOP AF OINT               15Gr         0       0        0       0       0         0.00 
+4602 GABATOR 300 CAP              10'          0       0        0       0       0         0.00 
+4602 GABATOR NT TAB               10'          0       0        0       0       0         0.00 
+4602 GLIMULIN MF 0.5 TAB          15'          0       0        0       0       0         0.00 
+4602 HERPEX 800DT TAB             5'           0       0        0       0       0         0.00 
+ 244 LOBATE GM NEO                20Gr         0       0        0       0       0         0.00 
+  18 LOBATE GM Neo LOTION         25ML         1      10       11       1      10      1068.27 
+ 282 LOBATE M CREAM               15GM         4       0        4       0       4       394.67 
+4602 LUNABET CREAM                10Gr         0       0        0       0       0         0.00 
+4602 LUTICA CREAM                 10Gr         0       0        0       0       0         0.00 
+4602 LYSUPRA SYP                  200ML        0       0        0       0       0         0.00 
+4602 MIRAGO 25 TAB                10'          0       0        0       0       0         0.00 
+ 865 PARAXIN 250 CAP              10'S         1       0        1       0       1        70.17 
+4602 PARAXIN 500MG                10'S         0       0        0       0       0         0.00 
+4602 PARAXIN DRAGEE 250MG         10'S         0       0        0       0       0         0.00 
+ 308 PARAXIN SUS                  100ML        0       0        0       0       0         0.00 
+4602 PREGALIN 150 CAP             15'          0       0        0       0       0         0.00 
+4602 RICONIA SYRUP                200ML        0       0        0       0       0         0.00 
+4602 SURBEX NANO 60K              5ML          0       0        0       0       0         0.00 
+  49 SURBEX-XT                    15'S        34       0       34      11      23      2976.73 
+4602 URISPAS TAB                  10'          0       0        0       0       0         0.00 
+4602 V WASH WOW SANITARY          XL16         0       0        0       0       0         0.00 
+4602 V WASH WOW SANITARY          R5           0       0        0       0       0         0.00 
+4602 V WASH WOW SANITARY          XL5          0       0        0       0       0         0.00 
+4602 ZIMNIC 100 TAB               10'S         0       0        0       0       0         0.00 
+4602 ZIMNIC 200 TAB               10'S         0       0        0       0       0         0.00 
+4602 ZIMNIC 50 TAB                10'S         0       0        0       0       0         0.00 
+4602 ZIMNIC DRY SYRUP             1'S          0       0        0       0       0         0.00 
+4602 ZIMNIC-O 100 DT TAB          10'S         0       0        0       0       0         0.00 
+4602 ZIMNIC-O 200 TAB             10'S         0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :    15025.38 Sale Value    :     7005.39 
+
+                                                                                         Page : 2
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+Purchase Value :     3218.46 Closing Value :    11238.45 
+----------------------------------------------------------------------------------------------------
+Company :ABBOTT HEALTHCARE PVT LTD           
+----------------------------------
+  18 ABVIDA 50 TAB                15          60      50      110      36      74     10967.39 
+  99 ABVIDA D-10 TAB              10`          0       0        0       0       0         0.00 
+4602 ABVIDA M 50/850 TAB          15'          0       0        0       0       0         0.00 
+ 129 ABVIDA M-50/1000 TAB         15'          0       0        0       0       0         0.00 
+  14 ABVIDA M-50/500 TAB          15`        158     100      258      78     180     35212.68 
+ 214 ABVIDA SR 100 TAB            15`         13       0       13       1      12      2102.06 
+ 931 ABVIDA TRIO 1000 TAB         10           0       0        0       0       0         0.00 
+ 923 ABVIDA TRIO 500 TAB          10           0       0        0       0       0         0.00 
+4602 ACEVAH P 325MG               10'S         0       0        0       0       0         0.00 
+4602 ACEVAH PS TAB                10'S         0       0        0       0       0         0.00 
+  18 ACITROM 0.5                  10`S         9      20       29      12      17       967.30 
+ 556 ACITROM 1.5 TAB              30           0       0        0       0       0         0.00 
+ 493 ACITROM 2.5 TAB              30           0       0        0       0       0         0.00 
+ 493 ACITROM 3.5 TAB              30           0       0        0       0       0         0.00 
+4602 ACNE WASH LOTION             60ML         0       0        0       0       0         0.00 
+4602 ACTIV 360 TAB                10'          0       0        0       0       0         0.00 
+ 779 AMBISTRYN 1Gr VIAL           5ML          0       0        0       0       0         0.00 
+4602 AMLUCK CREAM                 10Gr         0       0        0       0       0         0.00 
+ 865 AMLUCK CREAM                 30GM         0       0        0       0       0         0.00 
+ 119 AQUAVIRON CAP                10s         97       0       97       0      97     16871.45 
+4602 ASERT-D TAB                  10'          0       0        0       0       0         0.00 
+ 132 AVOMINE TAB                  10`S        57       0       57      18      39      1515.19 
+4602 B STIL 16Mg TAB              10'S         0       0        0       0       0         0.00 
+4602 B STIL 8Mg TAB               10'S         0       0        0       0       0         0.00 
+  46 BACTRIM DS TAB               10`        144       0      144      66      78      1379.20 
+  46 BACTRIM SYRUP                50ML        70       0       70      70       0         0.00 
+4602 BECOMAX C FORTE TAB          15'          0       0        0       0       0         0.00 
+  63 BECOZYME'C'FORTE TAB         15`        120       0      120      20     100      3240.40 
+4602 BENDON TAB                   10'          0       0        0       0       0         0.00 
+  78 BRUFEN 400MG TAB             20S         83       0       83       9      74      1363.67 
+  28 BRUGEL ACTIFES               30Gr         0      60       60       6      54      8443.93 
+4602 CALAPTIN 80 MG               30'S         0       0        0       0       0         0.00 
+4602 CEFCHAMP 325                 10'S         0       0        0       0       0         0.00 
+4602 CEFCHAMP-100 DT              10'          0       0        0       0       0         0.00 
+  78 CITROSODA SACHET             1'         204       0      204      24     180      4078.62 
+4602 CLARIBID 250 DS SYRU         30ML         0       0        0       0       0         0.00 
+4602 CLARIBID GRANGULES           1'           0       0        0       0       0         0.00 
+4602 CONTRAMOL-100 INJ            2ml          0       0        0       0       0         0.00 
+4602 CONTRAMOL-50 INJ             1ml          0       0        0       0       0         0.00 
+4602 COSYMOXYL 625MG              10'S         0       0        0       0       0         0.00 
+4602 CREMAFFIN MINT SYRUP         225ML        0       0        0       0       0         0.00 
+  98 CREMAFFIN MIXED FRUI         225ML       33       0       33      33       0         0.00 
+  16 CREMAFFIN PLUS SYRUP         225ML       30      60       90      41      49     11917.39 
+  78 CREMALAX TAB                 6          288       0      288      81     207     12480.24 
+ 780 CREON 10000 CAP              15           0       0        0       0       0         0.00 
+4602 CROTRAX OINT                 20gm         0       0        0       0       0         0.00 
+ 175 CROTRAX-HC                   10gr         0       0        0       0       0         0.00 
+4602 CURENEXT GEL                 50GMS        0       0        0       0       0         0.00 
+ 786 CYTOGARD OD 60 TAB           10           0       0        0       0       0         0.00 
+4602 DIGENE GEL Mint              200ML        0       0        0       0       0         0.00 
+  16 DIGENE TAB mint              15'        110     600      710     171     539     10623.15 
+  16 DIGERAFT PLUS SYRUP          200ML       77      60      137      41      96     20871.65 
+  98 DIGERAFT SUSP                200ML       32       0       32      25       7      1383.56 
+  99 DIPSALIC-F OINT              20Gr         0       0        0       0       0         0.00 
+  98 DUPHALAC ENEMA               300ML        0       0        0       0       0         0.00 
+  16 DUPHALAC SYRUP               150ML        2      50       52       5      47      6662.25 
+  98 DUPHALAC SYRUP               250ML       27       0       27       9      18      4252.50 
+  78 DUPHALAC SYRUP BIG           450ML       15       0       15       6       9      3827.25 
+4602 DURAJOINT CAP                10'          0       0        0       0       0         0.00 
+4602 DURAJOINT PLUS CAP           10'          0       0        0       0       0         0.00 
+
+                                                                                         Page : 3
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+4602 EBASIL 20 TAB                10'          0       0        0       0       0         0.00 
+ 526 EBILITY TAB                  10'          4       0        4       0       4       538.90 
+ 191 ELOCON CREAM                 10Gr        11       0       11       0      11      2160.65 
+ 750 ELOCON LOTION                5ML          0       0        0       0       0         0.00 
+4602 ENLIVA CAP                   10'          0       0        0       0       0         0.00 
+ 175 EPILEX CHRONO 200            10'S        12       0       12       2      10      1040.03 
+   7 EPILEX CHRONO 300            15`S        10      10       20      10      10       703.71 
+  84 EPILEX CHRONO 500            15'S         7       0        7       2       5       535.24 
+4602 EPILEX TAB                   10'S         0       0        0       0       0         0.00 
+4602 ERYTHROCIN 250MG TAB         10'S         0       0        0       0       0         0.00 
+4602 ERYTHROCIN 500MG TAB         10'S         0       0        0       0       0         0.00 
+4602 ESGIPYRIN AQ INJ             1ML          0       0        0       0       0         0.00 
+4602 ESGIPYRIN SP TAB             10'          0       0        0       0       0         0.00 
+   7 ESGIPYRIN-DS INJ             3ML        800     500     1300     800     500      1942.50 
+4602 ESGIPYRIN-TH TAB             10'          0       0        0       0       0         0.00 
+4602 ESGYPYRIN TAB                15's         0       0        0       0       0         0.00 
+4602 ESGYPYRYN-A TAB              10'          0       0        0       0       0         0.00 
+4602 ESOGA-RD CAP                 10'S         0       0        0       0       0         0.00 
+4602 ESSENTIALE NATURALS          200ML        0       0        0       0       0         0.00 
+ 570 ESSENTIALE-L 1g              10'S         0       0        0       0       0         0.00 
+ 589 EXERGE CAP                   15           0       0        0       0       0         0.00 
+ 989 EXERMET SR 500 TAB           15           0       0        0       0       0         0.00 
+4602 FABOLITE POWDER              100GM        0       0        0       0       0         0.00 
+4602 FABOLITE POWDER              300GM        0       0        0       0       0         0.00 
+4602 FACE GUARD TVAKSH            30Gr         0       0        0       0       0         0.00 
+  14 FACECLIN FACE WASH           100gr       40       0       40      15      25      7960.00 
+  14 FACECLIN TUBE 20GM           20Gr       102       0      102       7      95     10043.59 
+4602 FACEGLOW OINT                15Gr         0       0        0       0       0         0.00 
+ 119 FAMTAC 40MG                  14`S        66       0       66      12      54      1412.39 
+   7 FLAGYL 200mg                 20`S       124      90      214      60     154      1932.39 
+  18 FLAGYL 400mg                 20s`       106     150      256     138     118      2759.31 
+4602 FLAGYL ER 600 TAB            10'          0       0        0       0       0         0.00 
+4602 FLAGYL I.V                   100ML        0       0        0       0       0         0.00 
+4602 FLAGYL SUS                   60ML         0       0        0       0       0         0.00 
+4602 FOLLIDERM TAB                10'S         0       0        0       0       0         0.00 
+ 830 FOLLIHAIR AMPM TAB           20`          2       0        2       0       2       630.71 
+4602 FOLLIHAIR TAB                30'          0       0        0       0       0         0.00 
+   7 FORTIUS 10 TAB               10`         69      50      119      44      75      2021.55 
+ 406 FORTIUS 20 TAB               10'          3       0        3       3       0         0.00 
+ 312 FORTIUS GOLD 20 CAP          10          17       0       17       0      17      3075.38 
+4602 GABANEXT 75                  10'S         0       0        0       0       0         0.00 
+4602 GENTICYN 20MG INJ            2ML          0       0        0       0       0         0.00 
+4602 GENTICYN 60MG                1.5ML        0       0        0       0       0         0.00 
+  69 GENTICYN 80MG INJ            2ML        873       0      873     275     598      4324.14 
+4602 GENTICYN E/E DROPS           10ML         0       0        0       0       0         0.00 
+4602 GLEDEPAMET XR 1000 T         7'           0       0        0       0       0         0.00 
+4602 GLUFORMIN 500MG              10'S         0       0        0       0       0         0.00 
+4602 GLUFORMIN 850MG              10'S         0       0        0       0       0         0.00 
+   7 GLUFORMIN G1                 15'S         0      20       20       0      20      2393.16 
+4602 GLUFORMIN G1 FORTE T         15'          0       0        0       0       0         0.00 
+  84 GLUFORMIN G2                 15`         21       0       21       1      20      4133.02 
+ 799 GLUFORMIN G2 FORTE           10'          0       0        0       0       0         0.00 
+4602 GLUFORMIN i 0.5              15'S         0       0        0       0       0         0.00 
+4602 GLUFORMIN i 1                15'S         0       0        0       0       0         0.00 
+  99 GLUFORMIN XL 1000            15'S        17       0       17       2      15       700.41 
+  18 GLUFORMIN XL 500             15'S         1      20       21       4      17       406.81 
+4602 GLUSPAN D TAB                10'S         0       0        0       0       0         0.00 
+  18 GTN SORBITRATE CR2.6         30`S        35      50       85      41      44      9940.39 
+ 384 HAEMACCEL I.V                500ML        4       0        4       2       2       735.97 
+ 231 HANSEPRAN 100                10'S        11       0       11      10       1        30.09 
+ 799 HANSEPRAN 50 CAP             10'          0       0        0       0       0         0.00 
+ 282 HYDENT PRO TOOTH PAS         70Gr         4       0        4       0       4       984.97 
+  49 HYDENT-K                     100GM        8       0        8       2       6       855.10 
+ 560 I-TYZA SB 100 CAP            10'          0       0        0       0       0         0.00 
+
+                                                                                         Page : 4
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+ 283 IVABID 5 TAB                 10`          0       0        0       0       0         0.00 
+4602 KENACORT 4MG                 10'S         0       0        0       0       0         0.00 
+  49 KENACORT NEW 0.1%            7.5g        18       0       18      13       5       613.20 
+  39 KETOMASTER LOTION            100ML       50       0       50       1      49     10246.15 
+  98 LIBRAX TAB                   20`S        14       0       14      14       0         0.00 
+   7 LIBRIUM 10 TAB               2ML         58      70      128      53      75      8695.58 
+  36 LIBRIUM 25 TAB               15`         31       0       31      18      13      2294.98 
+4602 LIMCEE + TAB                 15'          0       0        0       0       0         0.00 
+4602 LIMCEE GUMMIES               30'          0       0        0       0       0         0.00 
+ 859 LINGRETIN 5MG TAB            10           0       0        0       0       0         0.00 
+ 830 LINGRETIN M 2.5/1000 TAB     10           0       0        0       0       0         0.00 
+ 859 LINGRETIN M 2.5/500 TAB      10           0       0        0       0       0         0.00 
+  84 LOBATE GN CREAM              15Gr        10       0       10       0      10       588.63 
+4602 LOFATIN CREAM 30GM           30GM         0       0        0       0       0         0.00 
+4602 LOFATIN CREAM(BIG)           50Gr         0       0        0       0       0         0.00 
+4602 LUNABET CREAM                30Gr         0       0        0       0       0         0.00 
+4602 LUNABET LOTION               15ML         0       0        0       0       0         0.00 
+4602 MALIDENS  500                10'S         0       0        0       0       0         0.00 
+4602 MALIDENS 650 TAB             10'          0       0        0       0       0         0.00 
+4602 MALIDENS DS SYRUP            60ML         0       0        0       0       0         0.00 
+4602 MALIDENS SYRUP               60ML         0       0        0       0       0         0.00 
+4602 MAZETOL 400 TAB              10'          0       0        0       0       0         0.00 
+4602 MELAGARD 50+ LOTION          60ML         0       0        0       0       0         0.00 
+4602 MELAGARD 50ML                50ML         0       0        0       0       0         0.00 
+ 225 MELAGLOW PRIME CREAM         20Gr        23       0       23       1      22      6842.86 
+ 129 MELAGLOW PRIME LOTION        50Gr        36       0       36      13      23      9260.38 
+  39 MELAGLOW RICH CREAM          20GM        66       0       66       1      65     17988.62 
+  98 MELAGLOW(NEW)                15GM         8       0        8       1       7      2227.72 
+ 161 MELALITE FORTE CREAM         30Gr        22       0       22       1      21      2708.63 
+ 256 MINICHEK 5% LOTION           60ML         0       0        0       0       0         0.00 
+ 165 MINICHEK -F ULTRA LOTION     60ML         6       0        6       0       6      3391.27 
+ 165 MINICHEK-F SPRAY             60ML         6       0        6       0       6      3391.27 
+ 282 MONTI-FX                     10`S         3       0        3       0       3       538.21 
+4602 NEBASULF OINT                5Gr          0       0        0       0       0         0.00 
+  69 NEBASULF POWDER              10Gr       131       0      131      92      39      2521.70 
+   7 NEO MERCAZOLE 10MG           120`        17      10       27      13      14      5957.62 
+   7 NEO MERCAZOLE 20MG           120`S        3       7       10       6       4      5546.90 
+   7 NEO MERCAZOLE 5mg            120`S       16      15       31      15      16      3437.95 
+4602 NERVUP ER TAB                10'          0       0        0       0       0         0.00 
+ 252 NERVUP FORTE TAB             10'S         0       0        0       0       0         0.00 
+  99 NERVUP OD CAP                15`         12       0       12       4       8      2367.71 
+  84 NERVUP PG TAB                10           8       0        8       0       8      1948.72 
+4602 NEW NERVUP FORTE TAB         15'          0       0        0       0       0         0.00 
+4602 NIFEDIN 10mg                 10's         0       0        0       0       0         0.00 
+4602 NIFEDIN 5mg                  10's         0       0        0       0       0         0.00 
+4602 NIFEDIN SR 20                10's         0       0        0       0       0         0.00 
+4602 NUPOD 100 DT                 10'S         0       0        0       0       0         0.00 
+4602 NUPOD 200                    10'S         0       0        0       0       0         0.00 
+4602 NUPOD CV 100 DT              6'           0       0        0       0       0         0.00 
+4602 NUPOD CV 200                 6'S          0       0        0       0       0         0.00 
+  69 OTRIVIN FR NASAL DROPS 0.05% 10ML       116       0      116      12     104      9212.53 
+ 536 OZEWID CREAM                 10Gr         0       0        0       0       0         0.00 
+  36 OZEWID LOTION                15ML        14       0       14       0      14      3773.35 
+ 433 OZEWID OINT                  5Gr          0       0        0       0       0         0.00 
+4602 PANBIO COVID TEST KI         4X1'         0       0        0       0       0         0.00 
+4602 PANBIO COVID TEST KI         1'           0       0        0       0       0         0.00 
+  78 PANKREOFLAT                  15`S        10       0       10      10       0         0.00 
+   7 PHENERGAN AMP                2ml         50      50      100      50      50       602.20 
+ 144 PHENOBARBITONE INJ           1ML          0       0        0       0       0         0.00 
+4602 PHENSEDYL BR SYRUP           100ML        0       0        0       0       0         0.00 
+4602 PHENSEDYL BR SYRUP           60ML         0       0        0       0       0         0.00 
+4602 PHENSEDYL CR SYRUP           100ML        0       0        0       0       0         0.00 
+4602 PHENSEDYL LR 100ML           100ML        0       0        0       0       0         0.00 
+4602 PHOSFOMIN XT                 10'S         0       0        0       0       0         0.00 
+
+                                                                                         Page : 5
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+4602 PPG MET 0.2                  10'S         0       0        0       0       0         0.00 
+4602 PPG MET 0.3 TAB              10'          0       0        0       0       0         0.00 
+4602 PPG TRIO 1 TAB               10'          0       0        0       0       0         0.00 
+4602 PPG TRIO 2 FORTE TAB         10'          0       0        0       0       0         0.00 
+4602 PPG TRIO 2 TAB               10'          0       0        0       0       0         0.00 
+4602 PPG TRIO FORTE 1 TAB         10'          0       0        0       0       0         0.00 
+  99 PPG-0.2                      30`S         3       0        3       0       3       584.89 
+ 266 PPG-0.3                      30`S        25       0       25       0      25      5584.24 
+4602 PREGAMET 75 TAB              10'S         0       0        0       0       0         0.00 
+4602 PREGAMET SR                  10'S         0       0        0       0       0         0.00 
+4602 RANOGARD 500MG               10'S         0       0        0       0       0         0.00 
+4602 RAPISONE D SR                5'S          0       0        0       0       0         0.00 
+4602 RAPISONE SR CAP              5''S         0       0        0       0       0         0.00 
+  99 RASHFREE CREAM               30Gr         9       0        9       3       6      1128.33 
+4602 RASHFREE CREAM               20Gr         0       0        0       0       0         0.00 
+  46 RESTECLIN 250 CAP            10`        120       0      120      54      66      1145.56 
+  57 SARIDON TAB                  10         323       0      323     322       1        37.13 
+ 560 SELSUN S SHAMPOO             120ML        0       0        0       0       0         0.00 
+4602 SETGI CAP                    10'S         0       0        0       0       0         0.00 
+4602 SMETO CREAM                  20Gr         0       0        0       0       0         0.00 
+ 283 SORBITRATE 10MG              50s         23       0       23       1      22       634.01 
+  36 SORBITRATE 5MG               50`S        46       0       46      32      14       439.24 
+ 966 STATOR 10 TAB                15'          0       0        0       0       0         0.00 
+4602 STATOR ASP 150               10'S         0       0        0       0       0         0.00 
+  84 STATOR ASP 75                15`S        20       0       20       5      15       895.55 
+ 211 STATOR CV TAB                15           8       0        8       0       8      1124.05 
+  18 STATOR GOLD 10               15`S        14      20       34      18      16      1035.73 
+  18 STATOR-F TAB                 15`          5      10       15       0      15      3660.15 
+  36 STEMITIL AMP                 1ml         70       0       70      50      20       404.68 
+  18 SUGANRIL TAB                 15`s        51     120      171      86      85     11949.13 
+4602 SUPERMET AM                  10'S         0       0        0       0       0         0.00 
+  18 SUPERMET XL 25MG             10`S        10      30       40      25      15       687.02 
+  18 SUPERMET XL 50MG             15`S        19      30       49      13      36      2416.93 
+  28 SUPRADYN TAB                 15`S        48     225      273      89     184      8457.56 
+4602 SUPRARIZE CAP                4'           0       0        0       0       0         0.00 
+ 836 SURBEX CV TAB                15s          0       0        0       0       0         0.00 
+ 623 SURBEX GOLD TAB              10'          0       0        0       0       0         0.00 
+4602 SURBEX NANO SYRUP            1000IU       0       0        0       0       0         0.00 
+4602 SZETALO 10 TAB               10'          0       0        0       0       0         0.00 
+4602 SZETALO LS                   10'S         0       0        0       0       0         0.00 
+4602 SZETALO PLUS                 10'S         0       0        0       0       0         0.00 
+4602 SZETALO PLUS MD              10'S         0       0        0       0       0         0.00 
+4602 TELPRES 20 TAB               15'S         0       0        0       0       0         0.00 
+4602 TELPRES 40MG                 15'S         0       0        0       0       0         0.00 
+4602 TELPRES 80-AM                10'S         0       0        0       0       0         0.00 
+4602 TELPRES AM                   10'S         0       0        0       0       0         0.00 
+  49 TELPRES CT 40/12.5           15`S        60       0       60      13      47      5377.18 
+  18 TELPRES CT 40/6.25           15`S        26      30       56      23      33      2823.98 
+4602 TELPRES H 40                 15'S         0       0        0       0       0         0.00 
+4602 TELPRES H-80/12.5 TA         10'S         0       0        0       0       0         0.00 
+  36 TELPRES LN 40 TAB            10`         66       0       66      42      24      1721.16 
+ 881 TELPRES TRIO TAB             10'          0       0        0       0       0         0.00 
+4602 TENORMIN 25 TAB              14'          0       0        0       0       0         0.00 
+ 890 TERZETTO TAB                 10           0       0        0       0       0         0.00 
+  58 TETMOSOL SOAP                100Gr      140       0      140      67      73      5051.09 
+   9 THYRONORAM 37.5MG            120`S        0      12       12       0      12      1677.06 
+  39 THYRONORAM 88 TAB            120         24       0       24      10      14      2200.62 
+   9 THYRONORM 100MG TAB          120`        76      48      124      67      57      7159.03 
+   9 THYRONORM 12.5 TAB           120`        29      36       65      29      36      5081.51 
+   9 THYRONORM 125MG TAB          120'        27      24       51      10      41      6608.01 
+  39 THYRONORM 150 TAB            120`        40       0       40      30      10      1621.28 
+   9 THYRONORM 25 TAB             120`        62      48      110      46      64      8828.16 
+   9 THYRONORM 50 TAB             120`        48      60      108      33      75      7366.95 
+  39 THYRONORM 62.5               120`S       23       0       23       8      15      2303.01 
+
+                                                                                         Page : 6
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+   9 THYRONORM 75 TAB             120`        25      24       49      29      20      2737.52 
+4602 TIXYLIX-LS                   100ML        0       0        0       0       0         0.00 
+4602 TOOTHMIN                     70GM         0       0        0       0       0         0.00 
+  99 TOSSEX DMR                   100ML       49       0       49      12      37      3839.16 
+4602 TOSSEX XP SYRUP              100ML        0       0        0       0       0         0.00 
+4602 TRESMOX CV                   10'S         0       0        0       0       0         0.00 
+4602 TRESMOX LB D CAP             10'          0       0        0       0       0         0.00 
+ 923 TRIBETROL 1 FORTE            15`          0       0        0       0       0         0.00 
+  18 TRIBETROL 1 TAB              15`        316     100      416      17     399     82093.45 
+ 172 TRIBETROL 2 FORTE TA         15`          1       0        1       0       1       272.07 
+  18 TRIBETROL 2 TAB              15`        198     200      398     181     217     54649.93 
+ 890 TRIBETROL PLUS 1             15           0       0        0       0       0         0.00 
+ 922 TRIBETROL PLUS 2 TAB         15           0       0        0       0       0         0.00 
+ 161 TUFACNE 20                   10`S        44       0       44      44       0         0.00 
+  99 TUFANCE 10 CAP               10           0       0        0       0       0         0.00 
+ 769 TYZA CREAM                   30Gr         6       0        6       0       6       734.45 
+  28 UDILIV 150 TAB               15`         17      10       27       2      25      9486.63 
+  28 UDILIV 300 TAB               15`         23      15       38       9      29     19292.22 
+4602 VALANCE 250MG                10'S         0       0        0       0       0         0.00 
+4602 VALANCE 500MG                10'S         0       0        0       0       0         0.00 
+4602 VALANCE SOLUTION             100ML        0       0        0       0       0         0.00 
+4602 VALIUM 10 TAB                10'          0       0        0       0       0         0.00 
+4602 VALIUM 2 TAB                 10'          0       0        0       0       0         0.00 
+ 200 VALIUM 5 TAB                 10`         64       0       64      10      54       663.39 
+   4 VERTIN 16 TAB                15`          0     100      100       0     100     30202.20 
+   4 VERTIN 8MG TAB               15`         10      20       30       8      22      3606.79 
+   4 VERTIN-24 TAB                15`          0      20       20       0      20      7886.22 
+   3 VITAMIN-A TAB                10`         98     125      223      35     188      1050.17 
+4602 WIN BP CT 20/12.5            10'S         0       0        0       0       0         0.00 
+4602 ZEFORMIN XR 30MG             10'S         0       0        0       0       0         0.00 
+4602 ZEFORMIN XR 60MG             10'S         0       0        0       0       0         0.00 
+4602 ZOBID 4X SOLUTION            30ML         0       0        0       0       0         0.00 
+ 317 ZOLFRESH 10 TAB              15`          0       0        0       0       0         0.00 
+ 210 ZOLFRESH 5 TAB               15`          0       0        0       0       0         0.00 
+4602 ZOMELIS 50 TAB               14'          0       0        0       0       0         0.00 
+4602 ZOMELISMET 50/500 TA         10'          0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :   606196.48 Sale Value    :   296987.34 
+Purchase Value :   328884.72 Closing Value :   638093.86 
+----------------------------------------------------------------------------------------------------
+Company :AB-ORTHO                            
+-----------------
+4602 ACUVIN TAB                   15'S         0       0        0       0       0         0.00 
+4602 CANDID 3D OINT               15Gr         0       0        0       0       0         0.00 
+4602 CONTRAMAL SR 100 TAB         10'          3       0        3       0       3       623.95 
+4602 CONTRAMOL 50 CAP             10's         0       0        0       0       0         0.00 
+ 583 CONTRAMOL DT                 10'S         0       0        0       0       0         0.00 
+4602 DIAMOX 250 TAB               15'          0       0        0       0       0         0.00 
+4602 DIAMOX 250 TAB               15'          0       0        0       0       0         0.00 
+ 899 DOSETIL CREAM                15Gr         0       0        0       0       0         0.00 
+ 198 DURAPAIN TAB                 10`S         5       0        5       5       0         0.00 
+4602 ESGIPYRIN INSTA GEL          50GM         0       0        0       0       0         0.00 
+4602 ETODY 120 TAB                10'          0       0        0       0       0         0.00 
+ 282 ETODY 90MG                   10'S        14       0       14       2      12      2116.42 
+ 402 ETODY-TH TAB                 10'          0       0        0       0       0         0.00 
+4602 EVION DROPS                  15ml         0       0        0       0       0         0.00 
+4602 FEBUSTAT 20 TAB              15'          0       0        0       0       0         0.00 
+   7 FEBUSTAT 40                  15`S        32      20       52      24      28      6805.51 
+4602 FEBUSTAT 60 TAB              15'          0       0        0       0       0         0.00 
+   7 FEBUSTAT 80 TAB              15'          8      10       18       8      10      3793.44 
+ 132 LORSAID INJ                  5ML          0       0        0       0       0         0.00 
+4602 LORSAID OD 16MG              10'S         0       0        0       0       0         0.00 
+4602 LORSAID P4-325MG             10'S         0       0        0       0       0         0.00 
+ 200 LORSAID P8-325MG             10`S         0       0        0       0       0         0.00 
+
+                                                                                         Page : 7
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+ 983 LORSAID SD 8MG               10`S         0       0        0       0       0         0.00 
+4602 MILXIM DRY SYRUP             30ML         0       0        0       0       0         0.00 
+4602 MUCARYL 600MG TAB(BO         10'          0       0        0       0       0         0.00 
+4602 RABATOR 100 TAB              10'          0       0        0       0       0         0.00 
+4602 REJOINT MAX TAB              10'          0       0        0       0       0         0.00 
+   7 REJOINT TAB                  15`         20      12       32       9      23     11344.96 
+ 146 REJOINT UC PLUS TAB          10'         12       0       12       4       8      6739.22 
+  99 REJOINT UC TAB               10`S         7       0        7       3       4      3147.02 
+  99 REJOINT-T CAP                15`         25       0       25       5      20      7700.92 
+  67 ROCALTROL CAP                10`         12       0       12      12       0         0.00 
+4602 ROCKBON D 400 TAB            15'          0       0        0       0       0         0.00 
+   7 ROCKBON KIT                  31           8      10       18       7      11      5090.44 
+4602 ROCKBON TAB                  15'          0       0        0       0       0         0.00 
+4602 SAFEDICLO CAP                10'S         0       0        0       0       0         0.00 
+ 464 SUPRACTIV CAP                15'         11       0       11       0      11      2336.40 
+ 129 SURBEX FE TAB                15'         17       0       17       0      17      5361.04 
+1004 TELLZY CH 40 TAB             15'          0       0        0       0       0         0.00 
+4602 TELLZY MT-50 TAB             15'          0       0        0       0       0         0.00 
+4602 TENORMIN 50 TAB              14'          0       0        0       0       0         0.00 
+  38 THIOSPAS A 4                 15`S        10       0       10       0      10      3017.39 
+4602 VALZ 20 TAB                  10'          0       0        0       0       0         0.00 
+4602 ZUBACEF 500MG                ING          0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :    67430.63 Sale Value    :    28555.24 
+Purchase Value :    19201.30 Closing Value :    58076.70 
+----------------------------------------------------------------------------------------------------
+

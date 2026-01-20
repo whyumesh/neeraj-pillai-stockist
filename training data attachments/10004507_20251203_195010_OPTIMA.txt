@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT GI OPTIMA
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+DEZOFLAV TAB                  18'S     18           23   12     5  1956.73    4770.66      
+DIGENE COLA TAB               12`S                                                         
+DIGENE FIZZ SACH(LEMON)        1'S                                                         
+DIGENE INSTA SACH          5*10 ML    147                10   137  4623.34     357.10      
+DIGENE MF SYP                200ML     16            9    8     8  1000.02    1000.04      
+DIGENE MF TAB                 15`S     42     60    42   39    40   788.34     792.71      
+DIGENE MINT SYP              200ML     38     80   135   40    77 10020.55    5266.03      
+DIGENE MINT SYP 450ML        450ML                                                         
+DIGENE MINT TAB               15`S     60    390   458  118   285  5616.92    2348.76      
+DIGENE ORANGE GEL SACH     5*10 ML                                                         
+DIGENE ORG SYP               200ML     40            5   12    27  3513.70    1572.65      
+DIGENE ORG TAB                15'S     16     60    30   17    48   949.42     338.88      
+DIGENE S/F  GEL              170ML                                                         
+DIGENE TOTAL                  10'S                                                         
+DIGENE ULTRA FIZZ SACH     6.25 GM                                                         
+DIGENE(AST) TAB               15'S                                                         
+DIGENE-S/F TAB                 6'S                                                         
+DIRIFA 200MG                  10'S                                                         
+DIRIFA 400MG                  10'S                                                         
+DUPHALAC BULK                160ML      6     20     9    7    19  6013.33    2210.46      
+DUPHALAC ENEMA              275 ML      8                       8  2195.42                 
+DUPHALAC SYP 150 ML          150ML    335    200   190  241   290 41107.50   34606.50      
+DUPHALAC SYP 250 ML          250ML            40    44   22    18  4252.50    5216.25      
+DUPHALAC SYP 450ML           450ML     19     20    19   25    14  5953.50   10692.00      
+ELDICET TAB                   15's      7            2    4     3  1204.75    1623.35      
+FIDONAL CREAM                 30GM     71           67   52    16  3742.03   12332.43      
+GANATON 50 TAB                10'S     10     50    34   47    13  1954.82    7141.31      
+GANATON OD CAP                10'S     33          -17   11    22  7431.84    3388.31      
+GANATON TOTAL                 10'S     11     30    20   28    13  4716.35   10205.98      
+-------------------------------------------------------------------------------------------
+                                                             1043 107041.0  103863.42      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:114027.38     Sales Val - Prv.Mth: 113895.81  Cur.Mth.Sal:  109056.59  Stk.Val:91643.10      Pur.Val:89453.29     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  109056.59      Stock Value:107041.05                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

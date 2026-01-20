@@ -1,0 +1,46 @@
+Page # 1
+C.D. ASSOCIATES
+
+1/3,VINAYDEEP APPARTMENTS, BHUBANESWAR -DL.No : 20B-KH-7424W, 21B-KH-7425WC
+GSTIN : 21AAPFC0564N1ZB
+
+ITEM ORDER AS ON 10-01-2026
+
+MFG. : AI
+-------------------------------------------------------------------------------------
+ITEM NAME                  UOM  QUANTITY   ITEM NAME                   UOM  QUANTITY
+-------------------------------------------------------------------------------------
+CREMADIET + 100G             100GM    10  CREMAFFIN PLUS                225ML   240                                                             
+CREMAGEL L 30GM              30gm     20  DIGENE GEL(M)450ML            450ML    16                                                             
+DIGENE GEL(OR)200ML          200ML    40  DIGERAFT PLUS SUSP 200ML      200ml    20                                                             
+DIGERAFT SUSP 200ML          200ml    20  EVITOL CAP 15'S               15TAB    30                                                             
+LIBRAX TAB 20'S              20'S     50  LINORAMA T3 5MCG TAB          100s     10                                                             
+NOVELON TAB                  21's     50  PANKREOFLAT LIQ               100ML    40                                                             
+PANKREOFLAT TAB              15TAB    70  VIADEK TAB 30'S               30TAB    20                                                             
+VONEFI 20                    10TAB    10  COLOSPA 135 15'S              15TAB    10                                                             
+COLOSPA X 15'S               20's     30  CREMAPEG KIT                  200ML    10                                                             
+DIGERAFT XT SUSP             200ml    10  UDILIV TAB 150MG              15'S     30                                                             
+UDILIV TAB 300MG             15'S    120  UDILIV TAB 450MG              10'S     60                                                             
+UDILIV TAB 600MG             10'S     20  UDISTRONG SACHETS             1SAC     50                                                             
+EPTOIN ER 300MG              30'S     20  EPTOIN TAB                    120'S   144                                                             
+INDERAL 20 15'S              15TAB    80  INDERAL LA 20 15S             15S      20                                                             
+INDERAL LA 40                15'S     50  PROTHIADEN 25MG 15'S          15TAB    60                                                             
+PROTHIADEN M 50 15'S         15TAB    30  VERTIN 16 15'S                15TAB   200                                                             
+VERTIN 8 15S                 15TAB    50  VERTIN OD 24                  15'S     20                                                             
+VERTIN OD 48                 15'S     10  HYTRIN 1MG TABLET             10'S      5                                                             
+HYTRIN 2MG TABLET            10'S     10  SURBEX GOLD                   15'S     10                                                             
+THYRONORM 100                120'S    20  THYRONORM 12.5 120'S          120'S    50                                                             
+THYRONORM 125 120'S BOTT     120'S    40  THYRONORM 25                  120'S    40                                                             
+THYRONORM 37.5               1'S      20  THYRONORM 62.5 120'S          120'S    30                                                             
+THYRONORM 75MCG              120'S    40  ANTOXIPAN DS                  6GM      20                                                             
+CREON 10000 15'S             15TAB    20  CREON 40000 CAP               10'S     10                                                             
+ARACHITOL INJ 6L             6*1ML    90  BRUFEN 600MG TAB 15'S         15'S     30                                                             
+DUVADILAN 10MG               50'S     10  DUVADILAN RETARD CAP          10'S     20                                                             
+DUVADILIN INJ                6*2ML    20  ROWASA IGM                    1GM     100                                                             
+ZOLFRESH 10MG                15'S     50  DUPHALAC 150ML                150ml   100                                                             
+DUPHALAC 250ML               250ml   100  DUPHALAC 450ML                450ML    20                                                             
+GANATON 50MG                 10'S     50  GANATON OD                    10'S     40                                                             
+ESTRABET 2MG TAB             28'S     10  FEMILON TAB                   21's     30                                                             
+
+-------------------------------------------------------------------------------------
+ 

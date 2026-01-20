@@ -1,0 +1,29 @@
+
+                                        Page # 1
+JYOTI AGENCIES
+
+BANKA BAZAR,CUTTACK,753002
+DL.No : CU-V-26357/W CU-V-26358/WC 10508/WX
+GSTIN : 21AABFJ0148D1Z7
+
+MFG : NICHOLAS ACTIS-MB                    20-12-2025
+-----------------------------------------------------
+ITEM NAME                     U.O.M.  QUANTITY
+-----------------------------------------------------
+ELOCON CREAM                   10GM        10            
+ELOCON LOTION                  10ml        15            
+EPILEX CR 500                  15TAB       60            
+FACECLIN TUBE                  20GM        20            
+FEBUSTAT 80MG TAB.             15TAB       10            
+LEVESAM 500                    15TAB       30            
+NERVUP OD CAP                  15TAB       20            
+PPG 0.3                        30TAB       20            
+SORBITRATE 5 MG                50TAB       60            
+UVOX 50                        10TAB       30            
+VALANCE SOLN                   100ML       10            
+VALANCE SOLN 500               200ML       10            
+
+-----------------------------------------------------
+TOTAL QNT :                               295
+EST.  VAL :                             49082
+  

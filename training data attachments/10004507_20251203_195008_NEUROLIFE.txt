@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT NEUROLIFE
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+ACUVERT TAB                    9'S                                                         
+BRIVETOIN 100MG TAB           10'S                                                         
+BRIVETOIN 25MG TAB            10'S                                                         
+BRIVETOIN 50MG TAB            10'S                                                         
+BRIVETOIN 75MG TAB            10'S                                                         
+EPISHIELD CAPS                10'S                                                         
+EPTOIN 100MG TAB             120'S     73    144   114   68   149 24193.12   11178.61      
+EPTOIN 50MG TAB              150'S      9            4   -1    10   962.77     -94.75      
+EPTOIN ER 300 TAB             30'S      3           18    3                    458.49      
+EPTOIN INJ 2ML                 2ML     46    150   140   61   135  1234.64     579.71      
+EPTOIN SYP                   200ML     42           11   11    31  1668.84     606.16      
+INDERAL 10MG  TAB             15'S    411    520   767  548   383  5774.87    8405.17      
+INDERAL 20MG TAB              15`S    121    200    87  150   171  6302.21    5587.53      
+INDERAL 40MG  TAB             10'S     41    160    90   51   150  5567.63    1911.36      
+INDERAL F10 TAB               10'S            50         15    35  3374.39    1453.79      
+INDERAL F5 TAB                10'S     47            3    2    45  2951.71     138.82      
+INDERAL LA 20MG TAB           15'S     13    100    69   25    88  3243.24     932.88      
+INDERAL LA 40MG TAB           15`S     35     40    51   35    43  1594.16    1307.63      
+LACOXA 100MG TAB              10'S                                                         
+LACOXA 50MG TAB               10'S                                                         
+PROTHIADEN 25MG TAB           15'S     51     60    81   73    38  5522.16   10749.22      
+PROTHIADEN 50MG TAB           15's     23            9    8    15  3902.85    2144.82      
+PROTHIADEN 75MG               15`S     41           14    9    32  9637.87    2503.13      
+PROTHIADEN M 50MG TAB         15'S     24            6    7    17  4000.72    1656.12      
+PROTHIADEN M 75MG TAB         15'S      8            3    4     4  1151.64    1163.80      
+PROTHIADEN NEU TAB            10`S     23            5    3    20  4454.94     669.42      
+SNAPIT 2S TAB                  2`S     28           36    4    24  2491.27     423.98      
+SURBEX STAR CAPS              10'S     50                 4    46  9392.42     808.10      
+VERTIN 16MG TAB               15`S    138    250   148  247   141 37465.53   66325.19      
+VERTIN 24 OD TAB              15`S     36     30    59   26    40 18063.78   11765.41      
+VERTIN 24MG TAB               15`S     38     30    34   19    49 18697.96    7385.50      
+VERTIN 8MG TAB                15`S    164    210   164  213   161 23220.71   30875.03      
+VERTIN DT 16MG                15'S      6     10     1    3    13  3381.82     736.19      
+VERTIN DT 24 MG               15'S                                                         
+VERTIN DT 8 MG                10'S                                                         
+VERTIN MDS 24MG               10'S                                                         
+VERTIN OD 48                   7'S      3     10               13  8811.18                 
+ZOLFRESH ODT 10MG TAB         15`S                                                         
+ZOLFRESH ODT 5MG TAB          15`S                                                         
+-------------------------------------------------------------------------------------------
+                                                             1853 207062.4  169671.29      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:179006.28     Sales Val - Prv.Mth: 184149.70  Cur.Mth.Sal:  178154.86  Stk.Val:197202.29     Pur.Val:195905.3     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  178154.86      Stock Value:207062.41                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

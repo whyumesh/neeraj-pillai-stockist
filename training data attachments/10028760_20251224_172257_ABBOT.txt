@@ -1,0 +1,157 @@
+CH
+WS.N.DRUG DISTRIBUTOR                    W0
+ANCHALI ROAD,PATHSALA,BARPETA,ASSAM     
+WABBOTT LAB GUWAHATI           W0
+               SALES STOCK STATMENT FROM 01/12/2025 TO 24/12/2025
+--------------------------------------------------------------------------------
+PRODUCT NAME         PACK   OPENING  PURCHASE  OTHER   TOTAL    SALE      FREE       SALE    OTHER  CLOSING   CLOSING   RE    DUMP  NEAR
+                              QTY.     QTY.     QTY.    QTY.     QTY.      QTY.       AMT     QTY     QTY      AMT     ORDER   QTY.  EXP.
+--------------------------------------------------------------------------------
+ACITROM 1MG TAB      30'S       23       0       0      23.00      22       0     5238.18       0       1     251.69      -1            
+ACITROM 2MG TAB      30'S       15       0       0      15.00      14       0     5203.58       0       1     394.21      43            
+ACITROM 3MG TAB      30'S       11       0       0      11.00       9       0     4231.00       0       2     915.80      26     1      
+ACITROM 4MG TAB      30'S       11       0       0      11.00       4       0     1999.05       0       7    3761.66      11     7      
+AMICOLON 15 TAB      6'S         0       0       0       0.00       0       0        0.00       0       0       0.00       8            
+AMLUCK CREAM         30GM        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+AQUAVIRON CAP        10'S        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+AQUAVIRON INJ        1ML        36       0       0      36.00       0       0        0.00       0      36    6050.88     -36    12      
+ASCAPIL 12 A TAB     1'S         0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+BECOMAX C FORT TAB   15'S        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+BECOZYME C FORT TAB  15'S        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+BETONIN AST 400ML SY 400ML      77       0       0      77.00      36       1    10004.20       0      40   11828.80     -40     3      
+BETONIN AST SYP      200ML      56       0       0      56.00      42       0     7418.37       0      14    2646.98      58            
+BETONIN KIDS GRUNIES 30GM        0       0       0       0.00       0       0        0.00       0       0       0.00      84            
+BILAZEST 20 TAB      10'S       10       0       0      10.00       3       0      433.26       0       7    1087.03      -7     7      
+BILAZEST M KID SYP   10'S        0       0       0       0.00       0       0        0.00       0       0       0.00       6            
+BILAZEST M TAB       10'S       16       0       0      16.00       5       0      768.27       0      11    1817.42     -11            
+BRUFEN 200MG TAB     15'S        0       0       0       0.00       0       0        0.00       0       0       0.00      10            
+BRUFEN 400MG TAB     15'S        7       0       0       7.00       5       0       95.01       0       2      39.02      -2     2      
+CANDYCOP T/P         70GM      121       0       0     121.00      92       0    11407.43       0      29    3794.65     -19            
+CLARIBID 250MG TAB   10'S       12       0       0      12.00       0       0        0.00       0      12    2349.84     172    12      
+CLARIBID 500MG TAB   10'S       87       0       0      87.00      10       0     3099.74       0      77   24966.48     -77    77      
+CLARIBID GRANULES    1PC         0       0       0       0.00       0       0        0.00       0       0       0.00      20            
+CLARIBID OD 500 TAB  7'S         7       0       0       7.00       0       0        0.00       0       0       0.00       0            
+CONTRAMAL 50MG CAP   10'S        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+CONTRAMOL 50MG INJ   1ML         0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+DELETUS-D SYP        100ML     314       0       0     314.00     245      22    27750.94       0      47    5648.93     -47            
+DELITUS P SYP        100ML       5       0       0       5.00       3       0      369.57       0       2     246.38     488     2      
+DIPSALIC F OINT      20GM       19       0       0      19.00      18       0     2437.69       0       1     142.14       5     1      
+ENACE D 10MG TAB     30'S        0       0       0       0.00       0       0        0.00       0       0       0.00      36            
+EPILEX CHRONO 200 TA 10'S       11       0       0      11.00       2       0      216.16       0       9     990.54      -9     9      
+EPILEX CHRONO 300 TA 10S         8       0       0       8.00       5       0      346.24       0       3     223.38       1     3      
+EPILEX CHRONO 500 TA 10'S       11       0       0      11.00       0       0        0.00       0      11    1246.08      -1    11      
+EPTOIN ER 300 TAB    30'S       31       0       0      31.00       5       0      795.82       0      26    4168.32     -26            
+EPTOIN TAB           100'S      20       0       0      20.00      10       0     1683.20       0      10    1718.60       0            
+ESGIPYRIN  TAB       10'S      114       0       0     114.00      10       1     1093.36       0     103   11468.02     -83    12    12
+ESGIPYRIN INSTA GEL  50GM        0       0       0       0.00       0       0        0.00       0       0       0.00      20            
+ESOGA RD CAP         10'S       16       0       0      16.00       0       0        0.00       0      16    1942.88     -16    16      
+ESSENTIALE L 1GM     10'S        9       0       0       9.00       9       0     2629.50       0       0       0.00       0            
+FAMTAC 40MG TAB      20'S      734       0       0     734.00     402       0    11085.30       0     332   10109.40    -314            
+FEBUSTAT 40 TAB      10'S       30       0       0      30.00      19       0     4648.02       0      11    2829.31     793     3      
+FLAGYL 200MG TAB     10'S       60       0       0      60.00       0       0        0.00       0      60     796.80     -22            
+FLAGYL 400MG TAB     15'S      208       0       0     208.00      29       0      685.10       0     179    4428.46    -179    29      
+FLAGYL GEL           20GM       10       0       0      10.00       3       0      188.10       0       7     462.00      51     7      
+FLAGYL SYP           60ML       84       0       0      84.00       0       0        0.00       0      84    2115.12     -78     4      
+GAROIN TAB           10'S       34       0       0      34.00       7       0     1005.48       0      27    4082.40     -27    27      
+GENTICYN EYE DROP    5ML         0       0       0       0.00       0       0        0.00       0       0       0.00      14            
+WS.N.DRUG DISTRIBUTOR                    W0
+ANCHALI ROAD,PATHSALA,BARPETA,ASSAM     
+WABBOTT LAB GUWAHATI           W0
+               SALES STOCK STATMENT FROM 01/12/2025 TO 24/12/2025
+--------------------------------------------------------------------------------
+PRODUCT NAME         PACK   OPENING  PURCHASE  OTHER   TOTAL    SALE      FREE       SALE    OTHER  CLOSING   CLOSING   RE    DUMP  NEAR
+                              QTY.     QTY.     QTY.    QTY.     QTY.      QTY.       AMT     QTY     QTY      AMT     ORDER   QTY.  EXP.
+--------------------------------------------------------------------------------
+GTN SORBITRATE CR 2. 30'S       63       0       0      63.00      48       0    10800.65       0      15    3596.70     -15            
+GTN SORBITRATE CR 6. 30'S        0       0       0       0.00       0       0        0.00       0       0       0.00      96            
+GUMLOC OINT          10ML        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+HYDENT K T/P         100GM     160       0       0     160.00      41       0     5871.35       0     119   17946.39    -119            
+HYDENT M/W           100ML      30       0       0      30.00       0       0        0.00       0      30    4027.20      52    30      
+HYDENT PRO T/P       70GM        9       0       0       9.00       6       0      873.58       0       3     398.64      -3     3     3
+ISMO RETARD TAB      7'S         0       0       0       0.00       0       0        0.00       0       0       0.00      12            
+JANUMAT 50/500 TAB   20'S       20       0       0      20.00       6       0     3064.33       0      14    7500.08     -14            
+JANUMET 50/1000 TAB  20'S       14       0       0      14.00       1       0      532.00       0      13    7057.18      -1     3      
+JANUVIA 100 TAB      7'S        16       0       0      16.00       0       0        0.00       0      16    3371.36     -14    16      
+JANUVIA 50 TAB       7'S        11       0       0      11.00       2       0      406.41       0       9    1864.26      -9     9      
+KENACORT 40MG VAIL   1ML       300       0       0     300.00     196       8    30160.59       0      96   15510.72     -92            
+KENACORT 4MG TAB     10'S        0       0       0       0.00       0       0        0.00       0       0       0.00     392            
+KENACORT OINT        5GM       140       0       0     140.00      80       0     9871.85       0      60    7787.40     -60            
+KIDPRED SYP          60ML       49       0       0      49.00      45       0     1010.86       0       4      95.68     156     4      
+LIBRIUM 10MG TAB     10'S       19       0       1      20.00      20       0     2351.96       0       0       0.00      90            
+LIMCEE TAB           15'S     1429       0       0    1429.00    1405       0    24998.53       0      24     451.20      16            
+LOBAT GN OINT        15GM        5       0       0       5.00       2       0      122.34       0       3     186.87    2807     3      
+LOBAT S OINT         30GM        0       0       0       0.00       0       0        0.00       0       0       0.00       4            
+LOBATE OINT          30GM        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+LUNABET LOTION       15ML        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+MELALITE 15 CREAM    30GM        6       0       0       6.00       4       0      612.65       0       2     296.28      -2     2      
+MONTI FX TAB         10'S       10       0       0      10.00       6       0     1196.54       0       4     835.28       4            
+NEFOSAR 30MG TAB     10'S        0       0       0       0.00       0       0        0.00       0       0       0.00      12            
+NEO MERCAZOLE 10MG T 100'S      37       0       0      37.00      30       0    12658.49       0       7    3152.24      -7            
+NEO MERCAZOLE 5MG TA 100'S      41       0       0      41.00      27       0     5898.19       0      14    3238.90      46            
+ORAHEX PLUS LIQ      100ML       0       0       0       0.00       0       0        0.00       0       0       0.00      54            
+ORAHEX PLUS SYP      100ML       0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+OZEWID LOTION        15ML        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+PHENERGAN INJ        2ML         0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+PHENSDYL LR SYP      100ML       0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+PHENSEDYL CR SYP     100ML       0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+PHENSEDYL SYP        100ML       0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+QUADIDERM OINT       10GM        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+QUADRIDREM CREAM     5GM        75       0       0      75.00      53      10     3198.34       0      12     762.84     -12            
+ROVAMYCIN FORT TAB   10'S        0       0       0       0.00       0       0        0.00       0       0       0.00     106            
+SECNIL FORT TAB      2'S         0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+SELSUN DAILY SHAMPOO 60ML        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+SELSUN SAMPO         30ML        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+SELSUN SAMPO         120ML      11       0       0      11.00      10       0     3124.48       0       1     331.44      -1            
+SERVIL JUNIOR        60ML        0       0       0       0.00       0       0        0.00       0       0       0.00      20            
+SORBITRATE 10MG TAB  50S        29       0       0      29.00       1       0       31.71       0      28     918.40     -28     2      
+SORBITRATE 5MG TAB   50'S       24       0       0      24.00      10       0      311.75       0      14     464.80     -12            
+STATOR 10 TAB        10'S        6       0       0       6.00       5       0      277.33       0       1      59.64      19     1      
+STATOR 20 TAB        15'S       25       0       0      25.00       0       0        0.00       0      25    3767.25     -15    25    25
+STATOR 40 TAB        15'S       20       0       0      20.00       0       0        0.00       0      20    4711.60     -20            
+STIMITIL INJ         12*1M      24       0       0      24.00      18       0     3558.70       0       6    1284.72      -6     1      
+WS.N.DRUG DISTRIBUTOR                    W0
+ANCHALI ROAD,PATHSALA,BARPETA,ASSAM     
+WABBOTT LAB GUWAHATI           W0
+               SALES STOCK STATMENT FROM 01/12/2025 TO 24/12/2025
+--------------------------------------------------------------------------------
+PRODUCT NAME         PACK   OPENING  PURCHASE  OTHER   TOTAL    SALE      FREE       SALE    OTHER  CLOSING   CLOSING   RE    DUMP  NEAR
+                              QTY.     QTY.     QTY.    QTY.     QTY.      QTY.       AMT     QTY     QTY      AMT     ORDER   QTY.  EXP.
+--------------------------------------------------------------------------------
+STIMITIL MD TAB      10'S      428       0       0     428.00     354       0    45163.67       0      74   10041.80     -38            
+SUGARNIL TAB         15'S        0       0       0       0.00       0       0        0.00       0       0       0.00     708            
+SUPRA PLUS TAB       15'S       10       0       0      10.00      10       0      463.42       0       0       0.00       0            
+SUPRA RIZE TAB       10'S        0       0       0       0.00       0       0        0.00       0       0       0.00      20            
+SURBEX XT TAB        15'S       23       0       0      23.00       0       0        0.00       0      23    2863.50     -23    23    23
+TELPRES 20 TAB       10'S       26       0       0      26.00       0       0        0.00       0      26    1231.10     -26    26     6
+TELPRES 40 TAB       10'S       14       0       0      14.00      12       0      964.66       0       2     165.04      -2            
+TELPRES AM TAB       10'S       20       0       0      20.00       5       0     1337.33       0      15    4141.20       9            
+TELPRES H 40 TAB     10'S        0       0       0       0.00       0       0        0.00       0       0       0.00      10            
+THYRONORM 100 TAB    100'S      28       0       0      28.00      12       0     1531.44       0      16    2058.40     -16     4      
+THYRONORM 12.5 TAB   10'S       15       0       0      15.00      10       0     1424.89       0       5     722.85      19            
+THYRONORM 150 TAB    10'S        6       7       0      13.00       0       0        0.00       0      13    2158.78       7     6      
+THYRONORM 25 TAB     100'S      28      12       0      40.00      29       0     4039.60       0      11    1553.97     -11            
+THYRONORM 37.5 TAB   10'S        0       5       0       5.00       0       0        0.00       0       5     715.75      53            
+THYRONORM 50 TAB     100'S      27      24       0      51.00      34       0     3369.04       0      17    1710.37     -17            
+THYRONORM 75 TAB     100'S      16       0       0      16.00      13       0     1801.86       0       3     420.60      65            
+THYRONORM 88 TAB     100'S       0       3       0       3.00       1       0      158.09       0       2     321.98      24            
+TIXYLIX COUGH SYP    60ML      320       0       0     320.00     152       0    12671.99       0     168   14852.88    -166   168      
+TIXYLIX LS SYP       60ML        0       0       0       0.00       0       0        0.00       0       0       0.00     304            
+TOOTHMIN T/PAST      70GM       10       0       0      10.00      10       0     2246.40       0       0       0.00       0            
+TOSSEX SYP           100ML       0       0       0       0.00       0       0        0.00       0       0       0.00      20            
+TYZA CREAM           15GM        0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+TYZA TAB             7'S         0       0       0       0.00       0       0        0.00       0       0       0.00       0            
+VERTIN 16 TAB        10'S       16      10       0      26.00       9       0     2477.93       0      17    4780.40     -17            
+ZOLFRESH 10MG TAB    15'S       10       0       0      10.00       0       0        0.00       0      10    1038.90       8            
+ZOLFRESH 5 TAB       15'S       10       0       0      10.00       8       0      575.32       0       2     151.60      -2            
+================================================================================
+TOTAL        520052.77                      303990.84       251069.41
+================================================================================
+TOTAL DUMP STOCK VALUE            :    84261.66     TOTAL NEAR EXPIRY ITEM VALUE      :     8649.57
+TOTAL GOODS RETURNS FROM CUSTOMER :      161.03     TOTAL TRANSECTED CUSTOMER         :        433
+TOTAL SALE OF PERIOD     :   303990.84   TOTAL CUMULATIVE SALE   :  2688644.93
+TOTAL PURCHASE OF PERIOD :      8708.0   TOTAL CUMUL.PURCHASE    :   2931300.17
+TOTAL CLOSING STOCK      :   251069.41
+M-XPURCHASE INVOICE DETAIL-0P
+Purchase INV.8722(02/12/2025) INV.7365(09/12/2025) INV.9247(23/12/2025)                                                           
+                                                                                                                                  
+                                                                                                                                  

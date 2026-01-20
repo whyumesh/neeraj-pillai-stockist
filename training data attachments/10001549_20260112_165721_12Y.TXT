@@ -1,0 +1,29 @@
+HOSUR SENTHIL PHARMA DISTRIBUTORS
+
+Stock report as on 31/12/2025 for M/s. ABBOTT INDIA LTD (CONS CARE)
+
+Product Name;Packing;Opening;Purchase;Sales;C.Stock;Expiry;Pr.Sale;
+
+CREMAFFIN FRESH TAB      ;   10'S;           ;           ;           ;           ;12-2026;           ;
+DIGENE FIZZ KACCHA SAC   ;    5GM;           ;           ;           ;           ;12-2026;           ;
+DIGENE FIZZ LEMON SACHET ;    1'S;           ;           ;           ;           ;12-2026;           ;
+DIGENE FIZZ ORANGE SACHET;    1'S;           ;           ;           ;           ;12-2026;           ;
+DIGENE GEL (M.F.)        ;  200ML;         33;           ;          2;         31; 1-2027;          3;
+DIGENE GEL (MINT)        ;  200ML;         38;           ;         31;          7; 7-2027;         42;
+DIGENE GEL (ORANGE)      ;  200ML;          9;           ;          2;          7; 3-2027;          2;
+DIGENE GEL MINT          ;  450ML;           ;           ;           ;           ; 3-2027;           ;
+DIGENE GEL ORANGE        ;  450ML;           ;           ;           ;           ; 3-2027;           ;
+DIGENE GEL STRAWBERRY    ;  200ML;           ;           ;           ;           ; 3-2027;           ;
+DIGENE PUDINA PEARLS     ;   10'S;           ;           ;           ;           ; 3-2027;           ;
+DIGENE TAB (MF)          ;   15'S;         20;        120;         30;        110; 8-2028;         60;
+DIGENE TAB (MINT) (90)   ;   15'S;        164;        240;        270;        134;10-2028;        335;
+DIGENE TAB (O) (90)PLAST ;   15'S;         67;         90;         44;        113; 6-2028;         61;
+DUPHALAC PED SYP         ;   60ML;           ;           ;           ;           ; 6-2028;           ;
+DUPHALAC SYP             ;  150ML;        104;         50;        116;         38;10-2027;        139;
+DUPHALAC SYP             ;  250ML;         52;           ;         28;         24; 7-2027;         17;
+DUPHALAC SYP             ;  450ML;         18;         40;         36;         22; 8-2027;         25;
+GANATON "OD"(150MG)      ;   10'S;           ;           ;           ;           ; 8-2027;           ;
+GANATON "TOTAL TAB"      ;   10'S;         27;           ;         27;           ; 8-2027;         18;
+GANATON 50MG TAB         ;   10'S;         22;           ;         22;           ; 8-2027;         26;
+
+Total :                  ;       ;           ;           ;   65448.27;   34117.55;       ;   61413.97;

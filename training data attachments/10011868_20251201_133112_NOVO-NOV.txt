@@ -1,0 +1,41 @@
+ES K Y L A B                             F
+EJARAKA,JAJPUR-755050 ODISHA GST:21BJOPS7623F1Z2                                 F
+E STOCK REPORT  FROM DATE:01-11-2025 TO 30-11-2025F Pg:1                        
+--------------------------------------------------------------------------------
+SNO ITEM DESCRIPTION PACK        OB    PUR     FR    SAL    FR     CB     RATE    VALUE
+--------------------------------------------------------------------------------
+COMPANY NAME:NOVO NORDISK INDIA PVT LTD.  CODE: NVN                           
+---------------------------------------
+1   ACTRAPID FLEXPEN  3ML         0      0     0      0     0      0    461.31     0.00
+2   ACTRAPID HM PENFIL5X3ML       0      0     0      0     0      0   1562.49     0.00
+3   FIASP FLEXTOUCH   3ML         7      0     0      0     0      7   3702.95 25920.65
+4   FIASP PENFIL      5X3ML       5      0     0      0     0      5   2998.36 14991.80
+5   HUMAN ACTRAPID 40 1VAIL     307    400     0    715     0     -8    133.50 -1068.00
+6   HUMAN INSULATARD 41 VAIL     28      0     0      2     0     26    133.50  3471.00
+7   HUMAN MIXTARD 100 10 ML     121     60     0     99     0     82    401.64 32934.48
+8   HUMAN MIXTARD 50 I10ML       58     60     0     92     0     26    215.13  5593.38
+9   HUMAN MIXTRD 40 IN1VAIL     681    800     0   1410     0     71    133.50  9478.50
+10  MIXTARD 30 FLEXPEN3ML         0      0     0      0     0      0    461.31     0.00
+11  MIXTARD 30 HM PENF5X3ML       1      0     0      0     0      1   1562.49  1562.49
+12  MIXTARD 50HM PENFI5X3ML       2      0     0      1     0      1   1562.49  1562.49
+13  NOVOFINE 32G 4MM  100PCS      2      0     0      2     0      0   1335.09     0.00
+14  NOVOFINE NDLS-31G 1,S         0      0     0      0     0      0   1213.72     0.00
+15  NOVOMIX 30 FLEXPEN3 ML        7      0     0      4     0      3    852.27  2556.81
+16  NOVOMIX 30 PENFILL5X1 PE      8      7     0     11     0      4   3575.60 14302.40
+17  NOVOMIX 50 FLEXPEN1VIAL      13      0     0      3     0     10    881.65  8816.50
+18  NOVOMIX 50 PENFILL5X1AMP      3      0     0      0     0      3   3575.60 10726.80
+19  NOVOPEN 4         4S          0      0     0      1     0     -1    963.65  -963.65
+20  NOVORAPID FLEXPEN 3 ML        8     25     0     10     0     23    852.27 19602.21
+21  NOVORAPID PENFILL 5X1 PE      3      3     0      5     0      1   3448.25  3448.25
+22  RYBELSUS 14MG TAB 10S         3      3     0      6     0      0   2670.30     0.00
+23  RYBELSUS 3MG TAB  10S         4      0     0      0     0      4   2187.30  8749.20
+24  RYBELSUS 7MG TAB  10S         2      0     0      0     0      2   2428.80  4857.60
+25  RYZODEG FLEXTOUCH 1X3ML       5      6     0     11     0      0   1173.92     0.00
+26  RYZODEG PENFIL    5X3ML       8      6     0     10     0      4   4558.05 18232.20
+27  TRESIBA FLEXTOUCH 3ML         3      0     0      2     0      1   1429.31  1429.31
+28  TRESIBA PENFIL    5X3ML       3      0     0      2     0      1   5299.20  5299.20
+--------------------------------------------------------------------------------
+          TOTAL VAL.    403041.16   296289.62   507827.16            191503.62
+          RETURNED VALUE:                0.00        0.00    CB-GST    9575.18
+          G S T  :           0.00    14769.92    26742.34 -11972.42  201078.80
+--------------------------------------------------------------------------------

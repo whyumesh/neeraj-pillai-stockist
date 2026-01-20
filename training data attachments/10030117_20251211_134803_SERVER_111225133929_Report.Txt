@@ -1,0 +1,47 @@
+CHM
+          PURUSHOTHAM MEDICAL AGENCIES
+E                                    Stock & Sales StatementF
+From 01/11/2025 To 30/11/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT(DIABETS)      
+------------------------
+GLEDEPA MET 5/1000MG         10S          0       0        0       0       0         0.00 1583 
+GLEDEPA MET XR500            7S           0       0        0       0       0         0.00 1595 
+GLUFORMIN 500 MG             10S         40       0       40      16      24       341.46   42 
+GLUFORMIN G 0.5 MG           10S          0       0        0       0       0         0.00 1545 
+GLUFORMIN G1 FORTE           10S          0       0        0       0       0         0.00 1750 
+GLUFORMIN G1 TAB             15S         20      20       40      22      18      2369.12   25 
+GLUFORMIN G2 FORTE           10S          0       0        0       0       0         0.00 1302 
+GLUFORMIN G2 TAB             15S         22       0       22       0      22      4546.08  116 
+GLUFORMIN I 0.5 MG           10S          0       0        0       0       0         0.00 2092 
+GLUFORMIN I 1 MG             10S          0       0        0       0       0         0.00 2159 
+GLUFORMIN XL 1000 MG         15S         12       0       12       0      12       550.75  139 
+GLUFORMIN XL 500 MG          15S         22      40       62      29      33       789.67   25 
+GLUJECT 10                   15s          0       0        0       0       0         0.00 1321 
+JANUMET  50/500 MG           15S         27      60       87      49      38      9618.89   21 
+JANUMET 50/1000MG            15S         33      20       53      33      20      5129.99   21 
+JANUMET XR COPAK             7S          21       0       21       0      21      2266.92   76 
+JANUVIA 100 MG               7S          42       0       42       4      38      7486.99   76 
+JANUVIA 50 MG                7S          33       0       33      10      23      4502.28  155 
+LVEFFECT 10 MG               15s          0       0        0       0       0         0.00 1069 
+NEOMERCAZOLE 10MG            130S        35      10       45      30      15      6383.16   25 
+NEOMERCAZOLE 5MG             130S        23       0       23       9      14      2999.47   74 
+NEOMERCZOLE 20MG             130S         1       2        3       1       2      2773.45   25 
+NERVUP FORTE TAB             15S         16       0       16      12       4       648.97   65 
+NERVUP ING                   1            0       0        0       0       0         0.00 1725 
+NERVUP OD CAP                15S         25       0       25       2      23      6671.22   74 
+NERVUP PG CAPS               10S         12       0       12       0      12      2852.21   74 
+PPG TRIO 2 FORTE TAB         10S          0       0        0       0       0         0.00 2159 
+REFSAV 100MG                 14s          0       0        0       0       0         0.00 1057 
+REFSAV 50 MG                 14s          0       0        0       0       0         0.00 1057 
+SELF TEST 1T PANBIO ANTIGEN  1            0       0        0       0       0         0.00 1477 
+SELF TEST 4T PANBIO ANTIGEN  4s           0       0        0       0       0         0.00 1606 
+TRIBET 1MG                   15S          0       0        0       0       0         0.00 1026 
+TRIBET 2 MG                  15S         15       0       15       0      15      3691.64  182 
+------------------------------------------------------------------------------------------------
+Opening Value  :    79321.29 Sale Value    :    48820.87 
+Purchase Value :    29462.98 Closing Value :    63622.28 
+------------------------------------------------------------------------------------------------
+P

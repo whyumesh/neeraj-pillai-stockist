@@ -1,0 +1,76 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Cognex (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+CLOZAM 10 TAB        10'S      13    10     0    10    12    12     0    11   791.54    
+CLOZAM 20 TAB        10'S       0     0     0     0     0     0     0     0     0.00    
+CANDYCOP PASTE       70GM     135     0     0    10    18    27     0   108  5219.10    
+CLINAXON 2MG AMPLS   2ML        0     0     0     0     0     0     0     0     0.00    
+CLINAXON 4ML AMPLS   4 ML       0     0     0     0     0     0     0     0     0.00    
+CLINAXON 500         10'S       0     0     0     0     0     0     0     0     0.00    
+CLINAXON P           10'S       0     0     0     0     0     0     0     0     0.00    
+CLOZAM 5MG TAB       10'S      10     0     0     0     0     0     0    10   412.50    
+DEPSONIL 25MG TAB    10'S      32    50     0    25    30    23     0    59   721.68    
+DEPSONIL PM 75MG     10'S       0     0     0     0     0     0     0     0     0.00    
+DEPSONIL DZ          10'S       0     0     0     0     0     0     0     0     0.00    
+DELOK 20MG CAP       10'S      10     0     0     0     0     0     0    10  1023.60    
+DELOK 30MG CAP       10'S       0     0     0     0     0     0     0     0     0.00    
+DELOK 40 CAP         10'S       0     0     0     0     0     0     0     0     0.00    
+DELOK 60MG CAP       10'S       0     0     0     0     0     0     0     0     0.00    
+GARION TAB           15'S       0     0     0     0     0     0     0     0     0.00    
+HYDENT PRO PASTE     70GM     106     0     0    27   141    44     0    62 14224.66    
+LIBRIUM 10MG         15'S      24    35     0     1     7    24     0    35  3864.70    
+LIBRIUM 25MG TABS    10'S      23     0     0     0    37     1     0    22  3698.86    
+LIMCEE ACTIVE        15'S       0     0     0     0     0     0     0     0     0.00    
+LEVESAM 250 TAB      10'S       9    10     0    10     3     6     0    13   897.50    
+LEVESAM 500 TAB      15'S       8     0     0     5     3     0     0     8  1121.01    
+MECOBA ALFA NEW      10'S       0     0     0     0     0     0     0     0     0.00    
+MAZETOL CHEWABLE 100 10'S       0     0     0     0     0     0     0     0     0.00    
+MYSOLINE 250MG       10'S       0     0     0     0     0     0     0     0     0.00    
+MAZETOL SR 400 TAB   15'S       0     0     0     0     0     0     0     0     0.00    
+MAZETOL 100MG TAB    10'S      20    20     0     0    20    32     0     8    62.32    
+MAZETOL 200MG TAB    10'S     112    40     0   174   114    65     0    87   988.82    
+OX MAZETOL 300       10'S       0     0     0     0     0     0     0     0     0.00    
+MAZETOL 400 TAB      10'S      20     0     0     0     0     0     0    20   511.20    
+OXMAZETOL OD 300 TAB 10'S       0     0     0     0     0     0     0     0     0.00    
+OX MAZETOL 150 TAB   10'S       0     0     0     0     0     0     0     0     0.00    
+SIZOQUIT 25MG        10'S       0     0     0     0     0     0     0     0     0.00    
+SZETALO LS           15'S       3    10     0     3     1     4     0     9  1822.59    
+SZETALO PLUS MD      10'S       0     0     0     0     0     0     0     0     0.00    
+SZETALO PLUS 5       10'S       0     0     0     0     0     0     0     0     0.00    
+SZETALO PLUS TAB     15'S       6     0     0     6     5     1     0     5  1163.33    
+MAZETOL SR 200MG     15'S       8     0     0     7     4     0     0     8   207.28    
+SIZOQUIT 200MG       10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE 250MG        10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE 500MG TABS   10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE 125MG        10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE OD 1000 TAB  10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE OD 250MG     15'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE OD 500MG     15'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE OD 750       10'S       0     0     0     0     0     0     0     0     0.00    
+VALANCE SOLUTION     100ML     12     0     0     4     2     5     0     7  1374.59    
+VALANCE SOLUTION 500 100ML      0     0     0     0     0     0     0     0     0.00    
+VILAXEL 20 TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+VILAXEL 40           10'S       0     0     0     0     0     0     0     0     0.00    
+SZETALO 10MG         10'S       4     0     0     0     0     2     0     2   194.40    
+SZETALO 20MG         10'S      10     0     0     0     0     0     0    10  1550.80    
+SZETALO 5MG          10'S       3     0     0     2     2     2     0     1    55.15    
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Cognex (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+ZETALO 10MG TAB      10'S       0     0     0     0     0     0     0     0     0.00    
+ZETALO 20MG TAB      10'S       0     0     0     0     0     0     0     0     0.00    
+----------------------------------------------------------------------------------------
+                            58271  8532     0 16855 43219 23133     0 39905.63
+----------------------------------------------------------------------------------------

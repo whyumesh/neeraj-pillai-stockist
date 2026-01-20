@@ -1,0 +1,26 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : ABBOTT INDIA LTD                                               Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BP59   CREMA GEL 30GM           TUBE          1          0        1        0        1     203.24
+BP17   CREMADIET + POWDER       100GRM       32          0       32       15       17    3685.60
+BP33   CREMAFFIN + SYP          225ML       101        240      341      252       89   24051.36
+BP19   CREMAFFIN WHITE          225 ML       54          0       54       21       33    7646.10
+BP18   CREMAFFIN(MF)SYRUP       225 ML       48        180      228      169       59   13670.30
+BP29   CREMALAX TAB 10MG        18'S         10         20       30       10       20    4019.40
+BP58   DIGERAFT SYP             150ML         0          0        0        0        0       0.00
+BP28   GANATON 50MG TAB         10'S         19         30       49       28       21    3519.83
+BP6    GANATON TOTAL            10'S         21          2       23        0       23    9265.16
+BP7    GANATONE OD TAB          10'S          9          0        9        0        9    3633.30
+BP23   LIBRAX TAB               20'S         15          0       15        0       15    2506.20
+BP57   PANKREOFLAT HD TAB       10'S          0         10       10        0       10    1562.60
+DI3    PANKREOFLAT TABS         10'S          3          0        3        0        3     786.60
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.       78,725.27   Sales Value   Rs.     1,22,152.62
+ Receipt Value Rs.     1,17,977.04   Closing Value Rs.       74,549.69
+------------------------------------------------------------------------------------------------

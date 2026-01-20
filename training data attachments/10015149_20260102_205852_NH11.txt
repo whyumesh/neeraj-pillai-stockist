@@ -1,0 +1,43 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Multi Therapy (  )  from 01/12/2025 to 31/12/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+BASITON FORTE TAB    15'S      47     0     0    53    27    37     0    10     0.00    
+CEFCHAMP 100 DT      6'S        0     0     0     0     0     0     0     0     0.00    
+CURENEXT 50GM        50GM      13     0     0     0     1     0     0    13  1406.78    
+CEFCHAMP 325         10'S      15    30     0     6     0    12     0    33  8438.28    
+TOSSEX DMR SYP       100ML     80     0     0    25    13    31     0    49  4150.44    
+HYDENT DUO           70GM     113     0     0     0   115    44     0    69  8841.10    
+HYDENT K 100GM       100GM     39   240     0   362   278   148     0   131 16002.96    
+HYDENT 360 M/W       100ML     35    50     0     0    25    26     0    59  7127.79    
+KENACORT 10MG INJ    1'S       12     0     0     7     2     0     0    12   667.44    
+KENACORT 4 MG TAB    15'S      36     0     0    28    34    20     0    16  1964.03    
+KENACORT 0.1 %                 25    20     0    19    20    22     0    23  2686.42    
+KENACORT 40MG INJ    40MG/M    26    36     0    45    17    17     0    45  6107.22    
+KENACORT SKIN CREAM  15GM       0     0     0     0     0     0     0     0     0.00    
+LIMCEE  TAB          15'S     570   600    20   329   630   713    20   457  7732.44    
+LIM Z TAB            10'S       0     0     0     0     0     0     0     0     0.00    
+LIMCEE ZINC          10'S       0     0     0     0     0     0     0     0     0.00    
+MODCEF-D TAB         10'S       0     0     0     0     0     0     0     0     0.00    
+ORAHEX PLUS          150ML      0     0     0     0     0     0     0     0     0.00    
+ORAHEX DG            150ML     37   100     0    22    12    10     0   127 14066.36    
+ORAHEX M GEL         20GM       0     0     0     0     0     0     0     0     0.00    
+ORAHEX PRO           150ML      0     0     0     0     0     0     0     0     0.00    
+SIAGLIDE M 500       15'S     130     0     0     0     0   100     0    30  3908.10    
+SUPERQUIN TAB        5'S        0     0     0     0     0     0     0     0     0.00    
+SETGI CAP            10'S      10     0     0     0     0     0     0    10  1071.00    
+TOOTHMIN AF          150ML     56    50     0     0     0    10     0    96 12495.36    
+TRESSMOX LB D CAP    10'S       0     0     0     0     0     0     0     0     0.00    
+TRESSMOX CV          6'S       48   143     0     0    84    36     0   155 16620.65    
+TOSSEX NEW SYP       120ML     20   200     0   118   105   119     0   101 16726.15    
+TELPRES TRIO         10'S     120     0     0     0     0   100     0    20  2103.40    
+TOSSEX XP SYP        100ML      0     0     0     0     0     0     0     0     0.00    
+ZIL-O TAB            10'S       9     0     0     0    13     5     0     4   235.90    
+----------------------------------------------------------------------------------------
+                           107041127100   338 98091119269121748   338 132351.8
+----------------------------------------------------------------------------------------

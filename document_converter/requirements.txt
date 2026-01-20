@@ -26,3 +26,4 @@ opencv-python>=4.8.0
 # GUI (tkinter is built-in, but PySimpleGUI is an alternative)
 # PySimpleGUI>=4.60.0  # Optional - uncomment if preferred over tkinter
 
+

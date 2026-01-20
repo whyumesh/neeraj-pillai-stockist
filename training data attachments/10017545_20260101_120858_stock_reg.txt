@@ -1,0 +1,26 @@
+
+MAA KALI PHARMACEUTICAL AGENCIES
+
+STOCK REGISTER - SUMMARY
+   PERIOD : 01-12-2025 TO 31-12-2025                                                        
+   --------------------------------------------------------------------------------------------
+   ITEM NAME                UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B.     Expir
+                                    QNTY     QNTY     QNTY     QNTY     QNTY     QNTY      Date
+   --------------------------------------------------------------------------------------------
+   Mfg.: ABBOTT INDIA LTD(GENNEXT)     
+   -------------------------------
+   ARACHITOL INJECTION 3L  6X1ML       5         0.00              2                3     02-28
+   ARACHITOL INJECTION 6L  6X1ML       5        10.00              5               10     09-26
+   ARACHITOL NANO SUGAR FR 4x5ml      10         0.00              6                4     09-26
+   BRUFEN 200MG TAB        15'T       27        40.00             23               44     05-28
+   BRUFEN 400MG TAB        15't       45         0.00             25               20     12-26
+   BRUFEN 600              15TAB      28         0.00              0               28     12-27
+   DUVADILAN RETD CAPS     15TAB      58        50.00             27               81     06-27
+   DUVADILAN TAB           50'T       34        90.00             33               91     12-26
+   ZOLFRESH 10MG TAB       15'T       85       360.00            175              270     10-26
+   ZOLFRESH 5MG TAB        15'T       30       100.00             37               93     04-27
+                                  -------------------------------------------------------------
+                                     327       650.00                                                          0      333       0      644
+                   O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+                    0.00    68465.90       0.00   37765.60       0.00    69044.01
+                                  -------------------------------------------------------------

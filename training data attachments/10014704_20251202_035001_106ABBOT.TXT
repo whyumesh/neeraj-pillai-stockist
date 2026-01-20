@@ -1,0 +1,28 @@
+
+MEENACHI ENTERPRISES, THANJAVUR.          COMPANY : ABBOTT INDIA LTD(GASTROCARE)  
+STOCK & SALES STATEMENT AS ON 30/11/2025
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                Opening         ----- Sales Qty -----        Exp. Closing  Short   To be    Unit  --- Value --  <-----Order Qty---->
+Product Name           Packing    Stock  Purch  Prev.   Last  Current  Free  Bro.   Stock   Exp.   Order    Rate  Stock  Sales      1    2    3    4
+-----------------------------------------------------------------------------------------------------------------------------------------
+CREMAFFIN PLAIN        225ML        51     -       1      5        7     -    -       44     -  NoOrder  220.67   9709  1545       -    -    -    -
+CREMAFFIN PLUS         100ML         0     -      -      -        -      -    -        0     -  NoOrder   64.29     -     -        -    -    -    -
+CREMAFFIN PLUS SYP     225ML        58     -      26     14       12     -    -       46     -  NoOrder  257.37  11839  3088       -    -    -    -
+CREMAFIN MIXED FRUIT   225 ML       29     -       3      3        2     -    -       27     -  NoOrder  220.67   5958   441       -    -    -    -
+CREMAGEL L CREAM       30GM         13     -      -3     -         2     -    -       11  01/26 NoOrder  216.07   2377   432       -    -    -    -
+CREMALAX TABS          18'S         15     -       3      6        1     -    -       14     -  NoOrder  174.00   2436   174       -    -    -    -
+**DIGERAFT PLUS SUS    200ML        27     -      -      -        -      -    -       27  02/26 NoOrder  204.29   5516    -        -    -    -    -
+DIGERAFT SUSP          200ML        27     -      14     12       13     -    -       14     -        6  209.15   2928  2719       -    -    -    6
+LIBRAX                 20'S         11     20      7      3       11     -    -       20     -  NoOrder  159.12   3182  1750       -    -    -    -
+PANKEROFLAT HD TAB     10'S          0     -      -      -        -      -    -        0     -  NoOrder  123.05     -     -        -    -    -    -
+PANKREOFLAT  TAB       15'S         20     -      11     11       10     -    -       10     -        6  234.11   2341  2341       -    -    1    6
+
+**Non Sales Product(s) Above 30 days.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+   OPENING STOCK VALUE :   52257.08    PURCHASE..... VALUE :       0.00
+           SALES VALUE :   12899.37    CLOSING STOCK VALUE :   43464.78
+LAST MONTH SALES VALUE :   12076.36
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+*** End of Report ***

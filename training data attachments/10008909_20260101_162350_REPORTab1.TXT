@@ -1,0 +1,117 @@
+
+31/12/2025               DRUG AGENCIES          22:07:22
+ABBOTT              >>>
+#       SALES & STOCK REPORT FROM 01/12/2025 TO 31/12/2025   Pg: 1
+===============================================================================
+DESCRIPTION/PACKING    Pro. OPENING   PUR.  SALE  CR.NO. DR.NO. *** CLOSING ***
+                        Age    QTY.   QTY.   QTY. ST.[+] ST.[-]   QTY.  AMOUNT
+===============================================================================
+ARACHITOL 2KIU NANO DAI 39     37                                 37  11126.06
+ARACHITOL KID                  63            19                   44   6313.12
+ARACHITOL O TAB.                                                          0.00
+BONUS GOODS                     1                                  1    459.01
+COLOSPA RETARD                 19             2                   17   6948.58
+COLOSPA TAB                    20             2                   18   5271.93
+COLOSPA X                      10             3                    7   2110.15
+CREON 10000 CAP.               11            11                           0.00
+CREON 25000 CAP.                                                          0.00
+DIENONORM TAB.                                                            0.00
+DIGENE GEL MINT                50            30                   20      0.00
+DIGERAFT SUSP.                 27     60     26             3     58  12609.78
+DUPHALAC SYRUP                 75    100     90             6     79  11194.04
+DUPHALAC SYRUP                 35            17                   18   4252.50
+DUPHALAC SYRUP                 15             8                    7   2969.95
+DUPHASTON TAB                  10             6                    4   2053.76
+EBASIL 10MG. TAB.                                                         0.00
+EBASIL 20MG. TAB.                                                         0.00
+EPTOIN 100 TAB.                 8     72     53             7     20   3247.41
+EPTOIN 300 ER                  13     40     16             6     31   4710.03
+EPTOIN 50 TAB.                 19             1                   18   1735.02
+EPTOIN INJ              61    363                                363   3318.36
+EPTOIN SUSPPENSION             52            23                   29   1561.98
+FEMILON TAB                    36            10                   26   6690.96
+FEMPSTON 1/10                                                             0.00
+FEMPSTON 2/10                                                             0.00
+FEMPSTON MINI                                                             0.00
+GLUFORMIN G1           126     20                                 20   2632.40
+GLUFORMIN G1 FORTE     126     20                                 20   3042.20
+GLUFORMIN G2           126     20                                 20   4132.80
+GLUFORMIN G2 FORTE     126     20                                 20   4307.40
+HEPTRAL                        14             8                    6   6296.46
+INDERAL 10 TAB.                40     80     29                   91   1372.61
+INDERAL 20 TAB.                24             2                   22    810.50
+INDERAL 40 TAB.                38     40      6             4     68   2503.16
+INDERAL LA 20MG.               13     10      4                   19    700.34
+INDERAL LA 40 MG.               8     30     16                   22    816.64
+LIBRAX TAB.                    53     20     21                   52   7805.58
+NEO MERCAZOLE 10 MG.TAB        47             2                   45  19149.30
+NEO MERCAZOLE 20 MG.TAB 89      9                                  9  12480.48
+NEO MERCAZOLE 5 MG.TAB.        44             4                   40   8744.80
+NOVELON TAB                    25     20     25                   20   4511.52
+PANKREOFLAT HD TAB.            70     50     58                   62   8702.20
+PANKREOFLAT TAB                37             7                   30   6679.08
+PROTHIADEN 25 MG.              42     30     38                   34   4853.25
+PROTHIADEN 50 MG.              21     20     15                   26   7391.28
+PROTHIADEN 75 MG.              23     60     24                   59  17843.57
+PROTHIADEN M MG.                                                          0.00
+RILIGOL INJ.                                                              0.00
+THYRONORM 100 MG.              37     96     79                   54   6575.67
+THYRONORM 112 MG.               9             5                    4    600.40
+THYRONORM 12.5 MG.             24     36     37             1     22   3004.98
+THYRONORM 125 MG.              19     24     26                   17   2646.32
+THYRONORM 137 MG.       35     11                          11             0.00
+THYRONORM 150 MG.              26     24     19                   31   4860.93
+THYRONORM 200 MG.                                                         0.00
+THYRONORM 25 MG.               55     84     78             1     60   8007.15
+THYRONORM 37.5 MG.             30            11                   19   2548.26
+THYRONORM 50 MG.               59    132     95                   96   9143.00
+THYRONORM 62.5 MG.             24     12     13                   23   3412.49
+THYRONORM 75 MG.               47     60     57             1     49   6501.53
+THYRONORM 88 MG.               11     36     14             1     32   4867.52
+THYROWEL CAP.                                                             0.00
+TRIBET-1 TAB.          126     10                                 10   2059.00
+TRIBET-2 TAB.           62      8                                  8   2165.68
+UDILIV 150 TAB                 54     30     23                   61  22999.28
+UDILIV 300 TAB                 89     75     70                   94  62049.66
+UDILIV 600 TAB.                                                           0.00
+VERTIN 16 TAB.                 52     30     42             2     38  10755.78
+VERTIN 24 TAB                   8     10      5                   13   4894.45
+VERTIN 8 TAB                   29     30     18                   41   5835.09
+VERTIN OD 24                                                              0.00
+VERTIN OD TAB                   5     10      3                   12   8307.72
+VONEFIL 10 MG. TAB.                                                       0.00
+VONEFIL 20 MG. TAB.                                                       0.00
+ZOLFRESH 10 MG.TAB.                                                       0.00
+DIGECAINE GEL                                                             0.00
+DIGENE ASSORTED                                                           0.00
+DIGENE GEL MINT               254            59                  195  22819.92
+DIGENE GEL [O]                164            74                   90  10540.80
+DIGENE MINT GEL[L]             19             4                   15   2571.00
+DIGENE ORANGE GEL[L]           24             2                   22   3770.80
+DIGENE TAB MINT               416           195                  221   3844.94
+DIGENE TAB O                  660           255                  405   7179.30
+ARACHITOL 3L INJ.                                                         0.00
+ARACHITOL 6L INJ.              15             1                   14   5098.95
+ARACHITOL NANO 60K             33     40     44                   29   8917.11
+BRUFEN 200 MG                 365    400    176                  589   4786.84
+BRUFEN 400 MG                 159            51                  108   2001.23
+BRUFEN 600 MG                  92            14                   78   2285.19
+BRUFEN JUNIOR                                                             0.00
+BRUFEN MR                                                                 0.00
+CREMAFFIN MINT                 64             3                   61  12682.43
+CREMAFFIN PINK                 66            20                   46   9251.28
+CREMAFFIN PLUS                 14     60     16             1     57  13885.10
+CREMALAX TABLETS               57            13                   44   7459.52
+DUVADILAN INJ.                 14     20     12                   22   3543.26
+DUVADILAN RETARD               35     30     35                   30   6335.10
+DUVADILAN TAB                  45     20     16                   49   8107.61
+GANATON                        29     20     12                   37   5537.75
+GANATON OD CAP.                                                           0.00
+GANATON TOTAL TAB.              4     10      4                   10   3628.00
+SURBEX XT TAB.                                                            0.00
+===============================================================================
+TOTAL QTY. IN UNIT/PCS.:     4589   1921   2177      0     44   4289
+TOTAL AMOUNT >>>           540989 289963 316707      0   7396        526829.26
+BY COST AMOUNT >>>                       294881          7108
+               >>>                                     294881
+===============================================================================

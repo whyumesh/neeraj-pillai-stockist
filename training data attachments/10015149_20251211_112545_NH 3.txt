@@ -1,0 +1,54 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Cardex Division (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+ABVIDA M50/500       15'S       6     0     0     1     0     0     0     6  1117.86    
+ABVIDA-M 50MG/850    15'S       0     0     0     0     0     0     0     0     0.00    
+ABVIDA 50MG          15'S       0     0     0     0     0     0     0     0     0.00    
+ABVIDA SR 100        15'S       0     0     0     0     0     0     0     0     0.00    
+ABVIDA TRIO 1000     10'S       0     0     0     0     0     0     0     0     0.00    
+ABVIDA TRIO 500      10'S       7     0     0     5     8     0     0     7   822.71    
+ABVIDA M 50/1000 MG  15'S       7     0     0     0     0     2     0     5   988.00    
+CYTOGARD OD 60MGCAPS 10'S       7     0     0     1     1     0     0     7  2516.36    
+CYTOGARD 20MG TAB    10'S       9     0     0     3     0     0     0     9   905.40    
+D3 SHOT CAP          10'S       0     0     0     0     0     0     0     0     0.00    
+D3 SHOT SACHETS      1GM        0     0     0     0     0     0     0     0     0.00    
+D3 SHOT 60K CAP      4'S        0     0     0     0     0     0     0     0     0.00    
+GTN SORBITRATE CR2.6 30'S      24    15     0    16    19    14     0    25  5379.00    
+GLEDEPA MET XR 1000  7'S        0     0     0     0     0     0     0     0     0.00    
+IVABID 5             14'S      10    30     0     8    10    18     0    22  6507.40    
+IVABID 7.5 TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+PRELIPID CAP         60'S       0     0     0     0     0     0     0     0     0.00    
+PPG MET 0.3          10'S       7     0     0     0     0     0     0     7   841.40    
+STATOR ASP 150       10'S       0     0     0     0     0     0     0     0     0.00    
+STATOR ASP 75        15'S       7     0     0     0     0     0     0     7   398.02    
+STATOR AM            10'S       0     0     0     0     0     0     0     0     0.00    
+SUPERMET AM          10'S       0     0     0     0     0     0     0     0     0.00    
+SORBITRATE 10MG      50'S      13     0     0     3     6     4     0     9   261.54    
+STATOR 20MG          10'S       0     0     0     0     0     0     0     0     0.00    
+SORBITRATE 5MG       50'S      23     0     0     6     6     7     0    16   477.66    
+STATOR-F             15'S       6    20     0     0     7    12     0    14  3253.46    
+STATOR 10MG TAB      15'S      70     0     0    20     0    30     0    40  2145.85    
+SUPERMET XL 100      10'S       0     0     0     0     0     0     0     0     0.00    
+TELPRES 80 H         10'S       0     0     0     0     0     0     0     0     0.00    
+TELPRES AM           10'S       0     0     0     0     0     0     0     0     0.00    
+TELPRES CT 40/12.5   10'S      32     0     0    13     8    11     0    21  2242.38    
+TELPRES CT 40/6.25   15'S      39    20     0    23    25    22     0    37  3005.72    
+TELPRES H 40         10'S      13     0     0     4     1     3     0    10  2584.22    
+TELPRES MT 25 TAB    15'S       9     0     0     0     0     3     0     6  1601.04    
+TELPRES MT 50 TAB    15'S       6     0     0     5     4     0     0     6  1741.14    
+TELPRES AM 80        10'S       0     0     0     0     0     0     0     0     0.00    
+TELPRES AMH          10'S       0     0     0     0     0     0     0     0     0.00    
+TELPRES 20MG         10'S      12     0     0     8     0     4     0     8   334.16    
+TELPRES 40MG         10'S       7     0     0     0     0     0     0     7   511.00    
+TELPRES H            10'S       0     0     0     0     0     0     0     0     0.00    
+SUPERMET XL 25 TAB   10'S      10    10     0    15    10     4     0    16   697.92    
+SUPERMET XL50 TAB    15'S      16     0     0     4     2     7     0     9   565.23    
+----------------------------------------------------------------------------------------
+                            38869 18823     0 17734 16588 20981     0 38897.47
+----------------------------------------------------------------------------------------

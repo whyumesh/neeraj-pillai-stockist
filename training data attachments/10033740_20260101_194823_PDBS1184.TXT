@@ -1,0 +1,61 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   ENTERO
+---------------------------------------------------------------------------
+CAAT-10 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CAAT-20 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CAAT-40 TAB               |10's  |    0|    0|    0|    0|    0|    0|    0
+CALAPTIN-40 TAB           |30's  |   30|   40|    0|   70|   50|   20|    0
+CALAPTIN-80 TAB           |30tab |   14|    0|    0|   14|    0|   14|    0
+CALAPTIN-SR 120 TAB       |10's  |    0|   20|    0|   20|    3|   17|    0
+CALAPTIN-SR 240 TAB       |15's  |    0|    0|    0|    0|    0|    0|    0
+CILADUO-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+CILADUO-5 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+DIABETROL TABS            |10's  |    0|    0|    0|    0|    0|    0|    0
+DIABETROL-SR TABS         |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 10 TABS            |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 2.5 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE 5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-10 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-2.5 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+EN-ACE D-5 TAB            |30's  |    0|    0|    0|    0|    0|    0|    0
+GARDENAL SYP              |100ml |   17|    0|    0|   17|   10|    7|    0
+GARDENAL-30 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+GARDENAL-30(BOTTLE)       |100's |    0|    0|    0|    0|    0|    0|    0
+GARDENAL-60 TAB           |30's  |    0|    0|    0|    0|    0|    0|    0
+GARDENAL-60(BOTTLE)       |100's |    0|    0|    0|    0|    0|    0|    0
+GLIMER-1 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+GLIMER-2 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-10 TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-20 TAB               |15's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-20 TAB               |30's  |    0|    0|    0|    0|    0|    0|    0
+ISMO-RETARD 40 TAB        |7's   |    6|    0|    0|    6|    4|    2|    0
+MOXON-0.2 TAB             |6's   |    0|    0|    0|    0|    0|    0|    0
+MOXON-0.3 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-2.5 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-H TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+NUBETA-SM TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+PHENOBORBITONE INJ        |1ml   |    0|    0|    0|    0|    0|    0|    0
+RANOGARD-500 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-20 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-40 TAB              |15's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-AM 20 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-AM 40 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 20/12.5 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 20/6.25 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 40/12.5 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-CT 40/6.25 TAB      |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-H 20 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-H 40 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-MT 25 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-MT 50 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+WINBP-TRIO 20 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK    2501    PR.STK    2163    RT.COM       0    CL.STK    2580
+SL.AMT    2084
+---------------------------------------------------------------------------

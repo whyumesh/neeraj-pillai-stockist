@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT GASTROENTEROLOGY
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+#CREMA  GEL                   30GM                                                         
+#CREMAFFIN  PLUS SYP         225ML                                                         
+ADIZA 10MG TAB                10'S                                                         
+CREMA ANO 20GM                20GM     12     20     7   13    19  2375.05    1641.58      
+CREMA GEL 2%                  30GM     26     20    34   22    25  4715.55    4135.71      
+CREMADIET DUO POWD           150GM                       -1     1   418.52    -420.74      
+CREMADIET PLUS POWDER        100GR      8     10     9   10     8  1463.36    1838.92      
+CREMAFFIN  MF SYP           100 ml                                                         
+CREMAFFIN MF SYP  .          225ML    118           41   26    92 19184.76    5503.51      
+CREMAFFIN MINT SYP           225ML     96     60    69   67    89 18559.17   14147.15      
+CREMAFFIN PLUS SYP           225ML     57    180   115  127   110 26753.27   31414.58      
+CREMAGEL H                    20GM                                                         
+CREMAGEL L                     30G     20     20    16   17    23  5165.93    3821.89      
+CREMALAX TAB                  18'S    100           73   27    73 13187.29    4918.98      
+DIGERAFT PLUS  SUS (BOT)    200 ML                                                         
+DIGERAFT SUSP (BOT)          150ML                                                         
+DIGERAFT SUSP 200 ML (BOT   200 ML     60           33   23    37  7313.12    4601.30      
+ENTAMIZOLE O TAB              10`S                                                         
+LIBRAX TAB                    20`S     40     80    60   58    62  9322.97    8937.77      
+PANKREOFLAT HD TAB            10'S     12     20     3    9    23  3234.41    1254.53      
+PANKREOFLAT SYP              100ML     21            7   13     8  1435.14    2340.60      
+PANKREOFLAT TAB               15`S     17     30    22   17    30  6637.05    3827.70      
+UDISYP SYP                   200ML                                                         
+-------------------------------------------------------------------------------------------
+                                                              600 119765.5   87963.50      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:113245.51     Sales Val - Prv.Mth: 103917.60  Cur.Mth.Sal:  92361.67   Stk.Val:114062.46     Pur.Val:90362.94     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  92361.67       Stock Value:119765.58                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

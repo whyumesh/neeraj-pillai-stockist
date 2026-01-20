@@ -1,0 +1,28 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : ABBOTT INDIA LTD (MAGNUS)                                      Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BP56   CABERNORM 0.5MG          1'S           0          0        0        0        0       0.00
+BP27   SURBEX GOLD CAP          15'S          0          0        0        0        0       0.00
+BM40   THYRONORM 100MCG TAB     120'S       107        264      371      251      120   16206.00
+BM51   THYRONORM 112 MCG        120'S        30         24       54       24       30    5105.10
+BP25   THYRONORM 12.5MCG        120'S        86         60      146       88       58    8803.24
+BM36   THYRONORM 125MCG TAB     120'S        49         48       97       46       51    8838.30
+BM43   THYRONORM 137MCG         120'S        42          0       42        0       42    9799.44
+BP24   THYRONORM 150MCG TAB     120'S        51         36       87       41       46    8019.18
+BM42   THYRONORM 25MCG TABS     120'S        61        324      385      289       96   14238.72
+BP26   THYRONORM 37.5MCG        120'S        29         60       89       58       31    4658.68
+BM41   THYRONORM 50MCG TAB      120'S        65        324      389      288      101   10667.62
+BM35   THYRONORM 62.5MCG TAB    120'S       111          0      111       63       48    7924.32
+BM44   THYRONORM 75MCG          120'S        95        108      203      155       48    7064.64
+BM49   THYRONORM 88MCG TAB      120'S        74         96      170      103       67   11324.34
+BM47   THYROWEL CAPS            10'S          0          0        0        0        0       0.00
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.     1,25,593.68   Sales Value   Rs.     1,99,797.18
+ Receipt Value Rs.     1,86,853.08   Closing Value Rs.     1,12,649.58
+------------------------------------------------------------------------------------------------

@@ -1,0 +1,39 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : ABBOTT INDIA LTD                                               Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BP54   BRIVETOIN 75MG           10'S          0          0        0        0        0       0.00
+BM45   EPTOIN 300 ER TAB        30'S         10          0       10        4        6    1009.98
+BM29   EPTOIN 50MG              150'S        16          0       16        0       16    1806.40
+BM15   EPTOIN SUSPENSION        200ML        24          0       24        7       17    1084.77
+BM20   EPTOIN TABS              120'S       196        144      340      243       97   17499.77
+DI35   INDERAL 10MG             15'S         94        160      254      150      104    1742.00
+DI24   INDERAL 40MG             15'S         40        160      200      134       66    2721.84
+DI14   INDERAL LA 20MG          15'S         28         80      108       80       28    1146.60
+DI33   INDERAL LA 40MG          15'S         35        100      135       96       39    1608.36
+BM3    PROTHIADEN 25 MG         15'S         13         60       73       38       35    5651.45
+BM50   PROTHIADEN 50MG TAB      15'S         14          0       14        2       12    3796.64
+BM4    PROTHIADEN 75 MG         15'S         20         30       50       19       31   10393.50
+BP21   PROTHIADEN M 50 MG       15'S          0          0        0        0        0       0.00
+BP22   PROTHIADEN M TAB         10'S          0          0        0        0        0       0.00
+BP55   PROTHIADEN NEU CAP       10'S         10          0       10        0       10    2640.00
+DI8    VERTIN 16MG TAB          15'S        103       1100     1203     1136       67   21758.25
+DI30   VERTIN 24MG              15'S         23        250      273      243       30   12719.70
+BM5    VERTIN MDS 24MG          10'S          0          0        0        0        0       0.00
+DI11   VERTIN OD 24 MG          15'S          4          0        4        0        4    2007.08
+DI27   VERTIN OD 48MG           15'S          8          0        8        3        5    3846.60
+DI7    VERTIN TABS              15'S         86        250      336      257       79   13461.25
+BP49   VERTIN-DT 16 MG          10'S          0          0        0        0        0       0.00
+BM33   VERTIN-DT 24 MG          10'S          0          0        0        0        0       0.00
+BP48   VERTIN-DT 8 MG           10'S          0          0        0        0        0       0.00
+DI15   ZOLFRESH ODT 10MG        15'S          0          0        0        0        0       0.00
+DI16   ZOLFRESH ODT 5MG         15'S          0          0        0        0        0       0.00
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.     1,27,082.51   Sales Value   Rs.     5,91,923.26
+ Receipt Value Rs.     5,69,734.94   Closing Value Rs.     1,04,894.19
+------------------------------------------------------------------------------------------------

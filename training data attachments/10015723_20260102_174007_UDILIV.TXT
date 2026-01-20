@@ -1,0 +1,36 @@
+
+M.R.PHARMACEUTICALS
+
+STOCK REGISTER - SUMMARY
+PERIOD : 01-12-2025 TO 31-12-2025                                               
+--------------------------------------------------------------------------------
+ITEM NAME           UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B. Pur. Rate
+                            QNTY     QNTY     QNTY     QNTY     QNTY     QNTY
+--------------------------------------------------------------------------------
+Mfg.: ABBOT INDIA LTD               
+---------------------
+COLOSPA 135MG      15's        7         0                 0                7   278.90
+COLOSPA REDT       15tab      12        10                11               11   397.22
+COLOSPA X          20tab       2        10                 8                4   287.10
+DIGENE GEL MINT    450ml      16        16                16               16   186.56
+DIGENE GEL MINTS   200ML       1        40                 2               39   123.94
+DIGENE ORANGE SYP  200ml      40         0                 0               40   123.94
+DIGENE TAB MINT    15's      120      1440               300             1260    18.77
+DUPHALAC  SYP      150ml       0        50                18               32   135.00
+DUPHALAC  SYP .    250ml      16        40                34               22   225.00
+DUPHALAC SYP .     450ml      22         0                 2               20   405.00
+DUPHASTON 10 TAB   10's       11         0                 2                9   618.40
+FEMILON TAB        21tab      15        20                18               17   259.92
+GANATON 50 TAB     10's       24        20                19               25   143.21
+GANATON OD         10's       10         0                 0               10   324.41
+GANATON TOTAL      10's       14         0                 4               10   345.52
+NOVELON TAB.       21's       19        10                21                8   227.52
+UDILIV 150         15tab       2        10                 4                8   361.39
+UDILIV 300 MG      15tab      98         0                81               17   633.57
+UDILIV 450 MG      10TAB      14         0                 8                6   494.18
+UDILIV 600         10tab      10         0                 0               10   634.38
+                          ------------------------------------------------------
+                             453      1666        0      548       0     1571
+                O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+            132739.50    67944.50       0.00  107774.96       0.00   106321.18
+                          ------------------------------------------------------

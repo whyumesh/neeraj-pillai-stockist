@@ -1,0 +1,88 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas (  )  from 01/12/2025 to 31/12/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+AMICOLON 15          6'S        0     0     0     0     0     0     0     0     0.00    
+ACTIV360 TAB         15'S       0     0     0     0     0     0     0     0     0.00    
+BILAZEST 20MG        10'S       0     0     0     0     0     0     0     0     0.00    
+FLAGYL 400 TAB       20'S     121   120     0    50    93   120     0   121  2688.81    
+B-STIL 16MG          10'S       0     0     0     0     0     0     0     0     0.00    
+B-STIL 8MG           10'S       0     0     0     0     0     0     0     0     0.00    
+BECOMAX C FORTE      15'S       0     0     0     0     0     0     0     0     0.00    
+BILAZEST KIDS        60ML       0     0     0     0     0     0     0     0     0.00    
+BILAZEST M TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+CLARIBID 250         10'S       9     0     0     0     1     0     0     9  1586.16    
+CLARIBID 500         10'S       1    10     0     0     2     1     0    10  2918.10    
+CLARIBID GRANULES    1'S        0     0     0     0     0     0     0     0     0.00    
+EPILEX CHRONO 500    15'S      14     0     0     3     6     7     0     7   713.65    
+ENLIVA               10'S       0     0     0     0     0     0     0     0     0.00    
+ESOGA-RD CAP         10'S       0     0     0     0     0     0     0     0     0.00    
+ESSENTIALE-L CAP     10'S       0     0     0     0     0     0     0     0     0.00    
+ERYTHROCIN 250       10'S       0     0     0     0     0     0     0     0     0.00    
+ERYTHROCIN 500       10'S       0     0     0     0     0     0     0     0     0.00    
+EPILEX CHRONO 200    15'S      10     0     0     1     3     2     0     8   792.40    
+EPILEX CHRONO 300    15'S       2     0     0     7     1     0     0     2   134.02    
+EPILEX 500           10'S       0     0     0     0     0     0     0     0     0.00    
+EPILEX ORAL SOLUTION 200ML      4     0     0     0     2     0     0     4   373.02    
+FLAGYL ER 600        10'S      50   140     0     0    50    50     0   140  6594.00    
+FLAGYL 200           20'S      21    30     0     3    18    21     0    30   358.50    
+FLAGYL GEL           20GM     155     0     0    13    52   124     0    31  2025.54    
+FEBUSTAT 40MG        15'S      31    20     0    30     6    28     0    23  5324.05    
+FEBUSTAT 80MG        15;S      16     0     0     3     1     9     0     7  2299.08    
+FLAGYL SUP           60ML       0     0     0     0     0     0     0     0     0.00    
+KENACORT 8MG         10'S       0     0     0     0     0     0     0     0     0.00    
+KIDPRED SYRUP        60ML       0     0     0     0     0     0     0     0     0.00    
+MONTI-FX TAB         10'S       0    10     0     2     4     0     0    10  1879.40    
+NIVAQUIN P INJ       30ML       0     0     0     0     0     0     0     0     0.00    
+NIVAQUUINE P 5ML     5ML        0     0     0     0     0     0     0     0     0.00    
+NIVAQUINE P INJ      2ML        0     0     0     0     0     0     0     0     0.00    
+NIVAQUINE P 250MG    10'S       0     0     0     0     0     0     0     0     0.00    
+NEBASULF SPRINKLING  10GM       0     0     0     0     0     0     0     0     0.00    
+PANBIO 1T            1'S        0     0     0     0     0     0     0     0     0.00    
+PHENERGAN 25MG       10'S      30     0     0     0    20     0     0    30  1176.00    
+PANBIO 4T            4'S        0     0     0     0     0     0     0     0     0.00    
+PHENSEDYL BR         100ML      0     0     0     0     0     0     0     0     0.00    
+PHENSEDYL CR         100ML      0     0     0    24     0     0     0     0     0.00    
+PHENSEDYLT SYP       100 ML     0     0     0     0     0     0     0     0     0.00    
+POLYCROL FORTE GEL   170 ML     0     0     0     0     0     0     0     0     0.00    
+PHOSFOMIN TONIC      200ML      0     0     0     0     0     0     0     0     0.00    
+PHENERGAN 10MG TAB   10'S      97   100     0   103   200    58     0   139  2058.59    
+PHENERGAN INJ 2ML    2ML       25    50     0    20    10    20     0    55   620.90    
+PHOSFOMIN IRON TONIC 150ML      0     0     0     0     0     0     0     0     0.00    
+PHENSEDYL LR         100ML      1     0     0    25    15     1     0     0     0.00    
+PHENERGAN SYRUP      100ML     20     0     0     0     1    11     0     9   349.60    
+SUPRADYN TAB         15'S     150     0     0   139    98   149     0     1     0.00    
+SARIDON TAB          10'S    1065     0     0   313   931   637     0   428 14065.92    
+STEMETIL 5MG         10'S       0     0     0     0     0     0     0     0     0.00    
+STEMETIL AMP         1ML      100     0     0    20    80    50     0    50   963.50    
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas (  )  from 01/12/2025 to 31/12/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+STEMETIL MD TAB      15'S      40    40     0    40    25    24     0    56  6834.40    
+SELSUN               60ML       0     0     0     0     0     0     0     0     0.00    
+SELSUN               120ML     20     5     0    18    20    15     0    10  2982.90    
+SUPRA PLUS           15'S       0     0     0     0     0     0     0     0     0.00    
+SELSUN S SHAMPOO     120 ML     0     0     0     0     0     0     0     0     0.00    
+SELSUN SUSP          200ML      3     0     0     3     1     0     0     3  1234.29    
+STREPSILS            8'S        0     0     0     0     0     0     0     0     0.00    
+TIXYLIX DX           100ML      0     0     0     0     0     0     0     0     0.00    
+TIXYLIX-LS SYP.      100ML      0     0     0     0     0     0     0     0     0.00    
+TIXYLIX NEW SYP      60ML      20     0     0     0     0     0     0    20  1446.80    
+TETMOSAL SOAP        100G      38    40     0    32    34    65     0    13   856.57    
+TIXYLIX-LS JR.       60ML       0     0     0     0     0     0     0     0     0.00    
+UDILIV 150           15'S       0     0     0     0     0     0     0     0     0.00    
+UDILIV 300           15'S       0     0     0     0     0     0     0     0     0.00    
+----------------------------------------------------------------------------------------
+                            94465 30119     0 54934 76722 74335     0 60276.20
+----------------------------------------------------------------------------------------

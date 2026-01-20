@@ -1,0 +1,33 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT INDIA LTD
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   NUROLIFE
+---------------------------------------------------------------------------
+EBASIL-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+EBASIL-20 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+EPTOIN INJ                |2ml   |   60|    0|    0|   60|    0|   60|    0
+EPTOIN SUSP               |200ml |    0|    0|    0|    0|    0|    0|    0
+EPTOIN-100 TAB            |120's |  118|    0|    0|  118|   73|   45|    0
+EPTOIN-300 ER TAB         |30's  |    9|    0|    0|    9|    7|    2|    0
+EPTOIN-50 TAB             |150's |    3|   10|    0|   13|    2|   11|    0
+INDERAL-10 TAB            |15's  |   76|   40|    0|  116|   50|   66|    0
+INDERAL-20 TAB            |15's  |   11|   40|    0|   51|   26|   25|    0
+INDERAL-40 TAB            |15's  |   36|    0|    0|   36|   29|    7|    0
+LACOXA-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+LACOXA-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-25 TAB         |15's  |   11|   10|    0|   21|    7|   14|    0
+PROTHIADEN-50 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-75 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+PROTHIADEN-75 TAB         |15's  |   29|    0|    0|   29|    0|   29|    0
+PROTHIADEN-M TAB          |15's  |    0|    0|    0|    0|    0|    0|    0
+VERTIN-16 TAB             |15's  |   77|  150|    0|  227|  137|   90|    0
+VERTIN-24 TAB             |15's  |   10|    0|    0|   10|    7|    3|    0
+VERTIN-8 TAB              |15's  |   44|   40|    0|   84|   71|   13|    0
+VERTIN-OD 24 TAB          |7's   |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   67230    PR.STK   57254    RT.COM       0    CL.STK   52724
+SL.AMT   71759
+---------------------------------------------------------------------------

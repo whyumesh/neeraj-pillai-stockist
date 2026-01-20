@@ -1,0 +1,42 @@
+
+MAA KALI PHARMACEUTICAL AGENCIES
+
+STOCK REGISTER - SUMMARY
+   PERIOD : 01-11-2025 TO 30-11-2025                                                        
+   --------------------------------------------------------------------------------------------
+   ITEM NAME                UOM     O.B.     PUR.    S.RTN     SALE    P.RTN     C.B.     Expir
+                                    QNTY     QNTY     QNTY     QNTY     QNTY     QNTY      Date
+   --------------------------------------------------------------------------------------------
+   Mfg.: ABBOTT(NOVO NORDISK INDIA)  S 
+   -----------------------------------
+   FIASP FLEXTOUCH 100IU   3ML         3         5.00              3                5     10-27
+   FIASP PENFIL 100IU      5*3ML      15         0.00              3               12     05-27
+   HUMAN ACTRAPID 40IU     10'ML     279       240.00            443               76     11-26
+   HUMAN INSULATARD 40IU   10'ML      16         0.00              4               12     06-26
+   HUMAN MIXTARD 100IU     10'ML      41        20.00             52                9     03-27
+   HUMAN MIXTARD 40IU      10'ML     240       240.00            500              -20     09-27
+   HUMAN MIXTARD 50 40IU   10'ml      46        30.00             70                6     11-26
+   MIXTARD 50 HM PENFILL   3'ML       40        30.00             70                0
+   NOVOFINE 35.G           VIAL      399         0.00            500             -101     05-27
+   NOVOMIX 30 PENFILL      3'ML       15        10.00             25                0     09-26
+   NOVOMIX 50 FLEXPENS     3'ML        4         0.00              0                4     07-26
+   NOVOMIX 50 PENFILL      3'ML       10         5.00              5               10     09-26
+   NOVORAPID FLEXPENS      3'ML        5        10.00             15                0
+   NOVORAPID PENFILL       3'ML       50         0.00             50                0
+   RYBELSUS 14MG           10TAB       3         2.00              3                2     05-27
+   RYBELSUS 3MG            10TAB       3         2.00              5                0     02-25
+   RYBELSUS 7MG            10TAB       2         2.00              4                0
+   RYZODEG FLEXTOUCH       3'ML       10        10.00             12                8     05-27
+   RYZODEG PENFILL         3ML       100        30.00            130                0     08-27
+   TRESIBA FLEXTOUCH       1'PC        2         2.00              4                0
+   TRESIBA PENFILL         5X3ML       0         2.00              0                2     04-27
+   WEGOVY FLEXT 1.7MG      1*3ml       2         0.00              0                2     09-27
+   WEGOVY FLEXT 1MG        1*3ML       2         0.00              0                2     11-27
+   WEGOVY FLEXT 2.4MG      1*3ML       2         0.00              0                2     09-27
+   WEGOVY FLXT 0.25MG      1PC         3         0.00                                                         4         0                7     01-28
+   WEGOVY FLXT 0.5MG       1PC         0         0.00                                                         2         0                2     09-27
+                                  -------------------------------------------------------------
+                                    1292       640.00                                                          6     1898       0       40
+                   O.B.      PUR.VAL.   SAL.RTN.     SALE     PUR.RTN.     C.B.
+                    0.00   177756.32   78052.50  475138.25       0.00   289382.13
+                                  -------------------------------------------------------------

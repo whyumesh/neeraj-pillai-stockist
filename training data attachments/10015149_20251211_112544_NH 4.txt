@@ -1,0 +1,71 @@
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Extra Care (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------
+BENADON 40MG TAB     10'S       0     0     0     0     0     0     0     0     0.00    
+DIABETROL 3P 7.5     10'S       0     0     0     0     0     0     0     0     0.00    
+DIABETROL 3P TAB     10'S       0     0     0     0     0     0     0     0     0.00    
+D3-UP SACHETS        1GM        0     0     0     0     0     0     0     0     0.00    
+EBILITY ASP          10'S       8   200     0     0     0    80     0   128  9805.36    
+GLUFORMIN G1 FORTE   15'S      22     0     0     2     0     0     0    22  2897.60    
+GLUFORMIN G2 FORTE   15'S      19     0     0     1     0     2     0    17  3487.04    
+GLUFORMIN 500MG TAB  10'S       0     0     0     0     0     0     0     0     0.00    
+GLUFORMIN 850MG      10'S       0     0     0     0     0     0     0     0     0.00    
+GLUFORMIN G1 TAB     15'S      21     0     0     5     0     2     0    19  2381.65    
+GLUFORMIN G2 TAB     15'S      20     0     0     3     0     8     0    12  2361.60    
+GLUFORMIN I 1        15'S       0     0     0     0     0     0     0     0     0.00    
+GLUFORMIN I 0.5      15'S       0     0     0     0     0     0     0     0     0.00    
+GLUSPAN TABS         15'S       0     0     0     0     0     0     0     0     0.00    
+GLIMER 1MG TAB       10'S       0     0     0     0     0     0     0     0     0.00    
+GLIMER 2MG           10'S       0     0     0     0     0     0     0     0     0.00    
+GLUSPAN D TAB        10'S       0     0     0     0     0     0     0     0     0.00    
+GLUFORMIN XL 1000    10'S      16     0     0     4     0     0     0    16   699.36    
+GLUFORMIN XL 500     15'S      21     0     0     2     3     4     0    17   387.43    
+NICODUCE 5           20'S       0     0     0     0     0     0     0     0     0.00    
+NEO MARCAZOLE 10MG   120'S      4     3     0     4     6     3     0     4  1621.12    
+NEO MARCAZOLE 20MG   120'S      1     0     0     1     0     0     0     1  1320.70    
+NEO MERCAZOLE 5MG    120'S      1    10     0     3     7     5     0     6  1249.26    
+NERVUP OD CAPS       15'S       8     0     0     0     2     3     0     5  1409.40    
+NERVUPTIN TAB        10'S       0     0     0     0     0     0     0     0     0.00    
+NERVUP PG CAPS       10'S       0     0     0     0     0     0     0     0     0.00    
+NERVUP AMPS          1ML        0     0     0     0     0     0     0     0     0.00    
+NERVUP FORTE         10'S       0     0     0     0     0     0     0     0     0.00    
+NERVUP ER            10'S       0     0     0     0     0     0     0     0     0.00    
+PPG TRIO 1 FORTE     10'S       0     0     0     0     0     0     0     0     0.00    
+PPG TRIO 2 FORTE     10'S       0     0     0     0     0     0     0     0     0.00    
+PPG MET 0.2          10'S       8     0     0     0     0     0     0     8   767.60    
+PPG 0.2              30'S      10     0     0     2     4     0     0    10  1856.80    
+PPG 0.3              30'S       7     0     0     0     3     0     0     7  1977.50    
+PPG R 1              15'S       0     0     0     0     0     0     0     0     0.00    
+PPG R 0.5            15'S       0     0     0     0     0     0     0     0     0.00    
+PPG TRIO 1           10'S       0     0     0     0     0     0     0     0     0.00    
+PPG TRIO 2           10'S       0     0     0     0     0     0     0     0     0.00    
+SEMI TRIBET 1        10'S       0     0     0     0     0     0     0     0     0.00    
+SEMI TRIBET 2        10'S       0     0     0     0     0     0     0     0     0.00    
+TRIBET 1 FORTE       10'S       0     0     0     0     0     0     0     0     0.00    
+TRIBET 2 FORTE       10'S       0     0     0     0     0     0     0     0     0.00    
+TRIBET 1 TAB         15'S      18     0     0     0     0     0     0    18  3529.80    
+TRIBET 2 TAB         15'S       4     0     0     1     0     0     0     4   937.56    
+TRIBETROL 1 FORTE    10'S      10     0     0     0     0     0     0    10  2129.70    
+TRIBETROL 2 FORTE    15'S       0     0     0     2     0     0     0     0     0.00    
+TRIBETROL PLUS 1     15'S       0     0     0     0     0     0     0     0     0.00    
+TRIBETROL PLUS 2     15'S       0     0     0     0     0     0     0     0     0.00    
+TRIBETROL 1 TAB      15'S       4     0     0     0     0     0     0     4   712.56    
+TRIBETROL 2 TAB      15'S       0    20     0    13    15     6     0    14  3357.90    
+----------------------------------------------------------------------------------------
+                            32349 23521     0 11024 10857 14958     0 42889.94
+----------------------------------------------------------------------------------------
+
+CITY MEDICAL DISTRIBUTORS                                   
+KAKINADA                                
+
+Stock & Sales of Nicholas Extra Care (  )  from 01/11/2025 to 29/11/2025
+----------------------------------------------------------------------------------------
+Product Name         Pack    Open  Purc S.ret <---- Sales ---->   P.ret  Clos Value Age
+                                               Prv2  Prv1  Pres 
+----------------------------------------------------------------------------------------

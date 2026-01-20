@@ -1,0 +1,41 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   ACUTECARE
+---------------------------------------------------------------------------
+BETONIN-AST JUNIOR SYP    |100ml |    0|    0|    0|    0|    0|    0|    0
+BETONIN-AST LIQ           |200ml |   49|  200|    0|  249|   21|  228|    0
+BETONIN-AST LIQ           |400ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS PEARLS            |10's  |    0|    0|    0|    0|    0|    0|    0
+DELETUS-BX SYP            |100ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS-D LIQ             |100ml |    0|    0|    0|    0|    0|    0|    0
+DELETUS-P SYP             |100ml |    0|    0|    0|    0|    0|    0|    0
+DIPSALIC-F OINT           |20gm  |   15|   24|    0|   39|   21|   18|    0
+GENTICYN EYE DROP         |10ml  |    0|    0|    0|    0|    0|    0|    0
+LOBATE OINT               |30gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-G SKIN CREAM       |16gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM SKIN CREAM      |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GN CREAM           |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-M SKIN CREAM       |15gm  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-S OINT             |30 gm |    0|    0|    0|    0|    0|    0|    0
+LURATREND-40 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LURATREND-80 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LYSUPRA SYP               |200ml |    0|    0|    0|    0|    0|    0|    0
+PARAXIN-DRAGEE 250        |10's  |    0|    0|    0|    0|    0|    0|    0
+SURBEX-XT TAB             |15's  |   12|    0|    0|   12|    0|   12|    0
+ZIMNIC DRY SYP            |30ml  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-100 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-200 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-50 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV 100 DT TAB      |6's   |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV 200 TAB         |6's   |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-CV DRY SYP         |30ml  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-O 100 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+ZIMNIC-O 200 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   13000    PR.STK   41551    RT.COM       0    CL.STK   47405
+SL.AMT    7146
+---------------------------------------------------------------------------

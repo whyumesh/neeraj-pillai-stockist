@@ -1,0 +1,30 @@
+
+                  R.M.AGENCIES                 
+From : 01/12/2025                  STOCK AND  SALES STATEMENT                 Date : 01/01/2026
+To   : 31/12/2025                                                             Time : 11:25:27
+Company Name : NOVONORDISK                                                    Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+BM38   ACTRAPID FLEXIPEN        1'S           0          0        0        0        0       0.00
+BM46   ACTRAPID HM PENFIL       BOX           0          0        0        0        0       0.00
+BM25   HUMAN ACTRAPID 40        10ML         10        270      280      250       30    4571.10
+BM16   HUMAN INSULATARD         10 ML        25         30       55       31       24    3656.88
+BM9    HUMAN MIXTARD 100 U      10 ML         0         30       30       20       10    4584.00
+BM34   HUMAN MIXTARD 50         40 I.U       36         30       66       36       30    7365.90
+BM13   HUMAN MIXTARD VIAL       10 ML        12       1080     1092      862      230   35045.10
+BM27   INSULATARD FLEXPEN       1'S           0          0        0        0        0       0.00
+BM11   INSULATARD HM PENFIL     5X1'S         0          0        0        0        0       0.00
+BM28   LEVEMIR FLEXIPEN         1'S           1          0        1        1        0       0.00
+BM48   MIXTARD 30 FLEXPEN       1'S           0          0        0        0        0       0.00
+BM14   MIXTARD 30HM PENFIL      5*3ML         0          0        0        0        0       0.00
+BM1    MIXTARD 50HM PENFIL      5*3ML         0          0        0        0        0       0.00
+BM32   NOVOFINE 31G NEEDLES     1'S           0       2000     2000     1300      700    9590.00
+BP16   NOVOFINE 32G NEEDLES     1'S         225          0      225      225        0       0.00
+BM37   NOVONORM 0.5MG           30'S          0          0        0        0        0       0.00
+BM18   NOVOPEN-4                1'S           0          8        8        5        3    3372.75
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.       20,730.83   Sales Value   Rs.     2,20,327.60
+ Receipt Value Rs.     2,67,782.50   Closing Value Rs.       68,185.73
+------------------------------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+CH
+      SRI LAKSHMI SUVARCHALA MEDICAL AGENCIES
+E                                Stock & Sales Statement With ComGroupF
+From 01/12/2025 To 31/12/2025                                                            Page : 1
+Com Group :ABBOTT INDIA LIMITED(LENBROOK)
+----------------------------------------------------------------------------------------------------
+Age Product Name                 Pack     O.Stk    Purc      Tot    Sale     Qoh        Value
+----------------------------------------------------------------------------------------------------
+Company :ABB H C ( NEURO LIFE )              
+-------------------------------
+  15 EPTOIN 100MG TAB             120`S       68     144      212     123      89     14451.11 
+  51 EPTOIN 300 ER                30'S        14       0       14       7       7      1060.38 
+ 201 EPTOIN 50MG TAB              150'S       10       0       10       3       7       666.79 
+  96 EPTOIN INJ                   2ML         60       0       60      60       0         0.00 
+ 587 EPTOIN SUSP                  200ML        0       0        0       0       0         0.00 
+   9 INDERAL 10MG                 15`S        40      80      120      66      54       814.21 
+   9 INDERAL 20MG                 15'S        40      80      120      62      58      2137.59 
+   9 INDERAL 40MG                 15'S        46      40       86      50      36      1336.23 
+   9 INDERAL LA 20MG              15`S         9      20       29      13      16       629.16 
+  21 INDERAL LA 40MG              15`S        12      10       22       5      17       631.00 
+  10 INDERAL-F 10MG               10           0      10       10       0      10       964.11 
+  17 PROTHIADEN 25MG TAB          15`S        20      10       30      30       0         0.00 
+  37 PROTHIADEN 50MG              15`S        14       0       14       9       5      1430.99 
+  37 PROTHIADEN 75MG TAB          15'S        17       0       17       8       9      2726.14 
+ 100 PROTHIADEN M50               15`S        13       0       13       0      13      3059.37 
+  17 PROTHIADEN-M 75              15'S         8      10       18      13       5      1583.45 
+ 120 SNAPIT TAB                   2'S         14       0       14      10       4       415.25 
+  10 VERTIN 16MG                  15`S        55      80      135     118      17      4968.73 
+  24 VERTIN 24MG                  15`S        25      10       35      24      11      4197.50 
+   6 VERTIN 8MG                   15`S        41      20       61      39      22      3490.41 
+ 961 VERTIN DT 16MG               15'S         0       0        0       0       0         0.00 
+ 133 VERTIN OD 24                 15'S         9       0        9       0       9      3694.95 
+ 210 VERTIN OD 48                 15'S         3       0        3       1       2      1384.61 
+ 937 ZOLFRESH ODT 10MG            15           0       0        0       0       0         0.00 
+ 937 ZOLFRESH ODT 5MG             15           0       0        0       0       0         0.00 
+----------------------------------------------------------------------------------------------------
+Opening Value  :    76248.23 Sale Value    :    92740.34 
+Purchase Value :    66134.10 Closing Value :    49641.99 
+----------------------------------------------------------------------------------------------------
+

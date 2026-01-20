@@ -3,6 +3,7 @@ Stock & Sales Report data extractor
 """
 import re
 from typing import Dict, List, Any, Optional
+from pathlib import Path
 import logging
 import pdfplumber
 
@@ -44,27 +45,138 @@ class StockSalesExtractor:
     
     def extract_from_pdf(self, pdf_path: str) -> Dict[str, Any]:
         """
-        Extract from PDF using pdfplumber with multiple strategies
+        Extract from PDF using multi-strategy pipeline with 7 fallback strategies
+        
+        Strategies:
+        1. pdfplumber table extraction (lines_strict)
+        2. pdfplumber table extraction (text-based)
+        3. pdfplumber default table extraction
+        4. Text-based line parsing
+        5. OCR-enhanced extraction (for scanned PDFs)
+        6. Pattern-based extraction (regex patterns)
+        7. Manual table detection (detect boundaries from text)
         
         Args:
             pdf_path: Path to PDF file
             
         Returns:
-            Dictionary with extracted data
+            Dictionary with extracted data and diagnostics
         """
+        import time
+        start_time = time.time()
+        
+        diagnostics = {
+            "strategies_tried": [],
+            "strategies_succeeded": [],
+            "strategies_failed": [],
+            "text_length": 0,
+            "tables_detected": 0,
+            "extraction_time_seconds": 0.0
+        }
+        
         try:
-            with pdfplumber.open(pdf_path) as pdf:
+            # Base result structure
+            base_result = {
+                "sections": [],
+                "period": None,
+                "items": [],
+                "diagnostics": diagnostics
+            }
+            
+            # Strategy results storage
+            strategy_results = []
+            
+            # Try to open PDF
+            # Try to open PDF with error handling for various PDF issues
+            pdf = None
+            try:
+                pdf = pdfplumber.open(pdf_path)
+            except Exception as e:
+                error_msg = str(e).lower()
+                
+                # Check for specific PDF issues
+                if "password" in error_msg or "encrypted" in error_msg:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": "pdf_open",
+                        "error": "Password-protected PDF",
+                        "suggestion": "PDF is password-protected. Please provide password or decrypt the PDF."
+                    })
+                    logger.error(f"Password-protected PDF: {pdf_path}")
+                elif "corrupted" in error_msg or "invalid" in error_msg:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": "pdf_open",
+                        "error": "Corrupted PDF",
+                        "suggestion": "PDF file appears to be corrupted. Try re-saving or re-creating the PDF."
+                    })
+                    logger.error(f"Corrupted PDF: {pdf_path}")
+                else:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": "pdf_open",
+                        "error": str(e)
+                    })
+                    logger.error(f"Failed to open PDF {pdf_path}: {e}")
+                
+                return base_result
+            
+            try:
                 text = ""
                 all_tables = []
+                is_scanned = False
                 
-                for page in pdf.pages:
+                # Extract text from all pages with rotation detection
+                for page_num, page in enumerate(pdf.pages):
+                    try:
+                        # Check for rotation
+                        rotation = page.rotation if hasattr(page, 'rotation') else 0
+                        if rotation != 0:
+                            logger.debug(f"Page {page_num + 1} has rotation: {rotation} degrees")
+                            diagnostics["rotation_detected"] = True
+                            diagnostics["rotation_degrees"] = rotation
+                        
+                        # Extract text
                     page_text = page.extract_text()
                     if page_text:
                         text += page_text + "\n"
-                    
-                    # Strategy 1: Try strict line-based table extraction
-                    page_tables = []
-                    try:
+                        else:
+                            # No text extracted - might be image-based or scanned
+                            logger.debug(f"Page {page_num + 1} extracted no text - may be image-based")
+                    except Exception as e:
+                        logger.warning(f"Error extracting text from page {page_num + 1}: {e}")
+                        diagnostics["strategies_failed"].append({
+                            "strategy": f"page_{page_num + 1}_extraction",
+                            "error": str(e)
+                        })
+                
+                diagnostics["text_length"] = len(text)
+                diagnostics["page_count"] = len(pdf.pages)
+                
+                # Detect if PDF is scanned (very little text)
+                if len(text.strip()) < 200:
+                    is_scanned = True
+                    logger.info(f"PDF appears to be scanned (text length: {len(text)})")
+                    diagnostics["pdf_type"] = "scanned"
+                elif len(text.strip()) < 500:
+                    diagnostics["pdf_type"] = "possibly_scanned"
+                else:
+                    diagnostics["pdf_type"] = "digital"
+                
+                # Detect multi-column layout (check for patterns that suggest columns)
+                if text:
+                    # Look for patterns that suggest multi-column layout
+                    lines = text.split('\n')
+                    long_lines = [l for l in lines if len(l) > 80]
+                    if len(long_lines) < len(lines) * 0.3:
+                        diagnostics["layout"] = "possibly_multi_column"
+                        logger.debug("PDF may have multi-column layout")
+                    else:
+                        diagnostics["layout"] = "single_column"
+                
+                # STRATEGY 1: pdfplumber lines_strict table extraction
+                strategy_name = "pdfplumber_lines_strict"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    all_tables_strategy1 = []
+                    for page in pdf.pages:
                         page_tables = page.extract_tables(table_settings={
                             "vertical_strategy": "lines_strict",
                             "horizontal_strategy": "lines_strict",
@@ -72,83 +184,282 @@ class StockSalesExtractor:
                             "join_tolerance": 3
                         })
                         if page_tables:
-                            all_tables.extend(page_tables)
-                            logger.debug(f"Found {len(page_tables)} tables using lines_strict strategy")
-                    except Exception as e:
-                        logger.debug(f"lines_strict strategy failed: {e}")
+                            all_tables_strategy1.extend(page_tables)
                     
-                    # Strategy 2: Try text-based (if Strategy 1 failed)
-                    if not page_tables:
-                        try:
+                    if all_tables_strategy1:
+                        valid_tables = self._validate_tables(all_tables_strategy1)
+                        if valid_tables:
+                            items = self._extract_items_from_tables(valid_tables, text)
+                            if items:
+                                strategy_results.append({
+                                    "strategy": strategy_name,
+                                    "items": items,
+                                    "count": len(items),
+                                    "tables_used": len(valid_tables)
+                                })
+                                diagnostics["strategies_succeeded"].append(strategy_name)
+                                logger.info(f"Strategy 1 ({strategy_name}): Extracted {len(items)} items from {len(valid_tables)} tables")
+                        else:
+                            diagnostics["strategies_failed"].append({
+                                "strategy": strategy_name,
+                                "reason": "No valid tables found"
+                            })
+                    else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No tables detected"
+                        })
+                    except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 1 ({strategy_name}) failed: {e}")
+                
+                # STRATEGY 2: pdfplumber text-based table extraction
+                strategy_name = "pdfplumber_text_based"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    all_tables_strategy2 = []
+                    for page in pdf.pages:
                             page_tables = page.extract_tables(table_settings={
                                 "vertical_strategy": "text",
                                 "horizontal_strategy": "text"
                             })
                             if page_tables:
-                                all_tables.extend(page_tables)
-                                logger.debug(f"Found {len(page_tables)} tables using text strategy")
-                        except Exception as e:
-                            logger.debug(f"text strategy failed: {e}")
+                            all_tables_strategy2.extend(page_tables)
                     
-                    # Strategy 3: Try default (if both failed)
-                    if not page_tables:
-                        try:
+                    if all_tables_strategy2:
+                        valid_tables = self._validate_tables(all_tables_strategy2)
+                        if valid_tables:
+                            items = self._extract_items_from_tables(valid_tables, text)
+                            if items:
+                                strategy_results.append({
+                                    "strategy": strategy_name,
+                                    "items": items,
+                                    "count": len(items),
+                                    "tables_used": len(valid_tables)
+                                })
+                                diagnostics["strategies_succeeded"].append(strategy_name)
+                                logger.info(f"Strategy 2 ({strategy_name}): Extracted {len(items)} items from {len(valid_tables)} tables")
+                        else:
+                            diagnostics["strategies_failed"].append({
+                                "strategy": strategy_name,
+                                "reason": "No valid tables found"
+                            })
+                    else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No tables detected"
+                        })
+                        except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 2 ({strategy_name}) failed: {e}")
+                
+                # STRATEGY 3: pdfplumber default table extraction
+                strategy_name = "pdfplumber_default"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    all_tables_strategy3 = []
+                    for page in pdf.pages:
                             page_tables = page.extract_tables()
                             if page_tables:
-                                all_tables.extend(page_tables)
-                                logger.debug(f"Found {len(page_tables)} tables using default strategy")
-                        except Exception as e:
-                            logger.debug(f"default strategy failed: {e}")
-                
-                # Extract sections and period from text
-                result = {
-                    "sections": self._extract_sections(text),
-                    "period": self._extract_period(text),
-                    "items": []
-                }
-                
-                # Extract items - try tables first, then fallback to text
-                items_from_table = []
-                if all_tables:
-                    # Validate table structure - if table has very few columns, it's likely malformed
-                    valid_tables = []
-                    for table in all_tables:
-                        if table and len(table) > 2:
-                            # Check if table has reasonable number of columns (at least 3)
-                            max_cols = max(len(row) for row in table if row) if table else 0
-                            if max_cols >= 3:
-                                valid_tables.append(table)
+                            all_tables_strategy3.extend(page_tables)
                     
-                    if valid_tables:
-                        items_from_table = self._extract_items_from_tables(valid_tables, text)
-                        if items_from_table:
-                            logger.info(f"Extracted {len(items_from_table)} items from {len(valid_tables)} valid tables")
+                    if all_tables_strategy3:
+                        valid_tables = self._validate_tables(all_tables_strategy3)
+                        if valid_tables:
+                            items = self._extract_items_from_tables(valid_tables, text)
+                            if items:
+                                strategy_results.append({
+                                    "strategy": strategy_name,
+                                    "items": items,
+                                    "count": len(items),
+                                    "tables_used": len(valid_tables)
+                                })
+                                diagnostics["strategies_succeeded"].append(strategy_name)
+                                logger.info(f"Strategy 3 ({strategy_name}): Extracted {len(items)} items from {len(valid_tables)} tables")
+                        else:
+                            diagnostics["strategies_failed"].append({
+                                "strategy": strategy_name,
+                                "reason": "No valid tables found"
+                            })
+                    else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No tables detected"
+                        })
+                        except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 3 ({strategy_name}) failed: {e}")
                 
-                # Always try text-based extraction (for space-delimited formats)
-                items_from_text = self._extract_items(text)
-                if items_from_text:
-                    logger.info(f"Extracted {len(items_from_text)} items from text")
+                # STRATEGY 4: Text-based line parsing (current method)
+                strategy_name = "text_based_parsing"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    items = self._extract_items(text)
+                    if items:
+                        strategy_results.append({
+                            "strategy": strategy_name,
+                            "items": items,
+                            "count": len(items),
+                            "tables_used": 0
+                        })
+                        diagnostics["strategies_succeeded"].append(strategy_name)
+                        logger.info(f"Strategy 4 ({strategy_name}): Extracted {len(items)} items from text")
+                    else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No items found in text"
+                        })
+                except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 4 ({strategy_name}) failed: {e}")
                 
-                # Use text-based extraction if it found more items, or if table extraction found very few
-                # Text-based is more reliable for space-delimited formats
-                if items_from_text and len(items_from_text) >= 3:
-                    result["items"] = items_from_text
-                elif items_from_table and len(items_from_table) > len(items_from_text):
-                    result["items"] = items_from_table
+                # STRATEGY 5: OCR-enhanced extraction (for scanned PDFs)
+                strategy_name = "ocr_enhanced"
+                diagnostics["strategies_tried"].append(strategy_name)
+                if is_scanned or len(text.strip()) < 500:
+                    try:
+                        from ..ocr_processor import OCRProcessor
+                        from ..config_loader import ConfigLoader
+                        ocr_processor = OCRProcessor(ConfigLoader())
+                        ocr_text, _, _ = ocr_processor.extract_text_from_pdf(Path(pdf_path))
+                        
+                        if ocr_text and len(ocr_text) > len(text):
+                            # Try extraction with OCR text
+                            items_ocr = self._extract_items(ocr_text)
+                            if items_ocr:
+                                strategy_results.append({
+                                    "strategy": strategy_name,
+                                    "items": items_ocr,
+                                    "count": len(items_ocr),
+                                    "tables_used": 0
+                                })
+                                diagnostics["strategies_succeeded"].append(strategy_name)
+                                logger.info(f"Strategy 5 ({strategy_name}): Extracted {len(items_ocr)} items using OCR")
+                                text = ocr_text  # Use OCR text for further processing
+                            else:
+                                diagnostics["strategies_failed"].append({
+                                    "strategy": strategy_name,
+                                    "reason": "OCR text extracted but no items found"
+                                })
+                        else:
+                            diagnostics["strategies_failed"].append({
+                                "strategy": strategy_name,
+                                "reason": "OCR did not improve text extraction"
+                            })
+                    except Exception as e:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "error": str(e)
+                        })
+                        logger.debug(f"Strategy 5 ({strategy_name}) failed: {e}")
                 else:
-                    result["items"] = items_from_text if items_from_text else items_from_table
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "reason": "PDF does not appear to be scanned"
+                    })
+                
+                # STRATEGY 6: Pattern-based extraction (regex patterns)
+                strategy_name = "pattern_based"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    items = self._extract_items_pattern_based(text)
+                    if items:
+                        strategy_results.append({
+                            "strategy": strategy_name,
+                            "items": items,
+                            "count": len(items),
+                            "tables_used": 0
+                        })
+                        diagnostics["strategies_succeeded"].append(strategy_name)
+                        logger.info(f"Strategy 6 ({strategy_name}): Extracted {len(items)} items using pattern matching")
+                    else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No items matched patterns"
+                        })
+                except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 6 ({strategy_name}) failed: {e}")
+                
+                # STRATEGY 7: Manual table detection
+                strategy_name = "manual_table_detection"
+                diagnostics["strategies_tried"].append(strategy_name)
+                try:
+                    items = self._extract_items_manual_detection(text)
+                    if items:
+                        strategy_results.append({
+                            "strategy": strategy_name,
+                            "items": items,
+                            "count": len(items),
+                            "tables_used": 0
+                        })
+                        diagnostics["strategies_succeeded"].append(strategy_name)
+                        logger.info(f"Strategy 7 ({strategy_name}): Extracted {len(items)} items using manual detection")
+                else:
+                        diagnostics["strategies_failed"].append({
+                            "strategy": strategy_name,
+                            "reason": "No table boundaries detected"
+                        })
+                except Exception as e:
+                    diagnostics["strategies_failed"].append({
+                        "strategy": strategy_name,
+                        "error": str(e)
+                    })
+                    logger.debug(f"Strategy 7 ({strategy_name}) failed: {e}")
+                
+                # Select best result
+                best_result = self._select_best_extraction(strategy_results)
+                
+                # Extract sections and period
+                base_result["sections"] = self._extract_sections(text)
+                base_result["period"] = self._extract_period(text)
+                base_result["items"] = best_result.get("items", [])
+                base_result["diagnostics"] = diagnostics
+                base_result["diagnostics"]["best_strategy"] = best_result.get("strategy", "none")
+                base_result["diagnostics"]["extraction_time_seconds"] = time.time() - start_time
+                
+                # Update diagnostics with table count
+                all_tables_combined = []
+                for page in pdf.pages:
+                    try:
+                        tables = page.extract_tables()
+                        if tables:
+                            all_tables_combined.extend(tables)
+                    except:
+                        pass
+                diagnostics["tables_detected"] = len(all_tables_combined)
                 
                 # Validate extraction
-                self._validate_extraction(result, pdf_path, len(text))
+                self._validate_extraction(base_result, pdf_path, len(text))
                 
-                return result
+                return base_result
+                
+            finally:
+                pdf.close()
+                
         except Exception as e:
             logger.error(f"Error extracting from PDF {pdf_path}: {e}", exc_info=True)
-            return {
-                "sections": [],
-                "period": None,
-                "items": []
-            }
+            diagnostics["strategies_failed"].append({
+                "strategy": "overall",
+                "error": str(e)
+            })
+            base_result["diagnostics"] = diagnostics
+            return base_result
     
     def _extract_sections(self, text: str) -> List[str]:
         """Extract section headers"""
@@ -184,9 +495,14 @@ class StockSalesExtractor:
     
     def _extract_items(self, text: str) -> List[Dict[str, Any]]:
         """
-        Extract items with stock quantities - IMPROVED PARSING
+        Extract items with stock quantities - ENHANCED PARSING
         
-        Handles space-delimited format where data is in fixed positions
+        Handles multiple formats:
+        - Space-delimited format (fixed positions)
+        - Tab-separated values
+        - Comma-separated values
+        - Multi-line item descriptions
+        - Items spanning multiple lines
         """
         items = []
         lines = text.split('\n')
@@ -195,6 +511,11 @@ class StockSalesExtractor:
         current_section = "UNSPECIFIED"
         header_line_idx = None
         sub_header_line_idx = None
+        multi_line_item_buffer = []  # For handling multi-line items
+        
+        # Detect format type (tab, comma, or space-delimited)
+        format_type = self._detect_format_type(lines)
+        logger.debug(f"Detected format type: {format_type}")
         
         # First pass: find header structure
         for i, line in enumerate(lines):
@@ -204,6 +525,13 @@ class StockSalesExtractor:
             section_match = re.match(r'^[A-Z][A-Z0-9 \-\.\&/]+?\(([A-Z0-9 \-\.\&/]+)\)\s*$', line_stripped)
             if section_match:
                 current_section = section_match.group(1).strip()
+                # Flush any buffered multi-line item
+                if multi_line_item_buffer:
+                    item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                    if item:
+                        item["section"] = current_section
+                        items.append(item)
+                    multi_line_item_buffer = []
                 continue
             
             # Detect main header row (ITEM DESCRIPTION OPENING RECEIPT...)
@@ -211,6 +539,13 @@ class StockSalesExtractor:
                re.search(r'opening|receipt|issue|closing', line_stripped, re.IGNORECASE):
                 header_line_idx = i
                 in_items_block = True
+                # Flush any buffered multi-line item
+                if multi_line_item_buffer:
+                    item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                    if item:
+                        item["section"] = current_section
+                        items.append(item)
+                    multi_line_item_buffer = []
                 continue
             
             # Detect sub-header row (QTY. VALUE QTY. VALUE...)
@@ -224,6 +559,13 @@ class StockSalesExtractor:
             # Stop on separator lines or TOTAL
             if re.match(r'^[-=]+$', line_stripped) or re.match(r'^\s*total\b', line_stripped, re.IGNORECASE):
                 if in_items_block and header_line_idx is not None:
+                    # Flush any buffered multi-line item before stopping
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     # We're past headers, data should start next
                     continue
                 else:
@@ -234,68 +576,205 @@ class StockSalesExtractor:
             if in_items_block and header_line_idx is not None and i > (sub_header_line_idx or header_line_idx):
                 # Skip empty lines
                 if not line_stripped or len(line_stripped) < 10:
+                    # If we have a buffered item, this might be continuation
+                    if multi_line_item_buffer:
+                        multi_line_item_buffer.append(line_stripped)
                     continue
                 
                 # Skip lines that look like headers, metadata, or separators
                 if re.search(r'phone|gstin|stock.*sales|analysis|super.*market|enterprise|mittal|moga|punjab', line_stripped, re.IGNORECASE):
+                    # Flush buffer if we hit metadata
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     continue
                 
                 # Skip separator lines
                 if re.match(r'^[-=_\s]+$', line_stripped):
+                    # Flush buffer on separator
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     continue
                 
                 # Skip TOTAL rows (all caps with "TOTAL" keyword)
                 if re.search(r'^\s*TOTAL\b', line_stripped, re.IGNORECASE):
+                    # Flush buffer on total
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     continue
                 
-                # Skip section headers - lines that are ALL CAPS, short (less than 50 chars), and have no numbers
-                # Section headers like "ABBOTT GASTO", "ABBOTT HEALTHCARE" are usually short and all caps
+                # Validate line has enough numeric values (at least 3 to be a valid item row)
+                # Count numeric tokens in the line
+                numeric_count = len(re.findall(r'\b[\d,.\-]+\b', line_stripped))
+                
+                # Skip section headers - lines that are ALL CAPS, short (less than 30 chars), and have no numbers
                 if (line_stripped.isupper() and 
-                    len(line_stripped) < 50 and 
+                    len(line_stripped) < 30 and
                     not re.search(r'\d', line_stripped) and
-                    not re.search(r'[a-z]', line_stripped)):
-                    # This might be a section header - try to extract section name
-                    # But don't add it as an item
+                    not re.search(r'[a-z]', line_stripped) and
+                    numeric_count == 0):
+                    # Flush buffer on section header
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     if not re.search(r'\b(TOTAL|SUMMARY|GRAND)\b', line_stripped, re.IGNORECASE):
-                        # Update current section if it looks like a section name
                         potential_section = line_stripped.strip()
-                        if len(potential_section) > 3:  # Reasonable section name length
+                        if len(potential_section) > 3:
                             current_section = potential_section
                     continue
                 
                 # Skip section headers (all caps with parentheses)
                 if re.match(r'^[A-Z][A-Z0-9 \-\.\&/]+?\([A-Z0-9 \-\.\&/]+\)\s*$', line_stripped):
-                    # This is a section header, update current section
+                    # Flush buffer on section header
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
                     section_match = re.match(r'^[A-Z][A-Z0-9 \-\.\&/]+?\(([A-Z0-9 \-\.\&/]+)\)\s*$', line_stripped)
                     if section_match:
                         current_section = section_match.group(1).strip()
                     continue
                 
-                # Validate line has enough numeric values (at least 5-6 to be a valid item row)
-                # Count numeric tokens in the line
-                numeric_count = len(re.findall(r'\b[\d,.\-]+\b', line_stripped))
-                if numeric_count < 5:
-                    # Not enough numeric values - likely not an item row
-                    continue
-                
-                # Parse the item line
+                # Check if this line looks like a complete item or continuation
+                # If line has many numeric values, it's likely a complete item
+                # If it has few numeric values but has text, it might be continuation
+                if numeric_count >= 3:
+                    # This looks like a complete item line
+                    # Flush any buffered item first
+                    if multi_line_item_buffer:
+                        item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+                        if item:
+                            item["section"] = current_section
+                            items.append(item)
+                        multi_line_item_buffer = []
+                    
+                    # Parse based on format type
+                    if format_type == "tab":
+                        item = self._parse_tab_separated_line(line_stripped)
+                    elif format_type == "comma":
+                        item = self._parse_comma_separated_line(line_stripped)
+                    else:
                 item = self._parse_item_line_improved(line_stripped, lines[header_line_idx] if header_line_idx else None)
+                    
                 if item and (item.get("Item Description") or item.get("item_description")):
-                    # Additional validation: item description should not be too short or all caps single word
                     desc = item.get("Item Description") or item.get("item_description", "")
                     if desc:
-                        # Skip if description is a single all-caps word (likely a section header)
                         desc_parts = desc.split()
                         if len(desc_parts) == 1 and desc.isupper() and len(desc) < 30:
                             continue
-                        # Skip if description looks like a section header pattern
-                        if re.match(r'^[A-Z\s]+$', desc) and len(desc) < 50 and not re.search(r'\d', desc):
+                            if (re.match(r'^[A-Z\s]+$', desc) and 
+                                len(desc) < 30 and
+                                not re.search(r'\d', desc) and
+                                numeric_count == 0):
+                                logger.debug(f"Skipping potential section header as item: {desc}")
                             continue
                     
+                        item["section"] = current_section
+                        items.append(item)
+                elif numeric_count > 0 or (len(line_stripped) > 20 and not line_stripped.isupper()):
+                    # This might be a continuation line (part of multi-line item)
+                    multi_line_item_buffer.append(line_stripped)
+                else:
+                    # Not enough numeric values - likely not an item row
+                    logger.debug(f"Skipping line with {numeric_count} numeric values (minimum 3 required): {line_stripped[:100]}")
+                    # Flush buffer if we hit invalid line
+                    if multi_line_item_buffer:
+                        multi_line_item_buffer = []
+        
+        # Flush any remaining buffered item at end
+        if multi_line_item_buffer:
+            item = self._parse_multi_line_item(multi_line_item_buffer, format_type)
+            if item:
                     item["section"] = current_section
                     items.append(item)
         
         return items
+    
+    def _detect_format_type(self, lines: List[str]) -> str:
+        """Detect if format is tab-separated, comma-separated, or space-delimited"""
+        tab_count = 0
+        comma_count = 0
+        
+        for line in lines[:50]:  # Check first 50 lines
+            if '\t' in line:
+                tab_count += line.count('\t')
+            if ',' in line and line.count(',') >= 3:
+                comma_count += 1
+        
+        if tab_count > 20:
+            return "tab"
+        elif comma_count > 5:
+            return "comma"
+        else:
+            return "space"
+    
+    def _parse_tab_separated_line(self, line: str) -> Optional[Dict[str, Any]]:
+        """Parse tab-separated item line"""
+        parts = line.split('\t')
+        if len(parts) < 4:
+            return None
+        
+        # First part is usually item description
+        item_name = parts[0].strip()
+        numeric_parts = [p.strip() for p in parts[1:] if p.strip()]
+        
+        # Extract numeric values
+        numeric_values = []
+        for part in numeric_parts:
+            if re.match(r'^[\d,.\-]+$', part.replace(',', '').replace('-', '')):
+                numeric_values.append(part)
+            if len(numeric_values) >= 9:
+                break
+        
+        return self._create_item_from_parts(item_name, numeric_values)
+    
+    def _parse_comma_separated_line(self, line: str) -> Optional[Dict[str, Any]]:
+        """Parse comma-separated item line"""
+        parts = [p.strip() for p in line.split(',')]
+        if len(parts) < 4:
+            return None
+        
+        # First part is usually item description
+        item_name = parts[0].strip()
+        numeric_parts = parts[1:]
+        
+        # Extract numeric values
+        numeric_values = []
+        for part in numeric_parts:
+            cleaned = part.replace(',', '').strip()
+            if re.match(r'^[\d,.\-]+$', cleaned.replace('-', '')):
+                numeric_values.append(cleaned)
+            if len(numeric_values) >= 9:
+                break
+        
+        return self._create_item_from_parts(item_name, numeric_values)
+    
+    def _parse_multi_line_item(self, lines: List[str], format_type: str) -> Optional[Dict[str, Any]]:
+        """Parse item that spans multiple lines"""
+        combined_line = " ".join(lines)
+        
+        if format_type == "tab":
+            return self._parse_tab_separated_line(combined_line)
+        elif format_type == "comma":
+            return self._parse_comma_separated_line(combined_line)
+        else:
+            return self._parse_item_line_improved(combined_line, None)
     
     def _parse_header_structure(self, main_header: str, sub_header: Optional[str] = None) -> List[str]:
         """Parse header structure to understand column layout"""
@@ -779,24 +1258,217 @@ class StockSalesExtractor:
                 return i
         return None
     
+    def _validate_tables(self, tables: List) -> List:
+        """Validate and filter tables"""
+        valid_tables = []
+        for table in tables:
+            if table and len(table) > 2:
+                max_cols = max(len(row) for row in table if row) if table else 0
+                if max_cols >= 3:
+                    valid_tables.append(table)
+        return valid_tables
+    
+    def _select_best_extraction(self, strategy_results: List[Dict]) -> Dict:
+        """Select best extraction result from multiple strategies"""
+        if not strategy_results:
+            return {"strategy": "none", "items": []}
+        
+        # Sort by item count (descending)
+        strategy_results.sort(key=lambda x: x.get("count", 0), reverse=True)
+        
+        # Prefer strategies with more items
+        best = strategy_results[0]
+        
+        # If multiple strategies found similar counts, prefer table-based over text-based
+        if len(strategy_results) > 1:
+            best_count = best.get("count", 0)
+            for result in strategy_results:
+                if result.get("count", 0) == best_count:
+                    # Prefer table-based strategies
+                    if "pdfplumber" in result.get("strategy", ""):
+                        best = result
+                        break
+        
+        return best
+    
+    def _extract_items_pattern_based(self, text: str) -> List[Dict[str, Any]]:
+        """
+        Strategy 6: Pattern-based extraction using regex patterns
+        
+        Looks for common patterns in stock reports:
+        - Item name followed by numeric values
+        - Tab-separated or comma-separated formats
+        - Multi-line item descriptions
+        """
+        items = []
+        lines = text.split('\n')
+        
+        # Pattern: Item description followed by 3+ numeric values
+        # Format variations: tab-separated, comma-separated, space-separated
+        item_patterns = [
+            # Tab-separated: ITEM_NAME\tNUM\tNUM\tNUM...
+            r'^([^\t]+)\t+([\d,.\-]+\s+){3,}',
+            # Comma-separated: ITEM_NAME,NUM,NUM,NUM...
+            r'^([^,]+),([\d,.\-]+,){3,}',
+            # Space-separated with unit: ITEM_NAME UNIT NUM NUM NUM...
+            r'^([A-Z][A-Z0-9\s]+?)\s+(PCS|CS|BOX|STRIP|TAB)\s+([\d,.\-]+\s+){3,}',
+        ]
+        
+        for line in lines:
+            line_stripped = line.strip()
+            if not line_stripped or len(line_stripped) < 10:
+                continue
+            
+            # Skip headers, totals, separators
+            if re.search(r'item\s+description|total|summary|^[-=]+$', line_stripped, re.IGNORECASE):
+                continue
+            
+            # Try tab-separated format
+            if '\t' in line_stripped:
+                parts = line_stripped.split('\t')
+                if len(parts) >= 4:  # At least item name + 3 numeric values
+                    numeric_parts = [p for p in parts[1:] if re.match(r'^[\d,.\-]+$', p.strip().replace(',', '').replace('-', ''))]
+                    if len(numeric_parts) >= 3:
+                        item = self._create_item_from_parts(parts[0], numeric_parts)
+                        if item:
+                            items.append(item)
+                        continue
+            
+            # Try comma-separated format
+            if ',' in line_stripped and line_stripped.count(',') >= 3:
+                parts = [p.strip() for p in line_stripped.split(',')]
+                if len(parts) >= 4:
+                    numeric_parts = [p for p in parts[1:] if re.match(r'^[\d,.\-]+$', p.replace(',', '').replace('-', ''))]
+                    if len(numeric_parts) >= 3:
+                        item = self._create_item_from_parts(parts[0], numeric_parts)
+                        if item:
+                            items.append(item)
+                        continue
+            
+            # Try pattern matching
+            for pattern in item_patterns:
+                match = re.match(pattern, line_stripped, re.IGNORECASE)
+                if match:
+                    item_name = match.group(1).strip()
+                    # Extract numeric values from the rest of the line
+                    numeric_values = re.findall(r'[\d,.\-]+', line_stripped[len(item_name):])
+                    if len(numeric_values) >= 3:
+                        item = self._create_item_from_parts(item_name, numeric_values)
+                        if item:
+                            items.append(item)
+                            break
+        
+        return items
+    
+    def _extract_items_manual_detection(self, text: str) -> List[Dict[str, Any]]:
+        """
+        Strategy 7: Manual table detection by finding table boundaries
+        
+        Detects tables by:
+        - Finding header rows
+        - Identifying column boundaries from spacing
+        - Extracting rows between headers and totals
+        """
+        items = []
+        lines = text.split('\n')
+        
+        # Find header row
+        header_idx = None
+        for i, line in enumerate(lines):
+            if re.search(r'item\s+description', line, re.IGNORECASE) and \
+               re.search(r'opening|receipt|issue|closing', line, re.IGNORECASE):
+                header_idx = i
+                break
+        
+        if header_idx is None:
+            return items
+        
+        # Find column boundaries from header (assume space-separated)
+        header_line = lines[header_idx]
+        # Split header by multiple spaces to find columns
+        header_parts = re.split(r'\s{2,}', header_line.strip())
+        
+        # Extract data rows after header
+        for i in range(header_idx + 1, len(lines)):
+            line = lines[i].strip()
+            
+            # Stop at totals
+            if re.search(r'^\s*total\b', line, re.IGNORECASE):
+                break
+            
+            # Skip empty lines, separators
+            if not line or re.match(r'^[-=_\s]+$', line):
+                continue
+            
+            # Try to parse as item row
+            # Split by multiple spaces (preserving column alignment)
+            parts = re.split(r'\s{2,}', line)
+            
+            if len(parts) >= 4:  # At least item name + 3 values
+                # Find where numeric values start
+                numeric_start = None
+                for j, part in enumerate(parts):
+                    if re.match(r'^[\d,.\-]+$', part.strip().replace(',', '').replace('-', '')):
+                        numeric_start = j
+                        break
+                
+                if numeric_start and numeric_start > 0:
+                    item_name = " ".join(parts[:numeric_start])
+                    numeric_values = [p.strip() for p in parts[numeric_start:numeric_start+9]]
+                    
+                    if len(numeric_values) >= 3:
+                        item = self._create_item_from_parts(item_name, numeric_values)
+                        if item:
+                            items.append(item)
+        
+        return items
+    
+    def _create_item_from_parts(self, item_name: str, numeric_parts: List[str]) -> Optional[Dict[str, Any]]:
+        """Create item dictionary from item name and numeric parts"""
+        if not item_name or len(item_name.strip()) < 3:
+            return None
+        
+        # Ensure we have at least 9 numeric values (pad with '-' if needed)
+        while len(numeric_parts) < 9:
+            numeric_parts.append('-')
+        numeric_parts = numeric_parts[:9]
+        
+        return {
+            "Item Description": item_name.strip(),
+            "Opening Qty": self._to_number(numeric_parts[0]),
+            "Opening Value": self._to_number(numeric_parts[1]),
+            "Receipt Qty": self._to_number(numeric_parts[2]),
+            "Receipt Value": self._to_number(numeric_parts[3]),
+            "Issue Qty": self._to_number(numeric_parts[4]),
+            "Issue Value": self._to_number(numeric_parts[5]),
+            "Closing Qty": self._to_number(numeric_parts[6]),
+            "Closing Value": self._to_number(numeric_parts[7]),
+            "Dump Qty": self._to_number(numeric_parts[8]),
+            "section": "UNSPECIFIED"
+        }
+    
     def _validate_extraction(self, result: Dict[str, Any], pdf_path: str, text_length: int):
         """Validate extraction results and log warnings"""
         items = result.get("items", [])
         sections = result.get("sections", [])
+        diagnostics = result.get("diagnostics", {})
         
         if not items:
             logger.warning(f"No items extracted from {pdf_path}. Text length: {text_length}")
+            logger.warning(f"Strategies tried: {len(diagnostics.get('strategies_tried', []))}")
+            logger.warning(f"Strategies succeeded: {len(diagnostics.get('strategies_succeeded', []))}")
             if text_length < 100:
                 logger.warning(f"Very short text extracted - PDF may be scanned or corrupted")
         else:
             # Check item quality
-            items_with_desc = sum(1 for item in items if item.get("item_description"))
+            items_with_desc = sum(1 for item in items if item.get("Item Description") or item.get("item_description"))
             avg_columns = sum(len(item.keys()) for item in items) / len(items) if items else 0
             
             logger.info(f"Extraction validation: {len(items)} items, "
                        f"{items_with_desc} with description, "
                        f"{len(sections)} sections, "
                        f"avg {avg_columns:.1f} columns per item")
+            logger.info(f"Best strategy: {diagnostics.get('best_strategy', 'unknown')}")
             
             if items_with_desc < len(items) * 0.5:
                 logger.warning(f"Less than 50% of items have descriptions - extraction may be incomplete")

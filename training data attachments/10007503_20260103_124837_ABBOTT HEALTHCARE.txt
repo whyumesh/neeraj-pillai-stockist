@@ -1,0 +1,72 @@
+@
+         BISHOP  PHARMACEUTICALS  2025-26          
+            MANGALDAI - DARRANG (ASSAM)
+
+Page No.1   Sales & Stock Statement(From 01/12/2025 Upto 31/12/2025) Jan  1,2026
+
+ABBOTT HEALTHCARE PVT LTD(NEW)
+-------------------------------------------------------------------------------
+PRODUCT NAME         HSN      PACKING     Op.Bal.  Receipt    Total    Issue  Closing      MSR 
+                     Code                    Qty.     Qty.     Qty.     Qty.  Balance    Price 
+-------------------------------------------------------------------------------
+INDERAL F10MG        300490   10 S              7        0        7        0        7     0.00 
+ 
+JANUMET 50/1000MG    300490   15'S             23        0       23        4       19     0.00 
+ 
+JANUMET 50/500 MG TA 300490   15'S             44       32       76       38       38     0.00 
+ 
+JANUVIA 100MG TAB 7' 300490   7 'S             21        0       21       10       11     0.00 
+ 
+JANUVIA 50MG TAB     300490   7'S              24        0       24        2       22     0.00 
+ 
+PENTIDS 200MG TAB    300410   10 S             60        0       60        0       60     0.00 
+ 
+QUADRIDERM RF CREAM  300490   10 GM            50        0       50        6       44     0.00 
+ 
+QUADRIDERM RF CREAM  300490   5 gm            248        0      248       42      206     0.00 
+ 
+CREON SD 30GM        300390   30'GM             3        3        6        2        4     0.00 
+ 
+-------------------------------------------------------------------------------
+TOTAL                                       53429    16317    69747    22439    48791          
+-------------------------------------------------------------------------------
+ 
+GRAND TOTAL                                 53429    16317    69747    22439    48791          
+Powered By SwilERP for Retail, Distribution & Chain Stores                  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

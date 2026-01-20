@@ -1,0 +1,36 @@
+CHM
+                SANDEEP PHARMA
+E                                  Company Wise StatementF
+From 01/12/2025 To 31/12/2025                                                  Page : 1
+Company wise Statement
+------------------------------------------------------------------------------------------
+Product Name              Pack      O.Stk    Purc     Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA (GENNEX 
+----------------------------------------
+ARACHITOL 3L INJ.<BOX>    6x1ml       30       0       30       3      27      7069.36   38 
+ARACHITOL 6L INJ.<BOX>    6x1ml      296       0      296       9     287    105122.93  189 
+ARACHITOL GUMMIES                      0       0        0       0       0         0.00    0 
+ARACHITOL KIDS 400IU DROP 15ml         0       0        0       0       0         0.00    0 
+ARACHITOL NANO 60K SOLUTI 4x5ml      205       0      205      15     190     53787.20  189 
+ARACHITOL NANO DAILY 2K                0       0        0       0       0         0.00    0 
+BRUFEN 200 TAB.           15`S        56       0       56       0      56       455.64   78 
+BRUFEN 400 TAB.           20`S       135       0      135     123      12       221.13   38 
+BRUFEN 600 TAB.           15`s        18       0       18       3      15       429.08  121 
+BRUFEN P JR SYP.          100ml        0       0        0       0       0         0.00    0 
+BRUFEN P SYP.             100ml        0       0        0       0       0         0.00    0 
+BRUGEL GEL                30gm         0       0        0       0       0         0.00 1405 
+CITRO-SODA <SHEET>        3x4gm     3906       0     3906       0    3906    241525.56  189 
+CITRO-SODA UTI SACHETS                 0       0        0       0       0         0.00    0 
+DIGECAINE SYP.            200ml        0       0        0       0       0         0.00  373 
+DUVADILAN 10 TAB.         50`S       964       0      964       3     961    158430.94  189 
+DUVADILAN INJ.<SHEET>     6x2ml       10       0       10       0      10      1613.54   38 
+DUVADILAN RETARD CAP.     15`s       490       0      490       0     490    100646.49  189 
+NEFOSAR                                0       0        0       0       0         0.00    0 
+ZOLFRESH 10 TAB.          15s      11273       0    11273     225   11048   1084637.40  189 
+ZOLFRESH 5 TAB.           15`S      1338       0     1338     120    1218     87259.96  189 
+------------------------------------------------------------------------------------------
+Opening Value  :  1803682.51 Sale Value    :    41096.75 
+Purchase Value :        0.00 Closing Value :  1841199.21 
+------------------------------------------------------------------------------------------
+P

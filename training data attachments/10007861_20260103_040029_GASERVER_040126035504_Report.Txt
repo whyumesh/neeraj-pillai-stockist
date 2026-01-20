@@ -1,0 +1,41 @@
+CHM
+                GULAB ASSOCIATES
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing  O.Stk    Purc      Tot    Sale     Qoh        Value  Age
+------------------------------------------------------------------------------------------------
+Company :ABBOTT-INDIA LTD NEU 
+------------------------------------
+EPTOIN 100 MG TABS           120S         0       0        0       0       0         0.00    9 
+EPTOIN 50 MG TABS            150S         0       0        0       0       0         0.00  401 
+EPTOIN INJ                   2ML          0       0        0       0       0         0.00  514 
+EPTOIN SUSP                  200ML        0       0        0       0       0         0.00  173 
+EPTOIN-300 ER TABS           30S          0       0        0       0       0         0.00  401 
+INDERAL 10 TAB               15S         70     440      510     392     118      1779.20    9 
+INDERAL 20 TAB               15S          0       0        0       0       0         0.00  208 
+INDERAL 40MG TAB             15S         32     120      152     116      36      1336.23    5 
+INDERAL LA 40 TABS           15S          6     140      146     106      40      1484.70    9 
+PROTHIADEN 25 MG TABS        15S         52     110      162      77      85     12352.20   11 
+PROTHIADEN 50 TABS           15S         40      30       70      25      45     12722.45    5 
+PROTHIADEN 75 MG TABS        15S          0       0        0       0       0         0.00   93 
+PROTHIADEN M TABS            15S          0       0        0       0       0         0.00 1280 
+SOLSPRE NASAL SPARY          100ML        0       0        0       0       0         0.00    6 
+SURBEX GOLD CAPS             15S          0       0        0       0       0         0.00   29 
+SURBEX-XT TABS               15S          0       0        0       0       0         0.00   13 
+VERTIN 16 TABS               15S         56     660      716     631      85     24843.63    5 
+VERTIN 24 TABS               15S          0     170      170     134      36     13737.28   11 
+VERTIN 8 TABS                15S         75     280      355     261      94     14913.57    8 
+VERTIN DT 8 TABS             15S          0       0        0       0       0         0.00  401 
+VERTIN OD TABS               7S           0       0        0       0       0         0.00  976 
+------------------------------------------------------------------------------------------------
+Opening Value  :        0.00 Sale Value    :   291481.04 
+Purchase Value :   324518.80 Closing Value :    83169.26 
+------------------------------------------------------------------------------------------------
+UnAdjusted Pur.Ret/Debit Notes
+Number     Date        Balance
+------------------------------
+                    ----------
+           Total :        0.00
+                    ----------
+P

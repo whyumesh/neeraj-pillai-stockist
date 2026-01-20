@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT METABOLICS
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+ABOCAL 500 TAB                15`S                                                         
+CABERNORM TAB                  4'S                                                         
+COMBINORM PLUS CAP            15's     11    120    53   89    33 16279.61   44711.87      
+COMBINORM WASH               100ML                                                         
+DIENONORM TAB                 10`S                                                         
+HYTRIN 1 TAB                  10'S     10            2         10  1800.23                 
+HYTRIN 2 TAB                  10'S     16            2         16  4695.10                 
+LINORMA T3 20MG TAB          100`S                                                         
+SURBEX GOLD CAP               15'S     56    180    97  122   103 22853.18   27493.91      
+THYROCAL D3 TAB               30'S                                                         
+THYRONORM 100MCG             120`S    203    360   274  238   323 39260.00   29529.79      
+THYRONORM 112MCG             120'S     15     24    17   18    21  3216.43    2774.27      
+THYRONORM 12.5MCG            120'S     67    240   157  114   190 25952.96   15847.01      
+THYRONORM 125MCG             120`S     63     60    63   66    57  8890.72   10403.10      
+THYRONORM 137MCG             120'S     15     12    10    3    24  4806.90     604.03      
+THYRONORM 150MCG             120`S     34    108    73   52    90 14120.19    8264.97      
+THYRONORM 200 MCG            120`S     14            5    4    10  1811.04     735.96      
+THYRONORM 25MCG              120`S    141    336   231  252   222 29634.00   34071.91      
+THYRONORM 37.5MCG            120`S     22     96    58   27    91 12307.80    3686.82      
+THYRONORM 50MCG              120`S    140    372   247  240   269 25570.20   23179.96      
+THYRONORM 62.5MCG            120`S     20     60    43   19    61  9063.72    2811.27      
+THYRONORM 75MCG              120`S     27    360   192  185   199 26359.04   24843.73      
+THYRONORM 88MCG              120'S     48           27   25    23  3498.61    3842.36      
+THYROWEL  CAPS                10'S                                                         
+THYROWEL PLUS TAB             15`S    129           58   67    62 14419.00   15900.52      
+-------------------------------------------------------------------------------------------
+                                                             1804 264538.7  248701.48      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:150812.46     Sales Val - Prv.Mth: 252966.91  Cur.Mth.Sal:  261136.55  Stk.Val:251941.63     Pur.Val:341299.0     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  261136.55      Stock Value:264538.71                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

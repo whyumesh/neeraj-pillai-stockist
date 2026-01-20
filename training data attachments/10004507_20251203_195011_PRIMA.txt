@@ -1,0 +1,72 @@
+
+
+
+SRI VENKATESWARA PHARMA
+No.4,Bharathidhasan Street,Manjakuppam,Cuddalore-607001
+Stock And Sales Report(Month)
+of Nov2025 for ABBOTT PRIMA
+-------------------------------------------------------------------------------------------
+ProductName                   Pack  OpStk   Rcpt PrvSa Sale Cl.St StockVal  SaleValue Orde 
+-------------------------------------------------------------------------------------------
+COLOSPA 135MG TAB             15`S     12     30    15   20    22  6442.59    5878.61      
+COLOSPA RETARD                15'S     52           36   13    39 16266.16    5397.83      
+COLOSPA X TAB                 15`S      4     10     5    2    14  4165.56     612.48      
+CREMAPEG  KIT                200ML                                                         
+CREMAPEG 200ML               200ML     28            6   13    15  3759.84    3307.55      
+DIGERAFT XT SYP (BOT)       200 ML     13     15     2   14    14  2910.60    2926.00      
+DUPHALAC                     200ML                                                         
+DUPHALAC CHEW 3.335G           1'S                                                         
+DUPHAPRO 1MG FC TAB           10`S                                                         
+DUPHAPRO 2MG FC TAB           10`S                                                         
+FLORACHAMP  SACHETS            5GM     96    140    47   96   141  5961.97    4236.93      
+PEPIBS TAB                    10`S                                                         
+UDILIV  600MG TAB             10'S      8                 1     7  4662.69     655.53      
+UDILIV 150MG TAB              15'S     77           64   37    40 15178.38   14234.95      
+UDILIV 300MG TAB              15`S     43    105    76   66    82 54550.38   44511.39      
+UDILIV 450 TAB                10`S      4     15     4    4    15  7783.34    1881.91      
+UDILIV TAB                    30'S                                                         
+-------------------------------------------------------------------------------------------
+                                                              389 121681.5   83643.18      
+-------------------------------------------------------------------------------------------
+
+Op.Stk.Val:105228.21     Sales Val - Prv.Mth: 107177.92  Cur.Mth.Sal:  87825.33   Stk.Val:115887.15     Pur.Val:98472.55     
+Stock Value is Calculated Using Purchase Price                                                                      
+Grand Total Of Currnt Month Sales Value:  87825.33       Stock Value:121681.51                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

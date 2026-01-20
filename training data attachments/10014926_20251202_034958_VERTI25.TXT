@@ -1,0 +1,41 @@
+
+           SRINIVASA MEDICAL AGENCIES          
+From : 01/11/2025                  STOCK AND  SALES STATEMENT       
+To   : 30/11/2025
+Company Name : NEURO LIFE                                                     Page :   1
+------------------------------------------------------------------------------------------------
+Code   Product Name             Packing  Opening  Receipts    Total    Sales  Closing    Closing
+                                          Stock                                Stock      Value
+------------------------------------------------------------------------------------------------
+128003 EPT0IN 100MG TAB.        120'S        72        144      216      110      106   19125.58
+117050 EPTION 10ML AMLP         1X10ML        0          0        0        0        0       0.00
+102020 EPTION 300 ER TABS.      1X30'S        0          0        0        0        0       0.00
+128004 EPTOIN 50MG TAB.         150'S         6          0        6        0        6     682.76
+128023 EPTOIN INJ 2ML.          1X2ML        80          0       80        0       80     866.25
+128015 EPTOIN SUSP .            200ML.       37          0       37        2       35    2093.70
+165001 INDERAL 10MG TAB.        1X15'S       41         40       81       36       45     804.32
+102034 INDERAL 20TAB.           1X15'S        5         40       45        5       40    1638.00
+165002 INDERAL 40MG TAB.        1X30'S       25         40       65       25       40    1759.60
+115025 INDERAL LA 20MG TABS.    1X10'S       15          0       15       11        4     163.80
+117004 INDERAL-F 5MG TABS.      1X10'S        0          0        0        0        0       0.00
+173043 LACOXA-100MG TABS.       1X10'S        0          0        0        0        0       0.00
+110156 LACOXA-50MG TABS.        1X10'S        0          0        0        0        0       0.00
+128011 PROTHIADEN 25MG TAB.     1X15'S       18         20       38       11       27    4345.05
+108028 PROTHIADEN 50MG TABS.    1X15'S        0         10       10        3        7    2225.93
+108088 PROTHIADEN-M[50MG]TABS.  1X15'S        0          0        0        0        0       0.00
+107042 PROTHIADEN-M[75MG] TABS. 1X15'S        0          0        0        0        0       0.00
+128012 PROTHIDEN 75MG TAB.      1X15'S        0          0        0        0        0       0.00
+ABBOT  ROWASA 2GM.SACHETS .     2GRM          0          0        0        0        0       0.00
+124008 SNAPIT TABS.             1X2'S         0          0        0        0        0       0.00
+110082 VERTIN 16MG TABS.        1X15'S       25         40       65       41       24    7085.52
+110085 VERTIN 24MG TABS.        1X15'S        6          0        6        1        5    2119.95
+110086 VERTIN 8MG TABS.         1X15'S       44         20       64       27       37    5929.25
+108012 VERTIN*MDS 24MG SACHET   1X10'S        0          0        0        0        0       0.00
+BLU078 VERTIN-24 OD TABS.       1X15'S        0          0        0        0        0       0.00
+129014 VERTIN-OD 48 TABS.       1X7'S         0          0        0        0        0       0.00
+115046 ZOLEFRESH-10  ODT TABS.  1X10'S        0          0        0        0        0       0.00
+151010 ZOLEFRESH-5 ODT TABS.    1X10,S        0          0        0        0        0       0.00
+------------------------------------------------------------------------------------------------
+ Opening Value Rs.       39,304.51   Sales Value   Rs.       41,983.02
+ Receipt Value Rs.       51,518.22   Closing Value Rs.       48,839.71
+------------------------------------------------------------------------------------------------

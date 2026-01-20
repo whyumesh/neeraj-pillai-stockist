@@ -1,0 +1,563 @@
+
+SETHI TRADERS                                               02/01/2026,14:32
+Abbott Healthca >>>  CO.GST:09AFSPS1213C1ZI
+# SALES & STOCK REPORT  FROM 01/12/2025 TO 31/12/2025           Page: 1
+================================================================================
+DESCRIPTION/PACKING    Pro. OPENING   PUR.  SALE  CR.NO. DR.NO. CLOSING   AMOUNT
+                        Age    QTY.   QTY.   QTY. ST.[+] ST.[-]   QTY.          
+================================================================================
+3MIX 10GM CREAM                 0      0      0      0      0      0       0.00
+ABVIDA 50/500MGTAB              0      0      0      0      0      0       0.00
+ABVIDA 50MGTAB                  0      0      0      0      0      0       0.00
+ABVIDA M 50/1000MGTAB           0      0      0      0      0      0       0.00
+ACITROM 0.5MG TAB      275     15      0      0      0      0     15     775.80
+ACITROM 1MG 30TAB              21     10      8      0      0     23    5424.71
+ACITROM 2MG 30TAB              27     20     21      0      0     26    9673.57
+ACITROM 3MG 30TAB              21     10      9      0      0     22   10128.67
+ACITROM 4MG 30TAB              16     10      5      0      0     21   10488.00
+ACUVIN 15 TAB                  42      0      1      0      0     41    6779.21
+ACUVIN TAB                      0      0      0      0      0      0       0.00
+AMBISTRN-S 0.75GM               0      0      0      0      0      0       0.00
+AMBISTRN-S 1GM.                 0      0      0      0      0      0       0.00
+AMBISTRYN-S 0.75GM           1033      0    185     25      0    873    9906.97
+AMBISTRYN-S 1GM              1200      0    146      0      0   1054   12683.81
+AMICOLON 15 EMULSION            0      0      0      0      0      0       0.00
+AMICOLON 15 EMULSION            0      0      0      0      0      0       0.00
+AMICOLON CAP.                   0      0      0      0      0      0       0.00
+AMICOLON KID SACHET             0      0      0      0      0      0       0.00
+AMICOLON-SB SACHET              0      0      0      0      0      0       0.00
+AO-7 CAP.                       0      0      0      0      0      0       0.00
+AQUAVIRON INJ.                 61      0      6      0      0     55    9535.48
+ASCABIOL EMULSION 120ML       131      0     15      1      0    117   12341.35
+ASCABIOL EMULSION 60ML.        68      0     18      0      0     50    3416.64
+ASCAPIL 12 A TAB                0      0      0      0      0      0       0.00
+ASCAPIL 6 TAB                   0      0      0      0      0      0       0.00
+ASCAPIL A TAB                   0      0      0      0      0      0       0.00
+ASMAPAX DEPOT TAB               0      0      0      0      0      0       0.00
+AVOMINE TAB                   230      0     15      0      0    215    7964.59
+AZILTREND 40MG TAB              0      0      0      0      0      0       0.00
+Abvida Trio 1000 10s Ta         0      0      0      0      0      0       0.00
+Abvida Trio 500 10s Tab         0      0      0      0      0      0       0.00
+Acitrom 1.5 30S Tab    275     20      0      0      0      0     20    5548.40
+Acitrom 2.5 30s Tab    264     16      0      0      0      0     16    5856.80
+Acitrom 3.5 30s Tab    275     20      0      0      0      0     20    8551.00
+B-STIL 16MG TAB        253      2      0      0      0      0      2     273.74
+B-STIL 24MG TAB        275     15      0      0      0      0     15    2814.15
+B-STIL 8MG TAB                  0      0      0      0      0      0       0.00
+BACTRIM ADULT TAB               0      0      0      0      0      0       0.00
+BACTRIM DS TAB                101      0     44      0      1     56     975.42
+BACTRIM SYRUP                   0      0      0      0      0      0       0.00
+BASITON FORTE TAB               0      0      0      0      0      0       0.00
+BECOMAX C FORTE TAB             0      0      0      0      0      0       0.00
+BECOZYME C FORTE TAB            0      0      0      0      0      0       0.00
+BENADON TAB                     0      0      0      0      0      0       0.00
+BET-OZ TAB                      0      0      0      0      0      0       0.00
+BETONIN AST JUNIOR SYP          0      0      0      0      0      0       0.00
+BETONIN AST SUSP.170ML         38      0      3      0      0     35    5502.72
+BETONIN AST SUSP.400ML          0      0      0      0      0      0       0.00
+BILAZEST 20MG TAB               0      0      0      0      0      0       0.00
+BILAZEST KIDS SYRUP             0      0      0      0      0      0       0.00
+BILAZEST M KIDS SUSP            0      0      0      0      0      0       0.00
+BILAZEST M TAB                  9      0      3      0      0      6     936.78
+BIOSUGANRIL 10MG TAB           16      0      4      0      0     12    2045.73
+BIOSUGANRIL 20MG TAB            0      0      0      0      0      0       0.00
+BIOSUGANRIL 5MG TAB             0      0      0      0      0      0       0.00
+BIOZOBID TAB                    0      0      0      0      0      0       0.00
+CAAT 10MG TAB                   0      0      0      0      0      0       0.00
+CAAT 20MG TAB                   0      0      0      0      0      0       0.00
+CAAT 20MG TABS 15S              0      0      0      0      0      0       0.00
+CALAPPTIN 80MG. TAB             0      0      0      0      0      0       0.00
+CALAPTIN 120MG SR 15 TA        46      0      9      0      0     37    2316.05
+CALAPTIN 120MG SR TAB           0      0      0      0      0      0       0.00
+CALAPTIN 40MG 30TAB            35      0     12      0      0     23     440.64
+CALAPTIN 80MG 30TAB    184     20      0      0      0      0     20     721.20
+CALAPTIN-40 TAB                 0      0      0      0      0      0       0.00
+CEFCHAMP-100DT TAB              0      0      0      0      0      0       0.00
+CEFCHAMP-325TAB                 0      0      0      0      0      0       0.00
+CILADUO 10MG TAB       229     10      0      0      0      0     10     910.00
+CILADUO 5MG TAB                 5      0      5      0      0      0       0.00
+CLARIBID 250 DS GRANLES         0      0      0      0      0      0       0.00
+CLARIBID 250MG 10TAB          280      0      5      0      0    275   44698.50
+CLARIBID 500MG TAB      34     11      0      0      0      0     11    3060.80
+CLARIBID GRANULES              12     10      9      0      0     13    1388.59
+CLARIBID250MG TAB               0      0      0      0      0      0       0.00
+CLARIBID500MG TAB               0      0      0      0      0      0       0.00
+CLARIBIDORAL SUSP               0      0      0      0      0      0       0.00
+CLOZAM 10MG TAB        106      6      0      0      0      0      6     446.28
+CLOZAM 5MG TAB         275     10      0      0      0      0     10     433.10
+CONTRAMOL-100MGAMP.           446      0     35      5      0    416    6880.96
+CONTRAMOL-50CAP   .             0      0      0      0      0      0       0.00
+CONTRAMOL-50MG AMP.             0      0      0      0      0      0       0.00
+CONTRAMOL-DT TAB               62      0     27      0      0     35    2408.38
+CONTRAMOL-SR TAB                0      0      0      0      0      0       0.00
+COSYMOXYL 375MG TAB             0      0      0      0      0      0       0.00
+COSYMOXYL 625MG TAB             0      0      0      0      0      0       0.00
+CYTOGARD OD 60 15CAP   168      9      0      0      0      0      9    2844.54
+CYTOGARD OD 60CAP               0      0      0      0      0      0       0.00
+Candycop Toothpaste 70g251      7      0      0      0      0      7     654.85
+Claribid OD 500 7 Table275     70      0      0      0      0     70   16534.70
+D3UP GRANULES                   0      0      0      0      0      0       0.00
+DEBLEXA 110CAP                  0      0      0      0      0      0       0.00
+DEBLEXA 150CAP                  0      0      0      0      0      0       0.00
+DELETUS D LIQUID                0      0      0      0      0      0       0.00
+DELETUS LS SYRUP                0      0      0      0      0      0       0.00
+DELETUS PEARLS                 37      0      1      0      0     36    2165.90
+DELOK 20MG CAP                  0      0      0      0      0      0       0.00
+DELOK 30MG CAP                  0      0      0      0      0      0       0.00
+DELOK 40MG CAP.                 0      0      0      0      0      0       0.00
+DENAXA INJ                      0      0      0      0      0      0       0.00
+DEPSONIL 25 TAB               324    200    298      5      0    231    2954.84
+DEPSONIL DZ TAB                 0      0      0      0      0      0       0.00
+DEPSONIL75 PM CAP               0      0      0      0      0      0       0.00
+DIBETROL TAB                    0      0      0      0      0      0       0.00
+DIPSALIC F OINT.               23     12     12      0      0     23    3167.69
+DURAJOINT CAP                   0      0      0      0      0      0       0.00
+DURAJOINT GM TAB       211     17      0      0      0      0     17    4071.49
+DURAPAIN TAB                   37      0     27      0      0     10    1601.82
+ELOCON 10GM.OINT               18      0      4      0      0     14    3191.36
+ELOCON 30GM.CREAM               0      0      0      0      0      0       0.00
+ELOCON CREAM                   20     12     12      0      0     20    4224.90
+ENLIVE TAB                      0      0      0      0      0      0       0.00
+EPILEX 200MG 15TAB             40      0      8      0      0     32    1215.56
+EPILEX CHRONO200 15TAB         25     20     13      0      0     32    3328.18
+EPILEX CHRONO200 TAB            0      0      0      0      0      0       0.00
+EPILEX CHRONO300 TAB            0      0      0      0      0      0       0.00
+EPILEX CHRONO500 15TAB         83      0     16      0      0     67    7086.24
+EPILEX CHRONO500 TAB            0      0      0      0      0      0       0.00
+EPILEX CRRONO 300 15TAB        50     30     39      0      0     41    2881.58
+EPILEX ORAL SOLIUTION          32     30     20      1      4     39    3870.34
+EPILEX ORAL SOLUTION            0      0      0      0      0      0       0.00
+EPILEX TAB                      0      0      0      0      0      0       0.00
+EPTOIN 100MG TAB 120S S        62     72     48      0      1     85   13801.62
+EPTOIN SUPSPENSION 200         68      0      5      0      0     63    3391.54
+ERYTHROCIN 250MG TAB            0      0      0      0      0      0       0.00
+ERYTHROCIN 500MG TAB            0      0      0      0      0      0       0.00
+ESGIEPYRIN-TN TAB               0      0      0      0      0      0       0.00
+ESGIPYRIN 15 TAB              257      0     51      0      0    206   20766.84
+ESGIPYRIN INSTAGEL              0      0      0      0      0      0       0.00
+ESGIPYRIN-A TAB                 0      0      0      0      0      0       0.00
+ESGIPYRIN-AQ AMP.               0      0      0      0      0      0       0.00
+ESGIPYRIN-DS 3MLAMP.          241      0     60      0      0    181     701.90
+ESGIPYRIN-SP TAB                0      0      0      0      0      0       0.00
+ESGIPYRIN-TH TAB                0      0      0      0      0      0       0.00
+ESGPYRIN TAB                    0      0      0      0      0      0       0.00
+ESOGA RD 15CAP                  0      0      0      0      0      0       0.00
+ESOGA-RD CAP                  184      0     20      0      0    164   15272.60
+ESSENTIALE-L 1GM TAB           21      0      3      0      0     18    4869.54
+ESSENTIALE-L CAP                0      0      0      0      0      0       0.00
+ETODY 60MG TAB         275     47      0      0      0      0     47    3927.16
+ETODY 90MG TAB                  0      0      0      0      0      0       0.00
+ETODY-TH TAB                    0      0      0      0      0      0       0.00
+EUGLUCON TAB                    0      0      0      0      0      0       0.00
+Eptoin 300 ER Tab 30s P        40     20     20      0      0     40    6059.36
+Essentiale Naturals 200         0      0      0      0      0      0       0.00
+FABOLITE POWDER        275     14      0      0      0      0     14    1943.11
+FABOLITE POWDER 300GM           0      0      0      0      0      0       0.00
+FAMTAC 20MG TAB                 0      0      0      0      0      0       0.00
+FAMTAC 40MG TAB                 0      0      0      0      0      0       0.00
+FEBUSTAT 40MG. TAB              0      0      0      0      0      0       0.00
+FEBUSTAT 40MG.15 TAB           89      0     32      0      7     50   12078.03
+FEBUSTAT 80MG 15TAB             0      0      0      0      0      0       0.00
+FEBUSTAT 80MG. TAB              0      0      0      0      0      0       0.00
+FLAGYL 200 MG TABLETS 2        55    120     30      0      0    145    1819.16
+FLAGYL 200 TAB                132      0     92      0      0     40     370.88
+FLAGYL 400 MG TABLETS 2        84      0      6      0      0     78    1822.86
+FLAGYL 400 TAB                  0      0      0      0      0      0       0.00
+FLAGYL IV                       0      0      0      0      0      0       0.00
+FLAGYL SUSP.                  140    120     50      0      0    210    4972.09
+FOLLIHAIR -A 15s Tab Sa 65     16      0      0      0      0     16    4489.82
+FOLLIHAIR 30 TAB               10     10      5      0      0     15    8099.23
+FOLLIHAIR NEW 15S NEW F        20      0      4      0      0     16    4592.30
+FOLLLHAIR NEW TAB               0      0      0      0      0      0       0.00
+FORTIUS 10MG TAB               40      0     10      0      0     30     784.10
+FORTIUS 5MG TAB                10      0      5      0      0      5      94.35
+Flagyl ER 600mg 10 Tabl        39     50     30      0      0     59    2917.42
+Flagyl Gel 20gm                18      0      3      0      0     15     986.59
+Follihair AMPM 20s Tab          3      0      0      0      0      3    1016.76
+Fortius 20mg 10s Tab            0      0      0      0      0      0       0.00
+Fortius 40mg 10s Tab            0      0      0      0      0      0       0.00
+Fortius Gold 10 10s Cap         0      0      0      0      0      0       0.00
+Fortius Gold 20 10s Cap275     40      0      0      0      5     35    6331.50
+GARDENAL 30 100TAB             52     30     26      0      0     56    5546.52
+GARDENAL 30MG.                  0      0      0      0      0      0       0.00
+GARDENAL 60 100TAB             62     20     48      0      1     33    4769.52
+GARDENAL 60MG.TAB               0      0      0      0      0      0       0.00
+GARDENAL SYRUP                  0      0      0      0      0      0       0.00
+GARDENAL-30 30TAB               0      0      0      0      0      0       0.00
+GARDENAL-60 30TAB               0      0      0      0      0      0       0.00
+GARDINAL 100ML SYP.           137      0     51      1      3     84    3145.80
+GAROIN 15 TAB                   0      0      0      0      0      0       0.00
+GAROIN 60MG 100TAB             64     30     30      0      1     63    9137.76
+GAROIN TAB                      0      0      0      0      0      0       0.00
+GENTICYN 20MG. INJ.             0      0      0      0      0      0       0.00
+GENTICYN 20ML VAIL              0      0      0      0      0      0       0.00
+GENTICYN 60MG. INJ.             0      0      0      0      0      0       0.00
+GENTICYN 80MG. INJ.          5635      0   1510    100    115   4110   29631.25
+GENTICYN E/E DROPS              0      0      0      0      0      0       0.00
+GENTICYN HC E/E DROPS           0      0      0      0      0      0       0.00
+GLEDEPA 10MG TAB                0      0      0      0      0      0       0.00
+GLEDEPA 5MG TAB                 0      0      0      0      0      0       0.00
+GLEDEPA MET XR1000TAB           0      0      0      0      0      0       0.00
+GLEDEPA MET XR500TAB            0      0      0      0      0      0       0.00
+GLIMER 1MG 15TAB       214      5      0      0      0      0      5     200.72
+GLIMER 1MG TAB                  0      0      0      0      0      0       0.00
+GLIMER 2MG 15TAB        92     25      0      0      0      0     25    1643.25
+GLIMER 2MG TAB                  0      0      0      0      0      0       0.00
+GLIMER 3MG TAB                  0      0      0      0      0      0       0.00
+GLUFORMIN 500 TAB               0      0      0      0      0      0       0.00
+GLUFORMIN G 1 FORTE TAB        17      0      2      0      0     15    2240.16
+GLUFORMIN G 2 FORTE TAB275     20      0      0      0      0     20    3916.20
+GLUFORMIN G1 15TAB             22      0      2      0      0     20    2632.37
+GLUFORMIN G1 TAB                0      0      0      0      0      0       0.00
+GLUFORMIN G2 15TAB      42     14      0      0      0      0     14    2564.82
+GLUFORMIN G2 TAB                0      0      0      0      0      0       0.00
+GLUFORMIN I 0.5 TAB             0      0      0      0      0      0       0.00
+GLUFORMIN XL 1000 TAB  183     16      0      0      0      0     16     742.40
+GLUFORMIN XL 500 TAB    57     10      0      0      0      0     10     239.30
+GTN SORBITRATE CR 2.6TA        16      0      6      0      0     10    1806.87
+GTN SORBITRATE CR6.4TAB 60     27      0      0      0      0     27    7360.20
+GUMLOC GEL                      0      0      0      0      0      0       0.00
+GUMLOC GEL                     15      0      2      0      0     13     991.17
+HAEMACCEL INFUSION      57     23      0      0      0      0     23    9042.39
+HANSPRAN 100CAP                40     20     20      0      0     40    1203.72
+HANSPRAN 50CAP                145    100    100      0      0    145    2312.75
+HYDENT K PASTE         275      6      0      0      0      0      6     706.74
+HYDENT PRO PASTE                0      0      0      0      0      0       0.00
+HYDENT-K 100GM PASTE            0      0      0      0      0      0       0.00
+Hydent Pro toothpaste 7         0      0      0      0      0      0       0.00
+I-TYZA 200MG CAP       275     27      0      0      0      0     27    4514.94
+I-TYZA CAP             163      8      0      0      0      0      8    1008.16
+I-TYZA SB 100 CAP 10S           0      0      0      0      0      0       0.00
+INDERAL 10MG TAB                0      0      0      0      0      0       0.00
+INDERAL 40MG TAB                0      0      0      0      0      0       0.00
+ISMO 10MG TAB                   0      0      0      0      0      0       0.00
+ISMO 20 30TAB                  30     20     10      0      0     40    3536.45
+ISMO 40 RETARD TAB      91     78      0      0      0      0     78    6543.48
+ISMO-10 30TABS                 44      0      2      0      3     39    2099.05
+ISMO-20 15TAB                   0      0      0      0      0      0       0.00
+IVABID 5MG TAB                  0      0      0      0      0      0       0.00
+IVABID 7.5MG TAB               13     10      5      0      0     18    6766.74
+IVABID-5 14TAB          50     34      0      0      0      0     34   10515.42
+Ivabid OD 10mg Sale 10T         0      0      0      0      0      0       0.00
+Ivabid OD 15mg Sale 10T         0      0      0      0      0      0       0.00
+JANUMET 50/1000                14      0      6      0      0      8    2052.00
+JANUMET 50/500 TAB             32     10     16      0      0     26    6581.38
+JANUVIA 100 7'S                 7     10      5      0      0     12    2389.44
+JANUVIA 50 7'S                 20      0     14      0      0      6    1174.50
+KANACORT 10MG INJ.              0      0      0      0      0      0       0.00
+KANACORT 40MG. VAIL            48    252     47      0      0    253   38267.54
+KANACORT 4MG.TAB                0      0      0      0      0      0       0.00
+KANACORT 8MG TAB                0      0      0      0      0      0       0.00
+KANACORT ORAL PASTE           125      0     56      2      6     65    7744.77
+KENACORT 4MG TAB 15S           29      0      6      4      0     27    3301.99
+KENACORT HEXA INJ       84     10      0      0      0      0     10    3705.00
+KENACORT PFS 40mg/ml   275     10      0      0      0      0     10    1262.20
+KENALOG-S OPTH.OINT.            0      0      0      0      0      0       0.00
+KETOF DT TAB                    0      0      0      0      0      0       0.00
+KIDPRED SUSP.                 195      0    141      0     28     26     578.10
+LEVESAM 250MG 15TAB    221     19      0      0      0      0     19    1339.27
+LEVESAM 500 15TAB              48      0      7      0      0     41    6124.43
+LEVESAM 750MG TAB               6      0      2      0      0      4     877.24
+LEVSAM 250MG TAB                0      0      0      0      0      0       0.00
+LEVSAM 500MG TAB                0      0      0      0      0      0       0.00
+LEVSAM ORAL SOLTUTION          37      0      2      0      0     35   10593.86
+LIBRAX 15 TAB                   0      0      0      0      0      0       0.00
+LIBRAX TAB                      0      0      0      0      0      0       0.00
+LIBRIUM 10MG 15TAB             62      0     14      0      0     48    5239.92
+LIBRIUM 10MG.TAB                0      0      0      0      0      0       0.00
+LIBRIUM 25MG 15TAB             29      0      1      0      0     28    4444.39
+LIBRIUM 25MG TAB                0      0      0      0      0      0       0.00
+LIMCEE CHEWABLE TAB          2126   1800   2400      0      0   1526   27080.24
+LIMCEE+ 15TAB                   0      0      0      0      0      0       0.00
+LOBATE DUSTING POWDER           0      0      0      0      0      0       0.00
+LOBATE G SKIN CREAM             0      0      0      0      0      0       0.00
+LOBATE GM LOTION       275     12      0      0      0      0     12     970.37
+LOBATE GN CREAM                 0      0      0      0      0      0       0.00
+LOBATE S 3OGM OINT.             0      0      0      0      0      0       0.00
+LOBATE SKIN CREAM               0      0      0      0      0      0       0.00
+LOBATE SKIN CREAM 30GM          0      0      0      0      0      0       0.00
+LOBATE-G SKIN CREAM             0      0      0      0      0      0       0.00
+LOBATE-GM SKIN CREAM          512      0     47      0      0    465   42230.79
+LOBATE-M SKIN CREAM             0      0      0      0      0      0       0.00
+LORSAID SD 4MG TAB              0      0      0      0      0      0       0.00
+LORSAID SD8MG TAB      275      4      0      0      0      0      4     458.92
+LORSAID-P8 TAB                  0      0      0      0      0      0       0.00
+LUNABET 30GM CREAM              0      0      0      0      0      0       0.00
+LUNABET CREAM                   0      0      0      0      0      0       0.00
+LYSUPRA SYRUP                   0      0      0      0      0      0       0.00
+Limcee Active                   0      0      0      0      0      0       0.00
+Lobate GM Neo 10gm Sale275     10      0      0      0      0     10     518.30
+MALIDENS SUSP.                  0      0      0      0      0      0       0.00
+MALIDENS TAB                    0      0      0      0      0      0       0.00
+MALIDENS-650 TAB                0      0      0      0      0      0       0.00
+MALIDENS-DS SUSP                0      0      0      0      0      0       0.00
+MAZETOL 100MG TAB             389      0     66      0     24    299    2441.53
+MAZETOL 200MGTAB              447      0    288      0     24    135    1626.90
+MAZETOL 200SR TAB             136    100    110      0      0    126    3454.56
+MAZETOL 400MG TAB      147     17      0      0      0      0     17     439.00
+MAZETOL 400SR TAB      162     23      0      0      0      0     23    1215.32
+MAZETOL-SR300MG TAB     91     14      0      0      0      0     14     651.89
+MELAGLOW NEW 15GM               4     12      4      0      0     12    4199.00
+MELAGLOW NEW 15GMCREAM          0      0      0      0      0      0       0.00
+MELAGLOW NEW 30GM               0      0      0      0      0      0       0.00
+MELAGLOW RICH 20GM.     39      4      0      0      0      0      4    1317.89
+MELAGLOW RICH CREAM             0      0      0      0      0      0       0.00
+MELALITE 15 30GM CREAM          9     20      6      0      0     23    3486.84
+MELALITE 15 50GMCREAM           0      0      0      0      0      0       0.00
+MELALITE FORTE CREAM           12     70     60      0      0     22    2814.38
+MELALITE XL CREAM      275     10      0      0      0      0     10    2320.10
+MICROPYRIN TAB                  0      0      0      0      0      0       0.00
+MONO-SORBITRATE 10MG TA         0      0      0      0      0      0       0.00
+MONO-SORBITRATE 20MG TA         0      0      0      0      0      0       0.00
+MONTI-FX TAB                    0      0      0      0      0      0       0.00
+NEBASULF OINT.                  0      0      0      0      0      0       0.00
+NEBASULF POWDER        169     72      0      0      0      0     72    3597.84
+NEO-MERCAZOLE 10MG TAB         55      0     22      0      0     33   14022.32
+NEO-MERCAZOLE 20MG TAB          4      3      2      0      0      5    6183.51
+NEO-MERCAZOLE 5MG TAB          42      0     15      2      0     29    6302.22
+NERVUP FORTE CAP                0      0      0      0      0      0       0.00
+NERVUP OD CAP                   0      0      0      0      0      0       0.00
+NERVUP OD CAPS- 15s             9      0      2      0      0      7    1894.03
+NEW DELETUS TAB                 0      0      0      0      0      0       0.00
+NEW DELETUS-BX SYP.             0      0      0      0      0      0       0.00
+NEW MELAGARD 50+60ML            0      0      0      0      0      0       0.00
+NIVAQUINE P 250MG TAB           0      0      0      0      0      0       0.00
+NIVAQUINE P INJ.                0      0      0      0      0      0       0.00
+NIVAQUINE P INJ.30ML.           0      0      0      0      0      0       0.00
+NIVAQUINE P SUSP.               0      0      0      0      0      0       0.00
+NUBETA 2.5 TAB                 55      0      0      0      0     55    4155.80
+NUBETA 5MG TAB                 33     20      6      0      0     47    5389.07
+NUBETA-H TAB                    0      0      0      0      0      0       0.00
+NUBETA-SM TAB                   0      0      0      0      0      0       0.00
+NUPOD 200 TAB                   0      0      0      0      0      0       0.00
+NUPOD 50 DS SYP.                0      0      0      0      0      0       0.00
+OMNATAX O 200MG TAB             0      0      0      0      0      0       0.00
+OMNATAX O DRY SUP               0      0      0      0      0      0       0.00
+OMNATAX-O 100TAB                0      0      0      0      0      0       0.00
+ORAHEX PLUS                     0      0      0      0      0      0       0.00
+ORAHEX PRO ACUTHWASH            0      0      0      0      0      0       0.00
+OXMAZETOL 150MG TAB             0      0      0      0      0      0       0.00
+OXMAZETOL 300MG TAB             0      0      0      0      0      0       0.00
+OXYTETRACYCLINE 20MG VA       270      0     25      0      0    245    7928.10
+Orahex pro 150 ml mouth         0      0      0      0      0      0       0.00
+PARAXIN 250MG CAP             264      0     35      0      0    229   18064.22
+PARAXIN 500MG 10CAP           246      0     74      0      0    172   25787.66
+PARAXIN 500MG CAP               0      0      0      0      0      0       0.00
+PARAXIN SUSP.                 127      0      3      0      0    124   15494.59
+PENTIDS 200 10TAB             177      0     85      0      0     92    1019.39
+PENTIDS 200 TAB                 0      0      0      0      0      0       0.00
+PENTIDS 400  TAB                0      0      0      0      0      0       0.00
+PENTIDS 400 10TAB             796      0    228      0      0    568    9529.76
+PENTIDS 800 10TAB             500      0     30      0      0    470   14426.68
+PENTIDS 800 TAB                 0      0      0      0      0      0       0.00
+PHENERGAN 10MG TAB            324      0     71      0      0    253    3930.61
+PHENERGAN 25 TAB               32      0      3      1      0     30    1099.62
+PHENERGAN AMP.               2507      0      5      0      0   2502   24856.04
+PHENERGAN PLUS SUSP.            0      0      0      0      0      0       0.00
+PHENERGAN SYRUP               655      0    326      1      0    330   13521.33
+PHENOBARBITONE INJ            144    120    186      0      0     78    1324.08
+PHENSEDRYL -DX SYRUP            0      0      0      0      0      0       0.00
+PHENSEDYL 100ML. COU.SY         0      0      0      0      0      0       0.00
+PHENSEDYL 50ML COU.SYP          0      0      0      0      0      0       0.00
+PHENSEDYL BR SYRUP              0      0      0      0      0      0       0.00
+PHENSEDYL CR SYRUP              0      0      0      0      0      0       0.00
+PHENSEDYL DMR SYRUP             0      0      0      0      0      0       0.00
+PHENSEDYL EX SYRUP              0      0      0      0      0      0       0.00
+PHENSEDYL LR 100MLSYP           0      0      0      0      0      0       0.00
+PHENSEDYL-T SYRUP               0      0      0      0      0      0       0.00
+PHOSFOMIN IRON TONIC            0      0      0      0      0      0       0.00
+PHOSFOMIN TONIC                 0      0      0      0      0      0       0.00
+PHOSFOMIN XT TAB                0      0      0      0      0      0       0.00
+PPG 0.2 TAB                     0      0      0      0      0      0       0.00
+PPG 0.3 TAB                     0      0      0      0      0      0       0.00
+PPG MET 0.2MGTAB                0      0      0      0      0      0       0.00
+PPG MET 0.3MGTAB                0      0      0      0      0      0       0.00
+PREGAMET 75MG CAP               0      0      0      0      0      0       0.00
+PROTUSSA SYRUP                  0      0      0      0      0      0       0.00
+Poliexar Capsule 2mg   146     55      0      0      0      0     55    6534.00
+Poliexar P Tablets 10s         83    100     59      0     50     74    8491.87
+QUADRDERM RF 10GM OINT        542      0     39      0      0    503   43843.63
+QUADRDERM RF 5GM OINT        1197      0     27      0      0   1170   54810.55
+RANOGARD 500 TAB               41     30     62      0      0      9     653.06
+RAPISONE D SR CAP               0      0      0      0      0      0       0.00
+RAPISONE SR CAP.                0      0      0      0      0      0       0.00
+RAPISONE TAB                    0      0      0      0      0      0       0.00
+REJOINT NEW 15TAB               6      0      1      0      0      5    2466.30
+REJOINT T TAB                   0      0      0      0      0      0       0.00
+REJOINT TAB                     0      0      0      0      0      0       0.00
+REJOINT UC TAB                  0      0      0      0      0      0       0.00
+RESTECLIN-250CAP              927      0    330      0      0    597   10290.60
+RESTECLIN-500CAP             1156      0    108      0      0   1048   34000.12
+RIVOTRIL 0.5MG 15TAB          122    200    128      0      0    194    7707.16
+RIVOTRIL 0.5MG TAB              0      0      0      0      0      0       0.00
+RIVOTRIL 2MG 15TAB             93      0      2      0      0     91   14467.05
+RIVOTRIL 2MG TAB                0      0      0      0      0      0       0.00
+RIVOTRIL0.25MG TAB             24      0      5      0      0     19     278.84
+ROCALTROL 0.5 MCG CAPSU 48      4      0      0      0      0      4    1620.00
+ROCALTROL CAP                  30      0      2      0      0     28    6700.04
+ROCKBON KIT TAB                 0      0      0      0      0      0       0.00
+ROCKBON PTH VAIL                0      0      0      0      0      0       0.00
+ROCKBON TAB                     0      0      0      0      0      0       0.00
+ROVAMYCTIN FORTE TAB           24      0     19      3      0      8    5169.67
+RUBRAPLEX SYRUP                 0      0      0      0      0      0       0.00
+SECNIL FORTE 1GM TAB.   63     40      0      0      0      0     40    5785.10
+SECNIL KIT TAB                  0      0      0      0      0      0       0.00
+SELSUN 120ML SHAMPOO           21      0      1      0      0     20    6209.67
+SELSUN SUSP.           275      9      0      0      0      0      9    1360.77
+SELSUN Z SHAMPOO                0      0      0      0      0      0       0.00
+SELSUN Z SHAMPOO                0      0      0      0      0      0       0.00
+SELSUN-S SHAMPOO120ML.          0      0      0      0      0      0       0.00
+SELSUN-S SHAMPOO60ML.           0      0      0      0      0      0       0.00
+SEMI EUGLUCON TAB               0      0      0      0      0      0       0.00
+SEMI TRIBET 1 TAB               0      0      0      0      0      0       0.00
+SEMI TRIBET 2 TAB               0      0      0      0      0      0       0.00
+SOLSPE F SPRAY         275     12      0      0      0      0     12    4041.84
+SOLSPRE NASAL SPRAY             0      0      0      0      0      0       0.00
+SORBITRATE 10MG TAB           100      0      9      0      3     88    2413.40
+SORBITRATE 5MG. TAB           115     30     93      0      8     44    1355.52
+SORBITRATE HF TAB               0      0      0      0      0      0       0.00
+SORBITRATE INSTA TAB            0      0      0      0      0      0       0.00
+STATOR 10MG 15TAB      275     30      0      0      0      0     30    1680.60
+STATOR 10MG. TAB                0      0      0      0      0      0       0.00
+STATOR 20MG 15TAB      253      7      0      0      0      0      7     996.24
+STATOR 40                       0      0      0      0      0      0       0.00
+STATOR ASP 150TAB               0      0      0      0      0      0       0.00
+STATOR ASP 75                   0      0      0      0      0      0       0.00
+STATOR ASP 75 15TAB            66     30     25      7      0     78    4465.36
+STATOR F 15 TAB                31      0      5      0      0     26    5437.72
+STATOR GOLD 10CAP               0      0      0      0      0      0       0.00
+STATOR GOLD 20CAP              45     30     20      0      9     46    3957.31
+STATOR-20 TAB                   0      0      0      0      0      0       0.00
+STATOR-F TAB                    0      0      0      0      0      0       0.00
+STEMETIL INJ.                 429    100    183      0      0    346    6803.29
+STEMTIL MD 15TAB              230      0     50      2      0    182   21988.65
+STEMTIL-MD 10TAB                0      0      0      0      0      0       0.00
+STOMEX A 150MG CAPS             0      0      0      0      0      0       0.00
+STROMIX 75MG TAB                0      0      0      0      0      0       0.00
+STROMIX A 75MG. CAP             0      0      0      0      0      0       0.00
+SUGANRIL 15TAB                 61      0      1      0      0     60    7497.08
+SUGNRIL TAB                     0      0      0      0      0      0       0.00
+SUPERMET AMTAB                  0      0      0      0      0      0       0.00
+SUPERMET XL 100MG TAB           0      0      0      0      0      0       0.00
+SUPERMET XL 25 TAB              0      0      0      0      0      0       0.00
+SUPERMET XL 25 TAB            670      0     22      0      0    648   29645.27
+SUPERMET XL 50 TAB              0      0      0      0      0      0       0.00
+SUPERMET XL 50 TAB            779      0      2      0      0    777   51234.94
+SUPRA PLUS NEW 15TAB            0      0      0      0      0      0       0.00
+SUPRA PLUS TAB                121      0     12      0     35     74    3161.32
+SUPRACTIV CAP NEW               0      0      0      0      0      0       0.00
+SUPRADYN TAB                    0      0      0      0      0      0       0.00
+SURBEX FE TAB                  34      0     10      0     10     14    3928.72
+SURBEX NANO SPRAY               0      0      0      0      0      0       0.00
+SURBEX STAR TAB                 0      0      0      0      0      0       0.00
+SURBEX-XT TAB                   0      0      0      0      0      0       0.00
+SZETALO 10MG.15TAB      35     13      0      0      0      0     13    1319.59
+SZETALO 10MG.TAB                0      0      0      0      0      0       0.00
+SZETALO 20MG.TAB                0      0      0      0      0      0       0.00
+SZETALO 5MG TABS 15S            0      0      0      0      0      0       0.00
+SZETALO 5MG. TAB       275      7      0      0      0      0      7     398.44
+SZETALO LS 15 TAB      275     11      0      0      0      0     11    1876.11
+SZETALO LS TAB                  0      0      0      0      0      0       0.00
+SZETALO PLUS 15 TAB    267      4      0      0      0      0      4     902.84
+SZETALO PLUS 5TAB               0      0      0      0      0      0       0.00
+SZETALO PLUS TAB                0      0      0      0      0      0       0.00
+Self Test 1T Panbio Ant         0      0      0      0      0      0       0.00
+Self Test4T Panbio Anti         0      0      0      0      0      0       0.00
+Selsun Daily Shampoo 12         0      0      0      0      0      0       0.00
+Siaglide M OD 100/500 m275     20      0      0      0      0     20    3904.40
+Siaglide M OD 15s Tab           0      0      0      0      0      0       0.00
+Siaglide Trio 500 Tab 1275     10      0      0      0      0     10    1633.10
+Supra Rize                      0      0      0      0      0      0       0.00
+Surbex CV 15S Tab               0      0      0      0      0      0       0.00
+TELPRES 20MG 15TAB      48     33      0      0      0      0     33    1384.92
+TELPRES 20MG TAB                0      0      0      0      0      0       0.00
+TELPRES 40MG 15TAB            178      0     10      0      0    168   13033.67
+TELPRES 40MG TAB                0      0      0      0      0      0       0.00
+TELPRES AM 15 TAB             116      0      2      0      0    114   26580.77
+TELPRES AM TAB                  0      0      0      0      0      0       0.00
+TELPRES AMH TAB        275     13      0      0      0      0     13    1903.15
+TELPRES CT 40/12.5MGTAB         0      0      0      0      0      0       0.00
+TELPRES CT 40/6.25MGTAB         0      0      0      0      0      0       0.00
+TELPRES CT 80                  12     10      5      0      0     17    1732.14
+TELPRES CT40/12.5MG 15T        71      0     18      0      0     53    5773.36
+TELPRES CT40/6.25MG 15T        52      0     11      3      0     44    3674.10
+TELPRES H TAB                   0      0      0      0      0      0       0.00
+TELPRES H40 15TAB              35      0      2      0      0     33    8888.33
+TELPRES H80 TAB                 0      0      0      0      0      0       0.00
+TELPRES MT 25 15TAB            86      0     13      0      0     73   19995.52
+TELPRES MT 25MG TAB             0      0      0      0      0      0       0.00
+TELPRES MT 50MG 15TAB          58      0      2      0      0     56   16659.04
+TELPRES MT 50MG TAB             0      0      0      0      0      0       0.00
+TELPRES TRIO 10 TABS           49      0      1      0      0     48    5421.12
+TELPRESS 80MG TAB               0      0      0      0      0      0       0.00
+TELPRESS LN 40 TAB             58     30     20      0      0     68    4446.39
+TELPRESS TRIO 12.5MGTAB         0      0      0      0      0      0       0.00
+TG-GOAL 145TAB         200      9      0      0      0      0      9    1718.37
+THIOSPS A 4TAB                  0      0      0      0      0      0       0.00
+TIXILIX LS JUNIOR               0      0      0      0      0      0       0.00
+TIXYLIX NEW SYRUP             590      0     64      0      0    526   39524.84
+TIXYLIX-D SYRUP                 0      0      0      0      0      0       0.00
+TIXYLIX-LS SYRUP       275    169      0      0      0      0    169   13248.11
+TIXYLIX-P SYRUP                 0      0      0      0      0      0       0.00
+TOOTHMIN PASTE         275      3      0      0      0      0      3     593.31
+TOSSEX DMR SYP.                 0      0      0      0      0      0       0.00
+TOSSEX SYRUP                    0      0      0      0      0      0       0.00
+TOSSEX XP SYRUP                 0      0      0      0      0      0       0.00
+TRESMOX CV TAB                  0      0      0      0      0      0       0.00
+TRESMOX-LB DCAP.                0      0      0      0      0      0       0.00
+TRIBET 1 FORTE TAB              0      0      0      0      0      0       0.00
+TRIBET 2 FORTE TAB              0      0      0      0      0      0       0.00
+TRIBET-1 TAB                    0      0      0      0      0      0       0.00
+TRIBET-1MG 15TAB       233     13      0      0      0      0     13    2569.51
+TRIBET-2 15TAB                 28      0      7      0      0     21    5660.33
+TRIBET-2 TAB                    0      0      0      0      0      0       0.00
+TRIBETROL 1 15TAB               0      0      0      0      0      0       0.00
+TRIBETROL 1FORTE TAB            0      0      0      0      0      0       0.00
+TRIBETROL 1TAB                  0      0      0      0      0      0       0.00
+TRIBETROL 2 FORTE TAB           0      0      0      0      0      0       0.00
+TRIBETROL 2FORTE TAB            0      0      0      0      0      0       0.00
+TRIBETROL 2MG 15TAB    275     12      0      0      0      0     12    2726.70
+TRIBETROL 2MG TAB               0      0      0      0      0      0       0.00
+TUFACNE 20MG CAPS               0      0      0      0      0      0       0.00
+TVAKESH FACEGLOW CREAM          0      0      0      0      0      0       0.00
+TVAKSH FACE CARE SOAP           0      0      0      0      0      0       0.00
+TVAKSHFACE GUARD SPF30+         0      0      0      0      0      0       0.00
+TYAKSH FACE GUARD SPF50         0      0      0      0      0      0       0.00
+TYSURE TAB                      0      0      0      0      0      0       0.00
+TYZA CREAM 10GM                 0      0      0      0      0      0       0.00
+TYZA CREAM 15GM                 6      0      1      0      0      5     342.52
+TYZA DUSTINNNG POWDER           0      0      0      0      0      0       0.00
+TYZA M OINT                    32      0      3      0      0     29    2445.25
+TYZA TAB               275     10      0      0      0      0     10    1842.70
+Telpres Beta  5  10s sa       121      0    193    100     23      5     389.83
+Telpres Beta 2.5  10s S190      8      0      0      0      0      8     583.68
+Tixylix DX                      0      0      0      0      0      0       0.00
+VALACE OD1000TAB                0      0      0      0      0      0       0.00
+VALANCE OD 250MG 15TAB          0      0      0      0      0      0       0.00
+VALANCE OD 250MG TAB    97     11      0      0      0      0     11    1665.30
+VALANCE OD 500MG 15TAB         17      0      3      0      0     14    3853.61
+VALANCE OD 500MG TAB            0      0      0      0      0      0       0.00
+VALANCE OD 750MG 15TAB 275     10      0      0      0      0     10    2695.80
+VALANCE OD 750MG TAB            0      0      0      0      0      0       0.00
+VALANCE SOLUTIO                12      0      2      0      0     10    1844.02
+VALIUM 10MG TAB                 0      0      0      0      0      0       0.00
+VALIUM 2MG TAB                  0      0      0      0      0      0       0.00
+VALIUM 5MG TAB          85     77      0      0      0      0     77     945.56
+VALUE TAB                       0      0      0      0      0      0       0.00
+VITAMIN A CHEW.TAB            155      0     50      0      0    105     586.55
+WIN BP CT 20/12.5MG TAB         0      0      0      0      0      0       0.00
+WIN BP CT 20/6.25MGTAB          0      0      0      0      0      0       0.00
+WIN BP CT 40/12.5MG TAB         0      0      0      0      0      0       0.00
+WIN BP CT 40/6.25MGTAB          0      0      0      0      0      0       0.00
+XEVOR 5MG TAB                   0      0      0      0      0      0       0.00
+ZOBID 30ML VAIL                 0      0      0      0      0      0       0.00
+ZOBID-D 50MG                    0      0      0      0      0      0       0.00
+ZOMELIS 50MG TAB                0      0      0      0      0      0       0.00
+ZOMELIS MET 1000MG 15TA         0      0      0      0      0      0       0.00
+ZOMELIS MET50/1000TAB           0      0      0      0      0      0       0.00
+ZOMELIS MET50/500TAB            0      0      0      0      0      0       0.00
+================================================================================
+TOTAL QTY. IN UNIT/PCS.    32997     3963     9361    263    361    27501
+TOTAL AMOUNT >>>         1599140   212907   406227  12022  21157  1432237
+BY COST AMOUNT >>>        374847
+================================================================================

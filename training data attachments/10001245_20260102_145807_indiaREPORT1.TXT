@@ -1,0 +1,83 @@
+
+SETHI TRADERS                                               02/01/2026,14:25
+ABBOTT INDIA LT >>>  CO.GST:09AFSPS1213C1ZI
+# SALES & STOCK REPORT  FROM 01/12/2025 TO 31/12/2025           Page: 1
+================================================================================
+DESCRIPTION/PACKING    Pro. OPENING   PUR.  SALE  CR.NO. DR.NO. CLOSING   AMOUNT
+                        Age    QTY.   QTY.   QTY. ST.[+] ST.[-]   QTY.          
+================================================================================
+ARACHITOL INJECTION 6L          8     10      5      0      0     13    4761.66
+Arachitol Kids 400IU/0.159     10      0      0      0      0     10    1434.80
+Arachitol Nano Sugar Fr       102      0      9      0      0     93   28449.72
+BRUFEN 200 mg 15's            444      0     64      0      0    380    3092.61
+BRUFEN 400 MG 20s Pack        222      0     57      0      0    165    3042.60
+BRUFEN 600 MG 15'S            385      0     28      0      0    357   10210.20
+Brufen P susp 100 ml           34      0      6      0      0     28     889.44
+COBINORM CAP                    0      0      0      0      0      0       0.00
+COLOSPA RETARD CAP      98     54      0      0      0      0     54   22427.77
+COLOSPA TABLETS 135 MG  57     15      0      0      0      0     15    4392.75
+COLOSPA X TAB           97      5      0      0      0      0      5    1370.25
+CREMAFFIN MINT          57     17      0      0      0      0     17    3222.86
+CREMAFFIN PLUS SYP             64      0     11      2      0     55   13270.16
+CREMALAX 10MG 3 x 6s           13      0      0      0      1     12    1973.16
+CRENAFFIN MIXEDFRUIT           13     60      6      0      0     67   13699.86
+Citro-Soda sachets 4 g        186    150     90      0      0    246    4894.80
+Citro-soda UTI 5g sache       175      0     75      0      0    100    2243.00
+Combinorm Plus Capsule          2     20      0      0      0     22   10853.04
+DIGENE GEL MINT        275     34      0      0      0      0     34    2358.92
+DIGENE GEL ORANGE      275     27      0      0      0      0     27    1873.26
+DIGENE MINT TAB        275     52      0      0      0      0     52     575.12
+DIGENE ORANGE TAB               0      0      0      0      0      0       0.00
+DUPHASTON TABLET 10MG 1 50     14      0      0      0      0     14    8736.30
+DUVADILAN INJECTION 6x2        18      0      1      0      0     17    2743.02
+DUVADILAN RETARD CAPS 1        39      0      5      0      0     34    6983.60
+DUVADILAN TABLETS 10MG          9     50     11      1      0     49    8077.65
+Digecaine FruitPunch 20        32      0      6      0      0     26    4148.82
+FLORACHAMP SACHET      275     70      0      0      0      0     70    2690.80
+INDERAL 10 TAB 15s SALE        61     40     28      0      6     67    1009.83
+INDERAL 20 TAB 15s NEW         38      0      3      0      0     35    1288.84
+INDERAL 40 TAB 15s SALE        19      0      0      0      0     19     705.91
+Inderal F 10                    0      0      0      0      0      0       0.00
+Inderal F 5            251     10      0      0      0      0     10     596.40
+Inderal LA 20mg 15's   127     15      0      0      0      0     15     549.75
+Inderal LA 40mg 15's           25      0      4      0      0     21     778.85
+Librax Film Coated Tabl        26      0      8      3      0     21    3089.09
+PANKREOFLAT TABLETS 15S        36      0     11      0      0     25    5512.27
+PROTHIADEN 25 15S              35      0      6      0      0     29    3483.19
+PROTHIADEN 50 15S      184     19      0      0      0      0     19    4494.07
+PROTHIADEN 75 15S       57      9      0      0      0      0      9    2478.33
+PROTHIADEN M 15S               14      0      1      0      0     13    3952.09
+Pankreoflat HD Tablets          7     40     14      0      0     33    4640.69
+Pankreoflat Liquid 100m        13      0      2      0      0     11    1667.16
+SURBEX GOLD CAPSULE 15S        16      0      2      0      0     14    3025.64
+THYRONORM 100 TAB             300      0    147      0      1    152   18395.63
+THYRONORM 112 sale Pill 43     13      0      0      0      0     13    1984.28
+THYRONORM 12.5 MCG NEW         56     24     32      0      0     48    6554.21
+THYRONORM 125 sale Pill        44     36     32      0      0     48    7484.28
+THYRONORM 137 sale Pill 35     26      0      0      0      0     26    5159.64
+THYRONORM 150 sale Pill        62      0     10      1      0     53    8278.89
+THYRONORM 200 MCG TABLE102      8      0      0      0      0      8    1448.96
+THYRONORM 25 TAB              254     96    176      0      0    174   23218.99
+THYRONORM 37.5 SALE PIL        23     24     22      1      0     26    3507.28
+THYRONORM 50 TAB              297     96    250      1      3    141   13357.37
+THYRONORM 62.5 sale Pil        15     12     11      0      1     15    2223.71
+THYRONORM 75 TAB               87    120    110      2      0     99   13035.81
+THYRONORM 88 sale Pill         28      0      3      0      0     25    3797.64
+Thyrowel Plus tabs 15s         73     10      1      6      1     87   20106.30
+UDILIV 150 Sale NEW PAC        51     30     10      0      0     71   26251.82
+UDILIV 300 Sale NEW PAC        77     30     49      0      0     58   37677.25
+Udiliv 450 10 Tab SALE         24      0      1      0      0     23   11887.28
+Vertin DT 16mg Sale 15 275     10      0      0      0      0     10    2196.10
+Vertin DT 24mg Sale 15 275     10      0      0      0      0     10    3153.70
+Vertin DT 8mg Sale 15 T275     10      0      0      0      0     10    1192.20
+Vertin OD 48mg tabs -15275      8      0      0      0      0      8    5034.96
+Vertin Tablets 16mg 15         66      0     11     30      2     83   22851.15
+Vertin Tablets 24mg 15  43     12      0      0      0      0     12    4162.92
+Vertin Tablets 8mg 15 T        12     20     12      0      0     20    2884.56
+ZOLFRESH 10 MG TABLETS         64      0     16      0      5     43    4221.46
+ZOLFRESH 5 MG TABLETS -        39     20     24      0      0     35    2507.22
+================================================================================
+TOTAL QTY. IN UNIT/PCS.     4056      888     1370     47     20     3601
+TOTAL AMOUNT >>>          483243   133335   175120  11728   2286   458262
+BY COST AMOUNT >>>        167063
+================================================================================

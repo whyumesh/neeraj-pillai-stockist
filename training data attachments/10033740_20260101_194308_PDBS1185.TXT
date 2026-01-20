@@ -1,0 +1,76 @@
+W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   GO APTIVE
+---------------------------------------------------------------------------
+ACUVIN TABS               |15's  |   22|    0|    0|   22|    5|   17|    0
+AMBISTRIN-0.75 INJ        |1vai  |    0|   50|    0|   50|    0|   50|    0
+AMBISTRIN-1GM INJ         |1via  |   25|    0|    0|   25|    0|   25|    0
+ASCABIOL EMULSION         |60ml  |   17|    0|    0|   17|    2|   15|    0
+ASCABIOL SOLUTION         |120ml |    0|    0|    0|    0|    0|    0|    0
+AVOMINE TABS              |10's  |  170|    0|    0|  170|   20|  150|    0
+BACTRIM SYP               |50ml  |    0|    0|    0|    0|    0|    0|    0
+BACTRIM-DS TAB            |10's  |    1|  200|    0|  201|   62|  139|    0
+CONTRAMAL-100 INJ         |2ml   |  288|    0|    0|  288|  104|  184|    0
+CONTRAMAL-DT TABS         |10's  |    5|   20|    0|   25|   19|    6|    0
+CONTRAMAL-SR 100 TAB      |10's  |    3|   12|    0|   15|    1|   14|    0
+EBILITY-10 TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+FABOLITE POWDER           |100gm |    0|    5|    0|    5|    0|    5|    0
+FABOLITE POWDER           |300gm |    0|    1|    0|    1|    0|    1|    0
+FINECEF 50 SUSP           |30ml  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-100 DT TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-200 DT TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-50 DT TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+FINECEF-CV 200 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+GENTICYN-20 INJ           |2ml   |    9|    0|    0|    9|    0|    9|    0
+GENTICYN-80 INJ           |2ml   | 1015|    0|    0| 1015|  230|  785|    0
+HAEMACCEL INJ             |500ml |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM CREAM           |20gm  |    8|  480|    0|  488|  107|  381|    0
+LOBATE-GM LOTION          |25ml  |    0|    0|    0|    0|    0|    0|    0
+LOBATE-GM NEO CREAM       |10gm  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-OD TAB            |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-P 325 TAB         |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-P 8 TAB           |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-P8 325 TAB        |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-SD 4 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+LORSAID-SD 8 TAB          |10's  |    0|    0|    0|    0|    0|    0|    0
+NEBASULF OINT             |10gm  |    0|    0|    0|    0|    0|    0|    0
+NEBASULF POWD             |10gm  |    0|  110|    0|  110|   50|   60|    0
+OXYTETRACYCLINE INJ       |20ml  |    2|   25|    0|   27|    6|   21|    0
+PANDIFF CAPS              |10's  |    0|    0|    0|    0|    0|    0|    0
+PANDIFF-IV CLEAR VIAL 40M |1's   |    0|    0|    0|    0|    0|    0|    0
+PARAXIN SUSP              |100ml |    0|    0|    0|    0|    0|    0|    0
+PARAXIN-250 CAP           |10's  |   52|    0|    0|   52|    0|   52|    0
+PARAXIN-500 CAP           |10's  |   40|    0|    0|   40|   13|   27|    0
+PENTID-400 TAB            |6's   |    0|    0|    0|    0|    0|    0|    0
+PENTID-800 TAB            |4's   |    0|    0|    0|    0|    0|    0|    0
+PENTIDS-200 TAB           |10's  |    5|    0|    0|    5|    4|    1|    0
+PENTIDS-400 TAB           |10's  |    0|  650|    0|  650|  239|  411|    0
+PENTIDS-800 TAB           |10's  |    4|  105|    0|  109|   62|   47|    0
+RESTECLIN-250 CAP         |10's  |   19|    0|    0|   19|    5|   14|    0
+RESTECLIN-500 CAP         |10's  |   21|   30|    0|   51|   13|   38|    0
+ROVAMYCIN-FORTE TABS      |10's  |    0|    0|    0|    0|    0|    0|    0
+SECNIL-FORTE 1 TAB        |2's   |    0|    0|    0|    0|    0|    0|    0
+SUGANRIL TAB.             |15's  |    3|   72|    0|   75|   19|   56|    0
+TENOCLOR-50 TAB           |15's  |    0|    0|    0|    0|    0|    0|    0
+TENORMIN-25 TAB           |14's  |    0|    0|    0|    0|    0|    0|    0
+TENORMIN-50 TAB           |14's  |   17|    0|    0|   17|   14|    3|    0
+VALIUM-10 TAB             |10's  |    0|    0|    0|    0|    0|    0|    0
+VALIUM-2 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------W1G          PHARMA DISTRIBUTORSW0H
+                  HALL NO.4 Ist Fl.NR. BOI DATTA CHOWK,YAVATMAL
+ABBOTT HEALTHCARE
+S.S.Report From 01/12/25 To 31/12/25
+---------------------------------------------------------------------------
+PRODUCT                    PACKING OPN.  RECD. RET  TOT   SALE  CLOS.  
+                                   STK   STK  GOODS STK          STK   GO APTIVE
+---------------------------------------------------------------------------
+VALIUM-5 TAB              |10's  |    0|    0|    0|    0|    0|    0|    0
+---------------------------------------------------------------------------
+OP.STK   42371    PR.STK  104894    RT.COM       0    CL.STK  111107
+SL.AMT   36158
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------

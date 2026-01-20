@@ -1,16 +1,18 @@
 """
-Document classifier - Hybrid approach (rule-based + ML)
+Document classifier - Binary classification (Stock & Sales vs Other)
+Hybrid approach (rule-based + ML)
 """
 import re
 from pathlib import Path
 from typing import Dict, Tuple, Optional, List
 import logging
+import numpy as np
 
 logger = logging.getLogger(__name__)
 
 
 class DocumentClassifier:
-    """Classify documents as Purchase Order or Stock & Sales Report"""
+    """Binary classifier: Stock & Sales Report vs Other documents"""
     
     def __init__(self, config=None, ml_model=None):
         """
@@ -18,22 +20,24 @@ class DocumentClassifier:
         
         Args:
             config: ConfigLoader instance
-            ml_model: Trained ML model (optional)
+            ml_model: Trained ML model (optional) - expects binary classification
         """
         from .config_loader import ConfigLoader
         self.config = config or ConfigLoader()
         self.ml_model = ml_model
         
-        # Load classification keywords and patterns
-        self.po_keywords = self.config.get('classification.po_keywords', [])
+        # Load classification keywords and patterns (Stock & Sales only)
         self.stock_keywords = self.config.get('classification.stock_sales_keywords', [])
         
-        # Compile filename patterns
-        self.po_patterns = self._compile_patterns(
-            self.config.get('classification.filename_patterns.po', [])
-        )
+        # Compile filename patterns (Stock & Sales only)
         self.stock_patterns = self._compile_patterns(
             self.config.get('classification.filename_patterns.stock_sales', [])
+        )
+        
+        # Load PO detection keywords and patterns
+        self.po_keywords = self.config.get('classification.po_keywords', [])
+        self.po_filename_patterns = self._compile_patterns(
+            self.config.get('classification.filename_patterns.po', [])
         )
     
     def _compile_patterns(self, patterns: List[str]) -> List[re.Pattern]:
@@ -49,7 +53,7 @@ class DocumentClassifier:
     
     def classify(self, file_path: Path, content: Optional[str] = None) -> Tuple[str, float]:
         """
-        Classify document
+        Binary classification: Stock & Sales Report vs Other
         
         Args:
             file_path: Path to file
@@ -57,104 +61,184 @@ class DocumentClassifier:
             
         Returns:
             Tuple of (classification, confidence)
-            classification: 'purchase_order', 'stock_sales_report', or 'unknown'
-            confidence: 0.0 to 1.0
+            classification: 'stock_sales_report' or 'other'
+            confidence: 0.0 to 1.0 (probability of being Stock & Sales)
         """
         filename = file_path.name.lower()
         
-        # Rule-based classification
-        rule_score_po, rule_score_stock = self._rule_based_classify(filename, content)
+        # Rule-based classification (returns stock score)
+        rule_score_stock = self._rule_based_classify(filename, content)
         
-        # ML classification if model available
-        ml_score_po, ml_score_stock = self._ml_classify(filename, content)
+        # ML classification if model available (binary: stock vs other)
+        ml_score_stock = self._ml_classify(filename, content)
         
-        # IMPROVED: Combine scores with better weighting
-        # If ML model not available, use rule-based scores directly (scaled up)
-        # If ML model available, combine but boost rule-based confidence
-        
+        # Combine scores
         if self.ml_model is None:
-            # No ML model - use rule-based scores directly but ensure high confidence
-            combined_po = rule_score_po
+            # No ML model - use rule-based score directly
             combined_stock = rule_score_stock
             
             # Boost scores when rule-based is confident (>0.6)
-            if rule_score_po > 0.6:
-                combined_po = min(rule_score_po * 1.1, 0.98)  # Scale up to near-max
             if rule_score_stock > 0.6:
-                combined_stock = min(rule_score_stock * 1.1, 0.98)  # Scale up to near-max
+                combined_stock = min(rule_score_stock * 1.1, 0.98)
         else:
-            # ML model available - weighted combination but favor rule-based
-            combined_po = (rule_score_po * 0.7) + (ml_score_po * 0.3)
+            # ML model available - weighted combination favoring rule-based
+            # ml_score_stock is already a probability from binary classifier
             combined_stock = (rule_score_stock * 0.7) + (ml_score_stock * 0.3)
             
             # If rule-based is very confident, boost the combined score
-            if rule_score_po > 0.7 and combined_po < 0.85:
-                combined_po = min(combined_po * 1.15, 0.98)
             if rule_score_stock > 0.7 and combined_stock < 0.85:
                 combined_stock = min(combined_stock * 1.15, 0.98)
         
-        # Ensure minimum confidence when clear winner
-        score_diff = abs(combined_po - combined_stock)
-        if score_diff > 0.2:  # Clear winner
-            if combined_po > combined_stock and combined_po < 0.75:
-                combined_po = 0.85  # Minimum high confidence for clear PO
-            elif combined_stock > combined_po and combined_stock < 0.75:
-                combined_stock = 0.85  # Minimum high confidence for clear stock
-        
         # Normalize to ensure valid range
-        combined_po = min(max(combined_po, 0.0), 0.99)
         combined_stock = min(max(combined_stock, 0.0), 0.99)
         
-        # Determine classification
-        confidence_threshold = self.config.get('classification.combined_confidence_threshold', 0.3)
+        # Adaptive threshold based on file characteristics
+        base_threshold = self.config.get('classification.combined_confidence_threshold', 0.3)
         
-        if combined_po > combined_stock and combined_po >= confidence_threshold:
-            return 'purchase_order', combined_po
-        elif combined_stock > combined_po and combined_stock >= confidence_threshold:
-            return 'stock_sales_report', combined_stock
+        # Adjust threshold based on confidence levels
+        # If we have very low confidence (<0.1), be more strict
+        # If we have moderate confidence (0.1-0.4), use standard threshold
+        # If we have high confidence (>0.7), be more lenient
+        if combined_stock < 0.1:
+            adaptive_threshold = base_threshold * 1.2  # More strict for very low scores
+        elif combined_stock > 0.7:
+            adaptive_threshold = base_threshold * 0.8  # More lenient for high scores
         else:
-            # Check which is higher, but below threshold
-            if combined_po > combined_stock:
-                return 'purchase_order', combined_po
-            elif combined_stock > combined_po:
-                return 'stock_sales_report', combined_stock
-            else:
-                return 'unknown', max(combined_po, combined_stock)
+            adaptive_threshold = base_threshold
+        
+        # Flag uncertain classifications
+        is_uncertain = False
+        if 0.2 <= combined_stock < 0.5:
+            is_uncertain = True
+            logger.debug(f"Uncertain classification for file (score: {combined_stock:.2f})")
+        
+        # Determine classification
+        if combined_stock >= adaptive_threshold:
+            classification = 'stock_sales_report'
+            confidence = combined_stock
+            if is_uncertain:
+                logger.warning(f"Uncertain classification: {classification} with confidence {confidence:.2f}")
+        else:
+            classification = 'other'
+            confidence = 1.0 - combined_stock  # Confidence of being "other"
+            if is_uncertain:
+                logger.warning(f"Uncertain classification: {classification} with confidence {confidence:.2f}")
+        
+        return classification, confidence
     
-    def _rule_based_classify(self, filename: str, content: Optional[str]) -> Tuple[float, float]:
+    def _rule_based_classify(self, filename: str, content: Optional[str]) -> float:
         """
-        Rule-based classification using filename and content patterns
-        IMPROVED: Higher base scores to achieve maximum confidence
+        Rule-based binary classification: Stock & Sales Report vs Other
+        Returns score for Stock & Sales (0.0 to 1.0)
         
         Returns:
-            Tuple of (po_score, stock_score)
+            stock_score: Probability of being Stock & Sales Report (0.0 to 1.0)
         """
-        po_score = 0.0
+        # FIRST: Check for PO indicators - if found, strongly reduce stock score
+        # Enhanced PO patterns for better detection
+        po_indicators = [
+            r'\bpo\s*\d+',  # PO followed by number (e.g., PO1650, PO 1650)
+            r'\bpurchase\s+order',
+            r'\bpo\s+number',
+            r'\bpo\s+no',
+            r'\bpo\s+#',  # PO #123
+            r'\border\s+number',  # Order number
+            r'\border\s+no',  # Order no
+            r'\border\s+#',  # Order #123
+            r'^po\d+',  # Starts with PO and number
+            r'^po\s*\d+',  # Starts with PO space number
+            r'po_',  # PO_ pattern
+            r'po-',  # PO- pattern
+            r'p\.o\.\s*\d+',  # P.O. 123
+            r'p/o\s*\d+',  # P/O 123
+            r'\bpo\s+id',  # PO ID
+            r'\bpurchase\s+order\s+number',  # Purchase order number
+            r'\bpurchase\s+order\s+no',  # Purchase order no
+            r'\bpo\s+ref',  # PO ref
+            r'\bpo\s+reference',  # PO reference
+        ]
+        
+        # Check filename for PO indicators with confidence scoring
+        po_matches = sum(1 for pattern in po_indicators if re.search(pattern, filename, re.IGNORECASE))
+        
+        # Check configured PO patterns
+        po_filename_matches = sum(1 for pattern in self.po_filename_patterns if pattern.search(filename))
+        
+        # Check filename for PO keywords
+        po_keyword_matches = sum(1 for kw in self.po_keywords if kw.lower() in filename)
+        
+        # Calculate PO confidence from filename
+        po_filename_confidence = (po_matches * 0.4) + (po_filename_matches * 0.3) + (po_keyword_matches * 0.3)
+        
+        # Check content for PO indicators with more thorough analysis
+        po_content_confidence = 0.0
+        if content:
+            content_lower = content[:3000].lower()  # Check first 3000 chars for PO indicators
+            content_po_matches = sum(1 for pattern in po_indicators if re.search(pattern, content_lower, re.IGNORECASE))
+            content_po_keywords = sum(1 for kw in self.po_keywords if kw.lower() in content_lower)
+            
+            # Additional content-based PO indicators
+            po_content_patterns = [
+                r'purchase\s+order\s+details',
+                r'po\s+details',
+                r'order\s+details',
+                r'purchase\s+order\s+date',
+                r'po\s+date',
+                r'order\s+date',
+                r'vendor\s+name',  # Common in POs
+                r'supplier\s+name',  # Common in POs
+                r'delivery\s+address',  # Common in POs
+                r'billing\s+address',  # Common in POs
+            ]
+            content_pattern_matches = sum(1 for pattern in po_content_patterns if re.search(pattern, content_lower, re.IGNORECASE))
+            
+            po_content_confidence = (content_po_matches * 0.3) + (content_po_keywords * 0.2) + (content_pattern_matches * 0.2)
+        
+        # Combined PO confidence
+        total_po_confidence = max(po_filename_confidence, po_content_confidence)
+        
+        # Handle ambiguous cases (files with both PO and Stock indicators)
+        has_stock_indicators = False
+        if content:
+            stock_indicators = [
+                r'opening\s+qty',
+                r'receipt\s+qty',
+                r'issue\s+qty',
+                r'closing\s+qty',
+                r'stock\s+statement',
+                r'item\s+description',
+            ]
+            has_stock_indicators = any(re.search(pattern, content[:2000].lower(), re.IGNORECASE) for pattern in stock_indicators)
+        
+        # If PO confidence is high, strongly reduce stock score
+        if total_po_confidence > 0.5:
+            if has_stock_indicators:
+                # Ambiguous case - file has both PO and Stock indicators
+                logger.warning(f"Ambiguous file: {filename} - has both PO and Stock indicators")
+                return 0.15  # Very low but slightly higher than pure PO
+            else:
+                # Strong PO indicator - return very low stock score
+                logger.debug(f"PO indicator found in filename/content: {filename} (confidence: {total_po_confidence:.2f})")
+                return 0.01  # Very low confidence for stock
+        elif total_po_confidence > 0.2:
+            # Moderate PO indicator
+            logger.debug(f"Moderate PO indicator found: {filename}")
+            return 0.2  # Low confidence for stock
+        
         stock_score = 0.0
         
         # Filename pattern matching - HIGHER WEIGHTS for better confidence
-        po_filename_matches = sum(1 for pattern in self.po_patterns if pattern.search(filename))
         stock_filename_matches = sum(1 for pattern in self.stock_patterns if pattern.search(filename))
         
         # Filename keyword matching - EXPANDED matching
-        po_filename_keywords = sum(1 for kw in self.po_keywords if kw.lower() in filename)
         stock_filename_keywords = sum(1 for kw in self.stock_keywords if kw.lower() in filename)
         
         # Additional common patterns in filenames
-        # PO patterns: PO, PO_, _PO, purchase_order, etc.
-        if re.search(r'\bpo[_\-\s]?\d+|purchase[\s_-]?order|order[\s_-]?\d+', filename, re.IGNORECASE):
-            po_filename_keywords += 2  # Strong indicator
-        
         # Stock patterns: STOCK, ST-, ST_, statement, report
         if re.search(r'\bstock|statement|st[\s_-]?[\d\-]|stockandsales', filename, re.IGNORECASE):
             stock_filename_keywords += 2  # Strong indicator
         
         # Combine filename signals - MUCH HIGHER BASE SCORES
-        if po_filename_matches > 0 or po_filename_keywords > 0:
-            # Base score from filename is now 0.8-0.95 for clear matches
-            filename_base = min((po_filename_matches * 0.5) + (po_filename_keywords * 0.4), 0.95)
-            po_score += filename_base
-        
         if stock_filename_matches > 0 or stock_filename_keywords > 0:
             # Base score from filename is now 0.8-0.95 for clear matches
             filename_base = min((stock_filename_matches * 0.5) + (stock_filename_keywords * 0.4), 0.95)
@@ -164,30 +248,12 @@ class DocumentClassifier:
         if content:
             content_lower = content[:3000].lower()  # Use more content for better matching
             
-            # Check for PO keywords in content - INCREASED SCORING
-            po_content_matches = sum(1 for kw in self.po_keywords if kw.lower() in content_lower)
+            # Check for Stock keywords in content - INCREASED SCORING
             stock_content_matches = sum(1 for kw in self.stock_keywords if kw.lower() in content_lower)
             
             # Content scoring - higher weights
-            if po_content_matches > 0:
-                # Each keyword match adds more value
-                po_score += min(po_content_matches * 0.25, 0.6)
             if stock_content_matches > 0:
                 stock_score += min(stock_content_matches * 0.25, 0.6)
-            
-            # Specific pattern matching - STRONG INDICATORS
-            # Purchase Orders often have PO number patterns
-            po_number_patterns = [
-                r'purchase\s+order\s+(?:no|number|#)?\s*[:\-]?\s*[\d\w\-]+',
-                r'po\s+(?:no|number|#)?\s*[:\-]?\s*[\d\w\-]+',
-                r'order\s+number\s*[:\-]?\s*[\d\w\-]+',
-                r'po[\s_-]?\d{4,}',  # PO followed by numbers
-                r'vendor|supplier.*purchase'  # Vendor/supplier mentions
-            ]
-            for pattern in po_number_patterns:
-                if re.search(pattern, content_lower):
-                    po_score += 0.4  # Strong indicator
-                    break
             
             # Stock reports often have quantity fields - STRONG INDICATORS
             stock_patterns = [
@@ -208,55 +274,68 @@ class DocumentClassifier:
                 stock_score += min(pattern_matches * 0.3, 0.7)  # Strong cumulative indicator
         
         # Boost confidence when clear indicators are present
-        # If filename strongly indicates one type, boost that score
-        if po_filename_keywords >= 2 and po_score < 0.8:
-            po_score = 0.85  # Minimum confidence for clear PO indicators
-        
         if stock_filename_keywords >= 2 and stock_score < 0.8:
             stock_score = 0.85  # Minimum confidence for clear stock indicators
         
-        # Normalize scores to 0-1 range, but ensure high scores when clear
-        po_score = min(po_score, 1.0)
+        # Normalize score to 0-1 range, but ensure high scores when clear
         stock_score = min(stock_score, 1.0)
         
-        # If one score is significantly higher, ensure it's at least 0.75
-        score_diff = abs(po_score - stock_score)
-        if score_diff > 0.3:
-            if po_score > stock_score:
-                po_score = max(po_score, 0.75)
-            else:
-                stock_score = max(stock_score, 0.75)
+        # If score is high, ensure it's at least 0.75
+        if stock_score > 0.5:
+            stock_score = max(stock_score, 0.75)
         
-        return po_score, stock_score
+        return stock_score
     
-    def _ml_classify(self, filename: str, content: Optional[str]) -> Tuple[float, float]:
+    def _ml_classify(self, filename: str, content: Optional[str]) -> float:
         """
-        ML-based classification
+        ML-based binary classification: Stock & Sales vs Other
         
         Returns:
-            Tuple of (po_score, stock_score)
+            stock_score: Probability of being Stock & Sales Report (0.0 to 1.0)
         """
         if self.ml_model is None:
-            return 0.0, 0.0
+            return 0.0
         
         try:
             # Prepare features for ML model
             features = self._extract_features(filename, content)
             
-            # Predict with ML model
-            # Assuming model.predict_proba() returns [po_prob, stock_prob]
+            # Predict with ML model (binary classifier)
+            # Handle both Pipeline models and direct models
             prediction = self.ml_model.predict_proba([features])[0]
             
-            # Adjust based on model output format
-            if len(prediction) == 2:
-                return float(prediction[0]), float(prediction[1])
-            elif len(prediction) == 3:  # [po, stock, unknown]
-                return float(prediction[0]), float(prediction[1])
+            # Get class names - handle Pipeline models
+            if hasattr(self.ml_model, 'named_steps'):
+                # Pipeline model - get classes from ensemble step
+                if 'ensemble' in self.ml_model.named_steps:
+                    classes = self.ml_model.named_steps['ensemble'].classes_
+                else:
+                    # Try to find classifier step
+                    for step_name, step in self.ml_model.named_steps.items():
+                        if hasattr(step, 'classes_'):
+                            classes = step.classes_
+                            break
+                    else:
+                        # Fallback: assume standard order
+                        classes = np.array(['other', 'stock'])
             else:
-                return 0.0, 0.0
+                # Direct model
+                classes = self.ml_model.classes_
+            
+            # Find index of 'stock' class
+            if 'stock' in classes:
+                stock_idx = list(classes).index('stock')
+                return float(prediction[stock_idx])
+            else:
+                # Fallback: assume first class is 'other', second is 'stock'
+                # Or if only one class, return that probability
+                if len(prediction) == 2:
+                    return float(prediction[1])  # Assume second is stock
+                else:
+                    return float(prediction[0])
         except Exception as e:
             logger.warning(f"ML classification failed: {e}")
-            return 0.0, 0.0
+            return 0.0
     
     def _extract_features(self, filename: str, content: Optional[str]) -> str:
         """
@@ -268,8 +347,8 @@ class DocumentClassifier:
         features = [filename]
         
         if content:
-            # Use first 1000 characters
-            features.append(content[:1000])
+            # Use first 3000 characters (increased from 1000 for better feature representation)
+            features.append(content[:3000])
         
         return " ".join(features)
 

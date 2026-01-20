@@ -1,0 +1,68 @@
+M
+ 
+ 
+ 
+ 
+                                                
+between 01/12/2025 and 31/12/2025                                                   Page - 1
+------------------------------------------------------------------------------------------------
+Product Name               Packing       OP <---Receipts--->  <----Sales---->  <---Closing---->
+                                        Qty    Qty     Value    Qty     Value    Qty      Value
+------------------------------------------------------------------------------------------------
+ASERT D 10-TABLETS         10             9      0      0.00      0      0.00      9    2453.04
+CYTOGARD OD 60 15-CAPSULE  15            10      0      0.00     10   3642.10      0       0.00
+DELOK 20 10-CAPSULES       10             1      0      0.00      0      0.00      1     102.36
+ELOCON CREAM 30GM          30GM          16      0      0.00      1    375.43     15    5631.45
+EMPEXEL 10 15-TABLETS      15            40      0      0.00      0      0.00     40    3857.20
+EMPEXEL 25 10-TABLETS      10            30      0      0.00      0      0.00     30    3471.30
+EMPEXEL L 25/5 10-TABLETS  10            58      0      0.00      0      0.00     58    6711.18
+EMPEXEL M 12.5/1000 10-TA  10            40      0      0.00      0      0.00     40    5140.80
+EMPEXEL M 12.5/500 10-TAB  10            31      0      0.00      3    308.43     28    2878.68
+EMPEXEL M SR 10/1000 TABL  15            30      0      0.00      0      0.00     30    4917.90
+EMPEXEL M SR 25/1000 TABL  10            40      0      0.00      0      0.00     40    7328.40
+FACE GUARD SPF 50 + GEL 3  30GM           2      0      0.00      2    948.20      0       0.00
+FACECLIN AT GEL 20GM       20 GM          5      0      0.00      1    272.09      4    1088.36
+FEBUSTAT 80 15-TABLETS     15             1      0      0.00      1    361.28      0       0.00
+FOLLIHAIR A 15-TABLETS     15            32      0      0.00      0      0.00     32    8747.20
+FOLLIHAIR NEW 30-TABLETS   30S           15      0      0.00     15   8045.10      0       0.00
+FOLLISERUM HAIR GROWTH 60  60ML           7      0      0.00      1    850.58      6    5612.34
+FORTIUS 10 10-TABLETS      10            20      0      0.00     20    513.40      0       0.00
+FORTIUS GOLD 20 10-CAPSUL  10             3      0      0.00      3    516.87      0       0.00
+GTN SORBITRATE CR 2.6 30-  30s           75      0      0.00     10   2151.60     65   13985.40
+I TYZA 200 10-CAPSULES     10            12      0      0.00     10   1592.60      2     318.52
+LEVESAM 1GM 15-TABLETS     15             7      0      0.00      0      0.00      7    3462.06
+LIBRIUM 15 -15TABLETS      15            35      0      0.00      0      0.00     35    4620.00
+LIBRIUM 20 15-TABLETS      15            35      0      0.00      0      0.00     35    5280.10
+LOBATE CREAM 30GM          30gm           1      0      0.00      1    172.43      0       0.00
+MAZETOL 100 10-TABLETS     10             1      0      0.00      1      7.79      0       0.00
+MAZETOL SR 200 15-TABLETS  15             4      0      0.00      4    105.40      0       0.00
+MELAGLOW NEW CREAM 30GM    30GM          13      0      0.00      0      0.00     13    6567.86
+MELAGLOW PRIME CREAM 20GM  20GM           2      0      0.00      2    658.98      0       0.00
+MELALITE FORTE CREAM 30GM  30GM          20      0      0.00      6    737.10     14    1719.90
+MINICHEK F SPRAY 60ML      60ML          23      0      0.00      1    809.47     22   17808.34
+MINICHEK F ULTRA 5% SOLUT  60ML           0      0      0.00     -1   -886.05      1     886.05
+MYSOLINE 250 10-TABLETS    10             4      0      0.00      0      0.00      4     412.52
+NICODUCE 10 20-TABLETS     20             8      0      0.00      0      0.00      8    3759.04
+PHENSEDYL CR SYRUP 100ML   100ML          0      0      0.00      0      0.00      0       0.00
+QUADRIDERM RF CREAM 10GM   10GM         214      0      0.00     62   6616.02    152   16219.92
+QUADRIDERM RF CREAM 5GM    5GM         1231      0      0.00     65   3718.65   1166   66706.86
+REFSAV 100 TABLETS         14`S          70      0      0.00      0      0.00     70   29729.70
+REJOINT 15-TABLETS         15             0      0      0.00      0      0.00      0       0.00
+SORBITRATE 10 50-TABLETS   50            60      0      0.00     36   1062.72     24     708.48
+SORBITRATE 5 50-TABLETS    50            60      0      0.00     25    747.00     35    1045.80
+SURBEX CV 15-TABLETS       15            11      0      0.00      0      0.00     11     898.48
+TELPRES MT 50 15-TABLETS   15             8      0      0.00      8   2605.76      0       0.00
+TGGOAL 145 10-TABLETS      10             9      0      0.00      0      0.00      9    1773.36
+TYZA 10-TABLETS            10             8      0      0.00      0      0.00      8    1404.00
+TYZA CREAM 15GM            15GM           1      0      0.00      1     56.80      0       0.00
+TYZA M CREAM 10GM          10GM           4      0      0.00      3    257.67      1      85.89
+VALANCE 125 15-TABLETS     15             8      0      0.00      8    486.80      0       0.00
+XAPILIS 2.5 10-TABLETS     10             2      0      0.00      2    233.36      0       0.00
+XAPILIS 5 10-TABLETS       10             1      0      0.00      0      0.00      1     147.79
+------------------------------------------------------------------------------------------------
+                                  272447.86             0.00         36967.58         235480.28
+------------------------------------------------------------------------------------------------
+Powered by MetaLinks                                                                                     End.
+P
+
+

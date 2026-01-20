@@ -1,0 +1,32 @@
+CHM
+              STAR PHARMACEUTICALS
+E                                    Stock & Sales StatementF
+From 01/12/2025 To 31/12/2025                                                        Page : 1
+------------------------------------------------------------------------------------------------
+Product Name                 Packing    Ostk     Purc     Sale     SRet     PRet      Qoh     QohValue
+------------------------------------------------------------------------------------------------
+Company :ABBOTT INDIA DUPHALO 
+=======================================
+CETROPRO 0.25MG/0.5ML        0.5ML2        0        0        0        0        0        0         0.00 
+DEZOFLAV TAB                 10s           0        0        0        0        0        0         0.00 
+DIGENE MINT TAB              15;S          0        0        0        0        0        0         0.00 
+DIGENE ORANGE TAB            10S           0        0        0        0        0                       
+DIGENE-GEL MINT              170ML         0        0        0        0        0        0         0.00 
+DUPHALAC 150 ML              150ML        30        0       15        0        0       15      2126.25 
+DUPHALAC 250ML               250ML        34        0       12        0        0       22      5197.50 
+DUPHALAC 450ML SYP           450 ML       16        0        9        0        0        7      2976.75 
+DUPHALAC BULK SYP            160ml         0        0        0        0        0        0         0.00 
+DUPHAPRO 1MG TAB             10;s          0        0        0        0        0        0         0.00 
+DUPHASTAN TAB                10 S         11        0        3        0        0        8      4873.03 
+ELDICET                      10;S          1        0        2        1        0        0         0.00 
+FEMILON TAB                  21;S          5       10        5        0        0       10      2599.20 
+FIDONAL CREAM                30gm          0        0        0        0        0        0         0.00 
+NOVELON TAB                  21S           5        0        0        0        0        5      1137.60 
+PEPIBS CAP                   10S           0        0        0        0        0        0         0.00 
+PRO-9 250MG ING              1ML           0        0        0        0        0        0         0.00 
+PRO-9 500MG ING              2ML           0        0        0        0        0        0         0.00 
+================================================================================================
+Opening Value  :    28650.96 Sale Value      :    13372.08 SRet Value    :      245.29 
+Purchase Value :     2599.20 PurReturn Value :        0.00 Closing Value :    18910.33 
+------------------------------------------------------------------------------------------------
+P

@@ -163,22 +163,22 @@ class ProcessingLogger:
                 json.dump(self.logs, f, indent=2, ensure_ascii=False)
     
     def get_statistics(self) -> Dict[str, Any]:
-        """Get processing statistics"""
+        """Get processing statistics (Stock & Sales only)"""
         total = len(self.logs)
         successful = sum(1 for log in self.logs if log['status'] == 'success')
         errors = sum(1 for log in self.logs if log['status'] == 'error')
         skipped = sum(1 for log in self.logs if log['status'] == 'skipped')
         
-        po_count = sum(1 for log in self.logs if log.get('classification') == 'purchase_order')
         stock_count = sum(1 for log in self.logs if log.get('classification') == 'stock_sales_report')
+        other_count = sum(1 for log in self.logs if log.get('classification') == 'other')
         
         return {
             "total_files": total,
             "successful": successful,
             "errors": errors,
             "skipped": skipped,
-            "purchase_orders": po_count,
             "stock_sales_reports": stock_count,
+            "other_documents": other_count,
             "success_rate": (successful / total * 100) if total > 0 else 0
         }
 
