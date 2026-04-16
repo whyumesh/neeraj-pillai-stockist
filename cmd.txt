@@ -1,0 +1,5 @@
+python compare_ssd.py ^
+  --my_file "smartstock_analytics_Feb(Feb-PR).xlsx" ^
+  --ssd_file "abbott_SSD_Feb-26.xlsb" ^
+  --output "comparison_Feb26.xlsx" ^
+  --month "Feb-26"
